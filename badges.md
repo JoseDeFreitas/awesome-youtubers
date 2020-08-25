@@ -3,7 +3,7 @@ Badges are little identificators to let you know more about a specific youtuber.
 
 <br/>
 
-<img align="left" width="90px" height="90px" alt="Badge for verified youtubers" src="media/badge-verified.svg"/>
+<img align="left" width="90px" height="90px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg"/>
 
 #### Verified YouTube Channel
 This badge is attached to the youtubers that have a verified symbol on their channel. Learn more about verified YouTube channels [here](https://support.google.com/youtube/answer/3046484?hl=en).
