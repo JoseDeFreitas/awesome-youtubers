@@ -9,7 +9,7 @@
 		</a>
   	</h1>
 	<p>
-		This list contains a bunch of Youtubers whose content is based in the tech field. You can find designers, programmers and tech-related Youtubers.
+		This list contains a bunch of Youtubers whose content is based in the tech field. You can find designers, programmers and tech-related youtubers. Please, take a 		look at [badges.md](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md) to know what the badges mean.
 	</p>
 </div>
 
