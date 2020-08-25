@@ -4,6 +4,7 @@ Badges are little identificators to let you know more about a specific youtuber.
 <img align="left" width="90px" height="90px" alt="Badge for verified Youtubers" src="media/badge-verified.svg"/>
 #### Verified YouTube Channel
 This badge is attached to the youtubers that have a verified symbol on their channel.
+<br/>
 <img align="left" width="90px" height="90px" alt="Badge for verified Youtubers" src="media/badge-weekly.svg"/>
 #### Weekly video upload
 This badge is attached to the youtubers who upload at least 1 video per week.
