@@ -7,7 +7,7 @@ Badges are little identificators to let you know more about a specific youtuber.
 
 #### Verified YouTube Channel
 
-This badge is attached to the youtubers that have a verified symbol on their channel.
+This badge is attached to the youtubers that have a verified symbol on their channel. Learn more about verified YouTube channels [here](https://support.google.com/youtube/answer/3046484?hl=en).
 
 <br/>
 
