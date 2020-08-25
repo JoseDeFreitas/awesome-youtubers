@@ -1,7 +1,7 @@
 # Contribution guidelines
 
 Please follow the [code of conduct](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/code-of-conduct.md).
-Note that "YouTube channel" and "youtuber" mean the same thing.
+Note that "YouTube channel" and "youtuber" mean the same thing in [this repository](https://github.com/JoseDeFreitas/awesome-youtubers).
 
 - [Add a youtuber](#add-a-youtuber)
   - [Pull request template](#pull-request-template)
