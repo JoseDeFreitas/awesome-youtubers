@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="500" src="media/logo.svg" alt="Awesome Youtubers">
+		<img width="420" src="media/logo.svg" alt="Awesome Youtubers">
 	</div>
   	<h1>
     		Awesome Youtubers
