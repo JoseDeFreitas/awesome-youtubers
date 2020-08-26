@@ -60,7 +60,7 @@ Featured playlists: `react js from scratch`, `Node.js Tutorials For Beginners`, 
 
 [**CSS Animation**](https://www.youtube.com/channel/UC4QVZ552Q-dXIdMSc2cewcA) \
 Content about: CSS \
-Featured playlists: `Full Course: Level Up Your CSS Animation Skills`.
+Featured playlists: `Full Course: Level Up Your CSS Animation Skills`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Dani Krossing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx6TRb2UtlFRUrc1y8izsVdh5KgI1kYYBdZTwigIQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheCharmefis)
