@@ -5,11 +5,12 @@ Note that "YouTube channel", "channel" and "youtuber" mean the same thing in [th
 
 - [Add a youtuber](#add-a-youtuber)
   - [Pull request template](#pull-request-template)
-- [Update information](#update-information)
+- [Open issues](#open-issues)
 
 ## Add a youtuber
 
 Please, only add youtubers that are actually **awesome**! *"After all, it's a curation, not a collection"*. [What is awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
+It doesn't matter if the youtuber isn't active anymore; if the youtuber has videos/playlists uploaded but no new videos, it still counts.
 
 To add a youtuber, fork this repository, then edit the readme.md file and add the youtuber to the existing section you consider it fits well or you can also create another section if you need to (if you will, please keep in mind that a section holds several YouTube channels and is intended to work as it).
 
@@ -30,4 +31,36 @@ For a channel to be added, you need to follow these rules:
 Featured videos/playlists: `#most-important-channel-1`, `#most-important-channel-2`, `#most-important-channel-3`, `#most-important-channel-4`, `#most-important-channel-5`, `#least-important-channel`
 ```
 
+Example:
+
+[<img align="left" height="94px" width="94px" alt="GitHub channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVBGU-QyENevFp8etYX1iEak8Y7KEjUPsucWAvAA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/github)
+
+[**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Featured videos/playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Artic Code Vault`
+
 ### Pull request template
+
+You can add any number of youtubers at a time in just one pull request.
+To keep the order, please follow this pull request syntax (copy and paste):
+
+```
+- **Name of the youtuber:**
+- **Link to the YouTube channel:**
+- **What the channel is about (eg. web development, design, ...)**:
+- **Which section is the channel in? (if you created a section, please specify why)**:
+- **Why do you consider the youtuber deserves a place in this list? *What does make it awesome?***:
+```
+
+Example:
+
+- **Name of the youtuber with the link to the channel**: GitHub
+- **Link to the YouTube channel**: https://www.youtube.com/user/github
+- **What the channel is about (eg. web development, design, ...)**: Software Development Platform for storing repositories.
+- **Which section is the channel in? (if you created a section, please specify why)**: Open Source
+- **Why do you consider the youtuber deserves a place in this list? *What does make it awesome?***: The youtuber uploads videos every day with general-tech tutorials. These tutorials include securing your organization, finding vulnerabilities, using GitHub actions and more. It also has pretty useful playlists where you can find talks from professionals that teach you diverse topics.
+
+## Open issues
+
+If you find a layout issue, a typo or an outdated information about a youtuber, please open an issue explaining what it is about.
+If you have an idea of a possible feature, please also open an issue explaining your idea.
+The issue labels are asigned accordingly to every issue - follow them to know more about the issue.
