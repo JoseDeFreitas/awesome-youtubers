@@ -9,6 +9,8 @@ Note that "YouTube channel", "channel" and "youtuber" mean the same thing in [th
 
 ## Add a youtuber
 
+Please, only add youtubers that are actually **awesome**! *"After all, it's a curation, not a collection"*. [What is awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
+
 To add a youtuber, fork this repository, then edit the readme.md file and add the youtuber to the existing section you consider it fits well or you can also create another section if you need to (if you will, please keep in mind that a section holds several YouTube channels and is intended to work as it).
 
 For a channel to be added, you need to follow these rules:
