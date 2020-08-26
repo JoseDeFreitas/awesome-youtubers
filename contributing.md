@@ -45,7 +45,7 @@ Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
 *The "Content about" section **should not** be more than **1** line. In this section, describe the main content of the channel.*
 *The "Featured playlists" section **should not** be more than **2** lines. In this section, put the best playlists of the youtuber. This is because as the youtuber should at least teach (maybe not explicitly) something according to its channel content. It doesn't have to be a literal YouTube playlist though; this is preferable, but if the youtuber doesn't have any playlist, you can consider as a playlist a series of videos. If still you consider the youtuber doesn't have any playlists, you can type "`None`".*
 
-**The "Featured playlists" section could lead to some layout problems**. If the "Featured playlists" section is 2 lines, there won't be any problem with the layout. But, if the "Featured playlists" section is just 1 line, the youtuber below it will broke the layout. To solve this, add a line break `<br/>` just below the "Featured playlists" line. In the example above there should be a `<br/>` below the "Featured playlists" section, but I didn't put it to prevent confuse.
+**The "Featured playlists" section could lead to some layout problems**. If the "Featured playlists" section is 2 lines, there won't be any problem with the layout. But, if the "Featured playlists" section is just 1 line, the youtuber below it will broke the layout. To solve this, add a line break `<br/>` just below the "Featured playlists" line. REMEMBER to also add `\` after the "Featured playlists" section (in the same line). In the example above there should be a `<br/>` below the "Featured playlists" section, but I didn't put it to prevent confuse.
 
 Example:
 
