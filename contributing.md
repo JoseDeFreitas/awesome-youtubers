@@ -37,7 +37,7 @@ Example:
 
 [**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Featured videos/playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Artic Code Vault`
-
+<br/>
 ### Pull request template
 
 You can add any number of youtubers at a time in just one pull request.
