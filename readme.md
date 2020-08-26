@@ -9,7 +9,7 @@
 		</a>
   	</h1>
 	<p>
-		This list contains youtubers whose content is based in the tech field. Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-		youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. Note that this <strong>is not</strong> a promotional list of any kind.
+		This list contains youtubers whose content is based in the tech field and teach about tech stuff. Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the youtubers doesn't mean the quality: all of the youtubers below are awesome. Note that this <strong>is not</strong> a promotional list of any kind.
 	</p>
 </div>
 
