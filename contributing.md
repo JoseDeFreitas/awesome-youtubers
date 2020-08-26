@@ -32,8 +32,19 @@ Content about: EXAMPLE, EXAMPLE, EXAMPLE \
 Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
 ```
 
+When adding a youtuber below other one, you should add another line. Example:
+
+```html
+...
+Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
+
+[<img align="left" height="94px" width="94px" alt="NAME_OF_THE_YOUTUBE_CHANNEL channel's avatar" src="LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL"/>](LINK_TO_THE_CHANNEL)
+...
+```
+
 *The "Content about" section **should not** be more than **1** line. In this section, describe the main content of the channel.*
 *The "Featured playlists" section **should not** be more than **2** lines. In this section, put the best playlists of the youtuber. This is because as the youtuber should at least teach (maybe not explicitly) something according to its channel content. It doesn't have to be a literal YouTube playlist though; this is preferable, but if the youtuber doesn't have any playlist, you can consider as a playlist a series of videos. If still you consider the youtuber doesn't have any playlists, you can type "`None`".* 
+**The "Featured playlists" section could lead to some layout problems**. If the "Featured playlists" section is 2 lines, there won't be any problem with the layout. But, if the "Featured playlists" section is just 1 line, the youtuber below it will broke the layout. To solve this, add a line break `<br/>` just below the "Featured playlists" line. In the example above there should be a `<br/>` below the "Featured playlists" section, but I didn't put it to prevent confuse.
 
 Example:
 
