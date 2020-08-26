@@ -27,15 +27,20 @@ For a channel to be added, you need to follow these rules:
 ```html
 [<img align="left" height="94px" width="94px" alt="NAME_OF_THE_YOUTUBE_CHANNEL channel's avatar" src="LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL"/>](LINK_TO_THE_CHANNEL)
 
-[**NAME_OF_THE_CHANNEL**](LINK_TO_THE_CHANNEL) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg"/>](badges.md#weekly-video-upload) \
-Featured videos/playlists: `#most-important-channel-1`, `#most-important-channel-2`, `#most-important-channel-3`, `#most-important-channel-4`, `#most-important-channel-5`, `#least-important-channel`
+[**NAME_OF_THE_CHANNEL**](LINK_TO_THE_CHANNEL) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: EXAMPLE, EXAMPLE, EXAMPLE \
+Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
 ```
+
+*The "Content about" section **should not** be more than **1** line. In this section, describe the main content of the channel.*
+*The "Featured playlists" section **should not** be more than **2** lines. In this section, put the best playlists of the youtuber. This is because as the youtuber should at least teach (maybe not explicitly) something according to its channel content. It doesn't have to be a literal YouTube playlist though; this is preferable, but if the youtuber doesn't have any playlist, you can consider as a playlist a series of videos. If still you consider the youtuber doesn't have any playlists, you can type "`None`".* 
 
 Example:
 
 [<img align="left" height="94px" width="94px" alt="GitHub channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVBGU-QyENevFp8etYX1iEak8Y7KEjUPsucWAvAA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/github)
 
 [**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Open Source, security, app development \
 Featured videos/playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Artic Code Vault`.
 
 <br/>
