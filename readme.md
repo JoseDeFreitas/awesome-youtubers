@@ -43,6 +43,8 @@ Content about: Mathematics, Programming languages \
 Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \
 <br/>
 
+[🔼 back to the top](#contents)
+
 ### Web development
 
 Web development include frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React, Vue, Angular). It also includes backend development topics (Node, GRAPHQL, SQL) and more basic things (DNS, URLs, Deployment). You can also find freelancing as a web developer an other related stuff.
@@ -92,6 +94,8 @@ Featured playlists: `Learn JavaScript`, `Master React JS by Building Real Projec
 Content about: Python, React \
 Featured playlists: `Python tutorial for beginners (2019)`, `Build App Clones with ReactJS`, `Learn Python Programming`, `Learn Python Object Oriented Programming`.
 
+[🔼 back to the top](#contents)
+
 ### Computer sciences
 
 [<img align="left" height="94px" width="94px" alt="Zach Star channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQelvtRQ9bX4eu2G8kuazXvSUf6OoqdHkjCfcNQA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/zachstar)
@@ -99,6 +103,8 @@ Featured playlists: `Python tutorial for beginners (2019)`, `Build App Clones wi
 [**Zach Star**](https://www.youtube.com/c/zachstar) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Math \
 Featured playlists: `Applied Math`, `Math Major`, `Computer Science/Computer Engineering`, `Electrical Engineering`, `Mechanical Engineering`.
+
+[🔼 back to the top](#contents)
 
 ### Internet in general
 
@@ -109,6 +115,8 @@ Content about: Internet, Networks, Command Line, Hardware \
 Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
 <br/>
 
+[🔼 back to the top](#contents)
+
 ### Security
 
 [<img align="left" height="94px" width="94px" alt="Professor Messer channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzNrZ0R2UonwEPRLM-mu3cqjLu2SUVG2VSev7jtGw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
@@ -117,6 +125,8 @@ Featured playlists: `A lot of router/modem playlists`, `Software management of i
 Content about: Security \
 Featured playlists: `CompTIA Security+ SY0-501 Training Course`, `CompTIA N10-007 Network+ Study Groups`, `and many more like this!`.
 
+[🔼 back to the top](#contents)
+
 ### Digital Design
 
 [<img align="left" height="94px" width="94px" alt="How to Graphic Design channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
@@ -124,3 +134,5 @@ Featured playlists: `CompTIA Security+ SY0-501 Training Course`, `CompTIA N10-00
 [**How to Graphic Design**](https://www.youtube.com/c/HowtoGraphicDesign) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Adobe Illustrator, Illustrations \
 Featured playlists: `Adobe Illustrator CC Flat Illustration Tutorials`, `Logo Creation Tutorials Playlist`, `Adobe Illustrator CC for Beginners`, `more Adobe Illustrator playlists`.
+
+[🔼 back to the top](#contents)
