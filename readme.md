@@ -40,8 +40,7 @@ Featured playlists: `Learn Windows PowerShell in a Month of Lunches`, `SAPIEN Po
 
 [**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload)\
 Content about: Mathematics, Programming languages \
-Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \
-<br/>
+Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`.
 
 [🔼 back to the top](#contents)
 
@@ -112,8 +111,7 @@ Featured playlists: `Applied Math`, `Math Major`, `Computer Science/Computer Eng
 
 [**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Internet, Networks, Command Line, Hardware \
-Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
-<br/>
+Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`.
 
 [🔼 back to the top](#contents)
 
