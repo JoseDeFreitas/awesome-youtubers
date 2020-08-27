@@ -17,6 +17,8 @@
 
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
+- [Computer sciences](#computer-sciences)
+- [Internet in general](#internet-in-general)
 - [Security](#security)
 - [Digital design](#digital-design)
 
@@ -33,6 +35,13 @@ Featured playlists: `Python Machine Learning Tutorials`, `Python Programming Tut
 [**Don Jones**](https://www.youtube.com/c/DonJonesConTech) \
 Content about: PowerShell \
 Featured playlists: `Learn Windows PowerShell in a Month of Lunches`, `SAPIEN PowerShell Training`, `PowerShell Tips, Tricks, and Snippets`.
+
+[<img align="left" height="94px" width="94px" alt="Derek Banas channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzCCG7r_PWNZBE9SOTRKKGMiBGcTG8XAA33BT2Axw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/derekbanas)
+
+[**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload)\
+Content about: Mathematics, Programming languages \
+Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \
+<br/>
 
 ### Web development
 
@@ -67,7 +76,38 @@ Featured playlists: `Full Course: Level Up Your CSS Animation Skills`. \
 
 [**Dani Krossing**](https://www.youtube.com/c/TheCharmefis) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Web development, Backend \
-Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutorials`, `jQuery Tutorials`.
+Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutorials`, `jQuery Tutorials`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="JavaScript Mastery channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_1d5dpZETr6oOBANDbkDtqp9h4n9RWCXeKrWM0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaScriptMastery)
+
+[**JavaScript Mastery**](https://www.youtube.com/c/JavaScriptMastery) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: React, JavaScript, Backend \
+Featured playlists: `Learn JavaScript`, `Master React JS by Building Real Projects`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Clever Programmer channel's avatar" src="https://yt3.ggpht.com/a/AATXAJydjgDHqK3vz4iHkrPZjHSsjwh1aPsqOwxHCZ_ISA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CleverProgrammer)
+
+[**Clever Programmer**](https://www.youtube.com/c/CleverProgrammer) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Python, React \
+Featured playlists: `Python tutorial for beginners (2019)`, `Build App Clones with ReactJS`, `Learn Python Programming`, `Learn Python Object Oriented Programming`.
+
+### Computer sciences
+
+[<img align="left" height="94px" width="94px" alt="Zach Star channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQelvtRQ9bX4eu2G8kuazXvSUf6OoqdHkjCfcNQA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/zachstar)
+
+[**Zach Star**](https://www.youtube.com/c/zachstar) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Math \
+Featured playlists: `Applied Math`, `Math Major`, `Computer Science/Computer Engineering`, `Electrical Engineering`, `Mechanical Engineering`.
+
+### Internet in general
+
+[<img align="left" height="94px" width="94px" alt="Net VN channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
+
+[**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Internet, Networks, Command Line, Hardware \
+Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
+<br/>
 
 ### Security
 
