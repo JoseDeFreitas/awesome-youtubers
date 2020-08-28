@@ -15,6 +15,7 @@
 
 ## Contents
 
+To find a specific topic faster, you can type `Ctrl + F` and type the topic you're searching for.
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
