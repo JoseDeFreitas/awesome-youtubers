@@ -18,9 +18,11 @@
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
+- [Software in general](#software-in-general)
 - [Internet in general](#internet-in-general)
 - [Security](#security)
 - [Digital design](#digital-design)
+- [Hardware](#hardware)
 
 ### Programming in general
 
@@ -32,7 +34,7 @@ Featured playlists: `Python Machine Learning Tutorials`, `Python Programming Tut
 
 [<img align="left" height="94px" width="94px" alt="Derek Banas channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzCCG7r_PWNZBE9SOTRKKGMiBGcTG8XAA33BT2Axw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/derekbanas)
 
-[**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload)\
+[**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Mathematics, Programming languages \
 Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \
 <br/>
@@ -42,6 +44,32 @@ Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video 
 [**Don Jones**](https://www.youtube.com/c/DonJonesConTech) \
 Content about: PowerShell \
 Featured playlists: `Learn Windows PowerShell in a Month of Lunches`, `SAPIEN PowerShell Training`, `PowerShell Tips, Tricks, and Snippets`.
+
+[<img align="left" height="94px" width="94px" alt="Corey Schafer channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxNLWZNUXOTpXHY9j8PvBdyZbGTkwbUznRvHtmH=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Coreyms)
+
+[**Corey Schafer**](https://www.youtube.com/c/Coreyms) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Python, Backend \
+Featured playlists: `Python Tutorials`, `Django Tutorials`, `Flask Tutorials`, `Matplotlib Tutorials`, `SQL Tutorials`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Brian Will channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyHn9zALlBP5HBxpaqVd9x00oZDRlLKSOJu4Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/briantwill)
+
+[**Brian Will**](https://www.youtube.com/user/briantwill) \
+Content about: Backend, Rendering, Theorical classes \
+Featured playlists: `OpenGL`, `the Clojure language`, `Python playlists`, `Pigeon, an educational programming language`, `many more interesting playlists!`.
+
+[<img align="left" height="94px" width="94px" alt="LearningLad channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwo68B0xlMZFJImEBUN1fwzILMZJfVbGSMyUggMVg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LearningLad)
+
+[**LearningLad**](https://www.youtube.com/c/LearningLad) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: C, C#, C++ \
+Featured playlists: `Learn C Programming Language | Tutorial for Beginners`, `Learn C++ Programming | Video Tutorial for Beginners`, `C++ Objetc Oriented Programming`, `and many more playlists`.
+
+[<img align="left" height="94px" width="94px" alt="David Bombal channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxXEBqSlbr0Gm-VRnA6Q7alt4cZA_kfu1fkWdgr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DavidBombal)
+
+[**David Bombal**](https://www.youtube.com/c/DavidBombal) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Ethical hacking, Linux \
+Featured playlists: `CCNA Exam: 200-125, 100-105 and 200-105`, `Cisco playlists`, `SDN Videos`. \
+<br/>
 
 [🔼 back to the top](#contents)
 
@@ -94,6 +122,19 @@ Featured playlists: `Learn JavaScript`, `Master React JS by Building Real Projec
 Content about: Python, React \
 Featured playlists: `Python tutorial for beginners (2019)`, `Build App Clones with ReactJS`, `Learn Python Programming`, `Learn Python Object Oriented Programming`.
 
+[<img align="left" height="94px" width="94px" alt="Omatum channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyIKkD9fGTB3olrvHQY8wNXGtHDEKp6tcmXr84=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Omatum)
+
+[**Omatum**](https://www.youtube.com/c/Omatum) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Web development, Design \
+Featured playlists: `Live Omatum Bucks Software Project Streams`, `Software Project: OmatumBucks`, `Live Omatum.com Website Development Project Streams`, `Uncut Live Streams`.
+
+[<img align="left" height="94px" width="94px" alt="Punit Chawla channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyShhB_eKIuZPIDtUJenOMwRVk4J0mGrDrD2irYk1k=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PunitChawla)
+
+[**Punit Chawla**](https://www.youtube.com/c/PunitChawla) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Web design, Adobe XD \
+Featured playlists: `Design Weekly`, `Design Essentials`. \
+<br/>
+
 [🔼 back to the top](#contents)
 
 ### Computer sciences
@@ -103,6 +144,23 @@ Featured playlists: `Python tutorial for beginners (2019)`, `Build App Clones wi
 [**Zach Star**](https://www.youtube.com/c/zachstar) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Math \
 Featured playlists: `Applied Math`, `Math Major`, `Computer Science/Computer Engineering`, `Electrical Engineering`, `Mechanical Engineering`.
+
+[<img align="left" height="94px" width="94px" alt="Domain of Science channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzn7b7O3zaktjJRfJx0qDfDw9TqLFIA_1BoAknkxw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DomainofScience)
+
+[**Domain of Science**](https://www.youtube.com/c/DomainofScience) \
+Content about: Math, Quantum Physics \
+Featured playlists: `Mathematics Videos - Domain of Science`, `The Map of Quantum Physics Expanded`, `Videos I made for D-Wave Systems`.
+
+[🔼 back to the top](#contents)
+
+### Software in general
+
+[<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
+
+[**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Google Spreadsheets \
+Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
+<br/>
 
 [🔼 back to the top](#contents)
 
@@ -134,5 +192,15 @@ Featured playlists: `CompTIA Security+ SY0-501 Training Course`, `CompTIA N10-00
 [**How to Graphic Design**](https://www.youtube.com/c/HowtoGraphicDesign) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Adobe Illustrator, Illustrations \
 Featured playlists: `Adobe Illustrator CC Flat Illustration Tutorials`, `Logo Creation Tutorials Playlist`, `Adobe Illustrator CC for Beginners`, `more Adobe Illustrator playlists`.
+
+[🔼 back to the top](#contents)
+
+### Hardware
+
+[<img align="left" height="94px" width="94px" alt="Teaching Tech channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwcYEZYVuVI4MejVHLNgPMLSWYzXmhTyVjgcweM=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TeachingTech)
+
+[**Teaching Tech**](https://www.youtube.com/c/TeachingTech) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Printing \
+Featured playlists: `3D printing for beginners`, `3D Printing`, `Ender playlists`, `Onshape 3D Modelling`, `Printer reviews playlists`.
 
 [🔼 back to the top](#contents)
