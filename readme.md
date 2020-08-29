@@ -21,6 +21,7 @@ To find a specific topic faster, you can type `Ctrl + F` and type the topic you'
 - [Computer sciences](#computer-sciences)
 - [Software in general](#software-in-general)
 - [Internet in general](#internet-in-general)
+- [Life skills and job searching](#life-skills-and-job-searching)
 - [Security](#security)
 - [Digital design](#digital-design)
 - [Hardware](#hardware)
@@ -71,6 +72,12 @@ Featured playlists: `Learn C Programming Language | Tutorial for Beginners`, `Le
 Content about: Ethical hacking, Linux \
 Featured playlists: `CCNA Exam: 200-125, 100-105 and 200-105`, `Cisco playlists`, `SDN Videos`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Ben Eater channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz2eRlqEOHdjeRc_S7emHmcEztpnY_R4JoKMLEZ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenEate)
+
+[**Ben Eater**](https://www.youtube.com/c/BenEate) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Assembly language, Hardware, Computer sciences \
+Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`, `Digital electronics tutorials`, `a lot of videos related`.
 
 [🔼 back to the top](#contents)
 
@@ -136,6 +143,18 @@ Content about: Web design, Adobe XD \
 Featured playlists: `Design Weekly`, `Design Essentials`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Dev Ed channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzj9Wp5NIzuIcB3DhQ5jgunW5b98DCWGeSv2TZptQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DevEd)
+
+[**Dev Ed**](https://www.youtube.com/c/DevEd) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Web design, JavaScript, React \
+Featured playlists: `Web Design Tutorial (UI & UX)`, `React Tutorial For Beginners`, `CSS Tutorials`, `JavaScript tutorials playlists`.
+
+[<img align="left" height="94px" width="94px" alt="DesignCourse channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC278MnqvWj6nYJAUT6E3tzxrZ03-CRsIbnDQIwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DesignCourse)
+
+[**DesignCourse**](https://www.youtube.com/c/DesignCourse) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Web design, Design, UI/UX, Adobe XD \
+Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tutorials`, `LATEST DEV TUTS`, `LATEST DESIGN TUTS`.
+
 [🔼 back to the top](#contents)
 
 ### Computer sciences
@@ -151,6 +170,12 @@ Featured playlists: `Applied Math`, `Math Major`, `Computer Science/Computer Eng
 [**Domain of Science**](https://www.youtube.com/c/DomainofScience) \
 Content about: Math, Quantum Physics \
 Featured playlists: `Mathematics Videos - Domain of Science`, `The Map of Quantum Physics Expanded`, `Videos I made for D-Wave Systems`.
+
+[<img align="left" height="94px" width="94px" alt="Neso Academy channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymfSKeH0q1Kz4GL9ThzSi7l-E0BfKJ1twcudEF=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/nesoacademy)
+
+[**Neso Academy**](https://www.youtube.com/user/nesoacademy) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Electronics, Networking, Theorical classes \
+Featured playlists: `Network Theory`, `Computer Networks`, `Digital Electronics`, `Signals and Systems`, `Programming languages playlists`.
 
 [🔼 back to the top](#contents)
 
@@ -170,9 +195,19 @@ Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts -
 [<img align="left" height="94px" width="94px" alt="Net VN channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
 
 [**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Internet, Networks, Command Line, Hardware \
+Content about: Internet, Networking, Command Line, Hardware \
 Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
 <br/>
+
+[🔼 back to the top](#contents)
+
+### Life skills and job searching
+
+[<img align="left" height="94px" width="94px" alt="GCFLearnFree.org channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwe6TjwIlLLS09rBm-AG81b6PslL87sIu8ULLAvpw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GcflearnfreeOrgplus)
+
+[**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Job searching, General skills, Life tips \
+Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
 
 [🔼 back to the top](#contents)
 
@@ -184,6 +219,12 @@ Featured playlists: `A lot of router/modem playlists`, `Software management of i
 Content about: Security \
 Featured playlists: `CompTIA Security+ SY0-501 Training Course`, `CompTIA N10-007 Network+ Study Groups`, `and many more like this!`.
 
+[<img align="left" height="94px" width="94px" alt="CodeCommand channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxwg_MKbgIY5qofCP_D9_7J1imehz-xhNBbtuA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodeCommand)
+
+[**CodeCommand**](https://www.youtube.com/c/CodeCommand) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Ethical hacking, Security \
+Featured playlists: `Cyber Security - Penetration Testing Course (Offensive Security)`, `Kali Linux Tutorials | Pentesting Methods |`.
+
 [🔼 back to the top](#contents)
 
 ### Digital Design
@@ -194,6 +235,13 @@ Featured playlists: `CompTIA Security+ SY0-501 Training Course`, `CompTIA N10-00
 Content about: Adobe Illustrator, Illustrations \
 Featured playlists: `Adobe Illustrator CC Flat Illustration Tutorials`, `Logo Creation Tutorials Playlist`, `Adobe Illustrator CC for Beginners`, `more Adobe Illustrator playlists`.
 
+[<img align="left" height="94px" width="94px" alt="ArmaganVideos channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz0yGLAogfKCoU7YgR_8bUj0q4c2WlDkcCozlT49w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/armaganvideos)
+
+[**ArmaganVideos**](https://www.youtube.com/c/armaganvideos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Adobe Illustrator, Illustrations, Flat design \
+Featured playlists: `Tutorials - Illustrator`, `Tutorials - After Effects`, `Tutorials - Flat Design`. \
+<br/>
+
 [🔼 back to the top](#contents)
 
 ### Hardware
@@ -203,5 +251,11 @@ Featured playlists: `Adobe Illustrator CC Flat Illustration Tutorials`, `Logo Cr
 [**Teaching Tech**](https://www.youtube.com/c/TeachingTech) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Printing \
 Featured playlists: `3D printing for beginners`, `3D Printing`, `Ender playlists`, `Onshape 3D Modelling`, `Printer reviews playlists`.
+
+[<img align="left" height="94px" width="94px" alt="Linus Tech Tips channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwQoPNwqUbfu_y7o7GWaeZgX8ovoHSYuWfbiJLR8g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LinusTechTips)
+
+[**Linus Tech Tips**](https://www.youtube.com/c/LinusTechTips) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: All hardware \
+Featured playlists: `Build Guides, Buyer's Guides, and Ultimate Guides`, `Computer Systems & All-in-Ones`, `CPU, Motherboard, Memory Videos`, `many more`.
 
 [🔼 back to the top](#contents)
