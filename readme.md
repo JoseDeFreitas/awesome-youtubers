@@ -81,6 +81,12 @@ Featured playlists: `CCNA Exam: 200-125, 100-105 and 200-105`, `Cisco playlists`
 Content about: Assembly language, Hardware, Computer sciences \
 Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`, `Digital electronics tutorials`, `a lot of videos related`.
 
+[<img align="left" height="94px" width="94px" alt="The Coding Train channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsuBQEVwEvfj3ti2gZQCVWpFc4e38IfMsPgYGCxw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheCodingTrain)
+
+[**The Coding Train**](https://www.youtube.com/c/TheCodingTrain) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Algoritms, Various programming languages \
+Featured playlists: `The Nature of Code: Simulating Natural Systems with Processing`, `Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction`.
+
 [🔼 back to the top](#contents)
 
 ### Web development
@@ -181,6 +187,12 @@ Featured playlists: `Mathematics Videos - Domain of Science`, `The Map of Quantu
 Content about: Electronics, Networking, Theorical classes \
 Featured playlists: `Network Theory`, `Computer Networks`, `Digital Electronics`, `Signals and Systems`, `Programming languages playlists`.
 
+[<img align="left" height="94px" width="94px" alt="Computerphile channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxg_WoKORzNoXHFEqTXUrKHeUR9Zn1y6LzGylfCtQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/Computerphile)
+
+[**Computerphile**](https://www.youtube.com/user/Computerphile) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Software, Hardware \
+Featured playlists: `How Computer Memory Works`, `Data Analysis with Dr Mike Pound`, `Artificial Intelligence with Rob Miles`, `Remote Working Technologies.
+
 [🔼 back to the top](#contents)
 
 ### Software in general
@@ -218,6 +230,13 @@ Your professional side can be reinforced while watching these tutorials. It's im
 [**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Job searching, General skills, Life tips \
 Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
+
+[<img align="left" height="94px" width="94px" alt="mayuko channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
+
+[**mayuko**](https://www.youtube.com/c/hellomayuko) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Job tips, Health \
+Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`. \
+<br/>
 
 [🔼 back to the top](#contents)
 
