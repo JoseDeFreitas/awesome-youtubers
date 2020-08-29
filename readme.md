@@ -15,7 +15,7 @@
 
 ## Contents
 
-To find a specific topic faster, you can type `Ctrl + F` and type the topic you're searching for.
+To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
@@ -27,6 +27,8 @@ To find a specific topic faster, you can type `Ctrl + F` and type the topic you'
 - [Hardware](#hardware)
 
 ### Programming in general
+
+There're a lot of programming languages out there. In this section you can find any programming language, including Python, C, Java. Also, many youtubers taech about frameworks of these languages. Not only programming languages, but more general programming stuff. You can find either practical tutorials or theorical tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Tech With Tim channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAyCZGleVpp_e-jurqWYsH-6Q4rZaKVeareXRK7A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWithTim)
 
@@ -83,7 +85,7 @@ Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`
 
 ### Web development
 
-Web development include frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React, Vue, Angular). It also includes backend development topics (Node, GRAPHQL, SQL) and more basic things (DNS, URLs, Deployment). You can also find freelancing as a web developer an other related stuff.
+Web development include frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React, Vue, Angular). It also includes backend development topics, as Node, GRAPHQL, SQL and more basic things, like DNS, URLs, Deployment. You can also find freelancing as a web developer an other related stuff.
 
 [<img align="left" height="94px" width="94px" alt="Codevolution channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1mDLn8-L1yG8jIO2yGHvJzqnMZ03dsc3PbNqe=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 
@@ -159,6 +161,8 @@ Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tu
 
 ### Computer sciences
 
+The core concepts of the computer sciences can be found here. Some channels teach you about math operations, including a lot of playlists with different math topics. The same goes for math and physics closely related to computers and hardware. Perfect if you want to learn about the deepest terms.
+
 [<img align="left" height="94px" width="94px" alt="Zach Star channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQelvtRQ9bX4eu2G8kuazXvSUf6OoqdHkjCfcNQA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/zachstar)
 
 [**Zach Star**](https://www.youtube.com/c/zachstar) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
@@ -181,6 +185,8 @@ Featured playlists: `Network Theory`, `Computer Networks`, `Digital Electronics`
 
 ### Software in general
 
+Youtubers listed in this category may not be programming tutorials, or cool design cards, but there are other useful softwares and applications that are used every day for everyone. Master that suite you use a lot or learn more about specific services a company provides you with.
+
 [<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 
 [**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
@@ -191,6 +197,8 @@ Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts -
 [🔼 back to the top](#contents)
 
 ### Internet in general
+
+Internet connection and networking is a wide topic, and it's common to get stuck while learning about this. Get awesome playlist and videos about both software and hardware to know how do the internet connection and networking works. How to properly set a modem/router and what are the IPs, DNS and more.
 
 [<img align="left" height="94px" width="94px" alt="Net VN channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
 
@@ -203,6 +211,8 @@ Featured playlists: `A lot of router/modem playlists`, `Software management of i
 
 ### Life skills and job searching
 
+Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or starting one by yourself. Find also coding/design/tech companies interview methods.
+
 [<img align="left" height="94px" width="94px" alt="GCFLearnFree.org channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwe6TjwIlLLS09rBm-AG81b6PslL87sIu8ULLAvpw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GcflearnfreeOrgplus)
 
 [**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
@@ -212,6 +222,8 @@ Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Offic
 [🔼 back to the top](#contents)
 
 ### Security
+
+Security is something we all should care about. Learn how you can protect yourself from attackers or malicious softwares. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Professor Messer channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzNrZ0R2UonwEPRLM-mu3cqjLu2SUVG2VSev7jtGw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
 
@@ -229,6 +241,8 @@ Featured playlists: `Cyber Security - Penetration Testing Course (Offensive Secu
 
 ### Digital Design
 
+Web design tutorials are listed in the [web development section](#web-development). But, of course, the digital design is incredibly big, including nice pictures and draw representations about a famous person or attractive promotional videos. Get the knowledge about how to do these things and be a professional with design programs.
+
 [<img align="left" height="94px" width="94px" alt="How to Graphic Design channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
 
 [**How to Graphic Design**](https://www.youtube.com/c/HowtoGraphicDesign) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
@@ -245,6 +259,8 @@ Featured playlists: `Tutorials - Illustrator`, `Tutorials - After Effects`, `Tut
 [🔼 back to the top](#contents)
 
 ### Hardware
+
+CPU's, motherboards, monitors, keyboards, mouses, PC's/Laptops and all about hardware. Modems and routers can be also found here, as well as the newest phones and other technological gadgets. Get recommendations and price/quality comparisons about these products.
 
 [<img align="left" height="94px" width="94px" alt="Teaching Tech channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwcYEZYVuVI4MejVHLNgPMLSWYzXmhTyVjgcweM=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TeachingTech)
 
