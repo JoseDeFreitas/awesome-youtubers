@@ -191,7 +191,7 @@ Featured playlists: `Network Theory`, `Computer Networks`, `Digital Electronics`
 
 [**Computerphile**](https://www.youtube.com/user/Computerphile) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Software, Hardware \
-Featured playlists: `How Computer Memory Works`, `Data Analysis with Dr Mike Pound`, `Artificial Intelligence with Rob Miles`, `Remote Working Technologies.
+Featured playlists: `How Computer Memory Works`, `Data Analysis with Dr Mike Pound`, `Artificial Intelligence with Rob Miles`, `Remote Working Technologies`.
 
 [🔼 back to the top](#contents)
 
