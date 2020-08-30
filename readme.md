@@ -170,6 +170,12 @@ Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tu
 Content about: Frontend, Backend \
 Featured playlists: `HTML & CSS`, `Vanilla JavaScript`, `Node.js Videos`, `React Projects`, `PHP Front To Back`, `a lot more of web development playlists!`.
 
+[<img align="left" height="94px" width="94px" alt="Thomas Bradley channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyn7-co9lxd6KttBmj1rYSY5_OGzUUvhwnBmlqs=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/acinteractivedesign)
+
+[**Thomas Bradley**](https://www.youtube.com/c/acinteractivedesign) \
+Content about: Web design, Accessibility, Performance \
+Featured playlists: `Accessibility and performance videos`, `Jekyll playlists`, `CSS animation videos`, `SEO videos`, `more videos/playlists about web development`.
+
 [🔼 back to the top](#contents)
 
 ### Computer sciences
@@ -206,6 +212,12 @@ Featured playlists: `How Computer Memory Works`, `Data Analysis with Dr Mike Pou
 Content about: Theorical classes, Lectures \
 Featured playlists: `Computer Science and Security`, `Engineering`, `Energy Technologies`, `Leadership and Management`, `Natural Language Processing with Deep Learning`.
 
+[<img align="left" height="94px" width="94px" alt="FCIH OCW channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwKt_euPqSdYAa1aMzL7fhO-JibtfEaEXX8OuPt=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/FCIHOCW)
+
+[**FCIH OCW**](https://www.youtube.com/user/FCIHOCW) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Math, Data science \
+Featured playlists: `Data Science, Data Visualization playlists`, `Mathematics and Statistics playlists`, `more videos related`.
+
 [🔼 back to the top](#contents)
 
 ### Software in general
@@ -231,6 +243,24 @@ This is a wide topic. In this section, you can find youtubers who teach about ga
 Content about: JavaScript, HTML5 \
 Featured playlists: `How to Make HTML5 Games: JavaScript Tutorial for Beginners JS Guide`, `a lot more videos`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Brackeys channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwlfHgIE-uCnJ3F3kWlJUJwXwGaYu-lDiTrt56GZQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Brackeys)
+
+[**Brackeys**](https://www.youtube.com/c/Brackeys) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Unity, C#, Game design \
+Featured playlists: `How to make a 2D Plataformer - Unity Course`, `Making a Multiplayer FPS in Unity`, `How to program in C# - Beginner Course`, `Unity 2D Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Jonas Tyroller channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxjaeTFC1M-YAEpgSHasXcojzmv3vbpcOdojtjlug=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JonasTyroller)
+
+[**Jonas Tyroller**](https://www.youtube.com/c/JonasTyroller) \
+Content about: GameMaker Studio, Tips and planning playlists \
+Featured playlists: `Will You Snail? - Full Development.`, `Game Dev Tips`, `How To Get Started With Game Development.`.
+
+[<img align="left" height="94px" width="94px" alt="RealTutsGML channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytTySK0c9M6APiuFRUiyGrBVToA1aAUse95O6ZjQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RealTutsGML)
+
+[**RealTutsGML**](https://www.youtube.com/c/RealTutsGML) \
+Content about: Java, GameMaker Studio \
+Featured playlists: `Java Basic Programming`, `Cool Game Maker Tutorials`, `Beginner Java Game Development`, `Java Platform Game Programming`.
 
 [🔼 back to the top](#contents)
 
