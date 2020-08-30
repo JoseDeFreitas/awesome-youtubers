@@ -163,6 +163,12 @@ Featured playlists: `Web Design Tutorial (UI & UX)`, `React Tutorial For Beginne
 Content about: Web design, Design, UI/UX, Adobe XD \
 Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tutorials`, `LATEST DEV TUTS`, `LATEST DESIGN TUTS`.
 
+[<img align="left" height="94px" width="94px" alt="Traversy Media channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw6qBlNzbAweKz7UlC44hYLoEtdoXGmzN8IJno3mg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TraversyMedia)
+
+[**Traversy Media**](https://www.youtube.com/c/TraversyMedia) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Frontend, Backend \
+Featured playlists: `HTML & CSS`, `Vanilla JavaScript`, `Node.js Videos`, `React Projects`, `PHP Front To Back`, `a lot more of web development playlists!`.
+
 [🔼 back to the top](#contents)
 
 ### Computer sciences
@@ -192,6 +198,12 @@ Featured playlists: `Network Theory`, `Computer Networks`, `Digital Electronics`
 [**Computerphile**](https://www.youtube.com/user/Computerphile) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Software, Hardware \
 Featured playlists: `How Computer Memory Works`, `Data Analysis with Dr Mike Pound`, `Artificial Intelligence with Rob Miles`, `Remote Working Technologies`.
+
+[<img align="left" height="94px" width="94px" alt="stanfordonline channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7GZmfOLRj6qINAbohRz1pG7UjKcxQVmNZN6MC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/stanfordonline)
+
+[**stanfordonline**](https://www.youtube.com/user/stanfordonline) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Theorical classes, Lectures \
+Featured playlists: `Computer Science and Security`, `Engineering`, `Energy Technologies`, `Leadership and Management`, `Natural Language Processing with Deep Learning`.
 
 [🔼 back to the top](#contents)
 
