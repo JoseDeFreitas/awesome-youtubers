@@ -20,6 +20,7 @@ To find a specific topic faster, you can press `Ctrl + F` and type the topic you
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
 - [Software in general](#software-in-general)
+- [Game development](#game-development)
 - [Internet in general](#internet-in-general)
 - [Life skills and job searching](#life-skills-and-job-searching)
 - [Security](#security)
@@ -216,6 +217,19 @@ Youtubers listed in this category may not be programming tutorials, or cool desi
 [**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Google Spreadsheets \
 Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
+<br/>
+
+[🔼 back to the top](#contents)
+
+### Game development
+
+This is a wide topic. In this section, you can find youtubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modeling and much more.
+
+[<img align="left" height="94px" width="94px" alt="ScriptersWar channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxHXU1KlWM0ZLoRVEhO0OkVoj7YGndylnAZYkTxdg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ScriptersWar)
+
+[**ScriptersWar**](https://www.youtube.com/c/ScriptersWar) \
+Content about: JavaScript, HTML5 \
+Featured playlists: `How to Make HTML5 Games: JavaScript Tutorial for Beginners JS Guide`, `a lot more videos`. \
 <br/>
 
 [🔼 back to the top](#contents)
