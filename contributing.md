@@ -73,7 +73,7 @@ You can add any number of youtubers at a time in just one pull request. *The lab
 
 Example:
 
-- **Name of the youtuber with the link to the channel**: GitHub
+- **Name of the youtuber**: GitHub
 - **Link to the YouTube channel**: https://www.youtube.com/user/github
 - **What the channel is about (eg. web development, design, ...)**: Software Development Platform for storing repositories.
 - **Which section is the channel in? (if you created a section, please specify why)**: Open Source
