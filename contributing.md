@@ -57,10 +57,11 @@ Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Publi
 
 <br/>
 
+When you finished adding the youtuber(s), open a pull request. Follow the next template.
+
 ### Pull request template
 
-You can add any number of youtubers at a time in just one pull request.
-To keep the order, please follow this pull request syntax (copy and paste):
+You can add any number of youtubers at a time in just one pull request. *The label "new youtuber" will get automatically added when you open the pull request*. To keep the order, please follow this pull request syntax (copy and paste):
 
 ```
 - **Name of the youtuber:**
