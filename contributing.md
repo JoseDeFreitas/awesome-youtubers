@@ -65,7 +65,6 @@ You can add any number of youtubers at a time in just one pull request. *The lab
 
 ```
 - **Name of the youtuber:**
-- **Link to the YouTube channel:**
 - **What the channel is about (eg. web development, design, ...)**:
 - **Which section is the channel in? (if you created a section, please specify why)**:
 - **Why do you consider the youtuber deserves a place in this list? *What does make it awesome?***:
@@ -74,10 +73,11 @@ You can add any number of youtubers at a time in just one pull request. *The lab
 Example:
 
 - **Name of the youtuber**: GitHub
-- **Link to the YouTube channel**: https://www.youtube.com/user/github
 - **What the channel is about (eg. web development, design, ...)**: Software Development Platform for storing repositories.
 - **Which section is the channel in? (if you created a section, please specify why)**: Open Source
 - **Why do you consider the youtuber deserves a place in this list? *What does make it awesome?***: The youtuber uploads videos every day with general-tech tutorials. These tutorials include securing your organization, finding vulnerabilities, using GitHub actions and more. It also has pretty useful playlists where you can find talks from professionals that teach you diverse topics.
+
+**Use this template for every youtuber you add.**
 
 ## Open issues
 
