@@ -11,8 +11,11 @@
 		</a>
 	</div>
 	<p>
-		This list contains youtubers whose content is based in the tech field and teach about tech stuff. Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the youtubers doesn't mean the quality: all of the youtubers below are awesome. Every youtuber is in a specific section/subsection, though it may involve other topics that are not the ones according to the section (but the section the youtuber is in is its main content). Note that this <strong>is not</strong> a promotional list of any kind.
+		This list contains youtubers whose content is based in the tech field and teach about tech stuff.
 	</p>
+	<sub>
+Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the youtubers doesn't mean the quality: all of the youtubers below are awesome. Every youtuber is in a specific section/subsection, though it may involve other topics that are not the ones according to the section (but the section the youtuber is in is its main content). Note that this <strong>is not</strong> a promotional list of any kind.
+	</sub>
 </div>
 
 ## Contents
@@ -256,7 +259,8 @@ Featured playlists: `How to make a 2D Plataformer - Unity Course`, `Making a Mul
 
 [**Jonas Tyroller**](https://www.youtube.com/c/JonasTyroller) \
 Content about: GameMaker Studio, Tips and planning playlists \
-Featured playlists: `Will You Snail? - Full Development.`, `Game Dev Tips`, `How To Get Started With Game Development.`.
+Featured playlists: `Will You Snail? - Full Development.`, `Game Dev Tips`, `How To Get Started With Game Development.`. \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="RealTutsGML channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytTySK0c9M6APiuFRUiyGrBVToA1aAUse95O6ZjQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RealTutsGML)
 
