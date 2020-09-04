@@ -25,6 +25,7 @@ To find a specific topic faster, you can press `Ctrl + F` and type the topic you
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
 - [Software in general](#software-in-general)
+- [Operating system](#operating-system)
 - [Game development](#game-development)
 - [Internet in general](#internet-in-general)
 - [Life skills and job searching](#life-skills-and-job-searching)
@@ -234,6 +235,17 @@ Youtubers listed in this category may not be programming tutorials, or cool desi
 [**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Google Spreadsheets \
 Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
+<br/>
+
+[🔼 back to the top](#contents)
+
+### Operating system
+
+[<img align="left" height="94px" width="94px" alt="Riba Linux channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyzXrRfkiVxobJ_1-ot6Nwbb-8hzmOInqGjQJReXQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RibaLinux)
+
+[**Riba Linux**](https://www.youtube.com/c/RibaLinux) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Linux \
+Featured playlists: `Install and overview`, `Linux How-to`. \
 <br/>
 
 [🔼 back to the top](#contents)
