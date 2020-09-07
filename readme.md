@@ -182,6 +182,13 @@ Featured playlists: `HTML & CSS`, `Vanilla JavaScript`, `Node.js Videos`, `React
 Content about: Web design, Accessibility, Performance \
 Featured playlists: `Accessibility and performance videos`, `Jekyll playlists`, `CSS animation videos`, `SEO videos`, `more videos/playlists about web development`.
 
+[<img align="left" height="94px" width="94px" alt="Red Stapler channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw9rDLrDqNFCAsI1Umf8K3b87ORxhmEC9AL6opQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RedStapler_channel)
+
+[**Red Stapler**](https://www.youtube.com/c/RedStapler_channel) \
+Content about: JavaScript, CSS \
+Featured playlists: `CSS Tips and Tricks`, `some playlists about JavaScript libraries`. \
+<br/>
+
 [🔼 back to the top](#contents)
 
 ### Computer sciences
