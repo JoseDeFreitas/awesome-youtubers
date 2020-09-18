@@ -12,7 +12,7 @@
 	</div>
 </div>
 
-> Watch videos and playlists about content creators that teach you about technology.
+> Watch videos and playlists from youtubers that teach you about technology.
 
 <sub>Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the youtubers doesn't mean the quality: all of the youtubers below are awesome. Every youtuber is in a specific section/subsection, though it may involve other topics that are not the ones according to the section (but the section the youtuber is in is its main content). Note that this <strong>is not</strong> a promotional list of any kind.
 </sub>
@@ -26,7 +26,7 @@ To find a specific topic faster, you can press `Ctrl + F` and type the topic you
 - [Software in general](#software-in-general)
 - [Operating system](#operating-system)
 - [Game development](#game-development)
-- [Internet in general](#internet-in-general)
+- [Internet/networking](#internetnetworking)
 - [Life skills and job searching](#life-skills-and-job-searching)
 - [Security](#security)
 - [Digital design](#digital-design)
@@ -92,6 +92,13 @@ Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`
 [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Algoritms, Various programming languages \
 Featured playlists: `The Nature of Code: Simulating Natural Systems with Processing`, `Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction`.
+
+[<img align="left" height="94px" width="94px" alt="Geek's Lesson channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVWXu5Yu4c2Cp9dUrzbmaAF117DVADvaOXLtjJ3Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GeeksLesson)
+
+[**Geek's Lesson**](https://www.youtube.com/c/GeeksLesson) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Backend, Theorical, Data \
+Featured playlists: `Data structures playlists`, `Backend programming languages videos`, `Mathematics videos`. \
+<br/>
 
 [🔼 back to the top](#contents)
 
@@ -243,6 +250,12 @@ Content about: Google Spreadsheets \
 Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="ICT Tutorial Channel channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwhgEIoD76OH0GpP96oCCC9ezV3sEJwXTXfwnWI=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/amamd91)
+
+[**ICT Tutorial Channel**](https://www.youtube.com/c/amamd91) \
+Content about: Windows, Networking, C++\
+Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET Tutorial`, `Computing in general videos`.
+
 [🔼 back to the top](#contents)
 
 ### Operating system
@@ -288,7 +301,7 @@ Featured playlists: `Java Basic Programming`, `Cool Game Maker Tutorials`, `Begi
 
 [🔼 back to the top](#contents)
 
-### Internet in general
+### Internet/networking
 
 Internet connection and networking is a wide topic, and it's common to get stuck while learning about this. Get awesome playlist and videos about both software and hardware to know how do the internet connection and networking works. How to properly set a modem/router and what are the IPs, DNS and more.
 
@@ -297,6 +310,13 @@ Internet connection and networking is a wide topic, and it's common to get stuck
 [**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Internet, Networking, Command Line, Hardware \
 Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Network Direction channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyLZ561K6CUOujxHpRbMgK_lwD6WWELO6YwM2Bw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
+
+[**Network Direction**](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Networking \
+Featured playlists: `Network Direction`, `Network Fundamentals`, `Firewall and LAN videos`. \
 <br/>
 
 [🔼 back to the top](#contents)
