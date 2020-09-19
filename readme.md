@@ -30,6 +30,7 @@ To find a specific topic faster, you can press `Ctrl + F` and type the topic you
 - [Life skills and job searching](#life-skills-and-job-searching)
 - [Security](#security)
 - [Digital design](#digital-design)
+- [Audio and video](#audio-and-video)
 - [Hardware](#hardware)
 
 ### Programming in general
@@ -99,6 +100,18 @@ Featured playlists: `The Nature of Code: Simulating Natural Systems with Process
 Content about: Backend, Theorical, Data \
 Featured playlists: `Data structures playlists`, `Backend programming languages videos`, `Mathematics videos`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Intellipaat channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxo5sxMK5En0bXdwzW65cLoDmmGYdoWWDnwlmd0zrw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/intellipaaat)
+
+[**Intellipaat**](https://www.youtube.com/user/intellipaaat) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: DevOps, Artificial intelligence \
+Featured playlists: `DevOps Tutorial for Beginners`, `Artificial Intelligence Tutorial`, `Machine Learning Tutorial`, `Python Tutorial for Beginners`.
+
+[<img align="left" height="94px" width="94px" alt="ProgrammingKnowledge channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxg7ZDO-AqFL4bQWz38_7RZKYydoUQTpVuPAPzo=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ProgrammingKnowledge)
+
+[**ProgrammingKnowledge**](https://www.youtube.com/c/ProgrammingKnowledge) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Backend, APIs \
+Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beginners`, `C++ Programming Tutorial for Beginners`, `other videos about different programming languages`.
 
 [🔼 back to the top](#contents)
 
@@ -237,6 +250,19 @@ Featured playlists: `Computer Science and Security`, `Engineering`, `Energy Tech
 Content about: Math, Data science \
 Featured playlists: `Data Science, Data Visualization playlists`, `Mathematics and Statistics playlists`, `more videos related`.
 
+[<img align="left" height="94px" width="94px" alt="MIT OpenCourseWare channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyJPFeubx3SFVgLowUy98YiI-PNrUyabxdLJso7=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/mitocw)
+
+[**MIT OpenCourseWare**](https://www.youtube.com/c/mitocw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Math, Computer science, Engineering \
+Featured playlists: `Mathematics playlists`, `Computer science playlists`, `Engineering playlists`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Bob Trenwith channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJRhlpTqxhYPoLurEEOkEUpGYVxf89FoskWS0P=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ)
+
+[**Bob Trenwith**](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Math, Computing \
+Featured playlists: `a lot of Mathematics playlists`, `Computing playlists (Computer science)`, `other sciences and interesting playlists`.
+
 [🔼 back to the top](#contents)
 
 ### Software in general
@@ -256,6 +282,18 @@ Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts -
 Content about: Windows, Networking, C++\
 Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET Tutorial`, `Computing in general videos`.
 
+[<img align="left" height="94px" width="94px" alt="Online Training for Everyone channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzKIt0dhdvc7FP-6HRlB-WClDG9geZOhC_eDaIYqw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/OnlineTrainingforEveryone)
+
+[**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Excel, Office suite \
+Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Simon Sez IT channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)
+
+[**Simon Sez IT**](https://www.youtube.com/c/Simonsezit) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Office suite, Microsoft \
+Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutorials`, `Microsoft Outlook 2019`, `more videos about Microsoft programs`.
+
 [🔼 back to the top](#contents)
 
 ### Operating system
@@ -266,6 +304,12 @@ Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET 
 Content about: Linux \
 Featured playlists: `Install and overview`, `Linux How-to`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="MSFT WebCast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy8oFBuw6tSoDlY7bV6kK_97atCLWDgBH-pypW8dw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/MSFTWebCast)
+
+[**MSFT WebCast**](https://www.youtube.com/c/MSFTWebCast) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Windows \
+Featured playlists: `Windows Server Beginnners Tutorials`, `Managing Networking services in Windows Sever`, `Managing Active Directory Infraestructure`.
 
 [🔼 back to the top](#contents)
 
@@ -298,6 +342,12 @@ Featured playlists: `Will You Snail? - Full Development.`, `Game Dev Tips`, `How
 [**RealTutsGML**](https://www.youtube.com/c/RealTutsGML) \
 Content about: Java, GameMaker Studio \
 Featured playlists: `Java Basic Programming`, `Cool Game Maker Tutorials`, `Beginner Java Game Development`, `Java Platform Game Programming`.
+
+[<img align="left" height="94px" width="94px" alt="Mark Rise channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzLVHrXv3qfNCv7Qu9LX7x92XuCnNu8p4pQMd2YXA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w)
+
+[**Mark Rise**](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w) \
+Content about: Game design, Animation \
+Featured playlists: `Geometric design playlists`, `Video Game Character Animation Course`, `After Effects Animation Tutorials`.
 
 [🔼 back to the top](#contents)
 
@@ -358,7 +408,7 @@ Featured playlists: `Cyber Security - Penetration Testing Course (Offensive Secu
 
 [🔼 back to the top](#contents)
 
-### Digital Design
+### Digital design
 
 Web design tutorials are listed in the [web development section](#web-development). But, of course, the digital design is incredibly big, including nice pictures and draw representations about a famous person or attractive promotional videos. Get the knowledge about how to do these things and be a professional with design programs.
 
@@ -377,6 +427,16 @@ Featured playlists: `Tutorials - Illustrator`, `Tutorials - After Effects`, `Tut
 
 [🔼 back to the top](#contents)
 
+### Audio and video
+
+[<img align="left" height="94px" width="94px" alt="OBEDIA channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzaWbDjViF6gjYUtZnSaPf7EAqhxo-UX_5vuXaRDQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Obedia)
+
+[**OBEDIA**](https://www.youtube.com/c/Obedia) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Audio, Hardware \
+Featured playlists: `PreSonus Studio One Tutorials`, `Cubase Tutorials`, `Ableton Tutorials by OBEDIA`, `Cakewalk Sonar Tutorials`.
+
+[🔼 back to the top](#contents)
+
 ### Hardware
 
 CPU's, motherboards, monitors, keyboards, mouses, PC's/Laptops and all about hardware. Modems and routers can be also found here, as well as the newest phones and other technological gadgets. Get recommendations and price/quality comparisons about these products.
@@ -392,5 +452,11 @@ Featured playlists: `3D printing for beginners`, `3D Printing`, `Ender playlists
 [**Linus Tech Tips**](https://www.youtube.com/c/LinusTechTips) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: All hardware \
 Featured playlists: `Build Guides, Buyer's Guides, and Ultimate Guides`, `Computer Systems & All-in-Ones`, `CPU, Motherboard, Memory Videos`, `many more`.
+
+[<img align="left" height="94px" width="94px" alt="educ8s.tv channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzuLlqZ7x3U3Nbdg8BuL0GGAkQh00S9Sh87UTUV_Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Educ8s)
+
+[**educ8s.tv**](https://www.youtube.com/c/Educ8s) \
+Content about: Arduino \
+Featured playlists: `Arduino Tutorials for Beginners`, `Raspberry Pi Tutorials for Beginners`, `a lot more Arduino tutorials/projects videos!`.
 
 [🔼 back to the top](#contents)
