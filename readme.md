@@ -20,6 +20,7 @@
 ## Contents
 
 To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
+It's recommendable to open the links with the click of the mouse wheel or by right-cliking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
@@ -39,7 +40,7 @@ There're a lot of programming languages out there. In this section you can find 
 
 [<img align="left" height="94px" width="94px" alt="Tech With Tim channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAyCZGleVpp_e-jurqWYsH-6Q4rZaKVeareXRK7A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWithTim)
 
-<a href="https://www.youtube.com/c/TechWithTim" target="_blank"><strong>Tech With Tim</strong></a> [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+[**Tech With Tim**](https://www.youtube.com/c/TechWithTim) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Python, Other about tech \
 Featured playlists: `Python Machine Learning Tutorials`, `Python Programming Tutorials`, `Kivy Tutorials Python`, `and other Python playlists`.
 
