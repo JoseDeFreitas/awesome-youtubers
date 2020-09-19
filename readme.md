@@ -280,7 +280,8 @@ Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts -
 
 [**ICT Tutorial Channel**](https://www.youtube.com/c/amamd91) \
 Content about: Windows, Networking, C++\
-Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET Tutorial`, `Computing in general videos`.
+Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET Tutorial`, `Computing in general videos`. \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Online Training for Everyone channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzKIt0dhdvc7FP-6HRlB-WClDG9geZOhC_eDaIYqw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/OnlineTrainingforEveryone)
 
