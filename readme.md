@@ -287,7 +287,8 @@ Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET 
 
 [**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Excel, Office suite \
-Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`.
+Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`. \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Simon Sez IT channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)
 
