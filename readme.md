@@ -114,6 +114,12 @@ Featured playlists: `DevOps Tutorial for Beginners`, `Artificial Intelligence Tu
 Content about: Backend, APIs \
 Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beginners`, `C++ Programming Tutorial for Beginners`, `other videos about different programming languages`.
 
+[<img align="left" height="94px" width="94px" alt="Coding Tech channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytmpnop1rJ8bYYGvdWXbs4er2kRUUmBT0udDAcIA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingTech)
+
+[**Coding Tech**](https://www.youtube.com/c/CodingTech) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: All programming, Talks \
+Featured playlists: `Frontend development videos`, `Backend development videos`, `Theorical videos`, `a lot more tech topics playlists!`.
+
 [🔼 back to the top](#contents)
 
 ### Web development
@@ -301,6 +307,8 @@ Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutoria
 
 ### Operating system
 
+Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure. Understand how do these systems work in-deep to give you the opportunity to control them using the best methods.
+
 [<img align="left" height="94px" width="94px" alt="Riba Linux channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyzXrRfkiVxobJ_1-ot6Nwbb-8hzmOInqGjQJReXQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RibaLinux)
 
 [**Riba Linux**](https://www.youtube.com/c/RibaLinux) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
@@ -428,9 +436,43 @@ Content about: Adobe Illustrator, Illustrations, Flat design \
 Featured playlists: `Tutorials - Illustrator`, `Tutorials - After Effects`, `Tutorials - Flat Design`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="T&T Tutorials channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlxT8H3XaR4aTb9gpiNUAGid4XnpKk8Sk1N7BG=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TTTutorials)
+
+[**T&T Tutorials**](https://www.youtube.com/c/TTTutorials) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Adobe Illustrator, Adobe Photoshop, Hand-drawing \
+Featured playlists: `Adobe Illustrator Tutorials`, `Character Illustration Illustrator Tutorials`, `Adobe Illustrator Tools Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Pixel & Bracket channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygq4Pq_23OEZs2MZbLitD4i8YHBVe7NsNvcnsFag=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Pixelandbracket)
+
+[**Pixel & Bracket**](https://www.youtube.com/c/Pixelandbracket) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Adobe Illustrator, Adobe Photoshop \
+Featured playlists: `Illustrator Tutorials`, `Photoshop Tutorials`, `other design videos`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Zakey Design channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxZgbkZh-4rbYswKEsnjK9loXD0ycFuFc_EEX5CLA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ZakeyDesignow)
+
+[**Zakey Design**](https://www.youtube.com/c/ZakeyDesignow) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Gimp, Inkscape, Adobe Illustrator \
+Featured playlists: `Gimp Photo Manipulation`, `Inkscape playlist`, `Adobe Illustrator videos`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Art with Flo channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwzTU_31qu-jJKhnKvA2INGIA138gOD3CBB9mB3kA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ArtwithFlo)
+
+[**Art with Flo**](https://www.youtube.com/c/ArtwithFlo) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Procreate, Ipad/tablet drawing \
+Featured playlists: `PROCREATE TUTORIALS`, `DIGITAL ART TUTORIALS`, `Digital Drawing on iPad Pro | Easy Drawing Tutorials`, `more playlists!`.
+
+[<img align="left" height="94px" width="94px" alt="Envato Tuts+ channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyDKjIXjD19amsFlS8OLCTiMwplipojomEjZeUTrQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/tutsplus)
+
+[**Envato Tuts+**](https://www.youtube.com/c/tutsplus) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: All design, Illustrations, Web design \
+Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and video manipulation playlists`, `Figma videos`, `Learn Photo Effects`.
+
 [🔼 back to the top](#contents)
 
 ### Audio and video
+
+Tutorials about audio and video making. Includes wide topics, such as design, animation, renderization, hardware and more. Using the most popular and the best softwares to create stunning video animations, well-produced songs and stuff related to these topics.
 
 [<img align="left" height="94px" width="94px" alt="OBEDIA channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzaWbDjViF6gjYUtZnSaPf7EAqhxo-UX_5vuXaRDQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Obedia)
 
