@@ -438,6 +438,26 @@ Featured playlists: `Tutorials - Illustrator`, `Tutorials - After Effects`, `Tut
 Content about: Audio, Hardware \
 Featured playlists: `PreSonus Studio One Tutorials`, `Cubase Tutorials`, `Ableton Tutorials by OBEDIA`, `Cakewalk Sonar Tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="Black Mixture channel's avatar" src="https://yt3.ggpht.com/a/AATXAJycV557ukLUO4022GP-8xFrGWBUjoj0PnUhQwuHRw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/BlackMixture)
+
+[**Black Mixture**](https://www.youtube.com/c/BlackMixture) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Adter Effects, Animation \
+Featured playlists: `SPEEDPAINT ANIMATION`, `Motion Design`, `After Effects Tutorials`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Avnish Parker channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw1EJaU6c5-oLxVdCO91mNBSM0CaflC7YaVlbH67g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/avnishparker)
+
+[**Avnish Parker**](https://www.youtube.com/user/avnishparker) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Animation, Design \
+Featured playlists: `After Effects Tutorials`, `Text Animation - After Effects Tutorials`, `Logo Intro - After Effects Tutorials`, `Motion Graphics - After Effects Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Deny King channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyf22_Pytt7LNXFjm-oL0BAbT3Qu8j7Cphk0L2A=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DenyKingYoutube)
+
+[**Deny King**](https://www.youtube.com/c/DenyKingYoutube) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Video, Photos \
+Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/photo editing videos`. \
+<br/>
+
 [🔼 back to the top](#contents)
 
 ### Hardware
