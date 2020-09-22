@@ -400,6 +400,12 @@ Content about: Networking \
 Featured playlists: `Network Direction`, `Network Fundamentals`, `Firewall and LAN videos`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3fRhADkbhwzuqg1IdgIxpJBsmTpwPwEJ5yH4Jg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NetworKingInc)
+
+[**NetworKing**](https://www.youtube.com/c/NetworKingInc) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Networking, CCNA \
+Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020 | Networking Inc.`, `other networking videos`.
+
 [🔼 back to the top](#contents)
 
 ### Life skills and job searching
