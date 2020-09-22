@@ -120,6 +120,13 @@ Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beg
 Content about: All programming, Talks \
 Featured playlists: `Frontend development videos`, `Backend development videos`, `Theorical videos`, `a lot more tech topics playlists!`.
 
+[<img align="left" height="94px" width="94px" alt="Simplified Coding channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_F6rE_flskMStro3T2TQ_s-NAl9j2k6nIahoP=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/SimplifiedcodingNetOfficial)
+
+[**Simplified Coding**](https://www.youtube.com/c/SimplifiedcodingNetOfficial) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Android, Backend \
+Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutorial`, `more videos and playlists`. \
+<br/>
+
 [🔼 back to the top](#contents)
 
 ### Web development
@@ -359,6 +366,19 @@ Featured playlists: `Java Basic Programming`, `Cool Game Maker Tutorials`, `Begi
 [**Mark Rise**](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w) \
 Content about: Game design, Animation \
 Featured playlists: `Geometric design playlists`, `Video Game Character Animation Course`, `After Effects Animation Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Chris Courses channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy9BmXS6-TeuqUEXnhPWdZT_c-td6YEF1tbiN8lWw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ChrisCourses)
+
+[**Chris Courses**](https://www.youtube.com/c/ChrisCourses) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: HTML5 Canvas, JavaScript \
+Featured playlists: `HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro`, `other JavaScript-related videos`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Zenva channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxr-B_J2JaFQFAWAGI62RfHmCFVvt6rQocEeopqEw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Zenva)
+
+[**Zenva**](https://www.youtube.com/c/Zenva) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Unity, Unreal Engine, Godot \
+Featured playlists: `Master Unity Game Development`, `Unreal Game Development Mini-Degree`, `Godot Game Development Mini-Degree`, `a very lot more playlists about game development and design!`.
 
 [🔼 back to the top](#contents)
 
