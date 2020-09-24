@@ -192,12 +192,6 @@ Content about: React, JavaScript, Backend \
 Featured playlists: `Learn JavaScript`, `Master React JS by Building Real Projects`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Clever Programmer channel's avatar" src="https://yt3.ggpht.com/a/AATXAJydjgDHqK3vz4iHkrPZjHSsjwh1aPsqOwxHCZ_ISA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CleverProgrammer)
-
-[**Clever Programmer**](https://www.youtube.com/c/CleverProgrammer) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Python, React \
-Featured playlists: `Python tutorial for beginners (2019)`, `Build App Clones with ReactJS`, `Learn Python Programming`, `Learn Python Object Oriented Programming`.
-
 [<img align="left" height="94px" width="94px" alt="Omatum channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyIKkD9fGTB3olrvHQY8wNXGtHDEKp6tcmXr84=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Omatum)
 
 [**Omatum**](https://www.youtube.com/c/Omatum) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
