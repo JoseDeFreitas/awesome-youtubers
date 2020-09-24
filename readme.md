@@ -27,8 +27,7 @@
 ## Contents
 
 To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
-It's recommendable to open the links with the click of the mouse wheel or by right-cliking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
-
+It's recommendable to open the links with the click of the mouse wheel or by right-clicking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
@@ -44,7 +43,7 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 
 ### Programming in general
 
-There're a lot of programming languages out there. In this section you can find any programming language, including Python, C, Java. Also, many youtubers taech about frameworks of these languages. Not only programming languages, but more general programming stuff. You can find either practical tutorials or theorical tutorials.
+There're a lot of programming languages out there. In this section, you can find any programming language, including Python, C, Java. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical tutorials or theoretical tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Tech With Tim channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAyCZGleVpp_e-jurqWYsH-6Q4rZaKVeareXRK7A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWithTim)
 
@@ -75,14 +74,14 @@ Featured playlists: `Python Tutorials`, `Django Tutorials`, `Flask Tutorials`, `
 [<img align="left" height="94px" width="94px" alt="Brian Will channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyHn9zALlBP5HBxpaqVd9x00oZDRlLKSOJu4Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/briantwill)
 
 [**Brian Will**](https://www.youtube.com/user/briantwill) \
-Content about: Backend, Rendering, Theorical classes \
+Content about: Backend, Rendering, Theoretical classes \
 Featured playlists: `OpenGL`, `the Clojure language`, `Python playlists`, `Pigeon, an educational programming language`, `many more interesting playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="LearningLad channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwo68B0xlMZFJImEBUN1fwzILMZJfVbGSMyUggMVg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LearningLad)
 
 [**LearningLad**](https://www.youtube.com/c/LearningLad) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: C, C#, C++ \
-Featured playlists: `Learn C Programming Language | Tutorial for Beginners`, `Learn C++ Programming | Video Tutorial for Beginners`, `C++ Objetc Oriented Programming`, `and many more playlists`.
+Featured playlists: `Learn C Programming Language | Tutorial for Beginners`, `Learn C++ Programming | Video Tutorial for Beginners`, `C++ Object Oriented Programming`, `and many more playlists`.
 
 [<img align="left" height="94px" width="94px" alt="David Bombal channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxXEBqSlbr0Gm-VRnA6Q7alt4cZA_kfu1fkWdgr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DavidBombal)
 
@@ -100,13 +99,13 @@ Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`
 [<img align="left" height="94px" width="94px" alt="The Coding Train channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsuBQEVwEvfj3ti2gZQCVWpFc4e38IfMsPgYGCxw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheCodingTrain)
 
 [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Algoritms, Various programming languages \
+Content about: Algorithms, Various programming languages \
 Featured playlists: `The Nature of Code: Simulating Natural Systems with Processing`, `Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction`.
 
 [<img align="left" height="94px" width="94px" alt="Geek's Lesson channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVWXu5Yu4c2Cp9dUrzbmaAF117DVADvaOXLtjJ3Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GeeksLesson)
 
 [**Geek's Lesson**](https://www.youtube.com/c/GeeksLesson) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Backend, Theorical, Data \
+Content about: Backend, Theoretical, Data \
 Featured playlists: `Data structures playlists`, `Backend programming languages videos`, `Mathematics videos`. \
 <br/>
 
@@ -126,7 +125,7 @@ Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beg
 
 [**Coding Tech**](https://www.youtube.com/c/CodingTech) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: All programming, Talks \
-Featured playlists: `Frontend development videos`, `Backend development videos`, `Theorical videos`, `a lot more tech topics playlists!`.
+Featured playlists: `Frontend development videos`, `Backend development videos`, `Theoretical videos`, `a lot more tech topics playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="Simplified Coding channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_F6rE_flskMStro3T2TQ_s-NAl9j2k6nIahoP=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/SimplifiedcodingNetOfficial)
 
@@ -148,16 +147,16 @@ Content about: Rust, Dart, Flutter \
 Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to Rust & Rust Projects`. \
 <br/>
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Web development
 
-Web development include frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React, Vue, Angular). It also includes backend development topics, as Node, GRAPHQL, SQL and more basic things, like DNS, URLs, Deployment. You can also find freelancing as a web developer an other related stuff.
+Web development includes frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React.js, Vue.js, Angular). It also includes backend development topics, like Node.js, GRAPHQL, SQL and more basic things, like DNS, URLs, Deployment. You can also find freelancing as a web developer and other related stuff.
 
 [<img align="left" height="94px" width="94px" alt="Codevolution channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1mDLn8-L1yG8jIO2yGHvJzqnMZ03dsc3PbNqe=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 
 [**Codevolution**](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: React, JavaScript, TypeScript \
+Content about: React.js, JavaScript, TypeScript \
 Featured playlists: `ReactJS Tutorial for Beginners`, `React Hooks Tutorial`, `React Redux Tutorial`, `React Storybook Tutorial`, `React Formik Tutorial`, `Practical React`.
 
 [<img align="left" height="94px" width="94px" alt="Flux channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxWvA615Onz5us60u38fgK3eq-fnQVDmeW_4Rr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FluxWithRanSegall)
@@ -169,7 +168,7 @@ Featured playlists: `Free Web Design Course 2020`, `Portfolios: Case Studies & R
 [<img align="left" height="94px" width="94px" alt="techsith channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwEFEH0os2PjNYXfjC2tlO-VU5sSsB3rX6DOeFh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Techsithtube)
 
 [**techsith**](https://www.youtube.com/c/Techsithtube) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: React, JavaScript \
+Content about: React.js, JavaScript \
 Featured playlists: `react js from scratch`, `Node.js Tutorials For Beginners`, `Data Structures in JavaScript`, `Interview Preparation`.
 
 [<img align="left" height="94px" width="94px" alt="CSS Animation channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx86XmyIg-0icwveEKd2Iz8VEFyhGGhJLpJ2Q6l=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC4QVZ552Q-dXIdMSc2cewcA)
@@ -189,7 +188,7 @@ Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutor
 [<img align="left" height="94px" width="94px" alt="JavaScript Mastery channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_1d5dpZETr6oOBANDbkDtqp9h4n9RWCXeKrWM0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaScriptMastery)
 
 [**JavaScript Mastery**](https://www.youtube.com/c/JavaScriptMastery) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: React, JavaScript, Backend \
+Content about: React.js, JavaScript, Backend \
 Featured playlists: `Learn JavaScript`, `Master React JS by Building Real Projects`. \
 <br/>
 
@@ -209,7 +208,7 @@ Featured playlists: `Design Weekly`, `Design Essentials`. \
 [<img align="left" height="94px" width="94px" alt="Dev Ed channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzj9Wp5NIzuIcB3DhQ5jgunW5b98DCWGeSv2TZptQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DevEd)
 
 [**Dev Ed**](https://www.youtube.com/c/DevEd) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Web design, JavaScript, React \
+Content about: Web design, JavaScript, React.js \
 Featured playlists: `Web Design Tutorial (UI & UX)`, `React Tutorial For Beginners`, `CSS Tutorials`, `JavaScript tutorials playlists`.
 
 [<img align="left" height="94px" width="94px" alt="DesignCourse channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC278MnqvWj6nYJAUT6E3tzxrZ03-CRsIbnDQIwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DesignCourse)
@@ -240,19 +239,18 @@ Featured playlists: `CSS Tips and Tricks`, `some playlists about JavaScript libr
 [<img align="left" height="94px" width="94px" alt="Brian Design channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxVs1XkkiWUb-wFs4CqKWjVu5kJL_PEea7l8AJS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
 
 [**Brian Design**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Frontend, React, Web design \
+Content about: Frontend, React.js, Web design \
 Featured playlists: `React JS Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Fireship Youtube channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](LINK_TO_THE_CHANNEL)
+[<img align="left" height="94px" width="94px" alt="Fireship Youtube channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngularFirebase)
 
 [**Fireship**](https://www.youtube.com/c/AngularFirebase) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: JavaScript, Flutter, Firebase \
-Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Frontend Mini Projects`.
-
+Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Frontend Mini Projects`. \
 <br/>
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Computer sciences
 
@@ -273,7 +271,7 @@ Featured playlists: `Mathematics Videos - Domain of Science`, `The Map of Quantu
 [<img align="left" height="94px" width="94px" alt="Neso Academy channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymfSKeH0q1Kz4GL9ThzSi7l-E0BfKJ1twcudEF=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/nesoacademy)
 
 [**Neso Academy**](https://www.youtube.com/user/nesoacademy) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Electronics, Networking, Theorical classes \
+Content about: Electronics, Networking, Theoretical classes \
 Featured playlists: `Network Theory`, `Computer Networks`, `Digital Electronics`, `Signals and Systems`, `Programming languages playlists`.
 
 [<img align="left" height="94px" width="94px" alt="Computerphile channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxg_WoKORzNoXHFEqTXUrKHeUR9Zn1y6LzGylfCtQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/Computerphile)
@@ -285,7 +283,7 @@ Featured playlists: `How Computer Memory Works`, `Data Analysis with Dr Mike Pou
 [<img align="left" height="94px" width="94px" alt="stanfordonline channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7GZmfOLRj6qINAbohRz1pG7UjKcxQVmNZN6MC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/stanfordonline)
 
 [**stanfordonline**](https://www.youtube.com/user/stanfordonline) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Theorical classes, Lectures \
+Content about: Theoretical classes, Lectures \
 Featured playlists: `Computer Science and Security`, `Engineering`, `Energy Technologies`, `Leadership and Management`, `Natural Language Processing with Deep Learning`.
 
 [<img align="left" height="94px" width="94px" alt="FCIH OCW channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwKt_euPqSdYAa1aMzL7fhO-JibtfEaEXX8OuPt=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/FCIHOCW)
@@ -307,11 +305,11 @@ Featured playlists: `Mathematics playlists`, `Computer science playlists`, `Engi
 Content about: Math, Computing \
 Featured playlists: `a lot of Mathematics playlists`, `Computing playlists (Computer science)`, `other sciences and interesting playlists`.
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Software in general
 
-Youtubers listed in this category may not be programming tutorials, or cool design cards, but there are other useful softwares and applications that are used every day for everyone. Master that suite you use a lot or learn more about specific services a company provides you with.
+YouTubers listed in this category may not be programming tutorials or cool design cards, but some other useful software and applications are used every day for everyone. Master that suite you use a lot or learn more about specific services a company provides you with.
 
 [<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 
@@ -340,11 +338,11 @@ Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microso
 Content about: Office suite, Microsoft \
 Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutorials`, `Microsoft Outlook 2019`, `more videos about Microsoft programs`.
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Operating system
 
-Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure. Understand how do these systems work in-deep to give you the opportunity to control them using the best methods.
+Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure. Understand how do these systems work in-deep to allow you to control them using the best methods.
 
 [<img align="left" height="94px" width="94px" alt="Riba Linux channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyzXrRfkiVxobJ_1-ot6Nwbb-8hzmOInqGjQJReXQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RibaLinux)
 
@@ -357,13 +355,13 @@ Featured playlists: `Install and overview`, `Linux How-to`. \
 
 [**MSFT WebCast**](https://www.youtube.com/c/MSFTWebCast) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Windows \
-Featured playlists: `Windows Server Beginnners Tutorials`, `Managing Networking services in Windows Sever`, `Managing Active Directory Infraestructure`.
+Featured playlists: `Windows Server Beginners Tutorials`, `Managing Networking services in Windows Server`, `Managing Active Directory Infrastructure`.
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Game development
 
-This is a wide topic. In this section, you can find youtubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modeling and much more.
+This is a wide topic. In this section, you can find YouTubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modelling and much more.
 
 [<img align="left" height="94px" width="94px" alt="ScriptersWar channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxHXU1KlWM0ZLoRVEhO0OkVoj7YGndylnAZYkTxdg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ScriptersWar)
 
@@ -376,7 +374,7 @@ Featured playlists: `How to Make HTML5 Games: JavaScript Tutorial for Beginners 
 
 [**Brackeys**](https://www.youtube.com/c/Brackeys) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Unity, C#, Game design \
-Featured playlists: `How to make a 2D Plataformer - Unity Course`, `Making a Multiplayer FPS in Unity`, `How to program in C# - Beginner Course`, `Unity 2D Tutorials`.
+Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Multiplayer FPS in Unity`, `How to program in C# - Beginner Course`, `Unity 2D Tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Jonas Tyroller channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxjaeTFC1M-YAEpgSHasXcojzmv3vbpcOdojtjlug=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JonasTyroller)
 
@@ -410,16 +408,16 @@ Featured playlists: `HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro`
 Content about: Unity, Unreal Engine, Godot \
 Featured playlists: `Master Unity Game Development`, `Unreal Game Development Mini-Degree`, `Godot Game Development Mini-Degree`, `a very lot more playlists about game development and design!`.
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Internet/networking
 
-Internet connection and networking is a wide topic, and it's common to get stuck while learning about this. Get awesome playlist and videos about both software and hardware to know how do the internet connection and networking works. How to properly set a modem/router and what are the IPs, DNS and more.
+Internet connection and networking is a wide topic, and it's common to get stuck while learning about this. Get awesome playlists and videos about both software and hardware to know how does the internet connection and networking works. How to properly set a modem/router and what are the IPs, DNS and more.
 
 [<img align="left" height="94px" width="94px" alt="Net VN channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
 
 [**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Internet, Networking, Command Line, Hardware \
+Content about: Internet, Networking, Command line, Hardware \
 Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
 <br/>
 
@@ -436,11 +434,11 @@ Featured playlists: `Network Direction`, `Network Fundamentals`, `Firewall and L
 Content about: Networking, CCNA \
 Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020 | Networking Inc.`, `other networking videos`.
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Life skills and job searching
 
-Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or starting one by yourself. Find also coding/design/tech companies interview methods.
+Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or start one by yourself. Find also coding/design/tech companies interview methods.
 
 [<img align="left" height="94px" width="94px" alt="GCFLearnFree.org channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwe6TjwIlLLS09rBm-AG81b6PslL87sIu8ULLAvpw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GcflearnfreeOrgplus)
 
@@ -455,11 +453,11 @@ Content about: Job tips, Health \
 Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`. \
 <br/>
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Security
 
-Security is something we all should care about. Learn how you can protect yourself from attackers or malicious softwares. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
+Security is something we all should care about. Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Professor Messer channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzNrZ0R2UonwEPRLM-mu3cqjLu2SUVG2VSev7jtGw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
 
@@ -473,7 +471,7 @@ Featured playlists: `CompTIA Security+ SY0-501 Training Course`, `CompTIA N10-00
 Content about: Ethical hacking, Security \
 Featured playlists: `Cyber Security - Penetration Testing Course (Offensive Security)`, `Kali Linux Tutorials | Pentesting Methods |`.
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Digital design
 
@@ -524,11 +522,11 @@ Featured playlists: `PROCREATE TUTORIALS`, `DIGITAL ART TUTORIALS`, `Digital Dra
 Content about: All design, Illustrations, Web design \
 Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and video manipulation playlists`, `Figma videos`, `Learn Photo Effects`.
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Audio and video
 
-Tutorials about audio and video making. Includes wide topics, such as design, animation, renderization, hardware and more. Using the most popular and the best softwares to create stunning video animations, well-produced songs and stuff related to these topics.
+Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more. Using the most popular and the best software to create stunning video animations, well-produced songs and stuff related to these topics.
 
 [<img align="left" height="94px" width="94px" alt="OBEDIA channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzaWbDjViF6gjYUtZnSaPf7EAqhxo-UX_5vuXaRDQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Obedia)
 
@@ -539,7 +537,7 @@ Featured playlists: `PreSonus Studio One Tutorials`, `Cubase Tutorials`, `Ableto
 [<img align="left" height="94px" width="94px" alt="Black Mixture channel's avatar" src="https://yt3.ggpht.com/a/AATXAJycV557ukLUO4022GP-8xFrGWBUjoj0PnUhQwuHRw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/BlackMixture)
 
 [**Black Mixture**](https://www.youtube.com/c/BlackMixture) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Adter Effects, Animation \
+Content about: After Effects, Animation \
 Featured playlists: `SPEEDPAINT ANIMATION`, `Motion Design`, `After Effects Tutorials`. \
 <br/>
 
@@ -556,7 +554,7 @@ Content about: Video, Photos \
 Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/photo editing videos`. \
 <br/>
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ### Hardware
 
@@ -580,4 +578,4 @@ Featured playlists: `Build Guides, Buyer's Guides, and Ultimate Guides`, `Comput
 Content about: Arduino \
 Featured playlists: `Arduino Tutorials for Beginners`, `Raspberry Pi Tutorials for Beginners`, `a lot more Arduino tutorials/projects videos!`.
 
-[🔼 back to the top](#contents)
+[🔼 Back to the top](#contents)
