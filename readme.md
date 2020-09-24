@@ -155,6 +155,14 @@ Content about: General Programming, Computer Science, Web Dev, DevOps, etc. \
 Featured Playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials` \
 <br/> 
 
+
+[<img align="left" height="94px" width="94px" alt="freeCodeCamp channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
+
+[**CS Dojo**](https://www.youtube.com/c/CSDojo/) \
+Content about: Python and General Concepts \ 
+Featured Playlists: `Data Structures and Algorithms`, `Python Tutorials for Absolute Beginners`, `Coding Interview Questions and Answers` \
+<br/> 
+
 [🔼 Back to the top](#contents)
 
 ### Web development
