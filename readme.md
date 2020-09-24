@@ -416,6 +416,14 @@ Featured playlists: `HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro`
 [**Zenva**](https://www.youtube.com/c/Zenva) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Unity, Unreal Engine, Godot \
 Featured playlists: `Master Unity Game Development`, `Unreal Game Development Mini-Degree`, `Godot Game Development Mini-Degree`, `a very lot more playlists about game development and design!`.
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Mix and Jam channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1f7O5nvI5mIBDN5I3siO-x_3nXdmNb-ncK4Uz=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/MixandJam/)
+
+[**Mix and Jam**](https://www.youtube.com/c/MixandJam/videos) \
+Content about: Unity \
+Featured playlists: `Mix and Jam Recreations`, `Game Jams`, `RE Mix and Jam`
+<br/>
 
 [🔼 Back to the top](#contents)
 
