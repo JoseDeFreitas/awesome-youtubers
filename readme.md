@@ -14,13 +14,16 @@
 
 > Watch videos and playlists from youtubers that teach you about technology.
 
-<sub>Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the youtubers doesn't mean the quality: all of the youtubers below are awesome. Every youtuber is in a specific section/subsection, though it may involve other topics that are not the ones according to the section (but the section the youtuber is in is its main content). Note that this <strong>is not</strong> a promotional list of any kind.
-</sub>
+<details>
+	<summary>Extra information</summary>
+	<sub>Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the youtubers doesn't mean the quality: all of the youtubers below are awesome. Every youtuber is in a specific section/subsection, though it may involve other topics that are not the ones according to the section (but the section the youtuber is in is its main content). Note that this <strong>is not</strong> a promotional list of any kind.
+	</sub>
+</details>
 
 ## Contents
 
-To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
-It's recommendable to open the links with the click of the mouse wheel or by right-cliking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
+##### To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
+##### It's recommendable to open the links with the click of the mouse wheel or by right-cliking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
