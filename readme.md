@@ -127,6 +127,19 @@ Content about: Android, Backend \
 Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutorial`, `more videos and playlists`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Smartherd channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXTGNb9fHAe65rAIHAHkq0D227_WF4IsvdIXw-6Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/smartherd)
+
+[**Smartherd**](https://www.youtube.com/c/smartherd) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Kotlin, Android, more programming languages \
+Featured playlists: `a lot of Kotlin & Android videos`, `Ruby Tutorial for Beginners`, `Dart Tutorial for Beginners`, `Java Tutorial for Beginners`.
+
+[<img align="left" height="94px" width="94px" alt="Tensor Programming channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyTuYUkA0ZyCqkuLvrFfwTMDrP2iBbYX_Th4mMi2A=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TensorProgramming)
+
+[**Tensor Programming**](https://www.youtube.com/c/TensorProgramming) \
+Content about: Rust, Dart, Flutter \
+Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to Rust & Rust Projects`. \
+<br/>
+
 [🔼 back to the top](#contents)
 
 ### Web development
@@ -220,6 +233,13 @@ Featured playlists: `Accessibility and performance videos`, `Jekyll playlists`, 
 [**Red Stapler**](https://www.youtube.com/c/RedStapler_channel) \
 Content about: JavaScript, CSS \
 Featured playlists: `CSS Tips and Tricks`, `some playlists about JavaScript libraries`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Brian Design channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxVs1XkkiWUb-wFs4CqKWjVu5kJL_PEea7l8AJS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
+
+[**Brian Design**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Frontend, React, Web design \
+Featured playlists: `React JS Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`. \
 <br/>
 
 [🔼 back to the top](#contents)
