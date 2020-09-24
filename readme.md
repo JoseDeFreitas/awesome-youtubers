@@ -147,21 +147,18 @@ Content about: Rust, Dart, Flutter \
 Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to Rust & Rust Projects`. \
 <br/>
 
-
 [<img align="left" height="94px" width="94px" alt="freeCodeCamp channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-[**freeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) \
+[**freeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: General Programming, Computer Science, Web Dev, DevOps, etc. \ 
-Featured Playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials` \
+Featured Playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials`. \
 <br/> 
-
 
 [<img align="left" height="94px" width="94px" alt="freeCodeCamp channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
 
-[**CS Dojo**](https://www.youtube.com/c/CSDojo/) \
+[**CS Dojo**](https://www.youtube.com/c/CSDojo/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Python and General Concepts \ 
-Featured Playlists: `Data Structures and Algorithms`, `Python Tutorials for Absolute Beginners`, `Coding Interview Questions and Answers` \
-<br/> 
+Featured Playlists: `Data Structures and Algorithms`, `Python Tutorials for Absolute Beginners`, `Coding Interview Questions and Answers`.
 
 [🔼 Back to the top](#contents)
 
@@ -266,13 +263,12 @@ Content about: JavaScript, Flutter, Firebase \
 Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Frontend Mini Projects`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Academind channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxb_vf1eP6r278YghZIE53tMLh13RCKU6ZSuoTt6w=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Academind/videos)
+[<img align="left" height="94px" width="94px" alt="Academind channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxb_vf1eP6r278YghZIE53tMLh13RCKU6ZSuoTt6w=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Academind)
 
-[**Academind**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+[**Academind**](https://www.youtube.com/c/Academind) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Frontend, Javascript, Web design \
 Featured playlists: `ReactJS + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`. \
 <br/>
-
 
 [🔼 Back to the top](#contents)
 
@@ -398,15 +394,7 @@ Featured playlists: `How to Make HTML5 Games: JavaScript Tutorial for Beginners 
 
 [**Brackeys**](https://www.youtube.com/c/Brackeys) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Unity, C#, Game design \
-Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Multiplayer FPS in Unity`, `How to program in C# - Beginner Course`, `Unity 2D Tutorials`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Sebastian Lague channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyu67ghkSuvx-168pDY37hCiaClFRV5yZ27eQa_AA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/Cercopithecan)
-
-[**Sebastian Lague**](https://www.youtube.com/user/Cercopithecan) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Unity, C#, Game design \ 
-Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedural Planet Generation`, `Coding Adventures` \
-<br/>
+Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Multiplayer FPS in Unity`, `How to program in C# - Beginner Course`, `Unity 2D Tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Jonas Tyroller channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxjaeTFC1M-YAEpgSHasXcojzmv3vbpcOdojtjlug=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JonasTyroller)
 
@@ -441,11 +429,18 @@ Content about: Unity, Unreal Engine, Godot \
 Featured playlists: `Master Unity Game Development`, `Unreal Game Development Mini-Degree`, `Godot Game Development Mini-Degree`, `a very lot more playlists about game development and design!`.
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Mix and Jam channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1f7O5nvI5mIBDN5I3siO-x_3nXdmNb-ncK4Uz=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/MixandJam/)
+[<img align="left" height="94px" width="94px" alt="Mix and Jam channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1f7O5nvI5mIBDN5I3siO-x_3nXdmNb-ncK4Uz=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/MixandJam)
 
-[**Mix and Jam**](https://www.youtube.com/c/MixandJam/videos) \
+[**Mix and Jam**](https://www.youtube.com/c/MixandJam) \
 Content about: Unity \
-Featured playlists: `Mix and Jam Recreations`, `Game Jams`, `RE Mix and Jam`
+Featured playlists: `Mix and Jam Recreations`, `Game Jams`, `RE Mix and Jam`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Sebastian Lague channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyu67ghkSuvx-168pDY37hCiaClFRV5yZ27eQa_AA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/SebastianLague)
+
+[**Sebastian Lague**](https://www.youtube.com/c/SebastianLague) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Unity, C#, Game design \ 
+Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedural Planet Generation`, `Coding Adventures`. \
 <br/>
 
 [🔼 Back to the top](#contents)
