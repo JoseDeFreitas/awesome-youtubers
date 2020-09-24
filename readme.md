@@ -147,7 +147,10 @@ Content about: Rust, Dart, Flutter \
 Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to Rust & Rust Projects`. \
 <br/>
 
-[**freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) \
+
+[<img align="left" height="94px" width="94px" alt="freeCodeCamp channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+
+[**freeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) \
 Content about: General Programming, Computer Science, Web Dev, DevOps, etc. \ 
 Featured Playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials` \
 <br/> 
