@@ -259,6 +259,13 @@ Content about: Frontend, React.js, Web design \
 Featured playlists: `React JS Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Academind channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxb_vf1eP6r278YghZIE53tMLh13RCKU6ZSuoTt6w=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Academind/videos)
+
+[**Academind**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Frontend, Javascript, Web design \
+Featured playlists: `ReactJS + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ### Computer sciences
