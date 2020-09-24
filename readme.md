@@ -150,14 +150,14 @@ Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to 
 [<img align="left" height="94px" width="94px" alt="freeCodeCamp channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 [**freeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: General Programming, Computer Science, Web Dev, DevOps, etc. \ 
+Content about: General Programming, Computer Science, Web Dev, DevOps, etc. \
 Featured Playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials`. \
 <br/> 
 
 [<img align="left" height="94px" width="94px" alt="freeCodeCamp channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
 
 [**CS Dojo**](https://www.youtube.com/c/CSDojo/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Python and General Concepts \ 
+Content about: Python and General Concepts \
 Featured Playlists: `Data Structures and Algorithms`, `Python Tutorials for Absolute Beginners`, `Coding Interview Questions and Answers`.
 
 [🔼 Back to the top](#contents)
@@ -439,7 +439,7 @@ Featured playlists: `Mix and Jam Recreations`, `Game Jams`, `RE Mix and Jam`. \
 [<img align="left" height="94px" width="94px" alt="Sebastian Lague channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyu67ghkSuvx-168pDY37hCiaClFRV5yZ27eQa_AA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/SebastianLague)
 
 [**Sebastian Lague**](https://www.youtube.com/c/SebastianLague) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Unity, C#, Game design \ 
+Content about: Unity, C#, Game design \
 Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedural Planet Generation`, `Coding Adventures`. \
 <br/>
 
