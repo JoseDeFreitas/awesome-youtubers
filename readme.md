@@ -377,6 +377,12 @@ Featured playlists: `How to Make HTML5 Games: JavaScript Tutorial for Beginners 
 Content about: Unity, C#, Game design \
 Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Multiplayer FPS in Unity`, `How to program in C# - Beginner Course`, `Unity 2D Tutorials`.
 
+
+[<img align="left" height="94px" width="94px" alt="Sebastian Lague channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyu67ghkSuvx-168pDY37hCiaClFRV5yZ27eQa_AA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/Cercopithecan)
+[**Sebastian Lague**](https://www.youtube.com/user/Cercopithecan) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Unity, C#, Game design \ 
+Featured playlists: `Introduction to Game Development (Unity and C#), Procedural Planet Generation, Coding Adventures
+
 [<img align="left" height="94px" width="94px" alt="Jonas Tyroller channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxjaeTFC1M-YAEpgSHasXcojzmv3vbpcOdojtjlug=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JonasTyroller)
 
 [**Jonas Tyroller**](https://www.youtube.com/c/JonasTyroller) \
