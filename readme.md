@@ -5,6 +5,7 @@
 			<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 		</a>
   	</h1>
+	<br/>
 	<div>
 		<a href="https://github.com/JoseDeFreitas/awesome-youtubers">
 			<img width="428" src="media/logo.svg" alt="Awesome Youtubers">
