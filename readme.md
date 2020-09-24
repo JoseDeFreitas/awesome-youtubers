@@ -147,6 +147,11 @@ Content about: Rust, Dart, Flutter \
 Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to Rust & Rust Projects`. \
 <br/>
 
+[**freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) \
+Content about: General Programming, Computer Science, Web Dev, DevOps, etc. \ 
+Featured Playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials` \
+<br/> 
+
 [🔼 Back to the top](#contents)
 
 ### Web development
