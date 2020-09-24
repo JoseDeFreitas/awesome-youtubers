@@ -249,6 +249,7 @@ Featured playlists: `React JS Tutorials`, `HTML, CSS & JavaScript Tutorials`, `v
 [**Fireship**](https://www.youtube.com/c/AngularFirebase) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: JavaScript, Flutter, Firebase \
 Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Frontend Mini Projects`.
+<br/>
 
 [🔼 back to the top](#contents)
 
