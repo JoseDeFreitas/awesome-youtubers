@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 <div align="center">
   	<h1>
     	Awesome Youtubers
@@ -266,7 +267,7 @@ Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Fro
 [<img align="left" height="94px" width="94px" alt="Academind channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxb_vf1eP6r278YghZIE53tMLh13RCKU6ZSuoTt6w=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Academind)
 
 [**Academind**](https://www.youtube.com/c/Academind) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Frontend, Javascript, Web design \
+Content about: Frontend, JavaScript, Web design \
 Featured playlists: `ReactJS + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`. \
 <br/>
 
