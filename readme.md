@@ -325,6 +325,12 @@ Featured playlists: `Mathematics playlists`, `Computer science playlists`, `Engi
 Content about: Math, Computing \
 Featured playlists: `a lot of Mathematics playlists`, `Computing playlists (Computer science)`, `other sciences and interesting playlists`.
 
+[<img align="left" height="94px" width="94px" alt="CS50 channel's avatar" src="https://yt3.ggpht.com/a/AATXAJws9PHgNERgzfu5yP-Y5yfWXCIdouXa7uWv-_UfvA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ)
+
+[**Harvard's CS50**](https://www.youtube.com/c/cs50/)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Computer science and General Programming \
+Featured playlists: `CS50's Introduction to Artificial Intelligence with Python 2020`, `CS50's Web Programming with Python and JavaScript 2020`, `CS50's Introduction to Game Development 2018`
+
 [🔼 Back to the top](#contents)
 
 ### Software in general
