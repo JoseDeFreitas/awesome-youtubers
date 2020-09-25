@@ -91,9 +91,9 @@ Content about: Ethical hacking, Linux \
 Featured playlists: `CCNA Exam: 200-125, 100-105 and 200-105`, `Cisco playlists`, `SDN Videos`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Ben Eater channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz2eRlqEOHdjeRc_S7emHmcEztpnY_R4JoKMLEZ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenEate)
+[<img align="left" height="94px" width="94px" alt="Ben Eater channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz2eRlqEOHdjeRc_S7emHmcEztpnY_R4JoKMLEZ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenEater)
 
-[**Ben Eater**](https://www.youtube.com/c/BenEate) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+[**Ben Eater**](https://www.youtube.com/c/BenEater) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Assembly language, Hardware, Computer sciences \
 Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`, `Digital electronics tutorials`, `a lot of videos related`.
 
@@ -326,9 +326,9 @@ Featured playlists: `Mathematics playlists`, `Computer science playlists`, `Engi
 Content about: Math, Computing \
 Featured playlists: `a lot of Mathematics playlists`, `Computing playlists (Computer science)`, `other sciences and interesting playlists`.
 
-[<img align="left" height="94px" width="94px" alt="CS50 channel's avatar" src="https://yt3.ggpht.com/a/AATXAJws9PHgNERgzfu5yP-Y5yfWXCIdouXa7uWv-_UfvA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ)
+[<img align="left" height="94px" width="94px" alt="CS50 channel's avatar" src="https://yt3.ggpht.com/a/AATXAJws9PHgNERgzfu5yP-Y5yfWXCIdouXa7uWv-_UfvA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/cs50)
 
-[**Harvard's CS50**](https://www.youtube.com/c/cs50/)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+[**Harvard's CS50**](https://www.youtube.com/c/cs50)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Computer science and General Programming \
 Featured playlists: `CS50's Introduction to Artificial Intelligence with Python 2020`, `CS50's Web Programming with Python and JavaScript 2020`, `CS50's Introduction to Game Development 2018`
 
