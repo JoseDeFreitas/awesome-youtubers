@@ -1,7 +1,7 @@
 <!--lint disable double-link-->
 <div align="center">
   	<h1>
-    	Awesome Youtubers
+    	Awesome YouTubers
 		<a href="https://awesome.re">
 			<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 		</a>
