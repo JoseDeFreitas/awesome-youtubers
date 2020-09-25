@@ -148,18 +148,36 @@ Content about: Rust, Dart, Flutter \
 Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to Rust & Rust Projects`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="freeCodeCamp channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+[<img align="left" height="94px" width="94px" alt="freeCodeCamp.org channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 [**freeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: General Programming, Computer Science, Web Dev, DevOps, etc. \
 Featured Playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials`. \
 <br/> 
 
-[<img align="left" height="94px" width="94px" alt="freeCodeCamp channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
+[<img align="left" height="94px" width="94px" alt="CS Dojo channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
 
 [**CS Dojo**](https://www.youtube.com/c/CSDojo/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Python and General Concepts \
 Featured Playlists: `Data Structures and Algorithms`, `Python Tutorials for Absolute Beginners`, `Coding Interview Questions and Answers`.
+
+[<img align="left" height="94px" width="94px" alt="Java Brains channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlKpaj19DmFWS8cuYfwKNHY-k9vBmNlH0N72rGKQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaBrainsChannel)
+
+[**Java Brains**](https://www.youtube.com/c/JavaBrainsChannel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Spring, Java \
+Featured Playlists: `Spring Framework Courses playlists`, `Spring Boot Microservices - Full Course playlists`, `Java EE Courses playlists`.
+
+[<img align="left" height="94px" width="94px" alt="IAmTimCorey channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxRGfv1YCCh9tamNue4H4J1Ih_5i9hlr5cVtrGd=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/IAmTimCorey)
+
+[**IAmTimCorey**](https://www.youtube.com/user/IAmTimCorey) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: C#, .NET \
+Featured Playlists: `Advanced Topics in C#`, `Getting Started with C#`, `C# User Interfaces`, `many other C# videos`, `.NET video tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="sentdex channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygbw5_NJRJv11GoqyEXvHiAoLVu3RPOeROEM9Z0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/sentdex)
+
+[**sentdex**](https://www.youtube.com/c/sentdex) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Python, Machine learning \
+Featured Playlists: `Machine Learning with Python`, `Data Analysis with Python`, `Matplotlib and Flask videos`, `Data Visualization with Python`, `a lot more interesting playlists!`.
 
 [🔼 Back to the top](#contents)
 
@@ -269,6 +287,44 @@ Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Fro
 [**Academind**](https://www.youtube.com/c/Academind) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Frontend, JavaScript, Web design \
 Featured playlists: `ReactJS + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Florin Pop channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyTPRJfE-AcekIPpfXRf3fxAMe6Nkobv-oHCgoV=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FlorinPop)
+
+[**Florin Pop**](https://www.youtube.com/c/FlorinPop) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: JavaScript, CSS \
+Featured Playlists: `Learn JavaScript`, `Learn ReactJS`, `Learn CSS`, `JavaScript Array Methods`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="LevelUpTuts channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwuTmBKZD9sTE28x5qOHN_vRCPCP528iQeVqauh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LevelUpTuts)
+
+[**LevelUpTuts**](https://www.youtube.com/c/LevelUpTuts) \
+Content about: Frontend, Web design, CMS \
+Featured Playlists: `Design Tutorials playlists`, `CMS Tutorials playlists`, `HTML & CSS Tutorials`, `React.js videos`, `and more!`.
+
+[<img align="left" height="94px" width="94px" alt="Programming with Mosh channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymy6xr9_W7GTkPW1ov2OyxzvNCOE-ff1d7VK36Cg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/programmingwithmosh)
+
+[**Programming with Mosh**](https://www.youtube.com/c/programmingwithmosh) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Frontend, Backend \
+Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Python Tutorials`, `Node.js Tutorials`, `C#.NET Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="LearnCode.academy channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXxITlfxKmPX2h2OkLKwxzR-OoCLCxkKmf1Ugs=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/learncodeacademy)
+
+[**LearnCode.academy**](https://www.youtube.com/c/learncodeacademy) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: JavaScript, JavaScript frameworks \
+Featured playlists: `JavaScript Tutorial for Beginners`, `React.js, Angular and Vue.js playlists`, `MEAN Stack Tutorials`, `jQuery Tutorial for Beginners`.
+
+[<img align="left" height="94px" width="94px" alt="Raw Coding channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7NRo1YgYd8NZDAIglqEPPp82Vf3vXwHeyIaUx=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RawCoding)
+
+[**Raw Coding**](https://www.youtube.com/c/RawCoding) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: ASP.NET, .NET \
+Featured playlists: `Modern Web Development Series`, `Vue Beginner Guide with ASP.NET Core`, `ASP.NET Core Tutorials`, `a lot more .NET tutorials!`.
+
+[<img align="left" height="94px" width="94px" alt="Layout Land channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxuVxCsvMR6SMjZPTk-JBRuI6kX9rUaAfkSM0o7BA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LayoutLand)
+
+[**Layout Land**](https://www.youtube.com/c/LayoutLand) \
+Content about: CSS \
+Featured playlists: `CSS theoretical and practical videos`. \
 <br/>
 
 [🔼 Back to the top](#contents)
