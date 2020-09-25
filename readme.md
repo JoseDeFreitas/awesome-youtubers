@@ -42,7 +42,7 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 - [Audio and video](#audio-and-video)
 - [Hardware](#hardware)
 
-### Programming in general
+## Programming in general
 
 There're a lot of programming languages out there. In this section, you can find any programming language, including Python, C, Java. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical tutorials or theoretical tutorials.
 
@@ -181,7 +181,7 @@ Featured Playlists: `Advanced Topics in C#`, `Getting Started with C#`, `C# User
 
 [🔼 Back to the top](#contents)
 
-### Web development
+## Web development
 
 Web development includes frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React.js, Vue.js, Angular). It also includes backend development topics, like Node.js, GRAPHQL, SQL and more basic things, like DNS, URLs, Deployment. You can also find freelancing as a web developer and other related stuff.
 
@@ -189,7 +189,7 @@ Web development includes frontend development: the very basics (HTML, CSS and Ja
 
 [**Codevolution**](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: React.js, JavaScript, TypeScript \
-Featured playlists: `ReactJS Tutorial for Beginners`, `React Hooks Tutorial`, `React Redux Tutorial`, `React Storybook Tutorial`, `React Formik Tutorial`, `Practical React`.
+Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`, `React.js Redux Tutorial`, `React.js Storybook Tutorial`, `React.js Formik Tutorial`, `Practical React.js`.
 
 [<img align="left" height="94px" width="94px" alt="Flux channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxWvA615Onz5us60u38fgK3eq-fnQVDmeW_4Rr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FluxWithRanSegall)
 
@@ -221,7 +221,7 @@ Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutor
 
 [**JavaScript Mastery**](https://www.youtube.com/c/JavaScriptMastery) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: React.js, JavaScript, Backend \
-Featured playlists: `Learn JavaScript`, `Master React JS by Building Real Projects`. \
+Featured playlists: `Learn JavaScript`, `Master React.js by Building Real Projects`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Omatum channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyIKkD9fGTB3olrvHQY8wNXGtHDEKp6tcmXr84=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Omatum)
@@ -241,7 +241,7 @@ Featured playlists: `Design Weekly`, `Design Essentials`. \
 
 [**Dev Ed**](https://www.youtube.com/c/DevEd) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Web design, JavaScript, React.js \
-Featured playlists: `Web Design Tutorial (UI & UX)`, `React Tutorial For Beginners`, `CSS Tutorials`, `JavaScript tutorials playlists`.
+Featured playlists: `Web Design Tutorial (UI & UX)`, `React.js Tutorial For Beginners`, `CSS Tutorials`, `JavaScript tutorials playlists`.
 
 [<img align="left" height="94px" width="94px" alt="DesignCourse channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC278MnqvWj6nYJAUT6E3tzxrZ03-CRsIbnDQIwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DesignCourse)
 
@@ -253,7 +253,7 @@ Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tu
 
 [**Traversy Media**](https://www.youtube.com/c/TraversyMedia) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Frontend, Backend \
-Featured playlists: `HTML & CSS`, `Vanilla JavaScript`, `Node.js Videos`, `React Projects`, `PHP Front To Back`, `a lot more of web development playlists!`.
+Featured playlists: `HTML & CSS`, `Vanilla JavaScript`, `Node.js Videos`, `React.js Projects`, `PHP Front To Back`, `a lot more of web development playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="Thomas Bradley channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyn7-co9lxd6KttBmj1rYSY5_OGzUUvhwnBmlqs=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/acinteractivedesign)
 
@@ -272,7 +272,7 @@ Featured playlists: `CSS Tips and Tricks`, `some playlists about JavaScript libr
 
 [**Brian Design**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Frontend, React.js, Web design \
-Featured playlists: `React JS Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`. \
+Featured playlists: `React.js Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Fireship Youtube channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngularFirebase)
@@ -286,14 +286,14 @@ Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Fro
 
 [**Academind**](https://www.youtube.com/c/Academind) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Frontend, JavaScript, Web design \
-Featured playlists: `ReactJS + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`. \
+Featured playlists: `React.js + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Florin Pop channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyTPRJfE-AcekIPpfXRf3fxAMe6Nkobv-oHCgoV=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FlorinPop)
 
 [**Florin Pop**](https://www.youtube.com/c/FlorinPop) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: JavaScript, CSS \
-Featured Playlists: `Learn JavaScript`, `Learn ReactJS`, `Learn CSS`, `JavaScript Array Methods`. \
+Featured Playlists: `Learn JavaScript`, `Learn React.js`, `Learn CSS`, `JavaScript Array Methods`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="LevelUpTuts channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwuTmBKZD9sTE28x5qOHN_vRCPCP528iQeVqauh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LevelUpTuts)
@@ -318,7 +318,7 @@ Featured playlists: `JavaScript Tutorial for Beginners`, `React.js, Angular and 
 
 [**Raw Coding**](https://www.youtube.com/c/RawCoding) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: ASP.NET, .NET \
-Featured playlists: `Modern Web Development Series`, `Vue Beginner Guide with ASP.NET Core`, `ASP.NET Core Tutorials`, `a lot more .NET tutorials!`.
+Featured playlists: `Modern Web Development Series`, `Vue.js Beginner Guide with ASP.NET Core`, `ASP.NET Core Tutorials`, `a lot more .NET tutorials!`.
 
 [<img align="left" height="94px" width="94px" alt="Layout Land channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxuVxCsvMR6SMjZPTk-JBRuI6kX9rUaAfkSM0o7BA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LayoutLand)
 
@@ -329,7 +329,7 @@ Featured playlists: `CSS theoretical and practical videos`. \
 
 [🔼 Back to the top](#contents)
 
-### Computer sciences
+## Computer sciences
 
 The core concepts of the computer sciences can be found here. Some channels teach you about math operations, including a lot of playlists with different math topics. The same goes for math and physics closely related to computers and hardware. Perfect if you want to learn about the deepest terms.
 
@@ -390,7 +390,7 @@ Featured playlists: `CS50's Introduction to Artificial Intelligence with Python 
 
 [🔼 Back to the top](#contents)
 
-### Software in general
+## Software in general
 
 YouTubers listed in this category may not be programming tutorials or cool design cards, but some other useful software and applications are used every day for everyone. Master that suite you use a lot or learn more about specific services a company provides you with.
 
@@ -423,7 +423,7 @@ Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutoria
 
 [🔼 Back to the top](#contents)
 
-### Operating system
+## Operating system
 
 Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure. Understand how do these systems work in-deep to allow you to control them using the best methods.
 
@@ -442,7 +442,7 @@ Featured playlists: `Windows Server Beginners Tutorials`, `Managing Networking s
 
 [🔼 Back to the top](#contents)
 
-### Game development
+## Game development
 
 This is a wide topic. In this section, you can find YouTubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modelling and much more.
 
@@ -512,7 +512,7 @@ Featured playlists: `Pygame Tutorial Series (beginner)`, `Pygame Tutorial Series
 
 [🔼 Back to the top](#contents)
 
-### Internet/networking
+## Internet/networking
 
 Internet connection and networking is a wide topic, and it's common to get stuck while learning about this. Get awesome playlists and videos about both software and hardware to know how does the internet connection and networking works. How to properly set a modem/router and what are the IPs, DNS and more.
 
@@ -538,7 +538,7 @@ Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020
 
 [🔼 Back to the top](#contents)
 
-### Life skills and job searching
+## Life skills and job searching
 
 Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or start one by yourself. Find also coding/design/tech companies interview methods.
 
@@ -557,7 +557,7 @@ Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈ca
 
 [🔼 Back to the top](#contents)
 
-### Security
+## Security
 
 Security is something we all should care about. Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
 
@@ -582,7 +582,7 @@ Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`,
 
 [🔼 Back to the top](#contents)
 
-### Digital design
+## Digital design
 
 Web design tutorials are listed in the [web development section](#web-development). But, of course, the digital design is incredibly big, including nice pictures and draw representations about a famous person or attractive promotional videos. Get the knowledge about how to do these things and be a professional with design programs.
 
@@ -633,7 +633,7 @@ Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and vid
 
 [🔼 Back to the top](#contents)
 
-### Audio and video
+## Audio and video
 
 Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more. Using the most popular and the best software to create stunning video animations, well-produced songs and stuff related to these topics.
 
@@ -665,7 +665,7 @@ Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/p
 
 [🔼 Back to the top](#contents)
 
-### Hardware
+## Hardware
 
 CPU's, motherboards, monitors, keyboards, mouses, PC's/Laptops and all about hardware. Modems and routers can be also found here, as well as the newest phones and other technological gadgets. Get recommendations and price/quality comparisons about these products.
 
