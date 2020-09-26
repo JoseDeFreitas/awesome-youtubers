@@ -183,7 +183,7 @@ Featured Playlists: `Advanced Topics in C#`, `Getting Started with C#`, `C# User
 
 ## Web development
 
-Web development includes frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React.js, Vue.js, Angular). It also includes backend development topics, like Node.js, GRAPHQL, SQL and more basic things, like DNS, URLs, Deployment. You can also find freelancing as a web developer and other related stuff.
+Web development includes frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React.js, Vue.js, Angular). It also includes backend development topics, like Node.js, GraphQL, SQL and more basic things, like DNS, URLs, Deployment. You can also find freelancing as a web developer and other related stuff.
 
 [<img align="left" height="94px" width="94px" alt="Codevolution channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1mDLn8-L1yG8jIO2yGHvJzqnMZ03dsc3PbNqe=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 
@@ -327,6 +327,12 @@ Content about: CSS \
 Featured playlists: `CSS theoretical and practical videos`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="The Net Ninja channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyWnmk6Ql70o3P-x2eHIR01SiiYamhspnAN04zhWA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheNetNinja)
+
+[**The Net Ninja**](https://www.youtube.com/c/TheNetNinja) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Frontend, Backend \
+Featured playlists: `Flutter Tutorial for Beginners`, `React.js and React Native playlists`, `a lot of JavaScript playlists, including JavaScript frameworks`, `GraphQL Tutorial`, `many, many more!`.
+
 [🔼 Back to the top](#contents)
 
 ## Computer sciences
@@ -420,6 +426,13 @@ Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microso
 [**Simon Sez IT**](https://www.youtube.com/c/Simonsezit) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Office suite, Microsoft \
 Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutorials`, `Microsoft Outlook 2019`, `more videos about Microsoft programs`.
+
+[<img align="left" height="94px" width="94px" alt="Tom Scott channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwDmz-Sqfl3nOecezetnZo7lxo2sSFGahLOY7dGKg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TomScottGo)
+
+[**Tom Scott**](https://www.youtube.com/c/TomScottGo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Theoretical videos \
+Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science videos`. \
+<br/>
 
 [🔼 Back to the top](#contents)
 
