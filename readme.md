@@ -179,6 +179,18 @@ Featured Playlists: `Spring Framework Courses playlists`, `Spring Boot Microserv
 Content about: C#, .NET \
 Featured Playlists: `Advanced Topics in C#`, `Getting Started with C#`, `C# User Interfaces`, `many other C# videos`, `.NET video tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="WilliamFiset channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxY8Nw3Fq5b3ekWwaTlnHqejPAn1tWfusN4kVobug=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/WilliamFiset-videos)
+
+[**WilliamFiset**](https://www.youtube.com/c/WilliamFiset-videos) \
+Content about: Algoritms, Data structures \
+Featured Playlists: `Network Flow playlist`, `Data structures playlist`, `Graph Theory Playlist`, `Tree Algoritms`, `Dynamic Programming`.
+
+[<img align="left" height="94px" width="94px" alt="Caleb Curry channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzFJLYJgEVYb9xBZrjEkikp4J1XCMJKGZLjMeBrcA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CalebTheVideoMaker2)
+
+[**Caleb Curry**](https://www.youtube.com/c/CalebTheVideoMaker2) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Python, JavaScript, C, C#, C++ \
+Featured Playlists: `Python Programming`, `JavaScript playlist`, `C# Tutorials`, `C Programming Tutorials`, `C++ Tutorials`, `Java Tutorials`, `database tutorial videos`.
+
 [🔼 Back to the top](#contents)
 
 ## Web development
@@ -332,6 +344,19 @@ Featured playlists: `CSS theoretical and practical videos`. \
 [**The Net Ninja**](https://www.youtube.com/c/TheNetNinja) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Frontend, Backend \
 Featured playlists: `Flutter Tutorial for Beginners`, `React.js and React Native playlists`, `a lot of JavaScript playlists, including JavaScript frameworks`, `GraphQL Tutorial`, `many, many more!`.
+
+[<img align="left" height="94px" width="94px" alt="Kevin Powell channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwEYMLm54q5CX7NwBsUrETHMZvMca9tp-3vxrorBA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/kepowob)
+
+[**Kevin Powell**](https://www.youtube.com/kepowob) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: CSS \
+Featured playlists: `CSS Grid videos`, `Flexbox basics`, `Responsive CSS tutorials`, `CSS animation`, `many more CSS video tutorials!`.
+
+[<img align="left" height="94px" width="94px" alt="Harry Wolff channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyYBq2Mid0yyblUOq4vnXB3KTfCaoWgghQJ9WEcBw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hswolff)
+
+[**Harry Wolff**](https://www.youtube.com/c/hswolff) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: React.js, JavaScript \
+Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`. \
+<br/>
 
 [🔼 Back to the top](#contents)
 
@@ -522,6 +547,12 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 [**DaFluffyPotato**](https://www.youtube.com/c/DaFluffyPotato) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Pygame \
 Featured playlists: `Pygame Tutorial Series (beginner)`, `Pygame Tutorial Series (amateur)`, `Pygame Tutorial Series (advanced)`, `more Pygame videos!`.
+
+[<img align="left" height="94px" width="94px" alt="ChiliTomatoNoodle channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw7ckfiEB4cBXQRTsWZ361ObFTWjU6wV91zxbVF=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ChiliTomatoNoodle)
+
+[**ChiliTomatoNoodle**](https://www.youtube.com/c/ChiliTomatoNoodle) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: C++, DirextX, 3D \
+Featured Playlists: `Beginner C++ Game Programming`, `Intermediate C++ Game Programming`, `Advanced C++ Game Programming`, `3D Programming Fundamentals`, `C++ 3D DirextX Programming`.
 
 [🔼 Back to the top](#contents)
 
