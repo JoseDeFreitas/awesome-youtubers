@@ -12,7 +12,19 @@
 
 Para encontrar un tema en específico más rápido, puedes presionar `Ctrl + F` y escribir el tema que estás buscando.
 Es recomendable que abras los links con el click de la ruedita del ratón o clickeando sobre un link y seleccionando "Abrir link en una nueva pestaña". Así, podrás dejar la lista en una pestaña separada.
+- [Programación en general](#programacion-en-general)
 - [Desarrollo web](#desarrollo-web)
+
+## Programación en general
+
+[<img align="left" height="94px" width="94px" alt="CraterMaik channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyefDOEjJdHcYOW6okP2WO1pZjf35F3vVJw1VQL=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CraterMaik)
+
+[**CraterMaik**](https://www.youtube.com/c/CraterMaik) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+Contenido sobre: Discord.js \
+Playlists destacadas: `DISCORD BOT MODULAR`, `Discord BOT | Desarrollo`, `Tutoriales Discord 2020`. \
+<br/>
+
+[🔼 Saltar al inicio](#contenido)
 
 ## Desarrollo web
 
