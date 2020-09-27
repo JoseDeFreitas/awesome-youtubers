@@ -29,6 +29,7 @@
 
 To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
 It's recommendable to open the links with the click of the mouse wheel or by right-clicking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
+- [Contents](#contents)
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
@@ -355,7 +356,13 @@ Featured playlists: `CSS Grid videos`, `Flexbox basics`, `Responsive CSS tutoria
 
 [**Harry Wolff**](https://www.youtube.com/c/hswolff) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: React.js, JavaScript \
-Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`. \
+Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`.
+
+[<img align="left" height="94px" width="94px" alt="Coding Garden channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyd7g6PJDaD3j2Ouariuf_U42P-yZZPQw6-E-B08Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CodingGarden)
+
+[**Coding Garden**](https://www.youtube.com/c/CodingGarden) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: JavaScript, JavaScript frameworks \
+Featured playlists: `Code Wars Code Katas`. \
 <br/>
 
 [🔼 Back to the top](#contents)
