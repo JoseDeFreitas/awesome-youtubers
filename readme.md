@@ -591,7 +591,8 @@ Featured playlists: `Applied Machine Learning Framework`, `Tips & Tricks of mach
 
 [**Ahlad Kumar**](https://www.youtube.com/c/AhladKumar) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Deep learning, Theoretical \
-Featured playlists: `Deep Learning`, `Convolutional Neural Network`, `Neural Networks playlists`, `many more playlists!`.
+Featured playlists: `Deep Learning`, `Convolutional Neural Network`, `Neural Networks playlists`, `many more playlists!`. \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Aladdin Persson channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzv0OdI3kcpMnihQtHt9aJOSEzPNuXqxIV7mgPP3w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AladdinPersson)
 
