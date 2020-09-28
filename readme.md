@@ -561,7 +561,8 @@ Featured playlists: `Mix and Jam Recreations`, `Game Jams`, `RE Mix and Jam`. \
 
 [**Sebastian Lague**](https://www.youtube.com/c/SebastianLague) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Unity, C#, Game design \
-Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedural Planet Generation`, `Coding Adventures`.
+Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedural Planet Generation`, `Coding Adventures`. \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="DaFluffyPotato channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx2zjXrjENr6VU0xQnqHVrqitqoKsFIBGtEwOen8g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DaFluffyPotato)
 
