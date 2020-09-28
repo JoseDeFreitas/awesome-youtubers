@@ -35,6 +35,7 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 - [Software in general](#software-in-general)
 - [Operating system](#operating-system)
 - [Game development](#game-development)
+- [Machine learning](#machine-learning)
 - [Internet/networking](#internetnetworking)
 - [Life skills and job searching](#life-skills-and-job-searching)
 - [Security](#security)
@@ -190,6 +191,19 @@ Featured Playlists: `Network Flow playlist`, `Data structures playlist`, `Graph 
 [**Caleb Curry**](https://www.youtube.com/c/CalebTheVideoMaker2) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Python, JavaScript, C, C#, C++ \
 Featured Playlists: `Python Programming`, `JavaScript playlist`, `C# Tutorials`, `C Programming Tutorials`, `C++ Tutorials`, `Java Tutorials`, `database tutorial videos`.
+
+[<img align="left" height="94px" width="94px" alt="CodingEntrepreneurs channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxtfwKCYoK9gky4vuqWH1yuuXJNMVN3hod5wLrlmQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingEntrepreneurs)
+
+[**CodingEntrepreneurs**](https://www.youtube.com/c/CodingEntrepreneurs) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Python \
+Featured Playlists: `30 Days of Python ~ Python 3.8+`, `Coding With Python`, `Python 3.8 and Django 3+`, `Install and setup on Windows and Mac`.
+
+[<img align="left" height="94px" width="94px" alt="Sebastiaan Mathôt channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7Dj1vkWayAT26rCc9t24yUVI56nchA5jvlm4NWQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/SebastiaanMath%C3%B4t)
+
+[**Sebastiaan Mathôt**](https://www.youtube.com/c/SebastiaanMath%C3%B4t) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Python \
+Featured Playlists: `Python lectures`, `Improving and optimizing Python`, `some other Python playlists!`. \
+<br/>
 
 [🔼 Back to the top](#contents)
 
@@ -355,7 +369,8 @@ Featured playlists: `CSS Grid videos`, `Flexbox basics`, `Responsive CSS tutoria
 
 [**Harry Wolff**](https://www.youtube.com/c/hswolff) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: React.js, JavaScript \
-Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`.
+Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`. \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Coding Garden channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyd7g6PJDaD3j2Ouariuf_U42P-yZZPQw6-E-B08Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CodingGarden)
 
@@ -559,6 +574,67 @@ Featured playlists: `Pygame Tutorial Series (beginner)`, `Pygame Tutorial Series
 [**ChiliTomatoNoodle**](https://www.youtube.com/c/ChiliTomatoNoodle) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: C++, DirextX, 3D \
 Featured Playlists: `Beginner C++ Game Programming`, `Intermediate C++ Game Programming`, `Advanced C++ Game Programming`, `3D Programming Fundamentals`, `C++ 3D DirextX Programming`.
+
+[🔼 Back to the top](#contents)
+
+## Machine learning
+
+[<img align="left" height="94px" width="94px" alt="Abhishek Thakur channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxzAin1zCLuS2UINl_fDJrzu_VsTVkEPgTv6MyRog=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AbhishekThakurAbhi)
+
+[**Abhishek Thakur**](https://www.youtube.com/c/AbhishekThakurAbhi) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Practical videos, Talks \
+Featured playlists: `Applied Machine Learning Framework`, `Tips & Tricks of machine learning`, `more videos!`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Ahlad Kumar channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzcgfOw6DSoVxxHTvIKlZFG4MjZI9TbJGzAUNQC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AhladKumar)
+
+[**Ahlad Kumar**](https://www.youtube.com/c/AhladKumar) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Deep learning, Theoretical \
+Featured playlists: `Deep Learning`, `Convolutional Neural Network`, `Neural Networks playlists`, `many more playlists!`.
+
+[<img align="left" height="94px" width="94px" alt="Aladdin Persson channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzv0OdI3kcpMnihQtHt9aJOSEzPNuXqxIV7mgPP3w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AladdinPersson)
+
+[**Aladdin Persson**](https://www.youtube.com/c/AladdinPersson) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: PyTorch, TensorFlow \
+Featured playlists: `PyTorch Tutorials`, `TensorFlow 2.0 Beginner Tutorials`, `Machine Learning Algorithms`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Andreas Mueller channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx7amajt6o275iRs_Pv-Rh_P73dM1b3C43ih0LtSsw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasMueller)
+
+[**Andreas Mueller**](https://www.youtube.com/c/AndreasMueller) \
+Content about: Machine learning \
+Featured playlists: `Applied Machine Learning 2020`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Data School channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyRLw0hmrqvguHdV1kLPIlanFtyKN20B6Nr0xAC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/dataschool)
+
+[**Data School**](https://www.youtube.com/c/dataschool) \
+Content about: Python, Machine learning, Theoretical \
+Featured playlists: `Introduction to Machine Learning playlists`, `Data analysis in Python with Pandas`, `other talks videos and Python videos`.
+
+[<img align="left" height="94px" width="94px" alt="Henry AI Labs channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzo7KJSSToapwqWLIadmUoLOFVBWTeYtOn3GeIv=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
+
+[**Henry AI Labs**](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) \
+Content about: Theoretical \
+Featured playlists: `Deep Learning Paper Summaries`, `Reinforcement Learning`, `Generative Adversarial Networks`, `Neural Network Design`.
+
+[<img align="left" height="94px" width="94px" alt="Jeremy Howard channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwL2eFQJIPKap7PiMXC84nZH9s10akuRMrcBpA_cA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/howardjeremyp)
+
+[**Jeremy Howard**](https://www.youtube.com/user/howardjeremyp) \
+Content about: Deep learning, Theoretical \
+Featured playlists: `Deep Learning from the Foundations`, `Introduction to Machine Learning for Coders`, `Practical Deep Learning for Coders (2018, 2019, 2020)`.
+
+[<img align="left" height="94px" width="94px" alt="Rasa channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzgLvUqKsklv4UY8i9ugnQnD70igloV2GO6aK0V=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RasaHQ)
+
+[**Rasa**](https://www.youtube.com/c/RasaHQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Rasa, AI, NLP \
+Featured playlists: `NLP for Developers`, `Developing Contextual AI assistants with Rasa tools`, `Algorithm Whiteboard`, `Live Coding`.
+
+[<img align="left" height="94px" width="94px" alt="Yannic Kilcher channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz3i_QqeXKrRmT018ffmOrWmkWxb2MEpHEtiR28BVc=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/YannicKilcher)
+
+[**Yannic Kilcher**](https://www.youtube.com/c/YannicKilcher) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: NLP, Machine learning, Deep learning, Theoretical \
+Featured playlists: `Natural Language Processing`, `General Machine Learning`, `Deep Learning Architectures`, `Computer Vision`, `Applications of Machine Learning`, `more!`.
 
 [🔼 Back to the top](#contents)
 
