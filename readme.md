@@ -724,7 +724,7 @@ Featured playlists: `Cyber Security - Penetration Testing Course (Offensive Secu
 
 [**LiveOverflow**](https://www.youtube.com/c/LiveOverflowCTF) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Ethical hacking \
-Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`. \
+Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`. 
 
 [<img align="left" height="94px" width="94px" alt="null-byte" src="https://yt3.ggpht.com/a/AATXAJwX8qUlbr3ikiGsK_1TEe5i6ALRLhVXfDieN2ni=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 
