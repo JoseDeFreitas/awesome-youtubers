@@ -205,6 +205,19 @@ Content about: Python \
 Featured Playlists: `Python lectures`, `Improving and optimizing Python`, `some other Python playlists!`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="AngelSix channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw7fYBQnfGgKdrlaYJWMcTtlZLobe00ebnq07-a=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngelSix)
+
+[**AngelSix**](https://www.youtube.com/c/AngelSix) \
+Content about: C# \
+Featured Playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.NET Core and ASP.NET Server Development Tutorials`, `WPF UI Programming (C#)`.
+
+[<img align="left" height="94px" width="94px" alt="DataDaft channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzcq5nTTEilaRV9Pprq3q-1DEG3IqqEHMeOkj94=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DataDaft)
+
+[**DataDaft**](https://www.youtube.com/c/DataDaft) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Data science, Python, R, Practical & theoretical \
+Featured Playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
@@ -378,6 +391,12 @@ Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScrip
 Content about: JavaScript, JavaScript frameworks \
 Featured playlists: `Code Wars Code Katas`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Hitesh Choudhary channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxSW9SqAjU_Q4ZXAXfqmGblSkFkUSOMUAnLvK5_mw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HiteshChoudharydotcom)
+
+[**Hitesh Choudhary**](https://www.youtube.com/c/HiteshChoudharydotcom) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Frontend, Backend \
+Featured playlists: `JavaScript course`, `Docker for Beginners`, `MongoDB and Mocha`, `Vue JS Crash Course`, `a lot more of playlists and videos`.
 
 [🔼 Back to the top](#contents)
 
