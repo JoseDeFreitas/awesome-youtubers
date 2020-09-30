@@ -595,6 +595,18 @@ Featured playlists: `Pygame Tutorial Series (beginner)`, `Pygame Tutorial Series
 Content about: C++, DirextX, 3D \
 Featured Playlists: `Beginner C++ Game Programming`, `Intermediate C++ Game Programming`, `Advanced C++ Game Programming`, `3D Programming Fundamentals`, `C++ 3D DirextX Programming`.
 
+[<img align="left" height="94px" width="94px" alt="GDQuest channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzm-kDEnQuVh_KHGA1S7f7xe2d_dywIeLSjSm7PyC8=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
+
+[**GDQuest**](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) \
+Content about: GODOT \
+Featured playlists: `Godot 3 tutorials`, `3d Maze Game in Godot`, `Make Your First 2D Game with Godot`, `Godot - Beginner Game Creation Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="HeartBeast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzoIjRlshuZqc2EyoOtY76mx1jOrnT_VE26BGFctg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/uheartbeast)
+
+[**HeartBeast**](https://www.youtube.com/user/uheartbeast) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: GODOT, 2D, GameMaker \
+Featured playlists: `Godot Engine Tutorials`, `Resource Based Inventory Tutorial in Godot`, `2D Hack-n-Slash Course (Complete Course)`, `GameMaker Platform Tutorials`.
+
 [🔼 Back to the top](#contents)
 
 ## Machine learning
