@@ -218,6 +218,13 @@ Content about: Data science, Python, R, Practical & theoretical \
 Featured Playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Fun Fun Function channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwgZqkGaQtvrnuPj7jVsKzM61YR_Do0zPHZchlUFQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+[**Fun Fun Function**](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Programming principals mostly around javascript \
+Featured Playlists: `OOP in js`, `Unit testing`, `TDD`, `Functional programming in javascript`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
