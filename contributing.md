@@ -16,6 +16,7 @@ It doesn't matter if the youtuber isn't active anymore; if the youtuber has vide
 - The channel is focused on the technology and the youtuber also teaches about tech-related content. Examples of acceptable topics: JavaScript tutorials, web design, command-line cmdlets. Examples of not acceptable topics: freelancing as an illustrator, laws in the technology industry, personal finance tips, makeup, jokes. 
 - It must be an entire YouTube channel (a youtuber). You can't add only one video or playlist.
 - The channel should be made up of content created by the Youtuber. Do not add channels that create playlists and add videos from other youtubers.
+- The channel must follow the [YouTube terms](https://www.youtube.com/t/terms) and any other rules provided by YouTube.
 - The channel must be primarily English. 
 
 **_For awesome YouTubers in other languages:_** Please contribute to the corresponding language list located in the [other-languages folder](https://github.com/JoseDeFreitas/awesome-youtubers/tree/master/other-languages/readme-non_en.md). Rules still apply to non-english channels as well.)
@@ -38,7 +39,9 @@ How to use the Youtuber template:
 - The link to the channel must redirect only to the youtuber's channel main page (it **shouldn't** redirect to one of their videos specific channel section, or subscribe button) (eg. https://www.youtube.com/user/github or https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ). 
 - To get the avatar of the channel, go to the main channel's page, right-click the avatar and select "copy image adress". Paste the image address to replace the LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL in the template. (Do not modify the image or change the width and/or height attributes on the `<img>` tag.)
 - If the channel meets any badge requirements, add accordingly (refer to [badges.md](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md)). If the channel doesn't meet badge(s) requirements, delete that badge and keep the order with the other ones. Channels do not need to meet any badge requirement.
-- The channel must follow the [YouTube terms](https://www.youtube.com/t/terms) and any other rules provided by YouTube.
+- The "Content about" section **should not** be more than **1** line.
+- The "Featured playlists" section **should not** be more than **2** lines. 
+  - If the youtuber doesn't have any playlist, you can consider a series of videos as a playlist or type "`None`".
 
 ### Youtuber template: 
 
@@ -60,8 +63,7 @@ Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
 ...
 ```
 
-*The "Content about" section **should not** be more than **1** line. In this section, describe the main content of the channel.*
-*The "Featured playlists" section **should not** be more than **2** lines. If the youtuber doesn't have any playlist, you can consider as a playlist a series of videos. If still you consider the youtuber doesn't have any playlists, you can type "`None`".*
+
 
 **The "Featured playlists" section could lead to some layout problems**. If the "Featured playlists" section is only 1 line, the youtuber below will have a broken layout. To solve this, add a line break `<br/>`  below the "Featured playlists" line. REMEMBER to also add `\` after the "Featured playlists" section (in the same line). 
 
