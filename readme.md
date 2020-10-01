@@ -397,13 +397,13 @@ Featured playlists: `Code Wars Code Katas`. \
 [**Hitesh Choudhary**](https://www.youtube.com/c/HiteshChoudharydotcom) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Frontend, Backend \
 Featured playlists: `JavaScript course`, `Docker for Beginners`, `MongoDB and Mocha`, `Vue JS Crash Course`, `a lot more of playlists and videos`.
+
+[<img align="left" height="94px" width="94px" alt="Yuri Artyukh channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwD0EmrHZHCCRGW6ApYJ26SBCwCLoemBZ3C9e0Z9w=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/flintyara)
+
+[**Yuri Artyukh**](https://www.youtube.com/user/flintyara) \
+Content about: Live coding around creative coding, WebGl (three.js, glsl) JavaScript animations \
+Featured playlists: `JavaScript`, `Three.js`, `gsap`, `Pixi.js`, `canvas`, `glsl`, `Shaders`. \
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="Yuri Artyukh channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwD0EmrHZHCCRGW6ApYJ26SBCwCLoemBZ3C9e0Z9w=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/flintyara/featured)
-
-[**Yuri Artyukh**](https://www.youtube.com/user/flintyara/featured) \
-Content about: Live coding around creative coding, WebGl (three.js, glsl) javascript animations \
-Featured playlists: `JavaScript`, `Three.js`, `gsap`, `Pixi.js`, `canvas`, `glsl`, `Shaders`.
 
 [🔼 Back to the top](#contents)
 
