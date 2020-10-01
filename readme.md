@@ -403,7 +403,7 @@ Featured playlists: `JavaScript course`, `Docker for Beginners`, `MongoDB and Mo
 [<img align="left" height="94px" width="94px" alt="Jason Lengstorf channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwpXLyeWh28awYmQxqSPXIM6q9eyw4vbkkCf-nJ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Lengstorf/)
 
 [**Jason Lengstorf**](https://www.youtube.com/c/Lengstorf/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Live pair programing coding around Web Development, Frontend, Backend. Jason learns about new topics with industry leaders, from graphQL to D3, passing by Svelte and many other technologies\
+Content about: Live pair programming coding around Web Development, Frontend, Backend. Jason learns about new topics with industry leaders, from graphQL to D3, passing by Svelte and many other technologies\
 Featured playlists: `JavaScript`, `Web development`, `JAMstack`.
 
 <br/>
