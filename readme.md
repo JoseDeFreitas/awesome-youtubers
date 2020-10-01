@@ -748,7 +748,7 @@ Featured playlists: `Using Wireshark`, `NodeMCU`, `RaspberryPi`, `Cyber Weapons 
 
 [<img align="left" height="94px" width="94px" alt="LiveOverflow channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzJ5anzmrJc0GgT4bIkOsdQ8PWsUkrFg04-kyO-zQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
-[**Hackersploit**](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+[**Hackersploit**](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel)[<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Pentesting, Ethical hacking, linux \
 Featured playlists: `Metasploit`, `Linux`, `NMap`,`Osint`. \
 <br/>
