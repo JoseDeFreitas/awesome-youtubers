@@ -85,7 +85,7 @@ To open a pull request:
 - Go to the [Pull request section in this repository](https://github.com/JoseDeFreitas/awesome-youtubers/pulls)
 - Click on "New pull request" 
 - Click on "compare across forks". 
-- Change the two options on the right-hand side to the fork you've created (it should be `your_github_username/awesome-youtubers`) and the branch you've created in your fork. **Don't change the two options on the left (whose should be "base repository: JoseDeFreitas/awesome-youtubers" and "base: main".)** 
+- Change the two options on the right-hand side of the arrow "<-" icon to be the fork you've created (it should be `your_github_username/awesome-youtubers`) and the branch you've created in your fork. **Don't change the two options on the left (whose should be "base repository: JoseDeFreitas/awesome-youtubers" and "base: main".)** 
 - Click on "Create pull request"
 - Write a title and copy & fill the pull request template you can find below. 
 - Click on "Create pull request" and you're all set!
