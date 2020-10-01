@@ -867,4 +867,18 @@ Featured playlists: `Build Guides, Buyer's Guides, and Ultimate Guides`, `Comput
 Content about: Arduino \
 Featured playlists: `Arduino Tutorials for Beginners`, `Raspberry Pi Tutorials for Beginners`, `a lot more Arduino tutorials/projects videos!`.
 
+[<img align="left" height="94px" width="94px" alt="GreatScott! channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz9XEhgD0AaVFVvsxDHzQBAZ84xTwIokpOzarR3fg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
+
+[**GreatScott!**](https://www.youtube.com/user/greatscottlab) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Raspberry Pi, 3D Printing, Electronics \
+Featured playlists: `3D Printing`, `DIY or Buy`, `Build your own Ambilight with the Raspberry Pi`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="RaspberryPiIVBeginners channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlJaQx61gcwSaB_BuzUuGmiI760apf7T93lzoo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/RaspberryPiBeginners)
+
+[**RaspberryPiIVBeginners**](https://www.youtube.com/user/RaspberryPiBeginners) \
+Content about: Raspberry Pi \
+Featured playlists: `Getting started with your Raspberry Pi`. \
+<br/>
+
 [🔼 Back to the top](#contents)
