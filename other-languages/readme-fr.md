@@ -12,9 +12,7 @@
 
 Pour trouver un sujet spécifique plus rapidement, vous pouvez appuyer sur «Ctrl + F» et taper le sujet que vous recherchez.
 Il est recommandé d'ouvrir les liens avec le clic de la molette de la souris ou en cliquant avec le bouton droit de la souris sur un lien et en sélectionnant «Ouvrir le lien dans un nouvel onglet» afin de pouvoir conserver la liste dans un onglet séparé.
-- [Compétences et recherche d'emploi](#programacion-en-general)
-
-
+- [Compétences et recherche d'emploi](#competences-et-recherche-demploi)
 
 ## Compétences et recherche d'emploi
 
