@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-> Watch videos and playlists from YouTubers that teach you about technology.
+> Watch video tutorials from YouTubers that teach you about technology.
 
 <details>
 	<summary>Extra information</summary>
