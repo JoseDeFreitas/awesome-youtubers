@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-> Watch videos and playlists from YouTubers that teach you about technology.
+> Watch video tutorials from YouTubers that teach you about technology.
 
 <details>
 	<summary>Extra information</summary>
@@ -218,6 +218,13 @@ Content about: Data science, Python, R, Practical & theoretical \
 Featured Playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Fun Fun Function channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwgZqkGaQtvrnuPj7jVsKzM61YR_Do0zPHZchlUFQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+[**Fun Fun Function**](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Programming principals, mostly around javascript \
+Featured Playlists: `OOP in js`, `Unit testing`, `TDD`, `Functional programming in javascript`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
@@ -398,14 +405,18 @@ Featured playlists: `Code Wars Code Katas`. \
 Content about: Frontend, Backend \
 Featured playlists: `JavaScript course`, `Docker for Beginners`, `MongoDB and Mocha`, `Vue JS Crash Course`, `a lot more of playlists and videos`.
 
+[<img align="left" height="94px" width="94px" alt="Yuri Artyukh channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwD0EmrHZHCCRGW6ApYJ26SBCwCLoemBZ3C9e0Z9w=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/flintyara)
+
+[**Yuri Artyukh**](https://www.youtube.com/user/flintyara) \
+Content about: Live coding around creative coding, WebGl (three.js, glsl) JavaScript animations \
+Featured playlists: `JavaScript`, `Three.js`, `gsap`, `Pixi.js`, `canvas`, `glsl`, `Shaders`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Jason Lengstorf channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwpXLyeWh28awYmQxqSPXIM6q9eyw4vbkkCf-nJ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Lengstorf/)
+[<img align="left" height="94px" width="94px" alt="Jason Lengstorf channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwpXLyeWh28awYmQxqSPXIM6q9eyw4vbkkCf-nJ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Lengstorf)
 
-[**Jason Lengstorf**](https://www.youtube.com/c/Lengstorf/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Live pair programming coding around Web Development, Frontend, Backend. Jason learns about new topics with industry leaders, from graphQL to D3, passing by Svelte and many other technologies\
-Featured playlists: `JavaScript`, `Web development`, `JAMstack`.
-
+[**Jason Lengstorf**](https://www.youtube.com/c/Lengstorf) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Frontend, Backend, GraphQL, D3, Svelte, other technologies \
+Featured playlists: `JavaScript`, `Web development`, `JAMstack`. \
 <br/>
 
 [🔼 Back to the top](#contents)
@@ -756,6 +767,13 @@ Content about: Networking and security, Tutorials on Pentesting tools, Hacking u
 Featured playlists: `Using Wireshark`, `NodeMCU`, `RaspberryPi`, `Cyber Weapons lab`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Hackersploit channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzJ5anzmrJc0GgT4bIkOsdQ8PWsUkrFg04-kyO-zQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+
+[**Hackersploit**](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel)[<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Pentesting, Ethical hacking, Linux \
+Featured playlists: `Metasploit`, `Linux`, `NMap`,`Osint`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Digital design
@@ -862,5 +880,19 @@ Featured playlists: `Build Guides, Buyer's Guides, and Ultimate Guides`, `Comput
 [**educ8s.tv**](https://www.youtube.com/c/Educ8s) \
 Content about: Arduino \
 Featured playlists: `Arduino Tutorials for Beginners`, `Raspberry Pi Tutorials for Beginners`, `a lot more Arduino tutorials/projects videos!`.
+
+[<img align="left" height="94px" width="94px" alt="GreatScott! channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz9XEhgD0AaVFVvsxDHzQBAZ84xTwIokpOzarR3fg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
+
+[**GreatScott!**](https://www.youtube.com/user/greatscottlab) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Raspberry Pi, 3D Printing, Electronics \
+Featured playlists: `3D Printing`, `DIY or Buy`, `Build your own Ambilight with the Raspberry Pi`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="RaspberryPiIVBeginners channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlJaQx61gcwSaB_BuzUuGmiI760apf7T93lzoo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/RaspberryPiBeginners)
+
+[**RaspberryPiIVBeginners**](https://www.youtube.com/user/RaspberryPiBeginners) \
+Content about: Raspberry Pi \
+Featured playlists: `Getting started with your Raspberry Pi`. \
+<br/>
 
 [🔼 Back to the top](#contents)
