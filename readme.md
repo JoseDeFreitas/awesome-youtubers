@@ -108,7 +108,8 @@ Featured playlists: `The Nature of Code: Simulating Natural Systems with Process
 
 [**Mike Dane**](https://www.youtube.com/c/GiraffeAcademy/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel)
 Content about: MongoDB, SQL, C#, C++ \
-Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C# - Programming Language`, `C++ - Programming Language`.
+Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C# - Programming Language`, `C++ - Programming Language`. \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Geek's Lesson channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVWXu5Yu4c2Cp9dUrzbmaAF117DVADvaOXLtjJ3Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GeeksLesson)
 
