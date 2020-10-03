@@ -643,6 +643,12 @@ Featured playlists: `Godot 3 tutorials`, `3d Maze Game in Godot`, `Make Your Fir
 Content about: GODOT, 2D, GameMaker \
 Featured playlists: `Godot Engine Tutorials`, `Resource Based Inventory Tutorial in Godot`, `2D Hack-n-Slash Course (Complete Course)`, `GameMaker Platform Tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="CodeParade channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzul6EPXLSEcpQs3f7o08QMPaslnnsMgGiz9_RS=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
+
+[**CodeParade**](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Games, Machine Learning, Algorithms \
+Featured playlists: `Fractals & Math`, `Machine Learning & AI`, `Hyperbolica`.
+
 [🔼 Back to the top](#contents)
 
 ## Machine learning
