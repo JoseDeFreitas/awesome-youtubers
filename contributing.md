@@ -1,7 +1,7 @@
 # Contribution guidelines
 
 Please follow the [code of conduct](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/code-of-conduct.md).
-Note that "YouTube channel", "channel" and "youtuber" mean the same thing in [this repository](https://github.com/JoseDeFreitas/awesome-youtubers).
+Note that "YouTube channel", "channel" and "YouTuber" mean the same thing in [this repository](https://github.com/JoseDeFreitas/awesome-youtubers).
 - [Channel rules](#channel-rules)
 - [Add a youtuber](#add-a-youtuber)
   - [Youtuber template](#youtuber-template)
@@ -15,7 +15,7 @@ It doesn't matter if the youtuber isn't active anymore; if the youtuber has vide
 
 - The channel is focused on the technology and the youtuber also teaches about tech-related content. Examples of acceptable topics: JavaScript tutorials, web design, command-line cmdlets. Examples of not acceptable topics: freelancing as an illustrator, laws in the technology industry, personal finance tips, makeup, jokes. 
 - It must be an entire YouTube channel (a youtuber). You can't add only one video or playlist.
-- The channel should be made up of content created by the Youtuber. Do not add channels that create playlists and add videos from other youtubers.
+- The channel should be made up of content created by the YouTuber. Do not add channels that create playlists and add videos from other youtubers.
 - The channel must follow the [YouTube terms](https://www.youtube.com/t/terms) and any other rules provided by YouTube.
 - The channel must be primarily English. 
 
@@ -28,14 +28,14 @@ To add a youtuber, you will need to create a pull request from a forked reposito
 - On the upper right, click on the fork button 
 - In the fork you've created, create a new branch (If you're using command line, do: `git checkout -b NAME_OF_BRANCH`.)
 - Edit the readme.md file in the branch you've just created. 
-- Using the Youtuber template down below, add the youtuber(s) to the appropriate section **at the bottom of the section**  or create another section if you need to (a section holds several YouTube channels, please use discretion). 
+- Using the YouTuber template down below, add the youtuber(s) to the appropriate section **at the bottom of the section**  or create another section if you need to (a section holds several YouTube channels, please use discretion). 
 
 *Jump to the [Pull request template](#pull-request-template) to know how to open a pull request*.
 
-How to use the Youtuber template: 
+How to use the YouTuber template: 
 - Do not use link shorteners
 - Do not change any layout or attributes in the template
-- Fill out the template with Youtuber information replacing items in ALL_CAPS and the featured playlist section
+- Fill out the template with YouTuber information replacing items in ALL_CAPS and the featured playlist section
 - The link to the channel must redirect only to the youtuber's channel main page (it **shouldn't** redirect to one of their videos specific channel section, or subscribe button) (eg. https://www.youtube.com/user/github or https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ). 
 - To get the avatar of the channel, go to the main channel's page, right-click the avatar and select "copy image adress". Paste the image address to replace the LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL in the template. (Do not modify the image or change the width and/or height attributes on the `<img>` tag.)
 - If the channel meets any badge requirements, add accordingly (refer to [badges.md](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md)). If the channel doesn't meet badge(s) requirements, delete that badge and keep the order with the other ones. Channels do not need to meet any badge requirement.
@@ -43,7 +43,7 @@ How to use the Youtuber template:
 - The "Featured playlists" section **should not** be more than **2** lines. 
   - If the youtuber doesn't have any playlist, you can consider a series of videos as a playlist or type "`None`".
 
-### Youtuber template: 
+### YouTuber template: 
 
 ```html
 [<img align="left" height="94px" width="94px" alt="NAME_OF_THE_YOUTUBE_CHANNEL channel's avatar" src="LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL"/>](LINK_TO_THE_CHANNEL)
