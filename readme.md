@@ -471,13 +471,14 @@ Featured playlists: `a lot of Mathematics playlists`, `Computing playlists (Comp
 
 [**Harvard's CS50**](https://www.youtube.com/c/cs50)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Computer science and General Programming \
-Featured playlists: `CS50's Introduction to Artificial Intelligence with Python 2020`, `CS50's Web Programming with Python and JavaScript 2020`, `CS50's Introduction to Game Development 2018`
+Featured playlists: `CS50's Introduction to Artificial Intelligence with Python 2020`, `CS50's Web Programming with Python and JavaScript 2020`, `CS50's Introduction to Game Development 2018`.
 
-[<img align="left" height="94px" width="94px" alt="3blue1brown" src="https://yt3.ggpht.com/a/AATXAJzF-K41Fq96yE6jxs_fE6Hr7zvMXsQbqz1QNxGpjg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+[<img align="left" height="94px" width="94px" alt="3Blue1Brown" src="https://yt3.ggpht.com/a/AATXAJzF-K41Fq96yE6jxs_fE6Hr7zvMXsQbqz1QNxGpjg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/3blue1brown)
 
-[**3blue1brown**](https://www.youtube.com/c/cs50)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+[**3Blue1Brown**](https://www.youtube.com/c/3blue1brown)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Maths and visualization of various mathematical concepts \
-Featured playlists: `Essence Of Calculus`, `Essence Of linear Algebra`, `Neural Networks`
+Featured playlists: `Essence Of Calculus`, `Essence Of linear Algebra`, `Neural Networks`. \
+<br/>
 
 [🔼 Back to the top](#contents)
 
