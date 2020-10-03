@@ -225,6 +225,14 @@ Content about: Programming principals, mostly around javascript \
 Featured Playlists: `OOP in js`, `Unit testing`, `TDD`, `Functional programming in javascript`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Hack Club channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw9b8zgnohCcYtOnlCIFW5sCUTFkzMwXC3FANOXUQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HackClubHQ)
+
+[**Hack Club**](https://www.youtube.com/c/HackClubHQ) \
+Content about: Computer Science, Interviews, Beginner Programming \
+Featured Playlists: `Ship Showcases`. \
+<br/>
+
+
 [🔼 Back to the top](#contents)
 
 ## Web development
