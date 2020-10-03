@@ -412,6 +412,13 @@ Content about: Live coding around creative coding, WebGl (three.js, glsl) JavaSc
 Featured playlists: `JavaScript`, `Three.js`, `gsap`, `Pixi.js`, `canvas`, `glsl`, `Shaders`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Jason Lengstorf channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwpXLyeWh28awYmQxqSPXIM6q9eyw4vbkkCf-nJ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Lengstorf)
+
+[**Jason Lengstorf**](https://www.youtube.com/c/Lengstorf) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Frontend, Backend, GraphQL, D3, Svelte, other technologies \
+Featured playlists: `JavaScript`, `Web development`, `JAMstack`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Computer sciences
