@@ -263,6 +263,13 @@ Content about: CSS \
 Featured playlists: `Full Course: Level Up Your CSS Animation Skills`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="DevTips channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxNH7UVf0iZB1vbfP-n_r4vnuWpVlzRY5eKoJqeyw"/>](https://www.youtube.com/c/DevTipsForDesigners/)
+
+[**DevTips**](https://www.youtube.com/c/DevTipsForDesigners/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
+Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`. \
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Dani Krossing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx6TRb2UtlFRUrc1y8izsVdh5KgI1kYYBdZTwigIQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheCharmefis)
 
 [**Dani Krossing**](https://www.youtube.com/c/TheCharmefis) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
