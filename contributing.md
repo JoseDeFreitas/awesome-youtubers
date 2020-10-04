@@ -10,6 +10,7 @@ Note that "YouTube channel", "channel" and "YouTuber" mean the same thing in [th
 
 Only add youtubers that are **awesome**! *"After all, it's a curation, not a collection"*. [What is awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
 It doesn't matter if the youtuber isn't active anymore; if the youtuber has videos/playlists uploaded but no new videos, it still counts. Follow the channel rules below when deciding on what youtuber to add.
+**Look up into this issue -> [#32](https://github.com/JoseDeFreitas/awesome-youtubers/issues/32) for more information and a discussion.**
 
 ## Channel rules
 
