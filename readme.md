@@ -434,6 +434,13 @@ Content about: Frontend, Backend, GraphQL, D3, Svelte, other technologies \
 Featured playlists: `JavaScript`, `Web development`, `JAMstack`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="DevTips channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxNH7UVf0iZB1vbfP-n_r4vnuWpVlzRY5eKoJqeyw"/>](https://www.youtube.com/c/DevTipsForDesigners/)
+
+[**DevTips**](https://www.youtube.com/c/DevTipsForDesigners/) \
+Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
+Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Computer sciences
