@@ -225,6 +225,13 @@ Content about: Programming principals, mostly around javascript \
 Featured Playlists: `OOP in js`, `Unit testing`, `TDD`, `Functional programming in javascript`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Mike Dane channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwZDjZBLse-ByxN1EAxA5ll42m2QN_8UEL_J0wbdA"/>](https://www.youtube.com/c/GiraffeAcademy/)
+
+[**Mike Dane**](https://www.youtube.com/c/GiraffeAcademy/)
+Content about: MongoDB, SQL, C#, C++ \
+Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C# - Programming Language`, `C++ - Programming Language`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
