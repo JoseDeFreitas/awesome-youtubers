@@ -893,6 +893,27 @@ Content about: Video, Photos \
 Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/photo editing videos`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Blender Guru channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzR_Ep_rWDUxvhDQaEUiN--4TpO3l1tDynnGDGx=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/AndrewPPrice/videos)
+
+[**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel)\
+Content about: Blender, 3D modeling \
+Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series'. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Grant Abbitt channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/mediagabbitt)
+
+[**Grant Abbitt**](https://www.youtube.com/user/mediagabbitt) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: 3D modeling, Reptology, Blender \
+Featured playlists: `Learn sculpting in blender 2.8`, `Blender 2.8 for beginners full course`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="CG Fast Track channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlxDpTb7dFWyQpXiPqWxGQ0WWWyA5GNwf72ru1=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CGFastTrack/)
+
+[**CG Fast Track**](https://www.youtube.com/c/CGFastTrack/)  \
+Content about: Blender \
+Featured playlists: `Blender Fast Track`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Hardware
