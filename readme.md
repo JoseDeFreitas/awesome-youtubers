@@ -897,7 +897,7 @@ Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/p
 
 [**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel)\
 Content about: Blender, 3D modeling \
-Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series'. \
+Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Grant Abbitt channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/mediagabbitt)
