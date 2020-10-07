@@ -234,8 +234,8 @@ Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C
 
 [<img align="left" height="94px" width="94px" alt="The Cherno Project's avatar" src="https://yt3.ggpht.com/a/AATXAJwnC9ATEyVr8Mf-Vz3K1hAUMzPXjxz_rp2LZL6JVg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/TheChernoProject)
 
-[**The Cherno**]https://www.youtube.com/user/TheChernoProject)
-Content about: C++ and game development\
+[**The Cherno**](https://www.youtube.com/user/TheChernoProject)
+Content about: C++ and game development \
 Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java`. \
 <br/>
 
