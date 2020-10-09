@@ -771,6 +771,13 @@ Content about: Job tips, Health \
 Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Joshua Fluke channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsLfjQGNpQtVWS4hXGxM6F21cdArOL-sTIu9rOXw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/Tychos1)
+
+[**Joshua Fluke**](https://www.youtube.com/user/Tychos1) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Interviews, Portfolio Reviews, Getting a Job \
+Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Security
