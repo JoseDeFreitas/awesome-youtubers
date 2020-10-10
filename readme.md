@@ -221,8 +221,8 @@ Featured Playlists: `Python for Data Analysis`, `Introduction to R`, `Python Pro
 [<img align="left" height="94px" width="94px" alt="Fun Fun Function channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwgZqkGaQtvrnuPj7jVsKzM61YR_Do0zPHZchlUFQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 [**Fun Fun Function**](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Programming principals, mostly around javascript \
-Featured Playlists: `OOP in js`, `Unit testing`, `TDD`, `Functional programming in javascript`. \
+Content about: Programming principals, mostly around JavaScript \
+Featured Playlists: `OOP in js`, `Unit testing`, `TDD`, `Functional programming in JavaScript`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Mike Dane channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwZDjZBLse-ByxN1EAxA5ll42m2QN_8UEL_J0wbdA"/>](https://www.youtube.com/c/GiraffeAcademy/)
