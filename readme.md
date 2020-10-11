@@ -232,6 +232,13 @@ Content about: MongoDB, SQL, C#, C++ \
 Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C# - Programming Language`, `C++ - Programming Language`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="3Blue1Brown" src="https://yt3.ggpht.com/a/AATXAJymF9D2kCpzhV3feeWOuCw_xf2FzmYUCabaBrhj=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXpGqiSd3BD0FQ9OP3ziFsw)
+
+[**KodingKevin**](https://www.youtube.com/channel/UCXpGqiSd3BD0FQ9OP3ziFsw) \
+Content about: Data Structures, Algorithims, Coding Interview \
+Featured playlists: `Array Methods Mini Course`, `Javascript Algorithms + Data Structures`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
