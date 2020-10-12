@@ -766,6 +766,13 @@ Featured playlists: `Network Direction`, `Network Fundamentals`, `Firewall and L
 Content about: Networking, CCNA \
 Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020 | Networking Inc.`, `other networking videos`.
 
+[<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
+
+[**PowerCert Animated Videos**](https://www.youtube.com/c/PowerCertAnimatedVideos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Networking hardware with other concepts with helpful the visuals. There is also a crash course on A+ and Net+. \
+Featured playlists: `Information Technology`, `CompTIA Certification`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Life skills and job searching
