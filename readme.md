@@ -53,12 +53,6 @@ There're a lot of programming languages out there. In this section, you can find
 Content about: Python, Other about tech \
 Featured playlists: `Python Machine Learning Tutorials`, `Python Programming Tutorials`, `Kivy Tutorials Python`, `and other Python playlists`.
 
-[<img align="left" height="94px" width="94px" alt="Hussein Nasser channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwIiXF7RJb-MvjLdBMdvpxRNrnXdKgWNmrUzsuamw=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HusseinNasser-software-engineering)
-
-[**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts  \
-Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more`.
-
 [<img align="left" height="94px" width="94px" alt="Derek Banas channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzCCG7r_PWNZBE9SOTRKKGMiBGcTG8XAA33BT2Axw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/derekbanas)
 
 [**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
@@ -251,6 +245,13 @@ Featured playlists: `Array Methods Mini Course`, `Javascript Algorithms + Data S
 Content about: C++ and game development \
 Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Hussein Nasser channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwIiXF7RJb-MvjLdBMdvpxRNrnXdKgWNmrUzsuamw=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HusseinNasser-software-engineering)
+
+[**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts  \
+Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more`.
+
 
 [🔼 Back to the top](#contents)
 
