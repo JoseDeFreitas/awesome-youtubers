@@ -896,6 +896,12 @@ Featured playlists: `PROCREATE TUTORIALS`, `DIGITAL ART TUTORIALS`, `Digital Dra
 Content about: All design, Illustrations, Web design \
 Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and video manipulation playlists`, `Figma videos`, `Learn Photo Effects`.
 
+[<img align="left" height="94px" width="94px" alt="Logos By Nick channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwl3FUpFqnMH4rJ7tnSjuFqpn0gNvSRgrlWXmQxNw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/logosbynick)
+
+[**Logos By Nick**](https://www.youtube.com/c/logosbynick) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Inkscape, Gimp \
+Featured playlists: `Inkscape Beginner Tutorials`, `GIMP Tutorials`, `Inkscape Typeface Tutorials`, `Inkscape Logo Design Tutorials`.
+
 [🔼 Back to the top](#contents)
 
 ## Audio and video
