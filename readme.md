@@ -678,6 +678,13 @@ Featured playlists: `Godot 3 tutorials`, `3d Maze Game in Godot`, `Make Your Fir
 Content about: GODOT, 2D, GameMaker \
 Featured playlists: `Godot Engine Tutorials`, `Resource Based Inventory Tutorial in Godot`, `2D Hack-n-Slash Course (Complete Course)`, `GameMaker Platform Tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="Meth Meth Method channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy1coScVH3_bUoljtyvGxH7jpeS73tNanRpBxHZ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MethMethMethod)
+
+[**Meth Meth Method**](https://www.youtube.com/c/MethMethMethod) \
+Content about: JavaScript \
+Featured playlists: `Super Mario Bros in JavaScript`, `Creating a Tetris Online Multiplayer in Javascript`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Machine learning
