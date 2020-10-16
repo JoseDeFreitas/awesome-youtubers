@@ -259,7 +259,7 @@ Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message
 
 Web development includes frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React.js, Vue.js, Angular). It also includes backend development topics, like Node.js, GraphQL, SQL and more basic things, like DNS, URLs, Deployment. You can also find freelancing as a web developer and other related stuff.
 
-[<img align="left" height="94px" width="94px" alt="Codevolution channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+[<img align="left" height="94px" width="94px" alt="Codevolution channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 [**Online Tutorials**](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)  [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos daily" src="media/badge-daily.svg" title="Uploads videos daily"/>](badges.md#daily-video-upload) \
 Content about: HTML, CSS, JS, Animations, Responsive Web Designs \
