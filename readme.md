@@ -808,7 +808,7 @@ Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
 
 [<img align="left" height="94px" width="94px" alt="Joma Tech channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwnVxHV9cR_nofTeCXS3x2H2jRQjH3YEq8sYqpM=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JomaOppa)
 
-[**Joma Tech**](https://www.youtube.com/c/JomaOppa/videos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) 
+[**Joma Tech**](https://www.youtube.com/c/JomaOppa) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Programming, Job Offers, Salaries, Interviewing \
 Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`. \
 <br/>
