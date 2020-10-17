@@ -1008,3 +1008,14 @@ Featured playlists: `Getting started with your Raspberry Pi`. \
 <br/>
 
 [🔼 Back to the top](#contents)
+
+## Electronics and Communication
+
+All tutorials and videos of every single old as well as new electronic components available in the market. How to get started with electronics stuff, every useful resource, and also get advice/recommendation which product to use and why from persons having much more experience in this field.
+
+[<img align="left" height="94px" width="94px" alt="All about electronics channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy96DtZPu2EJwh5eXuSn6-ru4wz1C4xFTs8GBcwYA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ALLABOUTELECTRONICS)
+
+[**All About Electronics**](https://www.youtube.com/c/ALLABOUTELECTRONICS) \
+Content about: Electronics and Communication \
+Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
+<br/>
