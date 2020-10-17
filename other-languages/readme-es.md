@@ -13,6 +13,7 @@
 Para encontrar un tema en específico más rápido, puedes presionar `Ctrl + F` y escribir el tema que estás buscando.
 Es recomendable que abras los links con el click de la ruedita del ratón o clickeando sobre un link y seleccionando "Abrir link en una nueva pestaña". Así, podrás dejar la lista en una pestaña separada.
 - [Programación en general](#programacion-en-general)
+- [Computación](#computación)
 - [Desarrollo web](#desarrollo-web)
 
 ## Programación en general
@@ -22,6 +23,18 @@ Es recomendable que abras los links con el click de la ruedita del ratón o clic
 [**CraterMaik**](https://www.youtube.com/c/CraterMaik) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Discord.js \
 Playlists destacadas: `DISCORD BOT MODULAR`, `Discord BOT | Desarrollo`, `Tutoriales Discord 2020`. \
+<br/>
+
+[🔼 Saltar al inicio](#contenido)
+
+
+## Computación
+
+[<img align="left" height="94px" width="94px" alt="Memorias de un Informático channel's avatar" src="https://lh3.googleusercontent.com/a-/AOh14Ghoova726gCiIS99qVYCyWFnU15WKgywPyIEhQhpw=s600-k-no-rp-mo"/>](https://www.youtube.com/c/memoriasdeuninformatico)
+
+[**Memorias de un Informático**](https://www.youtube.com/c/memoriasdeuninformatico) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+Contenido sobre: Cursos sobre electrónica, linux y proyectos. \
+Playlists destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso de electrónica`. \
 <br/>
 
 [🔼 Saltar al inicio](#contenido)
