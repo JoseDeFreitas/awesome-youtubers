@@ -42,6 +42,7 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 - [Digital design](#digital-design)
 - [Audio and video](#audio-and-video)
 - [Hardware](#hardware)
+- [Electronics and communication](#electronics-and-communication)
 
 ## Programming in general
 
@@ -1009,7 +1010,7 @@ Featured playlists: `Getting started with your Raspberry Pi`. \
 
 [🔼 Back to the top](#contents)
 
-## Electronics and Communication
+## Electronics and communication
 
 All tutorials and videos of every single old as well as new electronic components available in the market. How to get started with electronics stuff, every useful resource, and also get advice/recommendation which product to use and why from persons having much more experience in this field.
 
@@ -1019,3 +1020,5 @@ All tutorials and videos of every single old as well as new electronic component
 Content about: Electronics and Communication \
 Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
 <br/>
+
+[🔼 Back to the top](#contents)
