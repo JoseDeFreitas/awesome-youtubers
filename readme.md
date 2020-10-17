@@ -42,6 +42,7 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 - [Digital design](#digital-design)
 - [Audio and video](#audio-and-video)
 - [Hardware](#hardware)
+- [Electronics and communication](#electronics-and-communication)
 
 ## Programming in general
 
@@ -685,6 +686,13 @@ Featured playlists: `Godot 3 tutorials`, `3d Maze Game in Godot`, `Make Your Fir
 Content about: GODOT, 2D, GameMaker \
 Featured playlists: `Godot Engine Tutorials`, `Resource Based Inventory Tutorial in Godot`, `2D Hack-n-Slash Course (Complete Course)`, `GameMaker Platform Tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="Meth Meth Method channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy1coScVH3_bUoljtyvGxH7jpeS73tNanRpBxHZ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MethMethMethod)
+
+[**Meth Meth Method**](https://www.youtube.com/c/MethMethMethod) \
+Content about: JavaScript \
+Featured playlists: `Super Mario Bros in JavaScript`, `Creating a Tetris Online Multiplayer in Javascript`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Machine learning
@@ -811,6 +819,13 @@ Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈ca
 [**Joshua Fluke**](https://www.youtube.com/user/Tychos1) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Interviews, Portfolio Reviews, Getting a Job \
 Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Joma Tech channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwnVxHV9cR_nofTeCXS3x2H2jRQjH3YEq8sYqpM=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JomaOppa)
+
+[**Joma Tech**](https://www.youtube.com/c/JomaOppa) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Programming, Job Offers, Salaries, Interviewing \
+Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`. \
 <br/>
 
 [🔼 Back to the top](#contents)
@@ -998,6 +1013,19 @@ Featured playlists: `3D Printing`, `DIY or Buy`, `Build your own Ambilight with 
 [**RaspberryPiIVBeginners**](https://www.youtube.com/user/RaspberryPiBeginners) \
 Content about: Raspberry Pi \
 Featured playlists: `Getting started with your Raspberry Pi`. \
+<br/>
+
+[🔼 Back to the top](#contents)
+
+## Electronics and communication
+
+All tutorials and videos of every single old as well as new electronic components available in the market. How to get started with electronics stuff, every useful resource, and also get advice/recommendation which product to use and why from persons having much more experience in this field.
+
+[<img align="left" height="94px" width="94px" alt="All about electronics channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy96DtZPu2EJwh5eXuSn6-ru4wz1C4xFTs8GBcwYA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ALLABOUTELECTRONICS)
+
+[**All About Electronics**](https://www.youtube.com/c/ALLABOUTELECTRONICS) \
+Content about: Electronics and Communication \
+Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
 <br/>
 
 [🔼 Back to the top](#contents)
