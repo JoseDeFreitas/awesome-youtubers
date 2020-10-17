@@ -1011,3 +1011,4 @@ All tutorials and videos of every single old as well as new electronic component
 [**All About Electronics**](https://www.youtube.com/c/ALLABOUTELECTRONICS) \
 Content about: Electronics and Communication \
 Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
+<br/>
