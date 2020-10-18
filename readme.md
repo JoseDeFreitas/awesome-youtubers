@@ -253,15 +253,13 @@ Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java
 Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts  \
 Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more`.
 <br/>
-<br>
-<br>
+
 [<img align="left" height="94px" width="94px" alt="Alex Lee's channel's avatar" src="https://yt3.ggpht.com/a/AATXAJznc40hgjUtfJdS_KNadxC_6isyQON0Hw54tGJ92w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
 
 [**Alex Lee**](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA/) \
 Content about: Java \
 Featured playlists: `Java Basics 1`, `Java Basics 2`, `Java Intermediate 1`. \
 <br/>
-
 
 [🔼 Back to the top](#contents)
 
