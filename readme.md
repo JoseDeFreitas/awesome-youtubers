@@ -470,6 +470,12 @@ Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
 Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Bitfumes channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzLwNQ4KJb8OhN-K5uBdeSwj2P-qXQJ6GsxJkLvkw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Bitfumes/)
+
+[**Bitfumes**](https://www.youtube.com/c/Bitfumes/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: JavaScript, NextJs, NuxtJs, VueJs, ReactJs, SvelteJs, CSS and CSS Preprocessors, Laravel \
+Featured playlists: `Vuejs`, `SvelteJs`, `Laravel Livewire Full Course`, `Learn to use Nuxt.js`, `ReactJS Basics`, `Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)`.
+
 [🔼 Back to the top](#contents)
 
 ## Computer sciences
