@@ -468,7 +468,6 @@ Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webf
 [**Bitfumes**](https://www.youtube.com/c/Bitfumes/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: JavaScript, NextJs, NuxtJs, VueJs, ReactJs, SvelteJs, CSS and CSS Preprocessors, Laravel \
 Featured playlists: `Vuejs`, `SvelteJs`, `Laravel Livewire Full Course`, `Learn to use Nuxt.js`, `ReactJS Basics`, `Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)`.
-<br/>
 
 [🔼 Back to the top](#contents)
 
