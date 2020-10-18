@@ -60,13 +60,6 @@ Content about: Mathematics, Programming languages \
 Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Alex Lee's channel's avatar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvZUQVPqQ8ipj4pv9rqVt9HCKTzrRsyYdZLcQ_7Ue8U_MV_SYT%3Ahttps%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJznc40hgjUtfJdS_KNadxC_6isyQON0Hw54tGJ92w%3Ds900-c-k-c0x00ffffff-no-rj&usqp=CAU"/>](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA/featured)
-
-[**Alex Lee**](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA/featured) \
-Content about: Java \
-Featured playlists: `Java Basics 1`, `Java Basics 2`, `Java Intermediate 1`. \
-<br/>
-
 [<img align="left" height="94px" width="94px" alt="Don Jones channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwVjl968ProbjWSmYNghqYxAG_EI0-3ZK6QNIHM=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DonJonesConTech)
 
 [**Don Jones**](https://www.youtube.com/c/DonJonesConTech) \
@@ -258,6 +251,13 @@ Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java
 [**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts  \
 Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more`.
+
+[<img align="left" height="94px" width="94px" alt="Alex Lee's channel's avatar" src="[<img align="left" height="94px" width="94px" alt="Alex Lee's channel's avatar" src="https://yt3.ggpht.com/a/AATXAJznc40hgjUtfJdS_KNadxC_6isyQON0Hw54tGJ92w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)"/>]
+
+[**Alex Lee**](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA/) \
+Content about: Java \
+Featured playlists: `Java Basics 1`, `Java Basics 2`, `Java Intermediate 1`. \
+<br/>
 
 
 [🔼 Back to the top](#contents)
