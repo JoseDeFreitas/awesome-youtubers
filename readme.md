@@ -470,6 +470,13 @@ Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
 Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Codevolution channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
+[**Online Tutorials**](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)\
+Content about: HTML, CSS, JS, Animations, Responsive Web Designs \
+Featured playlists: `Css Animation Effects`, `Responsive Website Design from Scratch`, `Css Button Hover Effect`, `Parallax Effect`, `Css Tutorials` `and many more...`
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Bitfumes channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzLwNQ4KJb8OhN-K5uBdeSwj2P-qXQJ6GsxJkLvkw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Bitfumes/)
 
 [**Bitfumes**](https://www.youtube.com/c/Bitfumes/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
