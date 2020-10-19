@@ -15,9 +15,3 @@ This badge is attached to the youtubers that have a verified symbol on their cha
 #### Weekly video upload
 This badge is attached to the youtubers who upload at least 1 video per week.
 
-<br/>
-
-<img align="left" width="90px" height="90px" alt="Badge for youtubers that upload videos weekly" src="media/badge-daily.svg" title="Uploads videos daily"/>
-
-#### Daily video upload
-This badge is attached to the youtubers who upload videos daily.
