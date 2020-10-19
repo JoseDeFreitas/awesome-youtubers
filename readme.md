@@ -467,8 +467,7 @@ Featured playlists: `JavaScript`, `Web development`, `JAMstack`. \
 
 [**DevTips**](https://www.youtube.com/c/DevTipsForDesigners/) \
 Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
-Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`. \
-<br/>
+Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`.
 
 [<img align="left" height="94px" width="94px" alt="Codevolution channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
