@@ -483,6 +483,12 @@ Featured playlists: `Css Animation Effects`, `Responsive Website Design from Scr
 Content about: JavaScript, NextJs, NuxtJs, VueJs, ReactJs, SvelteJs, CSS and CSS Preprocessors, Laravel \
 Featured playlists: `Vuejs`, `SvelteJs`, `Laravel Livewire Full Course`, `Learn to use Nuxt.js`, `ReactJS Basics`, `Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)`.
 
+[<img align="left" height="94px" width="94px" alt="Web Dev Simplified channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlhhukYsdgVeuIspbug5SNo_254oqP9ZyrY2E0=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+
+[**Web Dev Simplified**](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Web development in general, JavaScript, React, CSS, Best practices and design patterns \
+Featured playlists: `Small projects`, `Who Wants To Be A Megabit (Trivia Game)`, `CSS Tutorials`, `Web App Security/Authentication`.
+
 [🔼 Back to the top](#contents)
 
 ## Computer sciences
