@@ -256,9 +256,16 @@ Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message
 
 [<img align="left" height="94px" width="94px" alt="Alex Lee's channel's avatar" src="https://yt3.ggpht.com/a/AATXAJznc40hgjUtfJdS_KNadxC_6isyQON0Hw54tGJ92w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
 
-[**Alex Lee**](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA/) \
+[**Alex Lee**](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA) \
 Content about: Java \
 Featured playlists: `Java Basics 1`, `Java Basics 2`, `Java Intermediate 1`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Redis University's channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyfn-4I6icCb2eNH-v1lYq3c5A8ljfaQvK07BPa=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RedisUniversity)
+
+[**Redis University**](https://www.youtube.com/c/RedisUniversity) \
+Content about: Redis \
+Featured playlists: `Redis Explained: Learn Redis`. \
 <br/>
 
 [🔼 Back to the top](#contents)
