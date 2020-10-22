@@ -500,7 +500,8 @@ Featured playlists: `Small projects`, `Who Wants To Be A Megabit (Trivia Game)`,
 
 [**Ben Awad**](https://www.youtube.com/c/BenAwad97/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Web development, JavaScript, TypeScript, React, GraphQL \
-Featured playlists: `GraphQL tutorials`, `React Hooks`, `Practical React`, `Typescript, Next.js, And GraphQL Series`.
+Featured playlists: `GraphQL tutorials`, `React Hooks`, `Practical React`, `Typescript, Next.js, And GraphQL Series`. \
+<br/>
 
 [🔼 Back to the top](#contents)
 
