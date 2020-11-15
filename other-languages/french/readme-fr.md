@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="428" src="../media/logo.svg" alt="Awesome YouTubers logo">
+		<img width="428" src="../../media/logo.svg" alt="Awesome YouTubers logo">
 	</div>
   	<h1>
     		List of awesome YouTubers in the French language
@@ -18,7 +18,7 @@ Il est recommandé d'ouvrir les liens avec le clic de la molette de la souris ou
 
 [<img align="left" height="94px" width="94px" alt="Benjamin Code channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3OKQ1KaMRIw4g29qkcpz2pC8JTop-9pyXhaY5Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenjaminCode/)
 
-[**Benjamin Code**](https://www.youtube.com/c/BenjaminCode/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**Benjamin Code**](https://www.youtube.com/c/BenjaminCode/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenu sur: Chaine de vulgarisation du monde du web \
 Playlists: `AWWWARDS`, `Front End`, `Freelancing`. \
 <br/>
