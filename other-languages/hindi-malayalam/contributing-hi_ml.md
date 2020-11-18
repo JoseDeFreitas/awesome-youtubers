@@ -12,7 +12,7 @@
 യൂട്യൂബർ ഇപ്പോൾ സജീവമല്ലെങ്കിൽ പ്രശ്‌നമില്ല; യൂട്യൂബറിന് വീഡിയോകൾ / പ്ലേലിസ്റ്റുകൾ അപ്‌ലോഡ് ചെയ്തിട്ടുണ്ടെങ്കിലും പുതിയ വീഡിയോകളില്ലെങ്കിൽ, അത് ഇപ്പോഴും കണക്കാക്കുന്നു. എന്താണ് യൂട്യൂബർ ചേർക്കേണ്ടതെന്ന് തീരുമാനിക്കുമ്പോൾ ചുവടെയുള്ള ചാനൽ നിയമങ്ങൾ പാലിക്കുക.
 ** ഈ പ്രശ്നം പരിശോധിക്കുക -> [#32](https://github.com/JoseDeFreitas/awesome-youtubers/issues/32) for more information and a discussion.**
 
-## Channel rules
+## ചാനൽ നിയമങ്ങൾ
 
 - ചാനൽ സാങ്കേതികവിദ്യയിൽ ശ്രദ്ധ കേന്ദ്രീകരിച്ചിരിക്കുന്നു കൂടാതെ സാങ്കേതികവിദ്യയുമായി ബന്ധപ്പെട്ട ഉള്ളടക്കത്തെക്കുറിച്ചും യൂട്യൂബർ പഠിപ്പിക്കുന്നു. സ്വീകാര്യമായ വിഷയങ്ങളുടെ ഉദാഹരണങ്ങൾ: ജാവാസ്ക്രിപ്റ്റ് ട്യൂട്ടോറിയലുകൾ, വെബ് ഡിസൈൻ, കമാൻഡ്-ലൈൻ cmdlets. സ്വീകാര്യമല്ലാത്ത വിഷയങ്ങളുടെ ഉദാഹരണങ്ങൾ: ഒരു ഇല്ലസ്ട്രേറ്ററായി ഫ്രീലാൻസിംഗ്, സാങ്കേതിക വ്യവസായത്തിലെ നിയമങ്ങൾ, വ്യക്തിഗത ധനകാര്യ ടിപ്പുകൾ, മേക്കപ്പ്, തമാശകൾ.
 - ഇത് ഒരു മുഴുവൻ YouTube ചാനലും (ഒരു യൂട്യൂബർ) ആയിരിക്കണം. നിങ്ങൾക്ക് ഒരു വീഡിയോ അല്ലെങ്കിൽ പ്ലേലിസ്റ്റ് മാത്രം ചേർക്കാൻ കഴിയില്ല.
@@ -20,9 +20,9 @@
 - ചാനൽ ഇത് പാലിക്കണം [YouTube terms](https://www.youtube.com/t/terms) ഒപ്പം YouTube നൽകുന്ന മറ്റേതെങ്കിലും നിയമങ്ങളും.
 - ചാനൽ പ്രാഥമികമായി ഇംഗ്ലീഷ് ആയിരിക്കണം.
 
-**_For awesome YouTubers in other languages:_** Please contribute to the corresponding language list located in the [other-languages folder](https://github.com/JoseDeFreitas/awesome-youtubers/tree/master/other-languages/readme-non_en.md). Rules still apply to non-english channels as well.)
+** _ മറ്റ് ഭാഷകളിലെ ആകർഷണീയമായ യൂട്യൂബർമാർക്കായി: _ ** [മറ്റ് ഭാഷകളുടെ ഫോൾഡറിൽ] സ്ഥിതിചെയ്യുന്ന അനുബന്ധ ഭാഷാ പട്ടികയിലേക്ക് ദയവായി സംഭാവന ചെയ്യുക.(https://github.com/JoseDeFreitas/awesome-youtubers/tree/master/other-languages/readme-non_en.md). ഇംഗ്ലീഷ് ഇതര ചാനലുകൾക്കും നിയമങ്ങൾ ഇപ്പോഴും ബാധകമാണ്.)
 
-## Add a youtuber
+## ഒരു യൂട്യൂബർ ചേർക്കുക
 
 ഒരു യൂട്യൂബർ ചേർക്കാൻ, നിങ്ങൾ ഒരു ഫോർക്ക്ഡ് ശേഖരത്തിൽ നിന്ന് ഒരു പുൾ അഭ്യർത്ഥന സൃഷ്ടിക്കേണ്ടതുണ്ട്.
 
@@ -53,11 +53,11 @@ Content about: EXAMPLE, EXAMPLE, EXAMPLE \
 Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
 ```
 
-When adding a youtuber below other one, you should add another line. Example:
+മറ്റൊന്നിനു താഴെ ഒരു യൂട്യൂബർ ചേർക്കുമ്പോൾ, നിങ്ങൾ മറ്റൊരു വരി ചേർക്കണം. ഉദാഹരണം:
 
-```html
+`` `html
 ...
-Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
+തിരഞ്ഞെടുത്ത പ്ലേലിസ്റ്റുകൾ: `പ്ലേലിസ്റ്റ് -1`,` പ്ലേലിസ്റ്റ് -2`, `പ്ലേലിസ്റ്റ് -3`,` പ്ലേലിസ്റ്റ് -4`.
 
 [<img align="left" height="94px" width="94px" alt="NAME_OF_THE_YOUTUBE_CHANNEL channel's avatar" src="LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL"/>](LINK_TO_THE_CHANNEL)
 ...
