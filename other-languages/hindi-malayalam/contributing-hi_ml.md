@@ -1,12 +1,12 @@
 # സംഭാവന മാർഗ്ഗനിർദ്ദേശങ്ങൾ
 
-ദയവായി പിന്തുടരുക [code of conduct](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/code-of-conduct.md).
-"YouTube ചാനൽ", "ചാനൽ", "യൂട്യൂബർ" എന്നിവ അർത്ഥമാക്കുന്നത് തന്നെയാണ് [this repository](https://github.com/JoseDeFreitas/awesome-youtubers).
-- [Channel rules](#channel-rules)
-- [Add a youtuber](#add-a-youtuber)
-  - [Youtuber template](#youtuber-template)
-  - [Pull request template](#pull-request-template)
-- [Open issues](#open-issues)
+ദയവായി പിന്തുടരുക [പെരുമാറ്റച്ചട്ടം](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/code-of-conduct.md).
+"YouTube ചാനൽ", "ചാനൽ", "യൂട്യൂബർ" എന്നിവ അർത്ഥമാക്കുന്നത് തന്നെയാണ് [ഈ ശേഖരം](https://github.com/JoseDeFreitas/awesome-youtubers).
+- [ചാനൽ നിയമങ്ങൾ](#channel-rules)
+- [ഒരു യൂട്യൂബർ ചേർക്കുക](#add-a-youtuber)
+  - [Youtuber ടെംപ്ലേറ്റ്](#youtuber-template)
+  - [അഭ്യർത്ഥന ടെംപ്ലേറ്റ് വലിക്കുക](#pull-request-template)
+- [പ്രശ്നങ്ങൾ തുറക്കുക](#open-issues)
 
 ** ആകർഷണീയമായ ** യൂട്യൂബറുകൾ മാത്രം ചേർക്കുക! * "എല്ലാത്തിനുമുപരി, ഇത് ഒരു ക്യൂറേഷനാണ്, ഒരു ശേഖരമല്ല" *. [എന്താണ് ആകർഷണീയമായത്?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
 യൂട്യൂബർ ഇപ്പോൾ സജീവമല്ലെങ്കിൽ പ്രശ്‌നമില്ല; യൂട്യൂബറിന് വീഡിയോകൾ / പ്ലേലിസ്റ്റുകൾ അപ്‌ലോഡ് ചെയ്തിട്ടുണ്ടെങ്കിലും പുതിയ വീഡിയോകളില്ലെങ്കിൽ, അത് ഇപ്പോഴും കണക്കാക്കുന്നു. എന്താണ് യൂട്യൂബർ ചേർക്കേണ്ടതെന്ന് തീരുമാനിക്കുമ്പോൾ ചുവടെയുള്ള ചാനൽ നിയമങ്ങൾ പാലിക്കുക.
@@ -31,7 +31,7 @@
 - നിങ്ങൾ ഇപ്പോൾ സൃഷ്ടിച്ച ബ്രാഞ്ചിലെ readme.md ഫയൽ എഡിറ്റുചെയ്യുക.
 - ചുവടെയുള്ള യൂട്യൂബർ ടെംപ്ലേറ്റ് ഉപയോഗിച്ച്, യൂട്യൂബർ (കൾ) ഉചിതമായ വിഭാഗത്തിലേക്ക് ** വിഭാഗത്തിന്റെ ചുവടെ ** ചേർക്കുക അല്ലെങ്കിൽ നിങ്ങൾക്ക് വേണമെങ്കിൽ മറ്റൊരു വിഭാഗം സൃഷ്ടിക്കുക (ഒരു വിഭാഗം നിരവധി YouTube ചാനലുകൾ സൂക്ഷിക്കുന്നു, വിവേചനാധികാരം ഉപയോഗിക്കുക). 
 
-*Jump to the [Pull request template](#pull-request-template) to know how to open a pull request*.
+* ഒരു പുൾ അഭ്യർത്ഥന എങ്ങനെ തുറക്കാമെന്ന് അറിയാൻ [പുൾ അഭ്യർത്ഥന ടെംപ്ലേറ്റ്] (# പുൾ-അഭ്യർത്ഥന-ടെംപ്ലേറ്റ്) ലേക്ക് പോകുക *.
 
 യൂട്യൂബർ ടെംപ്ലേറ്റ് എങ്ങനെ ഉപയോഗിക്കാം:
 - ലിങ്ക് ഷോർട്ടണറുകൾ ഉപയോഗിക്കരുത്
@@ -43,15 +43,15 @@
 - "ഉള്ളടക്കം" വിഭാഗം ** ** ** 1 ** വരിയേക്കാൾ കൂടുതലാകരുത്.
 - "തിരഞ്ഞെടുത്ത പ്ലേലിസ്റ്റുകൾ" വിഭാഗം ** ** ** 2 ** വരികളിൽ കൂടുതലാകരുത്.
   - യൂട്യൂബറിന് പ്ലേലിസ്റ്റ് ഇല്ലെങ്കിൽ, നിങ്ങൾക്ക് ഒരു വീഡിയോ വീഡിയോ പ്ലേലിസ്റ്റായി പരിഗണിക്കാം അല്ലെങ്കിൽ "` ഒന്നുമില്ല` "എന്ന് ടൈപ്പുചെയ്യുക.
-### YouTuber template: 
+### യൂട്യൂബർ ടെംപ്ലേറ്റ്:
 
 ```html
 [<img align="left" height="94px" width="94px" alt="NAME_OF_THE_YOUTUBE_CHANNEL channel's avatar" src="LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL"/>](LINK_TO_THE_CHANNEL)
 
 [**NAME_OF_THE_CHANNEL**](LINK_TO_THE_CHANNEL) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: EXAMPLE, EXAMPLE, EXAMPLE \
-Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
-```
+ഇതിനെക്കുറിച്ചുള്ള ഉള്ളടക്കം: EXAMPLE, EXAMPLE, EXAMPLE \
+തിരഞ്ഞെടുത്ത പ്ലേലിസ്റ്റുകൾ: `പ്ലേലിസ്റ്റ് -1`,` പ്ലേലിസ്റ്റ് -2`, `പ്ലേലിസ്റ്റ് -3`,` പ്ലേലിസ്റ്റ് -4`.
+`` `
 
 മറ്റൊന്നിനു താഴെ ഒരു യൂട്യൂബർ ചേർക്കുമ്പോൾ, നിങ്ങൾ മറ്റൊരു വരി ചേർക്കണം. ഉദാഹരണം:
 
