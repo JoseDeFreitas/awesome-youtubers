@@ -1009,7 +1009,7 @@ Featured playlists: `Learn sculpting in blender 2.8`, `Blender 2.8 for beginners
 Content about: Blender \
 Featured playlists: `Blender Fast Track`. \
 <br/>
-//new youtuber
+//new youtuber 
 [<img align="left" height="94px" width="94px" alt="CG Fast Track channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjrGM34PR7NdULgvDghJw8TqcbhPEVB35CxlbbhFw=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)
 
 [**CG Fast Track**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)  \
