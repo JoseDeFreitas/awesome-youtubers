@@ -1010,6 +1010,14 @@ Content about: Blender \
 Featured playlists: `Blender Fast Track`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="CG Fast Track channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjrGM34PR7NdULgvDghJw8TqcbhPEVB35CxlbbhFw=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)
+
+[**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)  \[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Video, Photos \
+Content about: Blender,modeling, \
+Featured playlists: `shadeing with node`.`makeing looping animationswith blender in evee engine` \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Hardware
