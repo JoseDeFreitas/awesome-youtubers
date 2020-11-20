@@ -1003,19 +1003,18 @@ Content about: 3D modeling, Reptology, Blender \
 Featured playlists: `Learn sculpting in blender 2.8`, `Blender 2.8 for beginners full course`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="CG Fast Track channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlxDpTb7dFWyQpXiPqWxGQ0WWWyA5GNwf72ru1=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CGFastTrack/)
+[<img align="left" height="94px" width="94px" alt="CG Fast Track channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlxDpTb7dFWyQpXiPqWxGQ0WWWyA5GNwf72ru1=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CGFastTrack)
 
-[**CG Fast Track**](https://www.youtube.com/c/CGFastTrack/)  \
-Content about: Blender \
-Featured playlists: `Blender Fast Track`. \
+[**CG Fast Track**](https://www.youtube.com/c/CGFastTrack)  \
+Content about: Blender, 3D modeling \
+Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="CG Fast Track channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjrGM34PR7NdULgvDghJw8TqcbhPEVB35CxlbbhFw=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)
+[<img align="left" height="94px" width="94px" alt="CG Fast Track channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjrGM34PR7NdULgvDghJw8TqcbhPEVB35CxlbbhFw=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
 
-[**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)  \[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+[**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Video, Photos \
-Content about: Blender,modeling, \
-Featured playlists: `shadeing with node`.`makeing looping animationswith blender in evee engine` \
+Featured playlists: `Shading with nodes`.`Making looping animations with Blender in Eevee engine` \
 <br/>
 
 [🔼 Back to the top](#contents)
