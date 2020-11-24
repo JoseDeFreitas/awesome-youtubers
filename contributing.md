@@ -10,6 +10,7 @@ Note that "YouTube channel", "channel" and "YouTuber" mean the same thing in [th
 
 Only add youtubers that are **awesome**! *"After all, it's a curation, not a collection"*. [What is awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
 It doesn't matter if the youtuber isn't active anymore; if the youtuber has videos/playlists uploaded but no new videos, it still counts. Follow the channel rules below when deciding on what youtuber to add.
+**Look up into this issue -> [#32](https://github.com/JoseDeFreitas/awesome-youtubers/issues/32) for more information and a discussion.**
 
 ## Channel rules
 
@@ -63,8 +64,6 @@ Featured playlists: `playlist-1`, `playlist-2`, `playlist-3`, `playlist-4`.
 ...
 ```
 
-
-
 **The "Featured playlists" section could lead to some layout problems**. If the "Featured playlists" section is only 1 line, the youtuber below will have a broken layout. To solve this, add a line break `<br/>`  below the "Featured playlists" line. REMEMBER to also add `\` after the "Featured playlists" section (in the same line). 
 
 Example:
@@ -87,12 +86,12 @@ To open a pull request:
 - Click on "compare across forks". 
 - Change the two options on the right-hand side of the arrow "<-" icon to be the fork you've created (it should be `your_github_username/awesome-youtubers`) and the branch you've created in your fork. **Don't change the two options on the left (whose should be "base repository: JoseDeFreitas/awesome-youtubers" and "base: main".)** 
 - Click on "Create pull request"
-- Write a title and copy & fill the pull request template you can find below. 
+- You should see the [pull request template](https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/.github/pull_request_template.md) automatically. Fill it with the proper information.
 - Click on "Create pull request" and you're all set!
 
 You can add any number of youtubers at a time in just one pull request. *The label "new youtuber" will get automatically added when you open the pull request*. To keep the order, please follow this pull request syntax (copy and paste):
 
-Follow this template:
+Follow this template ([pull request template](https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/.github/pull_request_template.md). It should be automatically typed when you open the pull request):
 
 ```
 - **Name of the youtuber:**
