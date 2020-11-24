@@ -895,20 +895,20 @@ Featured playlists: `Using Wireshark`, `NodeMCU`, `RaspberryPi`, `Cyber Weapons 
 
 [<img align="left" height="94px" width="94px" alt="Hackersploit channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzJ5anzmrJc0GgT4bIkOsdQ8PWsUkrFg04-kyO-zQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
-[**Hackersploit**](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel)[<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+[**Hackersploit**](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Pentesting, Ethical hacking, Linux \
 Featured playlists: `Metasploit`, `Linux`, `NMap`,`Osint`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Gerald Auger's channel avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhE2DbmnPI3pt2MduxNiMHx4yx37bHq3W01WVNEV4c=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GeraldAuger)
 
-[**Gerald Auger**](https://www.youtube.com/c/GeraldAuger) \
+[**Gerald Auger**](https://www.youtube.com/c/GeraldAuger) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Cyber security \
 Featured playlists: `Breaking Into Cybersecurity Videos - Simply Cyber`, `Cybersecurity Job Hunting QA with Recruiters`, `Free Pentester List Companion`.
 
 [<img align="left" height="94px" width="94px" alt="Network Chuck's channel avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh6QHLdRPfo9NF-2TFY0fiAqnjLXiV48odLQASLQA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NetworkChuck)
 
-[**Network Chuck**](https://www.youtube.com/c/NetworkChuck)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+[**Network Chuck**](https://www.youtube.com/c/NetworkChuck)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Networking, Cyber security, Ethical hacking \
 Featured playlists: `Linux - NetworkChuck`, `FREE Security+ SY0-601 // Complete Course // thisisIT 2020`, `FREE CCNA 200-301 // Complete Course // NetworkChuck 2020`.
 
