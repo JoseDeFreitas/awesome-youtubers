@@ -251,8 +251,7 @@ Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java
 
 [**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts  \
-Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more`. \
-<br/>
+Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more video tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Alex Lee's channel's avatar" src="https://yt3.ggpht.com/a/AATXAJznc40hgjUtfJdS_KNadxC_6isyQON0Hw54tGJ92w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
 
@@ -267,6 +266,12 @@ Featured playlists: `Java Basics 1`, `Java Basics 2`, `Java Intermediate 1`. \
 Content about: Redis \
 Featured playlists: `Redis Explained: Learn Redis`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="NeuralNine channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniZ0iAR0-iiqjCju5guN6OlEE_blepRLtwIy1Qn-Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NeuralNine)
+
+[**NeuralNine**](https://www.youtube.com/c/NeuralNine) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Python, Data structures, Data science, Machine learning, Ethical hacking  \
+Featured playlists: `Algorithms & Data Structures`, `Python Machine Learning Tutorial`, `Python AI Projects`, `Python Hacking Projects`, `Python beginner/intermediate tutorials`.
 
 [🔼 Back to the top](#contents)
 
