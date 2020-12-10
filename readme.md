@@ -1,4 +1,5 @@
 <!--lint disable double-link-->
+<!--lint disable awesome-heading-->
 <div align="center">
   	<h1>
     	Awesome YouTubers
