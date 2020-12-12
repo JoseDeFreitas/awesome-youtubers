@@ -271,8 +271,14 @@ Featured playlists: `Redis Explained: Learn Redis`. \
 [<img align="left" height="94px" width="94px" alt="NeuralNine channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniZ0iAR0-iiqjCju5guN6OlEE_blepRLtwIy1Qn-Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NeuralNine)
 
 [**NeuralNine**](https://www.youtube.com/c/NeuralNine) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Python, Data structures, Data science, Machine learning, Ethical hacking  \
+Content about: Python, Data structures, Data science, Machine learning, Ethical hacking \
 Featured playlists: `Algorithms & Data Structures`, `Python Machine Learning Tutorial`, `Python AI Projects`, `Python Hacking Projects`, `Python beginner/intermediate tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Real Python channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniUJEo6f8ReELm9g2vZ1bDV8AOv8mDclTRTpHGMCA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/realpython)
+
+[**Real Python**](https://www.youtube.com/c/realpython) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Python \
+Featured playlists: `Python - Intermediate and Advanced Features`, `Functional Programming in Python`, `Tools for Effective Python Development`, `How to Build Your Python Career`.
 
 [🔼 Back to the top](#contents)
 
