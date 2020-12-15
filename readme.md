@@ -280,6 +280,12 @@ Featured playlists: `Algorithms & Data Structures`, `Python Machine Learning Tut
 Content about: Python \
 Featured playlists: `Python - Intermediate and Advanced Features`, `Functional Programming in Python`, `Tools for Effective Python Development`, `How to Build Your Python Career`.
 
+[<img align="left" height="94px" width="94px" alt="LucidProgramming channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhLj6DBmXKsj17LiBv_6dtkL2NHss_0p7LfaHSC=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LucidProgramming)
+
+[**LucidProgramming**](https://www.youtube.com/c/LucidProgramming) \
+Content about: Python \
+Featured playlists: `Algorithms (Python)`, `Data Structures (Python)`, `Technical Interview Preparation`, `Web Scraping and Automation (Python)`, `many more videos`.
+
 [🔼 Back to the top](#contents)
 
 ## Web development
