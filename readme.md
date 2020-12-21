@@ -813,6 +813,12 @@ Content about: NLP, Machine learning, AI \
 Featured playlists: `Events and Talks`, `Research Releases`, `Robotics`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Two Minute Papers channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngQ4bmzYvPJ1N0eh27Rl67yAOoydc8TPeLcPa_4Tw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
+
+[**Two Minute Papers**](https://www.youtube.com/c/K%C3%A1rolyZsolnai) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Machine Learning and AI Research, Scientific Papers \
+Featured playlists: `Two Minute Papers`, `AlphaGo`, `Fluid, Cloth and Hair Simulations`, `AI and Deep Learning`, `Light Transport, Ray Tracing and Global Illumination`.
+
 [🔼 Back to the top](#contents)
 
 ## Internet/networking
