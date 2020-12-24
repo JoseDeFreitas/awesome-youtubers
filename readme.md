@@ -589,6 +589,13 @@ Content about: Maths and visualization of various mathematical concepts \
 Featured playlists: `Essence Of Calculus`, `Essence Of linear Algebra`, `Neural Networks`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Socratica channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh5LCFZXxMvzoKjloDxqtbc9wXJkdLN4F_SKsEe4w=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Socratica)
+
+[**Socratica**](https://www.youtube.com/c/Socratica) \
+Content about: Math, Computing, General science \
+Featured playlists: `Abstract Algebra`, `Learn Python playlist`, `videos about studying`, `many more science topics`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Software in general
