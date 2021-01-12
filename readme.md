@@ -518,7 +518,14 @@ Featured playlists: `Small projects`, `Who Wants To Be A Megabit (Trivia Game)`,
 
 [**Ben Awad**](https://www.youtube.com/c/BenAwad97/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Web development, JavaScript, TypeScript, React, GraphQL \
-Featured playlists: `GraphQL tutorials`, `React Hooks`, `Practical React`, `Typescript, Next.js, And GraphQL Series`. \
+Featured playlists: `GraphQL tutorials`, `React Hooks`, `Practical React`, `Typescript, Next.js, And GraphQL Series`.
+
+
+[<img align="left" height="94px" width="94px" alt="Ebenezer Don channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjCNjtNKGVhvNY9Thj60vx_mgsd5CvPprH6HWBbIQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ebenezerdon/)
+
+[**Ebenezer Don**](https://www.youtube.com/c/ebenezerdon/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: HTML, CSS, JavaScript, Firebase, FastAPI, TypeScript \
+Featured playlists: `Getting started with Web development`, `Version control`, `Frontend database management`.
 <br/>
 
 [🔼 Back to the top](#contents)
