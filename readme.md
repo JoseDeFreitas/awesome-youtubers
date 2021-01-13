@@ -286,6 +286,12 @@ Featured playlists: `Python - Intermediate and Advanced Features`, `Functional P
 Content about: Python \
 Featured playlists: `Algorithms (Python)`, `Data Structures (Python)`, `Technical Interview Preparation`, `Web Scraping and Automation (Python)`, `many more videos`.
 
+[<img align="left" height="94px" width="94px" alt="Nick Chapsas' channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngu9ixqZQkUBXieYuC38lf2SZd4AphVjuDMhQb8Cg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/ElfocrashDev)
+
+[**Nick Chapsas**](https://www.youtube.com/user/ElfocrashDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: C#, .NET, Azure, AWS, General Programming \
+Featured Playlists: `ASP.NET Core REST API Tutorial`, `ASP.NET Core General Tutorials`, `Essential Nuget Packages in .NET`, `Discussion and Advice`, `Software Engineering Fundamentals`.
+
 [🔼 Back to the top](#contents)
 
 ## Web development
