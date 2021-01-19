@@ -29,8 +29,7 @@ Playlists destacadas: `DISCORD BOT MODULAR`, `Discord BOT | Desarrollo`, `Tutori
 
 [**John Ortiz Ordoñez**](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Python, Java, Ejercicios de programación \
-Playlists destacadas: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de Numpy`, `Pandas - Ejercicios`, `muchas más playlists`. \
-<br/>
+Playlists destacadas: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de Numpy`, `Pandas - Ejercicios`, `muchas más playlists`.
 
 [🔼 Saltar al inicio](#contenido)
 
