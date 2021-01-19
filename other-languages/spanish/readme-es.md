@@ -25,6 +25,13 @@ Contenido sobre: Discord.js \
 Playlists destacadas: `DISCORD BOT MODULAR`, `Discord BOT | Desarrollo`, `Tutoriales Discord 2020`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="John Ortiz Ordoñez channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwni1NXIn1P5nKqk5hQsu4rzLpXsmWKRo6Xv9DbRiRg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez)
+
+[**John Ortiz Ordoñez**](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+Contenido sobre: Python, Java, Ejercicios de programación \
+Playlists destacadas: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de Numpy`, `Pandas - Ejercicios`, `muchas más playlists`. \
+<br/>
+
 [🔼 Saltar al inicio](#contenido)
 
 
