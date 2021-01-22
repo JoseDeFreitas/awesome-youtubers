@@ -292,6 +292,13 @@ Featured playlists: `Algorithms (Python)`, `Data Structures (Python)`, `Technica
 Content about: C#, .NET, Azure, AWS, General Programming \
 Featured Playlists: `ASP.NET Core REST API Tutorial`, `ASP.NET Core General Tutorials`, `Essential Nuget Packages in .NET`, `Discussion and Advice`, `Software Engineering Fundamentals`.
 
+[<img align="left" height="94px" width="94px" alt="Python In 1 Minute's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngu9ixqZQkUBXieYuC38lf2SZd4AphVjuDMhQb8Cg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PythonIn1Minute)
+
+[**Python In 1 Minute*s*](https://www.youtube.com/c/PythonIn1Minute) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Python \
+Featured Playlists: `1-Minute Tutorials`, `a lot of Python videos from various Python topics`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
