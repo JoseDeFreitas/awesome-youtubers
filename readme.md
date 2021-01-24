@@ -299,6 +299,13 @@ Content about: Python \
 Featured Playlists: `1-Minute Tutorials`, `a lot of Python videos from various Python topics`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Andreas Kling's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngQe82aB9iyW0oPVNvK9C5P8S5amy4J8vNNgc0lNg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasKling)
+
+[**Andreas Kling**](https://www.youtube.com/c/AndreasKling) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Hacking \
+Featured Playlists: `Browser hacking`, `DevTools hacking`, `OS hacking`, `SerenityOS`, `Emulator hacking`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
