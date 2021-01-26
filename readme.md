@@ -30,19 +30,20 @@
 
 To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
 It's recommendable to open the links with the click of the mouse wheel or by right-clicking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
+
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer sciences](#computer-sciences)
-- [Software in general](#software-in-general)
-- [Operating system](#operating-system)
-- [Game development](#game-development)
 - [Machine learning](#machine-learning)
-- [Internet/networking](#internetnetworking)
-- [Life skills and job searching](#life-skills-and-job-searching)
+- [Game development](#game-development)
 - [Security](#security)
+- [Internet/networking](#internetnetworking)
+- [Software in general](#software-in-general)
+- [Operating systems](#operating-systems)
 - [Digital design](#digital-design)
 - [Audio and video](#audio-and-video)
 - [Hardware](#hardware)
+- [Life skills and job searching](#life-skills-and-job-searching)
 - [Electronics and communication](#electronics-and-communication)
 
 ## Programming in general
@@ -625,62 +626,80 @@ Featured playlists: `Abstract Algebra`, `Learn Python playlist`, `videos about s
 
 [🔼 Back to the top](#contents)
 
-## Software in general
+## Machine learning
 
-YouTubers listed in this category may not be programming tutorials or cool design cards, but some other useful software and applications are used every day for everyone. Master that suite you use a lot or learn more about specific services a company provides you with.
+Find YouTubers experienced in Deep Learning, Natural Language Processing, Neural Network and many more topics related to this wide category. A good thing about Machine Learning is that it can be applied using different programming languages, and the core concepts meet the same structure for the different programming languages.
 
-[<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
+[<img align="left" height="94px" width="94px" alt="Abhishek Thakur channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxzAin1zCLuS2UINl_fDJrzu_VsTVkEPgTv6MyRog=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AbhishekThakurAbhi)
 
-[**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Google Spreadsheets \
-Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
+[**Abhishek Thakur**](https://www.youtube.com/c/AbhishekThakurAbhi) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Practical videos, Talks \
+Featured playlists: `Applied Machine Learning Framework`, `Tips & Tricks of machine learning`, `more videos!`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="ICT Tutorial Channel channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwhgEIoD76OH0GpP96oCCC9ezV3sEJwXTXfwnWI=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/amamd91)
+[<img align="left" height="94px" width="94px" alt="Ahlad Kumar channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzcgfOw6DSoVxxHTvIKlZFG4MjZI9TbJGzAUNQC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AhladKumar)
 
-[**ICT Tutorial Channel**](https://www.youtube.com/c/amamd91) \
-Content about: Windows, Networking, C++\
-Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET Tutorial`, `Computing in general videos`. \
+[**Ahlad Kumar**](https://www.youtube.com/c/AhladKumar) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Deep learning, Theoretical \
+Featured playlists: `Deep Learning`, `Convolutional Neural Network`, `Neural Networks playlists`, `many more playlists!`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Online Training for Everyone channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzKIt0dhdvc7FP-6HRlB-WClDG9geZOhC_eDaIYqw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/OnlineTrainingforEveryone)
+[<img align="left" height="94px" width="94px" alt="Aladdin Persson channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzv0OdI3kcpMnihQtHt9aJOSEzPNuXqxIV7mgPP3w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AladdinPersson)
 
-[**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Excel, Office suite \
-Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`. \
+[**Aladdin Persson**](https://www.youtube.com/c/AladdinPersson) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: PyTorch, TensorFlow \
+Featured playlists: `PyTorch Tutorials`, `TensorFlow 2.0 Beginner Tutorials`, `Machine Learning Algorithms`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Simon Sez IT channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)
+[<img align="left" height="94px" width="94px" alt="Andreas Mueller channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx7amajt6o275iRs_Pv-Rh_P73dM1b3C43ih0LtSsw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasMueller)
 
-[**Simon Sez IT**](https://www.youtube.com/c/Simonsezit) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Office suite, Microsoft \
-Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutorials`, `Microsoft Outlook 2019`, `more videos about Microsoft programs`.
-
-[<img align="left" height="94px" width="94px" alt="Tom Scott channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwDmz-Sqfl3nOecezetnZo7lxo2sSFGahLOY7dGKg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TomScottGo)
-
-[**Tom Scott**](https://www.youtube.com/c/TomScottGo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Theoretical videos \
-Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science videos`. \
+[**Andreas Mueller**](https://www.youtube.com/c/AndreasMueller) \
+Content about: Machine learning \
+Featured playlists: `Applied Machine Learning 2020`. \
 <br/>
 
-[🔼 Back to the top](#contents)
+[<img align="left" height="94px" width="94px" alt="Data School channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyRLw0hmrqvguHdV1kLPIlanFtyKN20B6Nr0xAC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/dataschool)
 
-## Operating system
+[**Data School**](https://www.youtube.com/c/dataschool) \
+Content about: Python, Machine learning, Theoretical \
+Featured playlists: `Introduction to Machine Learning playlists`, `Data analysis in Python with Pandas`, `other talks videos and Python videos`.
 
-Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure. Understand how do these systems work in-deep to allow you to control them using the best methods.
+[<img align="left" height="94px" width="94px" alt="Henry AI Labs channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzo7KJSSToapwqWLIadmUoLOFVBWTeYtOn3GeIv=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
 
-[<img align="left" height="94px" width="94px" alt="Riba Linux channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyzXrRfkiVxobJ_1-ot6Nwbb-8hzmOInqGjQJReXQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RibaLinux)
+[**Henry AI Labs**](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) \
+Content about: Theoretical \
+Featured playlists: `Deep Learning Paper Summaries`, `Reinforcement Learning`, `Generative Adversarial Networks`, `Neural Network Design`.
 
-[**Riba Linux**](https://www.youtube.com/c/RibaLinux) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Linux \
-Featured playlists: `Install and overview`, `Linux How-to`. \
+[<img align="left" height="94px" width="94px" alt="Jeremy Howard channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwL2eFQJIPKap7PiMXC84nZH9s10akuRMrcBpA_cA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/howardjeremyp)
+
+[**Jeremy Howard**](https://www.youtube.com/user/howardjeremyp) \
+Content about: Deep learning, Theoretical \
+Featured playlists: `Deep Learning from the Foundations`, `Introduction to Machine Learning for Coders`, `Practical Deep Learning for Coders (2018, 2019, 2020)`.
+
+[<img align="left" height="94px" width="94px" alt="Rasa channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzgLvUqKsklv4UY8i9ugnQnD70igloV2GO6aK0V=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RasaHQ)
+
+[**Rasa**](https://www.youtube.com/c/RasaHQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Rasa, AI, NLP \
+Featured playlists: `NLP for Developers`, `Developing Contextual AI assistants with Rasa tools`, `Algorithm Whiteboard`, `Live Coding`.
+
+[<img align="left" height="94px" width="94px" alt="Yannic Kilcher channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz3i_QqeXKrRmT018ffmOrWmkWxb2MEpHEtiR28BVc=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/YannicKilcher)
+
+[**Yannic Kilcher**](https://www.youtube.com/c/YannicKilcher) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: NLP, Machine learning, Deep learning, Theoretical \
+Featured playlists: `Natural Language Processing`, `General Machine Learning`, `Deep Learning Architectures`, `Computer Vision`, `Applications of Machine Learning`, `more!`.
+
+[<img align="left" height="94px" width="94px" alt="OpenAI channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz6fHHMIRnCsE_4aRMTScsggskYwEFkuOWryZPi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
+
+[**OpenAI**](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A) \
+Content about: NLP, Machine learning, AI \
+Featured playlists: `Events and Talks`, `Research Releases`, `Robotics`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="MSFT WebCast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy8oFBuw6tSoDlY7bV6kK_97atCLWDgBH-pypW8dw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/MSFTWebCast)
+[<img align="left" height="94px" width="94px" alt="Two Minute Papers channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngQ4bmzYvPJ1N0eh27Rl67yAOoydc8TPeLcPa_4Tw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 
-[**MSFT WebCast**](https://www.youtube.com/c/MSFTWebCast) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Windows \
-Featured playlists: `Windows Server Beginners Tutorials`, `Managing Networking services in Windows Server`, `Managing Active Directory Infrastructure`.
+[**Two Minute Papers**](https://www.youtube.com/c/K%C3%A1rolyZsolnai) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Machine Learning and AI Research, Scientific Papers \
+Featured playlists: `Two Minute Papers`, `AlphaGo`, `Fluid, Cloth and Hair Simulations`, `AI and Deep Learning`, `Light Transport, Ray Tracing and Global Illumination`.
 
 [🔼 Back to the top](#contents)
 
@@ -780,147 +799,6 @@ Featured playlists: `Super Mario Bros in JavaScript`, `Creating a Tetris Online 
 
 [🔼 Back to the top](#contents)
 
-## Machine learning
-
-[<img align="left" height="94px" width="94px" alt="Abhishek Thakur channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxzAin1zCLuS2UINl_fDJrzu_VsTVkEPgTv6MyRog=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AbhishekThakurAbhi)
-
-[**Abhishek Thakur**](https://www.youtube.com/c/AbhishekThakurAbhi) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Practical videos, Talks \
-Featured playlists: `Applied Machine Learning Framework`, `Tips & Tricks of machine learning`, `more videos!`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Ahlad Kumar channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzcgfOw6DSoVxxHTvIKlZFG4MjZI9TbJGzAUNQC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AhladKumar)
-
-[**Ahlad Kumar**](https://www.youtube.com/c/AhladKumar) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Deep learning, Theoretical \
-Featured playlists: `Deep Learning`, `Convolutional Neural Network`, `Neural Networks playlists`, `many more playlists!`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Aladdin Persson channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzv0OdI3kcpMnihQtHt9aJOSEzPNuXqxIV7mgPP3w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AladdinPersson)
-
-[**Aladdin Persson**](https://www.youtube.com/c/AladdinPersson) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: PyTorch, TensorFlow \
-Featured playlists: `PyTorch Tutorials`, `TensorFlow 2.0 Beginner Tutorials`, `Machine Learning Algorithms`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Andreas Mueller channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx7amajt6o275iRs_Pv-Rh_P73dM1b3C43ih0LtSsw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasMueller)
-
-[**Andreas Mueller**](https://www.youtube.com/c/AndreasMueller) \
-Content about: Machine learning \
-Featured playlists: `Applied Machine Learning 2020`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Data School channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyRLw0hmrqvguHdV1kLPIlanFtyKN20B6Nr0xAC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/dataschool)
-
-[**Data School**](https://www.youtube.com/c/dataschool) \
-Content about: Python, Machine learning, Theoretical \
-Featured playlists: `Introduction to Machine Learning playlists`, `Data analysis in Python with Pandas`, `other talks videos and Python videos`.
-
-[<img align="left" height="94px" width="94px" alt="Henry AI Labs channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzo7KJSSToapwqWLIadmUoLOFVBWTeYtOn3GeIv=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
-
-[**Henry AI Labs**](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) \
-Content about: Theoretical \
-Featured playlists: `Deep Learning Paper Summaries`, `Reinforcement Learning`, `Generative Adversarial Networks`, `Neural Network Design`.
-
-[<img align="left" height="94px" width="94px" alt="Jeremy Howard channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwL2eFQJIPKap7PiMXC84nZH9s10akuRMrcBpA_cA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/howardjeremyp)
-
-[**Jeremy Howard**](https://www.youtube.com/user/howardjeremyp) \
-Content about: Deep learning, Theoretical \
-Featured playlists: `Deep Learning from the Foundations`, `Introduction to Machine Learning for Coders`, `Practical Deep Learning for Coders (2018, 2019, 2020)`.
-
-[<img align="left" height="94px" width="94px" alt="Rasa channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzgLvUqKsklv4UY8i9ugnQnD70igloV2GO6aK0V=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RasaHQ)
-
-[**Rasa**](https://www.youtube.com/c/RasaHQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Rasa, AI, NLP \
-Featured playlists: `NLP for Developers`, `Developing Contextual AI assistants with Rasa tools`, `Algorithm Whiteboard`, `Live Coding`.
-
-[<img align="left" height="94px" width="94px" alt="Yannic Kilcher channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz3i_QqeXKrRmT018ffmOrWmkWxb2MEpHEtiR28BVc=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/YannicKilcher)
-
-[**Yannic Kilcher**](https://www.youtube.com/c/YannicKilcher) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: NLP, Machine learning, Deep learning, Theoretical \
-Featured playlists: `Natural Language Processing`, `General Machine Learning`, `Deep Learning Architectures`, `Computer Vision`, `Applications of Machine Learning`, `more!`.
-
-[<img align="left" height="94px" width="94px" alt="OpenAI channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz6fHHMIRnCsE_4aRMTScsggskYwEFkuOWryZPi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
-
-[**OpenAI**](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A) \
-Content about: NLP, Machine learning, AI \
-Featured playlists: `Events and Talks`, `Research Releases`, `Robotics`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Two Minute Papers channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngQ4bmzYvPJ1N0eh27Rl67yAOoydc8TPeLcPa_4Tw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
-
-[**Two Minute Papers**](https://www.youtube.com/c/K%C3%A1rolyZsolnai) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Machine Learning and AI Research, Scientific Papers \
-Featured playlists: `Two Minute Papers`, `AlphaGo`, `Fluid, Cloth and Hair Simulations`, `AI and Deep Learning`, `Light Transport, Ray Tracing and Global Illumination`.
-
-[🔼 Back to the top](#contents)
-
-## Internet/networking
-
-Internet connection and networking is a wide topic, and it's common to get stuck while learning about this. Get awesome playlists and videos about both software and hardware to know how does the internet connection and networking works. How to properly set a modem/router and what are the IPs, DNS and more.
-
-[<img align="left" height="94px" width="94px" alt="Net VN channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
-
-[**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Internet, Networking, Command line, Hardware \
-Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Network Direction channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyLZ561K6CUOujxHpRbMgK_lwD6WWELO6YwM2Bw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
-
-[**Network Direction**](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Networking \
-Featured playlists: `Network Direction`, `Network Fundamentals`, `Firewall and LAN videos`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3fRhADkbhwzuqg1IdgIxpJBsmTpwPwEJ5yH4Jg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NetworKingInc)
-
-[**NetworKing**](https://www.youtube.com/c/NetworKingInc) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Networking, CCNA \
-Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020 | Networking Inc.`, `other networking videos`.
-
-[<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
-
-[**PowerCert Animated Videos**](https://www.youtube.com/c/PowerCertAnimatedVideos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Networking hardware with other concepts with helpful the visuals. There is also a crash course on A+ and Net+. \
-Featured playlists: `Information Technology`, `CompTIA Certification`. \
-<br/>
-
-[🔼 Back to the top](#contents)
-
-## Life skills and job searching
-
-Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or start one by yourself. Find also coding/design/tech companies interview methods.
-
-[<img align="left" height="94px" width="94px" alt="GCFLearnFree.org channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwe6TjwIlLLS09rBm-AG81b6PslL87sIu8ULLAvpw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GcflearnfreeOrgplus)
-
-[**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Job searching, General skills, Life tips \
-Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
-
-[<img align="left" height="94px" width="94px" alt="mayuko channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
-
-[**mayuko**](https://www.youtube.com/c/hellomayuko) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Job tips, Health \
-Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Joshua Fluke channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsLfjQGNpQtVWS4hXGxM6F21cdArOL-sTIu9rOXw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/Tychos1)
-
-[**Joshua Fluke**](https://www.youtube.com/user/Tychos1) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Interviews, Portfolio Reviews, Getting a Job \
-Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Joma Tech channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwnVxHV9cR_nofTeCXS3x2H2jRQjH3YEq8sYqpM=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JomaOppa)
-
-[**Joma Tech**](https://www.youtube.com/c/JomaOppa) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Programming, Job Offers, Salaries, Interviewing \
-Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`. \
-<br/>
-
-[🔼 Back to the top](#contents)
-
 ## Security
 
 Security is something we all should care about. Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
@@ -969,6 +847,98 @@ Featured playlists: `Breaking Into Cybersecurity Videos - Simply Cyber`, `Cybers
 [**Network Chuck**](https://www.youtube.com/c/NetworkChuck)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Networking, Cyber security, Ethical hacking \
 Featured playlists: `Linux - NetworkChuck`, `FREE Security+ SY0-601 // Complete Course // thisisIT 2020`, `FREE CCNA 200-301 // Complete Course // NetworkChuck 2020`.
+
+[🔼 Back to the top](#contents)
+
+## Internet/networking
+
+Internet connection and networking is a wide topic, and it's common to get stuck while learning about this. Get awesome playlists and videos about both software and hardware to know how does the internet connection and networking works. How to properly set a modem/router and what are the IPs, DNS and more.
+
+[<img align="left" height="94px" width="94px" alt="Net VN channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
+
+[**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Internet, Networking, Command line, Hardware \
+Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Network Direction channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyLZ561K6CUOujxHpRbMgK_lwD6WWELO6YwM2Bw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
+
+[**Network Direction**](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Networking \
+Featured playlists: `Network Direction`, `Network Fundamentals`, `Firewall and LAN videos`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3fRhADkbhwzuqg1IdgIxpJBsmTpwPwEJ5yH4Jg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NetworKingInc)
+
+[**NetworKing**](https://www.youtube.com/c/NetworKingInc) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Networking, CCNA \
+Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020 | Networking Inc.`, `other networking videos`.
+
+[<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
+
+[**PowerCert Animated Videos**](https://www.youtube.com/c/PowerCertAnimatedVideos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Networking hardware with other concepts with helpful the visuals. There is also a crash course on A+ and Net+. \
+Featured playlists: `Information Technology`, `CompTIA Certification`. \
+<br/>
+
+[🔼 Back to the top](#contents)
+
+## Software in general
+
+YouTubers listed in this category may not be programming tutorials or cool design cards, but some other useful software and applications are used every day for everyone. Master that suite you use a lot or learn more about specific services a company provides you with.
+
+[<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
+
+[**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Google Spreadsheets \
+Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="ICT Tutorial Channel channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwhgEIoD76OH0GpP96oCCC9ezV3sEJwXTXfwnWI=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/amamd91)
+
+[**ICT Tutorial Channel**](https://www.youtube.com/c/amamd91) \
+Content about: Windows, Networking, C++\
+Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET Tutorial`, `Computing in general videos`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Online Training for Everyone channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzKIt0dhdvc7FP-6HRlB-WClDG9geZOhC_eDaIYqw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/OnlineTrainingforEveryone)
+
+[**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Excel, Office suite \
+Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Simon Sez IT channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)
+
+[**Simon Sez IT**](https://www.youtube.com/c/Simonsezit) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Office suite, Microsoft \
+Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutorials`, `Microsoft Outlook 2019`, `more videos about Microsoft programs`.
+
+[<img align="left" height="94px" width="94px" alt="Tom Scott channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwDmz-Sqfl3nOecezetnZo7lxo2sSFGahLOY7dGKg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TomScottGo)
+
+[**Tom Scott**](https://www.youtube.com/c/TomScottGo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Theoretical videos \
+Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science videos`. \
+<br/>
+
+[🔼 Back to the top](#contents)
+
+## Operating systems
+
+Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure. Understand how do these systems work in-deep to allow you to control them using the best methods.
+
+[<img align="left" height="94px" width="94px" alt="Riba Linux channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyzXrRfkiVxobJ_1-ot6Nwbb-8hzmOInqGjQJReXQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RibaLinux)
+
+[**Riba Linux**](https://www.youtube.com/c/RibaLinux) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Linux \
+Featured playlists: `Install and overview`, `Linux How-to`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="MSFT WebCast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy8oFBuw6tSoDlY7bV6kK_97atCLWDgBH-pypW8dw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/MSFTWebCast)
+
+[**MSFT WebCast**](https://www.youtube.com/c/MSFTWebCast) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Windows \
+Featured playlists: `Windows Server Beginners Tutorials`, `Managing Networking services in Windows Server`, `Managing Active Directory Infrastructure`.
 
 [🔼 Back to the top](#contents)
 
@@ -1130,6 +1100,39 @@ Featured playlists: `Getting started with your Raspberry Pi`. \
 [**ExplainingComputers**](https://www.youtube.com/user/explainingcomputers) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Raspberry Pi, Electronics, Operation System  \
 Featured playlists: `Artificial Intelligence`, `Pi Zero Projects`, `Migrating to Linux`, `many more`. \
+<br/>
+
+[🔼 Back to the top](#contents)
+
+## Life skills and job searching
+
+Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or start one by yourself. Find also coding/design/tech companies interview methods.
+
+[<img align="left" height="94px" width="94px" alt="GCFLearnFree.org channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwe6TjwIlLLS09rBm-AG81b6PslL87sIu8ULLAvpw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GcflearnfreeOrgplus)
+
+[**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Job searching, General skills, Life tips \
+Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
+
+[<img align="left" height="94px" width="94px" alt="mayuko channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
+
+[**mayuko**](https://www.youtube.com/c/hellomayuko) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Job tips, Health \
+Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Joshua Fluke channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsLfjQGNpQtVWS4hXGxM6F21cdArOL-sTIu9rOXw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/Tychos1)
+
+[**Joshua Fluke**](https://www.youtube.com/user/Tychos1) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Interviews, Portfolio Reviews, Getting a Job \
+Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Joma Tech channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwnVxHV9cR_nofTeCXS3x2H2jRQjH3YEq8sYqpM=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JomaOppa)
+
+[**Joma Tech**](https://www.youtube.com/c/JomaOppa) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Programming, Job Offers, Salaries, Interviewing \
+Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`. \
 <br/>
 
 [🔼 Back to the top](#contents)
