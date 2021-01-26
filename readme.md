@@ -307,6 +307,13 @@ Content about: Hacking \
 Featured Playlists: `Browser hacking`, `DevTools hacking`, `OS hacking`, `SerenityOS`, `Emulator hacking`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Hackers Realm's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh-0HYxeTcEOIpQp5YM1OZbavRxUXaep7O1ivI=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCX7-Wi9ioslA9691INtFO5Q)
+
+[**Hackers Realm**](https://www.youtube.com/channel/UCX7-Wi9ioslA9691INtFO5Q) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Python, Problem solving \
+Featured Playlists: `Hackerrank Problem Solving`, `Machone/Deep learning Projects Tutorials`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
