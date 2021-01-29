@@ -314,6 +314,13 @@ Content about: Python, Problem solving \
 Featured Playlists: `Hackerrank Problem Solving`, `Machone/Deep learning Projects Tutorials`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Bro Code's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngkLa2K2hztBjibf2pUaX9jdT9ytpNdPJqvRUUniw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
+
+[**Bro Code**](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Java, Python, C#/C++ \
+Featured Playlists: `playlists of these languages with a lot of videos`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
