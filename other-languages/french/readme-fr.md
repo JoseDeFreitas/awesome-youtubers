@@ -13,6 +13,7 @@
 Pour trouver un sujet spécifique plus rapidement, vous pouvez appuyer sur «Ctrl + F» et taper le sujet que vous recherchez.
 Il est recommandé d'ouvrir les liens avec le clic de la molette de la souris ou en cliquant avec le bouton droit de la souris sur un lien et en sélectionnant «Ouvrir le lien dans un nouvel onglet» afin de pouvoir conserver la liste dans un onglet séparé.
 - [Compétences et recherche d'emploi](#competences-et-recherche-demploi)
+- [Développement de jeux](#developpement-de-jeux)
 
 ## Compétences et recherche d'emploi
 
@@ -22,5 +23,18 @@ Il est recommandé d'ouvrir les liens avec le clic de la molette de la souris ou
 Contenu sur: Chaine de vulgarisation du monde du web \
 Playlists: `AWWWARDS`, `Front End`, `Freelancing`. \
 <br/>
+
+[🔼 Retour en haut de la page](#Contenu)
+
+## Développement de jeux
+
+C'est un sujet très vaste. Dans cette section, vous trouverez des vidéastes qui enseignent les programmes de développement de jeux (Unity, Unreal Engine, etc.), les concepts de base dans différents langages de programmation (JavaScript, HTML5, Java) et la création d'art/de design, la modélisation 3D et bien plus encore.
+
+[<img align="left" height="94px" width="94px" alt="Développeuse Du Dimanche channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhrvrwkYlzE7Ipcl_JHCJGWgObDB1Mm2wXx2F3_Ww=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg)
+
+[**Développeuse Du Dimanche**](https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg) \
+Contenu relatif à : Réalisation de jeux vidéos, Les coulisses du développement de jeu indépendant \
+Playlists: `Tuto`, `Nos conférences`, `Pourquoi c'est cool ?`, `Journal de bord`.
+<br/><br/>
 
 [🔼 Retour en haut de la page](#Contenu)
