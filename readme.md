@@ -262,7 +262,7 @@ Content about: Java \
 Featured playlists: `Java Basics 1`, `Java Basics 2`, `Java Intermediate 1`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Redis University's channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyfn-4I6icCb2eNH-v1lYq3c5A8ljfaQvK07BPa=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RedisUniversity)
+[<img align="left" height="94px" width="94px" alt="Redis University channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyfn-4I6icCb2eNH-v1lYq3c5A8ljfaQvK07BPa=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RedisUniversity)
 
 [**Redis University**](https://www.youtube.com/c/RedisUniversity) \
 Content about: Redis \
@@ -287,41 +287,41 @@ Featured playlists: `Python - Intermediate and Advanced Features`, `Functional P
 Content about: Python \
 Featured playlists: `Algorithms (Python)`, `Data Structures (Python)`, `Technical Interview Preparation`, `Web Scraping and Automation (Python)`, `many more videos`.
 
-[<img align="left" height="94px" width="94px" alt="Nick Chapsas' channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngu9ixqZQkUBXieYuC38lf2SZd4AphVjuDMhQb8Cg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/ElfocrashDev)
+[<img align="left" height="94px" width="94px" alt="Nick Chapsas channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngu9ixqZQkUBXieYuC38lf2SZd4AphVjuDMhQb8Cg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/ElfocrashDev)
 
 [**Nick Chapsas**](https://www.youtube.com/user/ElfocrashDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: C#, .NET, Azure, AWS, General Programming \
 Featured Playlists: `ASP.NET Core REST API Tutorial`, `ASP.NET Core General Tutorials`, `Essential Nuget Packages in .NET`, `Discussion and Advice`, `Software Engineering Fundamentals`.
 
-[<img align="left" height="94px" width="94px" alt="Python In 1 Minute's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhC7wVDRB7huyZLhXcRIPUF3MjHKdC-7ctvSbEK=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PythonIn1Minute)
+[<img align="left" height="94px" width="94px" alt="Python In 1 Minute channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhC7wVDRB7huyZLhXcRIPUF3MjHKdC-7ctvSbEK=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PythonIn1Minute)
 
 [**Python In 1 Minute**](https://www.youtube.com/c/PythonIn1Minute) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Python \
 Featured Playlists: `1-Minute Tutorials`, `a lot of Python videos from various Python topics`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Andreas Kling's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngQe82aB9iyW0oPVNvK9C5P8S5amy4J8vNNgc0lNg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasKling)
+[<img align="left" height="94px" width="94px" alt="Andreas Kling channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngQe82aB9iyW0oPVNvK9C5P8S5amy4J8vNNgc0lNg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasKling)
 
 [**Andreas Kling**](https://www.youtube.com/c/AndreasKling) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Hacking \
 Featured Playlists: `Browser hacking`, `DevTools hacking`, `OS hacking`, `SerenityOS`, `Emulator hacking`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Hackers Realm's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh-0HYxeTcEOIpQp5YM1OZbavRxUXaep7O1ivI=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCX7-Wi9ioslA9691INtFO5Q)
+[<img align="left" height="94px" width="94px" alt="Hackers Realm channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh-0HYxeTcEOIpQp5YM1OZbavRxUXaep7O1ivI=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCX7-Wi9ioslA9691INtFO5Q)
 
 [**Hackers Realm**](https://www.youtube.com/channel/UCX7-Wi9ioslA9691INtFO5Q) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Python, Problem solving \
 Featured Playlists: `Hackerrank Problem Solving`, `Machone/Deep learning Projects Tutorials`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Bro Code's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngkLa2K2hztBjibf2pUaX9jdT9ytpNdPJqvRUUniw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
+[<img align="left" height="94px" width="94px" alt="Bro Code channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngkLa2K2hztBjibf2pUaX9jdT9ytpNdPJqvRUUniw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
 
 [**Bro Code**](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Java, Python, C#/C++ \
 Featured Playlists: `playlists of these languages with a lot of videos`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="NullPointer Exception's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNuAEn_s-yPHJAT4w-d-r4rUHdEZow5w0fyg47=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA)
+[<img align="left" height="94px" width="94px" alt="NullPointer Exception channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNuAEn_s-yPHJAT4w-d-r4rUHdEZow5w0fyg47=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA)
 
 [**NullPointer Exception**](https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Theoretical, Data \
@@ -816,6 +816,12 @@ Featured playlists: `Godot Engine Tutorials`, `Resource Based Inventory Tutorial
 Content about: JavaScript \
 Featured playlists: `Super Mario Bros in JavaScript`, `Creating a Tetris Online Multiplayer in Javascript`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Clear Code channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhzSBts9V7Ejj7f8uMAqqN8T0MsQ5kSYC5pq9tWaQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ClearCode)
+
+[**Clear Code**](https://www.youtube.com/c/ClearCode) \
+Content about: Python \
+Featured playlists: `Pygame Fundamentals`, `Creating Pong in Pygame`, `Learning pygame by making Flappy Bird`, `Google dinosaur runner in Godot`.
 
 [🔼 Back to the top](#contents)
 
