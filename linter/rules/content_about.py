@@ -1,4 +1,4 @@
-file_readme = './../readme.md'
+file_readme = '../../readme.md'
 with open(file_readme, 'r') as read_readme:
     content_readme = read_readme.readlines()
 
