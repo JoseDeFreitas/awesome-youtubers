@@ -1,9 +1,5 @@
 from rules import (content_about, featured_playlists, youtubers_names)
 
-file_readme = './../readme.md'
-with open(file_readme, 'r') as read_readme:
-    content_readme = read_readme.readlines()
-
 def main():
     """
     Main function. Used specifically to call print results
