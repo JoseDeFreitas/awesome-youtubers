@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout # Checks the repository content
+      - name: Checkout
         uses: actions/checkout@v2
-      - name: setup python # Set up to use a specified Python version
+      - name: Setup Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.9.1 # Use Python version 3.9.1
-      - name: execute linter # Run the linter/lint.py file
+          python-version: 3.9.1
+      - name: Execute linter
         run: |
           python linter/lint.py
