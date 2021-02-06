@@ -16,9 +16,9 @@ def main():
         print("'Content about' errors:\n", '\n'.join(["Error at line {}: there should be a trailing '\\'.".format(i) for i in content_about.content_about_errors_nums]), "\n")
 
     if len(featured_playlists.featured_playlists_errors_nums) == 0:
-        print("Every 'Featured playlists' sections are good.", "\n")
+        print("Every 'Featured playlists' sections are good.")
     else:
-        print("'Featured playlists' errors:\n", '\n'.join(["Error at line {}: there should be a trailing '\\'.".format(i) for i in featured_playlists.featured_playlists_errors_nums]), "\n")
+        print("'Featured playlists' errors:\n", '\n'.join(["Error at line {}: there should be a trailing '\\'.".format(i) for i in featured_playlists.featured_playlists_errors_nums]))
 
 if __name__ == '__main__':
     main()
