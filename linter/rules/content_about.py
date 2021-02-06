@@ -1,4 +1,7 @@
-file_readme = '.././readme.md'
+import pathlib
+
+here = pathlib.Path(__file__).parent
+file_readme = here / './../readme.md'
 with open(file_readme, 'r') as read_readme:
     content_readme = read_readme.readlines()
 
