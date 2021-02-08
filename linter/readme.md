@@ -8,10 +8,10 @@ list without breaking the layouts (images, new lines, etc.)
 
 The rules that the linter follows are:
 
-- Trailing `\` at the end of the name and link of the YouTuber.
-- Trailing `\` at the end of the "Content about" section.
-- Trailing `\` at the end of the "Featured playlists" section.
+- Trailing `\` at the end of the name and link of the YouTuber line.
+- Trailing `\` at the end of the "Content about" line.
+- Trailing `\` at the end of the "Featured playlists" line.
 - Spaces between badges.
 - Spaces between "Content about" words (including `,`).
-- Spaces between "Featured playlists" words (including `,`).
+- Spaces between "Featured playlists" words (including `,`) and a dot (`.`) at the end of the line.
 - Links formatted correctly in the markdown syntax (`[text](link)`)
