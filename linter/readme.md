@@ -6,12 +6,9 @@ list without breaking the layouts (images, new lines, etc.)
 
 ## Rules
 
-The rules that the linter follows are:
-
-- Trailing `\` at the end of the name and link of the YouTuber line.
-- Trailing `\` at the end of the "Content about" line.
-- Trailing `\` at the end of the "Featured playlists" line.
-- Spaces between badges.
-- Spaces between "Content about" words (including `,`).
-- Spaces between "Featured playlists" words (including `,`) and a dot (`.`) at the end of the line.
-- Links formatted correctly in the markdown syntax (`[text](link)`)
+| File containing                                            | Rules followed                                                               |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [YouTuber's name and link](rules/youtubers_names.py) line. | - Trailing `\`<br/>- Spaces between badges                                   |
+| [Content about](rules/content_about.py) line.              | - Trailing `\`<br/>- Spaces between words (including `,`)                    |
+| [Featured playlists](rules/featured_playlists.py) line.    | - Trailing `\`<br/>- Spaces between words (including `,`) and a trailing `.` |
+| [Links formatted](rules/link_format.py)                    | - Well-formatted links (`[text](link)`)                                      |
