@@ -1,5 +1,6 @@
 from rules import (content_about, featured_playlists, youtubers_names)
 
+
 def main():
     """
     Main function. Used specifically to call print results
@@ -9,7 +10,7 @@ def main():
         print("Every YouTubers names are good.", "\n")
     else:
         print("'YouTubers name' errors:\n", '\n'.join(["Error at line {}: there should be a trailing '\\'.".format(i) for i in youtubers_names.youtubers_name_errors_nums]), "\n")
-    
+
     if len(content_about.content_about_errors_nums) == 0:
         print("Every 'Content about' sections are good.", "\n")
     else:
@@ -19,6 +20,7 @@ def main():
         print("Every 'Featured playlists' sections are good.")
     else:
         print("'Featured playlists' errors:\n", '\n'.join(["Error at line {}: there should be a trailing '\\'.".format(i) for i in featured_playlists.featured_playlists_errors_nums]))
+
 
 if __name__ == '__main__':
     main()
