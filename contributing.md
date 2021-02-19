@@ -4,6 +4,17 @@ Please follow the [code of conduct](https://github.com/JoseDeFreitas/awesome-you
 
 Only add YouTubers that are **awesome**! *"After all, it's a curation, not a collection"*. [What is awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
 
+<details>
+  <summary>Guide for new GitHub users</summary>
+  <ol>
+    <li>Go to the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/readme.md">readme.md</a> file in this repository.</li>
+    <li>Click on the "edit" button (the one with a pencil icon).</li>
+    <li>Add the new YouTuber (following the format below and at the bottom of the proper section) and click "Commit".</li>
+    <li>Click on the green button "Create pull request", fill out the template and click on the green "Create pull request" button again.</li>
+    <p>That's all... it's that easy!</p>
+  </ol>
+</details>
+
 ## Add the YouTuber following this format
 
 ```html
