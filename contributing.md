@@ -2,7 +2,7 @@
 
 Please follow the [code of conduct](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/code-of-conduct.md).
 
-Only add youtubers that are **awesome**! *"After all, it's a curation, not a collection"*. [What is awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
+Only add YouTubers that are **awesome**! *"After all, it's a curation, not a collection"*. [What is awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
 
 ## Add the YouTuber following this format
 
@@ -27,7 +27,7 @@ Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Publi
 
 **Only edit the words that are in ALL UPPER CASE. Leave all the other things as they are. Considerations below.**
 
-- In the example, you see the two badges were added (verified YouTube and weekly upload badges). If the channel doesn't meet one of this requirements, remove the badge. More information on the [badges file](badges.md).
+- In the example, you see the two badges were added (verified YouTube and weekly upload badges). If the channel doesn't meet one of these requirements, remove the badge. More information on the [badges file](badges.md).
 - If the "Featured playlists" section is shorter than 124 characters, add a `\` symbol and a `<br/>` tag on the line below. Otherwise, don't do it.
 - Pay attention to all the other characters: dots, commas, asterisks, etc. Some of them are used by the [awesome YouTubers linter](linter/).
 - Before making the pull request, make sure the layout looks good.
