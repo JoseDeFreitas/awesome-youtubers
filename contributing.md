@@ -1,6 +1,6 @@
 # Contribution guidelines
 
-Please follow the [code of conduct](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/code-of-conduct.md).
+Please follow the [code of conduct](code-of-conduct.md).
 
 Only add YouTubers that are **awesome**! *"After all, it's a curation, not a collection"*. [What is awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
 
@@ -20,7 +20,7 @@ Only add YouTubers that are **awesome**! *"After all, it's a curation, not a col
 ```html
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL"/>](LINK_TO_THE_CHANNEL_MAIN_PAGE)
 
-[**NAME_OF_THE_CHANNEL**](LINK_TO_THE_CHANNEL_MAIN_PAGE) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+[**NAME_OF_THE_CHANNEL**](LINK_TO_THE_CHANNEL_MAIN_PAGE) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: EXAMPLE, EXAMPLE, EXAMPLE \
 Featured playlists: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`, `PLAYLIST 4`. \
 <br/>
@@ -31,7 +31,7 @@ Featured playlists: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`, `PLAYLIST 4`. \
 
 [<img align="left" height="94px" width="94px" alt="GitHub channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVBGU-QyENevFp8etYX1iEak8Y7KEjUPsucWAvAA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/github)
 
-[**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+[**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Badge for YouTuber that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Open Source, Security, App development \
 Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Artic Code Vault`.
 </details>
@@ -43,22 +43,22 @@ Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Publi
 - Pay attention to all the other characters: dots, commas, asterisks, etc. Some of them are used by the [awesome YouTubers linter](linter/).
 - Before making the pull request, make sure the layout looks good.
 
-## Add the pull request content following this format
+## Create the pull request content following this format
 
 *Appears automatically when you create the pull request.*
 
 ```markdown
-- **Name of the youtuber:**
-- **What the channel is about (eg. web development, design, ...)**:
+- **Name of the YouTuber:**
+- **What is the channel about? (eg. web development, design, ...)**:
 - **Which section is the channel in? (if you created a section, please specify why)**:
-- **Why do you consider the youtuber deserves a place in this list? *What does make it awesome?***:
+- **Why do you consider the YouTuber deserves a place in this list? *What does make it awesome?***:
 ```
 
 <details>
   <summary>Example:</summary>
 
-- **Name of the youtuber**: GitHub
-- **What the channel is about (eg. web development, design, ...)**: Software Development Platform for storing repositories.
-- **Which section is the channel in? (if you created a section, please specify why)**: Open Source
-- **Why do you consider the youtuber deserves a place in this list? *What does make it awesome?***: The youtuber uploads videos every day with general-tech tutorials. These tutorials include securing your organization, finding vulnerabilities, using GitHub actions and more. It also has pretty useful playlists where you can find talks from professionals that teach you diverse topics.
+- **Name of the YouTuber**: GitHub
+- **What is the channel about? (eg. web development, design, ...)**: Software Development Platform for storing repositories.
+- **Which section is the channel in? (if you created a section, please specify why)**: Open Source.
+- **Why do you consider the YouTuber deserves a place in this list? *What does make it awesome?***: The youtuber uploads videos every day with general-tech tutorials. These tutorials include securing your organization, finding vulnerabilities, using GitHub actions and more. It also has pretty useful playlists where you can find talks from professionals that teach you diverse topics.
 </details>
