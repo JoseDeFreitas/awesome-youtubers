@@ -21,16 +21,18 @@ def content_about():
 
     for line, value in enumerate(content_readme):
         if checker in value:
-            # words = i[len(checker):-2].split(', ')
             # Check for trailing slash
-            if value[-1] != '\\':
-                last = value[-2:-1]
-                replaced = last.replace(' ', '\\', 1)
-                content_readme[line] = value[:-2] + ' ' + replaced + '\n'
-                with open(file_readme, 'w') as write_readme:
-                    write_readme.writelines(content_readme)
-                result = "Found errors. Fixed them."
-            # Check for comma separated words
+            if value[-2] != '\\':
+                if value[-2] == ' ':
+                    content_readme[line] = value[:-1] + '\\' + '\n'
+                    with open(file_readme, 'w') as write_readme:
+                        write_readme.writelines(content_readme)
+                else:
+                    content_readme[line] = value[:-1] + ' \\' + '\n'
+                    with open(file_readme, 'w') as write_readme:
+                        write_readme.writelines(content_readme)
+
+                result = "Trailing slash wasn't found.\nFixed."
 
     return result
 

@@ -1,20 +1,40 @@
 import pathlib
 
 here = pathlib.Path(__file__).parent
-file_readme = here / './../readme.md'
+file_readme = here / '../../test.md'
 with open(file_readme, 'r') as read_readme:
     content_readme = read_readme.readlines()
 
 
 def youtubers_names():
-    youtubers_name_errors_nums = []
-    youtuber_count_char = '[**'
+    """
+    Looks for trailing slashes and words separated by commas at
+    every YouTuber's name line found in the readme.md file
+    (this is, the list itself).
 
-    for j, i in enumerate(content_readme):
-        if youtuber_count_char in i:
-            if i[-2] != '\\':
-                youtubers_name_errors_nums.append(j)
-    return youtubers_name_errors_nums
+    result (str): return value of the function.
+    checker (str): detector of the line corresponding the file.
+    """
+
+    result = 'No errors found.'
+    checker = '[**'
+
+    for line, value in enumerate(content_readme):
+        if checker in value:
+            # Check for trailing slash
+            if value[-2] != '\\':
+                if value[-2] == ' ':
+                    content_readme[line] = value[:-1] + '\\' + '\n'
+                    with open(file_readme, 'w') as write_readme:
+                        write_readme.writelines(content_readme)
+                else:
+                    content_readme[line] = value[:-1] + ' \\' + '\n'
+                    with open(file_readme, 'w') as write_readme:
+                        write_readme.writelines(content_readme)
+
+                result = "Trailing slash wasn't found.\nFixed."
+
+    return result
 
 
-youtubers_name_errors_nums = youtubers_names()
+print(youtubers_names())
