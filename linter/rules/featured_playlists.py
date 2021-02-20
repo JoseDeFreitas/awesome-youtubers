@@ -26,11 +26,11 @@ def featured_playlists():
             # Check for trailing slash
             if len(value) < length and value[-2] != '\\':
                 if value[-2] == ' ':
-                    content_readme[line] = value[:-1] + '\\' + '\n'
+                    content_readme[line] = value[:-1] + '\\' + '\n' + '<br/>' + '\n'
                     with open(file_readme, 'w') as write_readme:
                         write_readme.writelines(content_readme)
                 else:
-                    content_readme[line] = value[:-1] + ' \\' + '\n'
+                    content_readme[line] = value[:-1] + ' \\' + '\n' + '<br/>' + '\n'
                     with open(file_readme, 'w') as write_readme:
                         write_readme.writelines(content_readme)
 
