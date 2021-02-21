@@ -15,8 +15,7 @@ Featured playlists: `Learn Windows PowerShell in a Month of Lunches`, `SAPIEN Po
 
 [**Corey Schafer**](https://www.youtube.com/c/Coreyms) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Python, Backend \
-Featured playlists: `Python Tutorials`, `Django Tutorials`, `Flask Tutorials`, `Matplotlib Tutorials`, `SQL Tutorials`. \
-<br/>
+Featured playlists: `Python Tutorials`, `Django Tutorials`, `Flask Tutorials`, `Matplotlib Tutorials`, `SQL Tutorial`. \
 
 [<img align="left" height="94px" width="94px" alt="Brian Will channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyHn9zALlBP5HBxpaqVd9x00oZDRlLKSOJu4Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/briantwill)
 
