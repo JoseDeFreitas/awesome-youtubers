@@ -23,18 +23,40 @@ def featured_playlists():
 
     for line, value in enumerate(content_readme):
         if checker in value:
+
+            words = value[len(checker)+1:-4]
             # Check for trailing slash
             if len(value) < length and value[-2] != '\\':
                 if value[-2] == ' ':
-                    content_readme[line] = value[:-1] + '\\' + '\n' + '<br/>' + '\n'
+                    content_readme[line] = value[:-1] + '\\' + '\n<br/>\n'
                     with open(file_readme, 'w') as write_readme:
                         write_readme.writelines(content_readme)
                 else:
-                    content_readme[line] = value[:-1] + ' \\' + '\n' + '<br/>' + '\n'
+                    content_readme[line] = value[:-1] + ' \\' + '\n<br/>\n'
                     with open(file_readme, 'w') as write_readme:
                         write_readme.writelines(content_readme)
 
                 result = "Trailing slash wasn't found.\nFixed."
+            # Check for well-formatted backsticks
+            if value.count('`') % 2 != 0:
+                content = words.split(', ')
+                fix_words = []
+
+                for topic in content:
+                    if topic[0] != '`' and topic[-1] != '`':
+                        fix_words.append('`' + topic + '`')
+                    elif topic[-1] != '`':
+                        fix_words.append(topic + '`')
+                    elif topic[0] != '`':
+                        fix_words.append('`' + topic)
+                    else:
+                        fix_words.append(topic)
+
+                content_readme[line] = value[:len(checker)] + ' ' + ', '.join(fix_words) + '. \\\n'
+                with open(file_readme, 'w') as write_readme:
+                    write_readme.writelines(content_readme)
+
+                result = "Backsticks weren't found.\nFixed."
 
     return result
 
