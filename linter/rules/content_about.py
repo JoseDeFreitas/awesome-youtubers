@@ -6,35 +6,56 @@ with open(file_readme, 'r') as read_readme:
     content_readme = read_readme.readlines()
 
 
-def content_about():
+class ContentAbout():
     """
-    Looks for trailing slashes and words separated by commas at
-    every "Content about:" section found in the readme.md file
-    (this is, the list itself).
+    Contains methods for the detection of various
+    rules asigned to the "Content about:" sections.
+    These methods edit the readme.md file (the awe-
+    some list) in-place if any of the rules isn't
+    met.
 
-    result (str): return value of the function.
-    checker (str): detector of the line corresponding the file.
+    Attributes:
+    checker (str): matches the "Content about:" string.
+    result (str): result of the operation.
     """
 
-    result = 'No errors found.'
-    checker = 'Content about:'
+    checker = "Content about:"
 
-    for line, value in enumerate(content_readme):
-        if checker in value:
-            # Check for trailing slash
-            if value[-2] != '\\':
-                if value[-2] == ' ':
-                    content_readme[line] = value[:-1] + '\\' + '\n'
+    def __init__(self):
+        self.result = "🟢 No errors found."
+
+    def trailing_slash(self) -> str:
+        """
+        Looks for backslash and the end of all the matching
+        lines ("Content about:" lines).
+        """
+
+        for line, value in enumerate(content_readme):
+            if self.checker in value:
+                last = value[-2]
+                if last != '\\':
+                    if last == ' ':
+                        content_readme[line] = f"{value[:-1]}\\\n"
+                    else:
+                        content_readme[line] = f"{value[:-1]} \\\n"
                     with open(file_readme, 'w') as write_readme:
                         write_readme.writelines(content_readme)
-                else:
-                    content_readme[line] = value[:-1] + ' \\' + '\n'
-                    with open(file_readme, 'w') as write_readme:
-                        write_readme.writelines(content_readme)
+                    self.result = "🔴 Trailing slash wasn't found.\nFixed."
 
-                result = "Trailing slash wasn't found.\nFixed."
+        return self.result
 
-    return result
+    def comma_separated(self) -> str:
+        """
+        Looks through all words in the section to check
+        if they're separated by a comma and a space
+        ", ".
+        """
+
+        # for line, value in enumerate(content_readme):
+        #     if self.checker in value:
+
+        return self.result
 
 
-print(content_about())
+content_about = ContentAbout()
+print(content_about.trailing_slash())
