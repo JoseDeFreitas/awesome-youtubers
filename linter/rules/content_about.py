@@ -3,7 +3,7 @@ import pathlib
 here = pathlib.Path(__file__).parent
 file_readme = here / '../../test.md'
 with open(file_readme, 'r') as read_readme:
-    content_readme = read_readme.readlines()
+    content = read_readme.readlines()
 
 
 class ContentAbout():
@@ -22,7 +22,7 @@ class ContentAbout():
     checker = "Content about:"
 
     def __init__(self):
-        self.result = "🟢 No errors found."
+        self.result = "🟢 0: perfect."
 
     def trailing_slash(self) -> str:
         """
@@ -30,17 +30,19 @@ class ContentAbout():
         lines ("Content about:" lines).
         """
 
-        for line, value in enumerate(content_readme):
+        for line, value in enumerate(content):
             if self.checker in value:
                 last = value[-2]
-                if last != '\\':
-                    if last == ' ':
-                        content_readme[line] = f"{value[:-1]}\\\n"
+                if last != "\\":
+                    if last == " ":
+                        content[line] = f"{value[:-1]}\\\n"
                     else:
-                        content_readme[line] = f"{value[:-1]} \\\n"
+                        content[line] = f"{value[:-1]} \\\n"
+
                     with open(file_readme, 'w') as write_readme:
-                        write_readme.writelines(content_readme)
-                    self.result = "🔴 Trailing slash wasn't found.\nFixed."
+                        write_readme.writelines(content)
+
+                    self.result = "🔴 -1: line break.\nFixed."
 
         return self.result
 
@@ -51,7 +53,7 @@ class ContentAbout():
         ", ".
         """
 
-        # for line, value in enumerate(content_readme):
+        # for line, value in enumerate(content):
         #     if self.checker in value:
 
         return self.result
