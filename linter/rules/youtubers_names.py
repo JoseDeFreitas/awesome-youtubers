@@ -3,38 +3,63 @@ import pathlib
 here = pathlib.Path(__file__).parent
 file_readme = here / '../../test.md'
 with open(file_readme, 'r') as read_readme:
-    content_readme = read_readme.readlines()
+    content = read_readme.readlines()
 
 
-def youtubers_names():
+class YoutubersNames():
     """
-    Looks for trailing slashes and words separated by commas at
-    every YouTuber's name line found in the readme.md file
-    (this is, the list itself).
+    Contains methods for the detection of various
+    rules asigned to the YouTubers names lines.
+    These methods edit the readme.md file (the awe-
+    some list) in-place if any of the rules isn't
+    met.
 
-    result (str): return value of the function.
-    checker (str): detector of the line corresponding the file.
+    Attributes:
+    checker (str): matches the YouTuber names
+    "[**" string.
+    result (str): result of the operation.
     """
 
-    result = 'No errors found.'
-    checker = '[**'
+    checker = "[**"
 
-    for line, value in enumerate(content_readme):
-        if checker in value:
-            # Check for trailing slash
-            if value[-2] != '\\':
-                if value[-2] == ' ':
-                    content_readme[line] = value[:-1] + '\\' + '\n'
+    def __init__(self):
+        self.result = "🟢 0: perfect."
+
+    def trailing_slash(self):
+        """
+        Looks for backslash and the end of all the matching
+        lines (YouTubers names lines).
+        """
+
+        for line, value in enumerate(content):
+            if self.checker in value:
+                last = value[-2]
+                if last != "\\":
+                    if last == " ":
+                        content[line] = f"{value[:-1]}\\\n"
+                    else:
+                        content[line] = f"{value[:-1]} \\\n"
+
                     with open(file_readme, 'w') as write_readme:
-                        write_readme.writelines(content_readme)
-                else:
-                    content_readme[line] = value[:-1] + ' \\' + '\n'
-                    with open(file_readme, 'w') as write_readme:
-                        write_readme.writelines(content_readme)
+                        write_readme.writelines(content)
 
-                result = "Trailing slash wasn't found.\nFixed."
+                    self.result = "🔴 -1: backslash.\nFixed."
 
-    return result
+        return self.result
+
+    def youtube_link(self):
+        """
+        Checks whether the link typed is from youtube.com.
+        """
+
+        link = "youtube.com"
+        for line, value in enumerate(content):
+            if self.checker in value:
+                if link not in value:
+                    self.result = "🔴 -1: YouTube link."
+
+        return self.result
 
 
-print(youtubers_names())
+youtubers_names = YoutubersNames()
+print(youtubers_names)
