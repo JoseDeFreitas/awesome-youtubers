@@ -327,6 +327,12 @@ Featured playlists: `playlists of these languages with a lot of videos`. \
 Content about: Theoretical, Data \
 Featured playlists: `Introduction to Data Structures`, `Sorting Algorithm Lectures/Visualizations`, `Introduction to Object-Oriented Programming`.
 
+[<img align="left" height="94px" width="94px" alt="dotNET channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng6MXFVH96Z90UBQ0SZIhcOleaQAg6if8DB2-Ho=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/dotNET)
+
+[**dotNET**](https://www.youtube.com/c/dotNET) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: .NET, ASP.NET, C# \
+Featured playlists: `Desktop and .NET Code 101`, `ASP.NET Core 101`, `DevOps for .NET`, `C# Language Highlights`, `C# Advanced`, `and more`.
+
 [🔼 Back to the top](#contents)
 
 ## Web development
