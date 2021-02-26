@@ -43,7 +43,7 @@ class YoutubersNames():
                     with open(file_readme, 'w') as write_readme:
                         write_readme.writelines(content)
 
-                    self.result = "🔴 -1: backslash.\nFixed."
+                    self.result = f"🔴 {line}: backslash.\nFixed."
 
         return self.result
 
@@ -56,10 +56,10 @@ class YoutubersNames():
         for line, value in enumerate(content):
             if self.checker in value:
                 if link not in value:
-                    self.result = "🔴 -1: YouTube link."
+                    self.result = f"🔴 {line}: YouTube link."
 
         return self.result
 
 
 youtubers_names = YoutubersNames()
-print(youtubers_names)
+print(youtubers_names.trailing_slash())

@@ -46,7 +46,7 @@ class FeaturedPlaylists():
                         with open(file_readme, 'w') as write_readme:
                             write_readme.writelines(content)
 
-                        self.result = "🔴 -1: backslash | line break.\nFixed."
+                        self.result = f"🔴 {line}: backslash | line break.\nFixed."
                     elif last != "\\" and "<br>" in content[line+1]:
                         if last == " ":
                             content[line] = f"{value[:-1]}\\\n"
@@ -56,14 +56,14 @@ class FeaturedPlaylists():
                         with open(file_readme, 'w') as write_readme:
                             write_readme.writelines(content)
 
-                        self.result = "🔴 -1: backslash.\nFixed."
+                        self.result = f"🔴 {line}: backslash.\nFixed."
                     elif last == "\\" and "<br>" not in content[line+1]:
                         content[line+1] = "<br>\n\n"
 
                         with open(file_readme, 'w') as write_readme:
                             write_readme.writelines(content)
 
-                        self.result = "🔴 -1: line break.\nFixed."
+                        self.result = f"🔴 {line}: line break.\nFixed."
 
         return self.result
 
