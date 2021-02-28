@@ -14,30 +14,51 @@ def list_channels():
     return jsonify(channels)
 
 
-@api_channels.route("/channels")
-def get_channel():
-    """
-    Opens the confirmation form that sends the vote
-    to the database corresponding the channel selected.
-    """
-
-    if "name" in request.args and "vote" in request.args:
-        name = str(request.args["name"])
+@api_channels.route("/channels/<channel>")
+def get_channel(channel):
+    if "vote" in request.args:
         vote = str(request.args["vote"])
 
-    if "name" in request.args and "vote" not in request.args:
-        return vote
-    # else:
-    #     return "No name of channel and vote provided."
+        if channel in channels:
+            if vote == "upvote":
+                channels[channel] += 1
+            elif vote == "downvote":
+                channels[channel] -= 1
+            else:
+                return "Vote word not recognised."
 
-    if name in channels:
-        if vote == "upvote":
-            channels[name] += 1
+            with open("data.json", "w", encoding="utf8") as write_data:
+                json.dump(channels, write_data, indent=4)
+
+            return f"You {vote}d successfully the channel {channel}."
         else:
-            channels[name] -= 1
-
-        with open("data.json", "w", encoding="utf8") as write_data:
-            json.dump(channels, write_data, indent=4)
-        return f"You {vote}d successfully the channel {name}."
+            return "Channel not found on the list."
     else:
-        return "The name specified is not a channel on the list."
+        if channel in channels:
+            return "Channel: " + channel
+        else:
+            return "Channel not found on the list."
+
+
+@api_channels.route("/channels/<channel>/image.svg")
+def img_channel(channel):
+    if channel in channels:
+        return f"""
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                width="52px" height="22px" viewBox="0 0 52 22" fill="none">
+                <style>
+                    .text {{
+                        font-family: "Segoe UI", Ubuntu, Sans-Serif;
+                        font-weight: bold;
+                    }}
+                </style>
+                <rect x="0.5" y="0.5" height="99%" width="51" fill="none"/>
+                    <g>
+                        <text x="5" y="17" fill="#00b4f0" class="text">
+                            {channels[channel]}
+                        </text>
+                    </g>
+                </svg>
+                """
+    else:
+        return "Channel not found on the list"
