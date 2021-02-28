@@ -24,8 +24,11 @@ def get_channel():
     if "name" in request.args and "vote" in request.args:
         name = str(request.args["name"])
         vote = str(request.args["vote"])
-    else:
-        return "No name of channel and vote provided."
+
+    if "name" in request.args and "vote" not in request.args:
+        return vote
+    # else:
+    #     return "No name of channel and vote provided."
 
     if name in channels:
         if vote == "upvote":
