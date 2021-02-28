@@ -5,59 +5,32 @@ file_readme = here / '../../test.md'
 with open(file_readme, 'r') as read_readme:
     content = read_readme.readlines()
 
+CHECKER = "Content about:"
 
-class ContentAbout():
+
+def trailing_slash() -> str:
     """
-    Contains methods for the detection of various
-    rules asigned to the "Content about:" sections.
-    These methods edit the readme.md file (the awe-
-    some list) in-place if any of the rules isn't
-    met.
-
-    Attributes:
-    checker (str): matches the "Content about:" string.
-    result (str): result of the operation.
+    Looks for backslash and the end of all the matching
+    lines ("Content about:" lines).
     """
 
-    checker = "Content about:"
+    result = ["🟢 0: perfect."]
 
-    def __init__(self):
-        self.result = "🟢 0: perfect."
+    for line, value in enumerate(content):
+        if CHECKER in value:
+            last = value[-2]
+            if last != "\\":
+                if last == " ":
+                    content[line] = f"{value[:-1]}\\\n"
+                else:
+                    content[line] = f"{value[:-1]} \\\n"
 
-    def trailing_slash(self) -> str:
-        """
-        Looks for backslash and the end of all the matching
-        lines ("Content about:" lines).
-        """
+                with open(file_readme, 'w') as write_readme:
+                    write_readme.writelines(content)
 
-        for line, value in enumerate(content):
-            if self.checker in value:
-                last = value[-2]
-                if last != "\\":
-                    if last == " ":
-                        content[line] = f"{value[:-1]}\\\n"
-                    else:
-                        content[line] = f"{value[:-1]} \\\n"
+                result.append(f"🔴 {line}: backslash. Fixed.")
 
-                    with open(file_readme, 'w') as write_readme:
-                        write_readme.writelines(content)
-
-                    self.result = f"🔴 {line}: backslash.\nFixed."
-
-        return self.result
-
-    def comma_separated(self) -> str:
-        """
-        Looks through all words in the section to check
-        if they're separated by a comma and a space
-        ", ".
-        """
-
-        # for line, value in enumerate(content):
-        #     if self.checker in value:
-
-        return self.result
-
-
-content_about = ContentAbout()
-print(content_about.trailing_slash())
+    if len(result) > 1:
+        return '\n'.join(result[1:])
+    else:
+        return ''.join(result)

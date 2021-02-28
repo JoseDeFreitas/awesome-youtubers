@@ -5,76 +5,52 @@ file_readme = here / '../../test.md'
 with open(file_readme, 'r') as read_readme:
     content = read_readme.readlines()
 
+CHECKER = "Featured playlists:"
+LENGTH = 124
 
-class FeaturedPlaylists():
+
+def trailing_slash() -> str:
     """
-    Contains methods for the detection of various
-    rules asigned to the "Featured playlists:" sections.
-    These methods edit the readme.md file (the awe-
-    some list) in-place if any of the rules isn't
-    met.
-
-    Attributes:
-    checker (str): matches the "Featured playlists:" string.
-    length (int): minimum length of the line to break line.
-    result (str): result of the operation.
+    Looks for backslash and the end of all the matching
+    lines ("Featured playlists:" lines) and a line
+    break tag "<br>" at the next line.
     """
 
-    checker = "Featured playlists:"
-    length = 124
+    result = ["🟢 0: perfect."]
 
-    def __init__(self):
-        self.result = "🟢 0: perfect."
+    for line, value in enumerate(content):
+        if CHECKER in value:
+            last = value[-2]
+            if len(value) < LENGTH:
+                if last != "\\" and "<br>" not in content[line+1]:
+                    if last == " ":
+                        content[line] = f"{value[:-1]}\\\n<br>\n"
+                    else:
+                        content[line] = f"{value[:-1]} \\\n<br>\n"
 
-    def trailing_slash(self):
-        """
-        Looks for backslash and the end of all the matching
-        lines ("Featured playlists:" lines) and a line
-        break tag "<br>" at the next line.
-        """
+                    with open(file_readme, 'w') as write_readme:
+                        write_readme.writelines(content)
 
-        for line, value in enumerate(content):
-            if self.checker in value:
-                last = value[-2]
-                if len(value) < self.length:
-                    if last != "\\" and "<br>" not in content[line+1]:
-                        if last == " ":
-                            content[line] = f"{value[:-1]}\\\n<br>\n"
-                        else:
-                            content[line] = f"{value[:-1]} \\\n<br>\n"
+                    result.append(f"🔴 {line}: backslash | line break. Fixed.")
+                elif last != "\\" and "<br>" in content[line+1]:
+                    if last == " ":
+                        content[line] = f"{value[:-1]}\\\n"
+                    else:
+                        content[line] = f"{value[:-1]} \\\n"
 
-                        with open(file_readme, 'w') as write_readme:
-                            write_readme.writelines(content)
+                    with open(file_readme, 'w') as write_readme:
+                        write_readme.writelines(content)
 
-                        self.result = f"🔴 {line}: backslash | line break.\nFixed."
-                    elif last != "\\" and "<br>" in content[line+1]:
-                        if last == " ":
-                            content[line] = f"{value[:-1]}\\\n"
-                        else:
-                            content[line] = f"{value[:-1]} \\\n"
+                    result.append(f"🔴 {line}: backslash. Fixed.")
+                elif last == "\\" and "<br>" not in content[line+1]:
+                    content[line+1] = "<br>\n\n"
 
-                        with open(file_readme, 'w') as write_readme:
-                            write_readme.writelines(content)
+                    with open(file_readme, 'w') as write_readme:
+                        write_readme.writelines(content)
 
-                        self.result = f"🔴 {line}: backslash.\nFixed."
-                    elif last == "\\" and "<br>" not in content[line+1]:
-                        content[line+1] = "<br>\n\n"
+                    result.append(f"🔴 {line}: line break. Fixed.")
 
-                        with open(file_readme, 'w') as write_readme:
-                            write_readme.writelines(content)
-
-                        self.result = f"🔴 {line}: line break.\nFixed."
-
-        return self.result
-
-    def closed_backsticks(self):
-        """
-        Looks that all backsticks of every word are co-
-        rrectly opened and subsequent closed.
-        """
-
-        return self.result
-
-
-featured_playlists = FeaturedPlaylists()
-print(featured_playlists.trailing_slash())
+    if len(result) > 1:
+        return '\n'.join(result[1:])
+    else:
+        return ''.join(result)
