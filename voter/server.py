@@ -16,7 +16,7 @@ app.register_blueprint(api_channels)
 
 @app.route("/")
 def main():
-    return "Working"
+    return "Awesome YouTubers voting system website."
 
 
 if __name__ == "__main__":

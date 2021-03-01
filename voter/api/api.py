@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 from flask import Blueprint, request, jsonify
 
 with open("data.json", "r", encoding="utf8") as read_data:
@@ -27,6 +28,7 @@ def get_channel(channel):
         vote = str(request.args["vote"])
 
         if channel in channels:
+            # Adds/substracts 1 from the channel.
             if vote == "upvote":
                 channels[channel] += 1
             elif vote == "downvote":
@@ -34,8 +36,14 @@ def get_channel(channel):
             else:
                 return "Vote word not recognised."
 
+            # Write to database file.
             with open("data.json", "w", encoding="utf8") as write_data:
                 json.dump(channels, write_data, indent=4)
+
+            # Write to log file.
+            with open("log.txt", "a") as append:
+                today = datetime.today().strftime('%Y-%m-%d-%H:%M')
+                append.write(f"\n{vote.title()}d {channel} on {today}")
 
             return f"You {vote}d successfully the channel {channel}."
         else:
