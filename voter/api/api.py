@@ -1,6 +1,6 @@
 import json
 from datetime import datetime
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, jsonify, make_response
 
 with open("data.json", "r", encoding="utf8") as read_data:
     channels = json.load(read_data)
@@ -59,8 +59,7 @@ def get_channel(channel):
 def img_channel(channel):
     """ Returns the YouTube score in a svg image. """
 
-    if channel in channels:
-        return f"""
+    svg_image = f"""
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                 width="52px" height="22px" viewBox="0 0 52 22" fill="none">
                 <style>
@@ -77,5 +76,10 @@ def img_channel(channel):
                     </g>
                 </svg>
                 """
+
+    if channel in channels:
+        response = make_response(svg_image)
+        response.headers.set('Content-Type', 'image/svg+xml')
+        return response
     else:
         return "Channel not found on the list"

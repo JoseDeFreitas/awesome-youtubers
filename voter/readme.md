@@ -31,3 +31,5 @@ contributor provided matches and I watch some videos looking for well explanatio
 video quality, coverage of the topics it explains, among others), but, of course, I'm only one person,
 so I think being able to receive opinions from all users is a good way to filter and have truly
 awesome content based on the community's opinion.
+
+<img src="127.0.0.1:5000/channels/LearningLad/image.svg">
