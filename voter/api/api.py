@@ -16,6 +16,13 @@ def list_channels():
 
 @api_channels.route("/channels/<channel>")
 def get_channel(channel):
+    """
+    If no query specified, prints the name of the
+    YouTube channel typed. When a query with the
+    name "vote" is given, adds or substracts 1
+    from the specified YouTube score.
+    """
+
     if "vote" in request.args:
         vote = str(request.args["vote"])
 
@@ -42,6 +49,7 @@ def get_channel(channel):
 
 @api_channels.route("/channels/<channel>/image.svg")
 def img_channel(channel):
+    """ Returns the YouTube score in a svg image. """
     if channel in channels:
         return f"""
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
