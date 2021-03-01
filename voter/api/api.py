@@ -70,7 +70,7 @@ def img_channel(channel):
                     </style>
                     <rect x="0.5" y="0.5" height="99%" width="51" fill="none"/>
                     <g>
-                        <text x="5" y="17" fill="#00b4f0" class="text">
+                        <text x="5" y="15" fill="#00b4f0" class="text">
                             {channels[channel]}
                         </text>
                     </g>
