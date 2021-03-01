@@ -26,11 +26,3 @@ jobs:
       - name: Execute linter
         run: |
           python linter/lint.py
-
-      - name: Commit to the repo
-        run: |
-          git config --global user.name "JoseDeFreitas/awesome-youtubers"
-          git config --global user.email "awesome-youtubers[bot]@JoseDeFreitas.github.io"
-          git add .
-          git commit -m 'Update generated files' || echo
-          git push
