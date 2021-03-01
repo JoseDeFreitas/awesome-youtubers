@@ -48,6 +48,8 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 
 ## Programming in general
 
+<img src="https://awesome-youtubers.herokuapp.com/channels/LearningLad/image.svg"/>
+
 There're a lot of programming languages out there. In this section, you can find any programming language, including Python, C, Java. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical tutorials or theoretical tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Tech With Tim channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAyCZGleVpp_e-jurqWYsH-6Q4rZaKVeareXRK7A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWithTim)
