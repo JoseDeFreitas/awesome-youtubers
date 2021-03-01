@@ -58,6 +58,7 @@ def get_channel(channel):
 @api_channels.route("/channels/<channel>/image.svg")
 def img_channel(channel):
     """ Returns the YouTube score in a svg image. """
+
     if channel in channels:
         return f"""
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -67,8 +68,8 @@ def img_channel(channel):
                         font-family: "Segoe UI", Ubuntu, Sans-Serif;
                         font-weight: bold;
                     }}
-                </style>
-                <rect x="0.5" y="0.5" height="99%" width="51" fill="none"/>
+                    </style>
+                    <rect x="0.5" y="0.5" height="99%" width="51" fill="none"/>
                     <g>
                         <text x="5" y="17" fill="#00b4f0" class="text">
                             {channels[channel]}
