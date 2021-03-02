@@ -1,21 +1,34 @@
 import json
 from datetime import datetime
-from flask import Blueprint, request, jsonify, make_response
+from flask import Flask, jsonify, make_response, request
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
+
+app = Flask(__name__)
+
+limiter = Limiter(
+    app,
+    key_func=get_remote_address,
+    default_limits=["1200 per day", "50 per hour"]
+)
 
 with open("data.json", "r", encoding="utf8") as read_data:
     channels = json.load(read_data)
 
-api_channels = Blueprint('api_channels', __name__)
+
+@app.route("/")
+def main():
+    return "Awesome YouTubers voting system website."
 
 
-@api_channels.route("/channels/all")
+@app.route("/channels/all")
 def list_channels():
     """ Lists all channels in the database. """
 
     return jsonify(channels)
 
 
-@api_channels.route("/channels/<channel>")
+@app.route("/channels/<channel>")
 def get_channel(channel):
     """
     If no query specified, prints the name of the
@@ -55,7 +68,7 @@ def get_channel(channel):
             return "Channel not found on the list."
 
 
-@api_channels.route("/channels/<channel>/image.svg")
+@app.route("/channels/<channel>/image.svg")
 def img_channel(channel):
     """ Returns the YouTube score in a svg image. """
 
@@ -83,3 +96,7 @@ def img_channel(channel):
         return response
     else:
         return "Channel not found on the list"
+
+
+if __name__ == "__main__":
+    app.run()
