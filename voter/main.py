@@ -1,5 +1,4 @@
 import json
-from datetime import datetime
 from flask import Flask, jsonify, make_response, request
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
@@ -53,11 +52,6 @@ def get_channel(channel):
             with open("data.json", "w", encoding="utf8") as write_data:
                 json.dump(channels, write_data, indent=4)
 
-            # Write to log file.
-            with open("log.txt", "a") as append:
-                today = datetime.today().strftime('%Y-%m-%d-%H:%M')
-                append.write(f"\n{vote.title()}d {channel} on {today}")
-
             return f"You {vote}d successfully the channel {channel}."
         else:
             return "Channel not found on the list."
@@ -72,7 +66,8 @@ def get_channel(channel):
 def img_channel(channel):
     """ Returns the YouTube score in a svg image. """
 
-    svg_image = f"""
+    if channel in channels:
+        svg_image = f"""
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                 width="52px" height="22px" viewBox="0 0 52 22" fill="none">
                 <style>
@@ -90,7 +85,6 @@ def img_channel(channel):
                 </svg>
                 """
 
-    if channel in channels:
         response = make_response(svg_image)
         response.headers.set('Content-Type', 'image/svg+xml')
         return response
@@ -99,4 +93,4 @@ def img_channel(channel):
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
