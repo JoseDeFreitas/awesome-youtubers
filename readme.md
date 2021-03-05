@@ -589,7 +589,7 @@ Featured playlists: `Applied Math`, `Math Major`, `Computer Science/Computer Eng
 
 [<img align="left" height="94px" width="94px" alt="Domain of Science channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzn7b7O3zaktjJRfJx0qDfDw9TqLFIA_1BoAknkxw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DomainofScience)
 
-[**Domain of Science**](https://www.youtube.com/c/DomainofScience) [<img align="right" width="16" height="16" src="media/arrow-down.svg" alt="Downvote icon" title="Downvote this YouTuber">](https://awesome-youtubers.herokuapp.com/channels/Domain_of_Science?vote=downvote) \
+[**Domain of Science**](https://www.youtube.com/c/DomainofScience) \
 Content about: Math, Quantum Physics \
 Featured playlists: `Mathematics Videos - Domain of Science`, `The Map of Quantum Physics Expanded`, `Videos I made for D-Wave Systems`.
 
