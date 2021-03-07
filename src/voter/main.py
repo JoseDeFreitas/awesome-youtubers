@@ -1,4 +1,5 @@
 import json
+import threading
 from flask import Flask, jsonify, make_response, request
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
@@ -8,11 +9,13 @@ app = Flask(__name__)
 limiter = Limiter(
     app,
     key_func=get_remote_address,
-    default_limits=["1200 per day", "50 per hour"]
+    default_limits=["720 per day", "30 per hour"]
 )
 
 with open("data.json", "r", encoding="utf8") as read_data:
     channels = json.load(read_data)
+
+lock = threading.Lock()
 
 
 @app.route("/")
@@ -49,8 +52,9 @@ def get_channel(channel):
                 return "Vote word not recognised."
 
             # Write to database file.
-            with open("data.json", "w", encoding="utf8") as write_data:
-                json.dump(channels, write_data, indent=4)
+            with lock:
+                with open("data.json", "w", encoding="utf8") as write_data:
+                    json.dump(channels, write_data, indent=4)
 
             return f"You {vote}d successfully the channel {channel}."
         else:
