@@ -9,7 +9,7 @@ app = Flask(__name__)
 limiter = Limiter(
     app,
     key_func=get_remote_address,
-    default_limits=["720 per day", "30 per hour"]
+    default_limits=["1200 per day", "50 per hour"]
 )
 
 with open("data.json", "r", encoding="utf8") as read_data:
