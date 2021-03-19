@@ -20,6 +20,7 @@ lock = threading.Lock()
 
 @app.route("/")
 def main():
+    """ Main route of the website. """
     return "Awesome YouTubers voting system website."
 
 
