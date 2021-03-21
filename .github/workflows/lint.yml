@@ -25,4 +25,4 @@ jobs:
 
       - name: Execute linter
         run: |
-          python linter/lint.py
+          python src/linter/lint.py
