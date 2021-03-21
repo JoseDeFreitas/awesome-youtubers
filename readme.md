@@ -337,8 +337,7 @@ Featured playlists: `Desktop and .NET Code 101`, `ASP.NET Core 101`, `DevOps for
 
 [**kudvenkat**](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: SQL Server, C#, ASP.NET, Design patterns \
-Featured playlists: `Design Patterns tutorial for beginners`, `SQL Server tutorial for beginners`, `c# tutorial for beginners`, `ASP.NET tutorial for beginners`. \
-<br/>
+Featured playlists: `Design Patterns tutorial for beginners`, `SQL Server tutorial for beginners`, `c# tutorial for beginners`, `ASP.NET tutorial for beginners`.
 
 [🔼 Back to the top](#contents)
 
@@ -668,8 +667,7 @@ Featured playlists: `Algorithms`. \
 
 [**mycodeschool**](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA) \
 Content about: C/C++ language, Data structures, Algorithm \
-Featured playlists: `Sorting Algorithms`, `Data structures`, `Pointers in C/C++`, `Introduction to Programming through 'C'`. \
-<br/>
+Featured playlists: `Sorting Algorithms`, `Data structures`, `Pointers in C/C++`, `Introduction to Programming through 'C'`.
 
 [🔼 Back to the top](#contents)
 
