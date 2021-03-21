@@ -333,6 +333,13 @@ Featured playlists: `Introduction to Data Structures`, `Sorting Algorithm Lectur
 Content about: .NET, ASP.NET, C# \
 Featured playlists: `Desktop and .NET Code 101`, `ASP.NET Core 101`, `DevOps for .NET`, `C# Language Highlights`, `C# Advanced`, `and more`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngnH3h5aKC8bRNmvSvgomJi7Bj1-JPWxaf7V5kH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
+
+[**kudvenkat**](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: SQL Server, C#, ASP.NET, Design patterns \
+Featured playlists: `Design Patterns tutorial for beginners`, `SQL Server tutorial for beginners`, `c# tutorial for beginners`, `ASP.NET tutorial for beginners`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
@@ -648,6 +655,20 @@ Featured playlists: `Essence Of Calculus`, `Essence Of linear Algebra`, `Neural 
 [**Socratica**](https://www.youtube.com/c/Socratica) \
 Content about: Math, Computing, General science \
 Featured playlists: `Abstract Algebra`, `Learn Python playlist`, `videos about studying`, `many more science topics`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngK_x_ibq6xRq-NExEjxP7EnPSYDhUbDHoacpgF=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+
+[**Abdul Bari**](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: Algorithm \
+Featured playlists: `Algorithms`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjxmp9I5SL4FJUX1HWlg0k3jZVimZ6aNmuhPDJL=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
+
+[**mycodeschool**](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA) \
+Content about: C/C++ language, Data structures, Algorithm \
+Featured playlists: `Sorting Algorithms`, `Data structures`, `Pointers in C/C++`, `Introduction to Programming through 'C'`. \
 <br/>
 
 [🔼 Back to the top](#contents)
