@@ -1,10 +1,19 @@
-import json
 import threading
-from flask import Flask, jsonify, make_response, request
+from flask import (
+    Flask, jsonify,
+    make_response, request,
+    render_template
+)
+from flask_sqlalchemy import SQLAlchemy
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 
+# App configuration
+
 app = Flask(__name__)
+app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///youtubers.sqlite3"
+app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+db = SQLAlchemy(app)
 
 limiter = Limiter(
     app,
@@ -12,10 +21,14 @@ limiter = Limiter(
     default_limits=["1200 per day", "50 per hour"]
 )
 
-with open("data.json", "r", encoding="utf8") as read_data:
-    channels = json.load(read_data)
-
 lock = threading.Lock()
+
+# Database model
+
+class Channel(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String, unique=True, nullable=False)
+    vote = db.Column(db.Integer, default=0, nullable=False)
 
 
 @app.route("/")
@@ -28,7 +41,10 @@ def index():
 def list_channels():
     """ Lists all channels in the database. """
 
-    return jsonify(channels)
+    return render_template(
+        "all.html",
+        channels=Channel.query.order_by(Channel.name).all()
+    )
 
 
 @app.route("/channels/<channel>")
@@ -53,15 +69,12 @@ def get_channel(channel):
                 return "Vote word not recognised."
 
             # Write to database file.
-            with lock:
-                with open("data.json", "w", encoding="utf8") as write_data:
-                    json.dump(channels, write_data, indent=4)
 
             return f"You {vote}d successfully the channel {channel}."
         else:
             return "Channel not found on the list."
     else:
-        if channel in channels:
+        if channel in Channel.query.order_by(Channel.name).all():
             return "Channel: " + channel
         else:
             return "Channel not found on the list."
@@ -71,7 +84,7 @@ def get_channel(channel):
 def img_channel(channel):
     """ Returns the YouTube score in a svg image. """
 
-    if channel in channels:
+    if channel in Channel.query.order_by(Channel.name).all():
         svg_image = f"""
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                 width="52px" height="22px" viewBox="0 0 52 22" fill="none">
@@ -98,4 +111,5 @@ def img_channel(channel):
 
 
 if __name__ == "__main__":
+    db.create_all()
     app.run(debug=True)
