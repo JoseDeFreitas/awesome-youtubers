@@ -1,4 +1,4 @@
-{% extends base.html %}
+{% extends 'base.html' %}
 
 {% block content %}
 <table>
@@ -6,9 +6,11 @@
         <th>Name</th>
         <th>Vote</th>
     </tr>
+    {% for channel in channels %}
     <tr>
-        <td>{{ channels.name }}</td>
-        <td>{{ channels.vote }}</td>
+        <td>{{ channel.name }}</td>
+        <td>{{ channel.vote }}</td>
     </tr>
+    {% endfor %}
 </table>
 {% endblock %}
