@@ -12,13 +12,10 @@ from flask_limiter.util import get_remote_address
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///youtubers.sqlite3"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+
 db = SQLAlchemy(app)
 
-limiter = Limiter(
-    app,
-    key_func=get_remote_address,
-    default_limits=["1200 per day", "50 per hour"]
-)
+limiter = Limiter(app, key_func=get_remote_address,)
 
 lock = threading.Lock()
 
@@ -38,12 +35,14 @@ channels_names = [cname.name for cname in channels]
 # Routes
 
 @app.route("/")
+@limiter.exempt
 def index():
     """ Main route of the website. """
     return "Awesome YouTubers voting system website."
 
 
 @app.route("/channels/all")
+@limiter.exempt
 def list_channels():
     """ Lists all channels in the database. """
 
@@ -51,6 +50,7 @@ def list_channels():
 
 
 @app.route("/channels/<channel>")
+@limiter.limit("20 per minute")
 def get_channel(channel):
     """
     If no query specified, prints the name of the
@@ -67,13 +67,12 @@ def get_channel(channel):
             # Adds/substracts 1 from the channel.
             if vote == "upvote":
                 cvote.vote += 1
+                db.session.commit()
             elif vote == "downvote":
                 cvote.vote -= 1
+                db.session.commit()
             else:
                 return "Vote word not recognised."
-
-            # Write to database file.
-            db.session.commit()
 
             return f"You {vote}d successfully the channel {channel}."
         else:
@@ -86,6 +85,7 @@ def get_channel(channel):
 
 
 @app.route("/channels/<channel>/image.svg")
+@limiter.exempt
 def img_channel(channel):
     """ Returns the YouTube score in a svg image. """
 
