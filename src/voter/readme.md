@@ -10,7 +10,7 @@ This is anonymous and does not require authentication.
 If you think the YouTuber is awesome, you can upvote the channel. If not, you can downvote the
 channel. When you upvote a channel you sum 1 to its calification, whereas when you downvote it
 you substract 1 from its calification. The score the YouTuber has appears next to the icons.
-The value starts at 0 and goes above and below it according to the votes
+The value starts at 0 and goes above and below it according to the votes.
 
 ## How does it work?
 
