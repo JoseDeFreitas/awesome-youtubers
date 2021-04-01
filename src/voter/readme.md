@@ -32,4 +32,4 @@ video quality, coverage of the topics it explains, among others), but, of course
 so I think being able to receive opinions from all users is a good way to filter and have truly
 awesome content based on the community's opinion.
 
-<img src="https://awesome-youtubers.herokuapp.com/channels/Don_Jones/image.svg">
+<img src="https://awesome-youtubers.herokuapp.com/channels/3Blue1Brown/image.svg">
