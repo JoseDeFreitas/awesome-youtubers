@@ -339,6 +339,12 @@ Featured playlists: `Desktop and .NET Code 101`, `ASP.NET Core 101`, `DevOps for
 Content about: SQL Server, C#, ASP.NET, Design patterns \
 Featured playlists: `Design Patterns tutorial for beginners`, `SQL Server tutorial for beginners`, `c# tutorial for beginners`, `ASP.NET tutorial for beginners`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnj-Xt8eCdr2yPU93-3iYiTn3mwZE4J5rhASgTd06Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCg1SjE1gwO8A0xqoFtfLEAA)
+
+[**Ian Schoenrock**](https://www.youtube.com/channel/UCg1SjE1gwO8A0xqoFtfLEAA) \
+Content about: C#, Swift, Kotlin \
+Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotlin Course`, `Xamarin Forms Lists Course`.
+
 [🔼 Back to the top](#contents)
 
 ## Web development
