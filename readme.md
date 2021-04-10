@@ -343,7 +343,7 @@ Featured playlists: `Design Patterns tutorial for beginners`, `SQL Server tutori
 
 [**Ian Schoenrock**](https://www.youtube.com/channel/UCg1SjE1gwO8A0xqoFtfLEAA) \
 Content about: C#, Swift, Kotlin \
-Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotlin Course`, `Xamarin Forms Lists Course`.
+Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotlin Course`, `Xamarin Forms Lists Course`, `and more`.
 
 [🔼 Back to the top](#contents)
 
