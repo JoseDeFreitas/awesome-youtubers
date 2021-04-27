@@ -345,6 +345,13 @@ Featured playlists: `Design Patterns tutorial for beginners`, `SQL Server tutori
 Content about: C#, Swift, Kotlin \
 Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotlin Course`, `Xamarin Forms Lists Course`, `and more`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh02l6XSxqL7YSJYxbio_WW9Nk9ujDzG0BHY21m=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
+
+[**javidx9**](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: C++, Theoretical, Game development \
+Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Code-It-Yourself!`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
