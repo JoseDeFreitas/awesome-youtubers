@@ -12,9 +12,10 @@
 
 Para encontrar un tema en específico más rápido, puedes presionar `Ctrl + F` y escribir el tema que estás buscando.
 Es recomendable que abras los links con el click de la ruedita del ratón o clickeando sobre un link y seleccionando "Abrir link en una nueva pestaña". Así, podrás dejar la lista en una pestaña separada.
-- [Programación en general](#programacion-en-general)
-- [Computación](#computación)
+- [Programación en general](#programación-en-general)
 - [Desarrollo web](#desarrollo-web)
+- [Ciencia de la computación](#ciencia-de-la-computación)
+- [Consejos de vida y de trabajo]
 
 ## Programación en general
 
@@ -33,18 +34,6 @@ Playlists destacadas: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de 
 
 [🔼 Saltar al inicio](#contenido)
 
-
-## Computación
-
-[<img align="left" height="94px" width="94px" alt="Memorias de un Informático channel's avatar" src="https://lh3.googleusercontent.com/a-/AOh14Ghoova726gCiIS99qVYCyWFnU15WKgywPyIEhQhpw=s600-k-no-rp-mo"/>](https://www.youtube.com/c/memoriasdeuninformatico)
-
-[**Memorias de un Informático**](https://www.youtube.com/c/memoriasdeuninformatico) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
-Contenido sobre: Cursos sobre electrónica, linux y proyectos. \
-Playlists destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso de electrónica`. \
-<br/>
-
-[🔼 Saltar al inicio](#contenido)
-
 ## Desarrollo web
 
 [<img align="left" height="94px" width="94px" alt="Fazt Code channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwOIS7HSycIcJxcQClW1MqdHoCEG17H_9AuKauK6g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FaztCode)
@@ -59,4 +48,30 @@ Playlists destacadas: `Node.js playlist`, `videos de API/REST API`, `frameworks 
 Contenido sobre: Frontend, Backend \
 Playlists destacadas: `Curso de Vue.js`, `Curso de CSS3 y Flexbox Completo`, `Bootstrap 4 Curso Completo`, `videos de JavaScript y React.js`, `Curso Firebase / Firestore desde cero 💪`.
 
+[<img align="left" height="94px" width="94px" alt="Codificandolo channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniHeNvUbV6ejNRe4_J-7r_VLLfJxD4cwoAJDtgr4_c=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ManuelMuñozMir)
+
+[**Codificandolo**](https://www.youtube.com/c/ManuelMuñozMir) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+Contenido sobre: Frontend, Backend \
+Playlists destacadas: `APRENDE JAVASCRIPT | BOOTCAMP FULL STACK JAVASCRIPT`, `REACT.JS`, `JAVASCRIPT AVANZADO`, `Programación PHP`, `VUE + FIREBASE`.
+
 [🔼 Saltar al inicio](#contenido)
+
+## Ciencia de la computación
+
+[<img align="left" height="94px" width="94px" alt="Memorias de un Informático channel's avatar" src="https://lh3.googleusercontent.com/a-/AOh14Ghoova726gCiIS99qVYCyWFnU15WKgywPyIEhQhpw=s600-k-no-rp-mo"/>](https://www.youtube.com/c/memoriasdeuninformatico)
+
+[**Memorias de un Informático**](https://www.youtube.com/c/memoriasdeuninformatico) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+Contenido sobre: Cursos sobre electrónica, Linux, Proyectos \
+Playlists destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso de electrónica`. \
+<br/>
+
+[🔼 Saltar al inicio](#contenido)
+
+## Consejos de vida y de trabajo
+
+[<img align="left" height="94px" width="94px" alt="HolaMundo channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
+
+[**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+Contenido sobre: Recomendaciones, Reseñas \
+Playlists destacadas: `un montón de videos variados`. \
+<br/>
