@@ -19,16 +19,16 @@ Es recomendable que abras los links con el click de la ruedita del ratón o clic
 
 ## Programación en general
 
-[<img align="left" height="94px" width="94px" alt="CraterMaik channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyefDOEjJdHcYOW6okP2WO1pZjf35F3vVJw1VQL=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CraterMaik)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/a/AATXAJyefDOEjJdHcYOW6okP2WO1pZjf35F3vVJw1VQL=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CraterMaik)
 
-[**CraterMaik**](https://www.youtube.com/c/CraterMaik) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**CraterMaik**](https://www.youtube.com/c/CraterMaik) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Discord.js \
 Playlists destacadas: `DISCORD BOT MODULAR`, `Discord BOT | Desarrollo`, `Tutoriales Discord 2020`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="John Ortiz Ordoñez channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwni1NXIn1P5nKqk5hQsu4rzLpXsmWKRo6Xv9DbRiRg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AAUvwni1NXIn1P5nKqk5hQsu4rzLpXsmWKRo6Xv9DbRiRg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez)
 
-[**John Ortiz Ordoñez**](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**John Ortiz Ordoñez**](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Python, Java, Ejercicios de programación \
 Playlists destacadas: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de Numpy`, `Pandas - Ejercicios`, `muchas más playlists`.
 
@@ -36,21 +36,21 @@ Playlists destacadas: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de 
 
 ## Desarrollo web
 
-[<img align="left" height="94px" width="94px" alt="Fazt Code channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwOIS7HSycIcJxcQClW1MqdHoCEG17H_9AuKauK6g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FaztCode)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/a/AATXAJwOIS7HSycIcJxcQClW1MqdHoCEG17H_9AuKauK6g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FaztCode)
 
-[**Fazt Code**](https://www.youtube.com/c/FaztCode) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**Fazt Code**](https://www.youtube.com/c/FaztCode) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Frontend, Backend \
 Playlists destacadas: `Node.js playlist`, `videos de API/REST API`, `frameworks de JavaScript`, `Node.js & Mongodb CRUD 2.0`, `otros videos relacionados`.
 
-[<img align="left" height="94px" width="94px" alt="Bluuweb ! channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQCDdQw8VAdYEVI1WxFlK6sCm1O_WgAPI_4cTh_A=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Bluuweb)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/a/AATXAJxQCDdQw8VAdYEVI1WxFlK6sCm1O_WgAPI_4cTh_A=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Bluuweb)
 
-[**Bluuweb !**](https://www.youtube.com/c/Bluuweb) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**Bluuweb !**](https://www.youtube.com/c/Bluuweb) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Frontend, Backend \
 Playlists destacadas: `Curso de Vue.js`, `Curso de CSS3 y Flexbox Completo`, `Bootstrap 4 Curso Completo`, `videos de JavaScript y React.js`, `Curso Firebase / Firestore desde cero 💪`.
 
-[<img align="left" height="94px" width="94px" alt="Codificandolo channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniHeNvUbV6ejNRe4_J-7r_VLLfJxD4cwoAJDtgr4_c=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ManuelMuñozMir)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AAUvwniHeNvUbV6ejNRe4_J-7r_VLLfJxD4cwoAJDtgr4_c=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ManuelMuñozMir)
 
-[**Codificandolo**](https://www.youtube.com/c/ManuelMuñozMir) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**Codificandolo**](https://www.youtube.com/c/ManuelMuñozMir) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Frontend, Backend \
 Playlists destacadas: `APRENDE JAVASCRIPT | BOOTCAMP FULL STACK JAVASCRIPT`, `REACT.JS`, `JAVASCRIPT AVANZADO`, `Programación PHP`, `VUE + FIREBASE`.
 
@@ -58,9 +58,9 @@ Playlists destacadas: `APRENDE JAVASCRIPT | BOOTCAMP FULL STACK JAVASCRIPT`, `RE
 
 ## Ciencia de la computación
 
-[<img align="left" height="94px" width="94px" alt="Memorias de un Informático channel's avatar" src="https://lh3.googleusercontent.com/a-/AOh14Ghoova726gCiIS99qVYCyWFnU15WKgywPyIEhQhpw=s600-k-no-rp-mo"/>](https://www.youtube.com/c/memoriasdeuninformatico)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://lh3.googleusercontent.com/a-/AOh14Ghoova726gCiIS99qVYCyWFnU15WKgywPyIEhQhpw=s600-k-no-rp-mo"/>](https://www.youtube.com/c/memoriasdeuninformatico)
 
-[**Memorias de un Informático**](https://www.youtube.com/c/memoriasdeuninformatico) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**Memorias de un Informático**](https://www.youtube.com/c/memoriasdeuninformatico) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Cursos sobre electrónica, Linux, Proyectos \
 Playlists destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso de electrónica`. \
 <br/>
@@ -69,9 +69,9 @@ Playlists destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso d
 
 ## Consejos de vida y de trabajo
 
-[<img align="left" height="94px" width="94px" alt="HolaMundo channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
 
-[**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
 Contenido sobre: Recomendaciones, Reseñas \
 Playlists destacadas: `un montón de videos variados`. \
 <br/>
