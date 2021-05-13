@@ -682,7 +682,7 @@ Featured playlists: `Algorithms`. \
 Content about: C/C++ language, Data structures, Algorithm \
 Featured playlists: `Sorting Algorithms`, `Data structures`, `Pointers in C/C++`, `Introduction to Programming through 'C'`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="![image](https://user-images.githubusercontent.com/37962411/118199932-b774cf80-b419-11eb-8d85-cbef8d551534.png)"/>](https://www.youtube.com/c/GaryExplains)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnghnfeWSkURz0encxxAgmx5r-vl2jDviqvmYcC3=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GaryExplains)
 
 [**Gary Explains**](https://www.youtube.com/c/GaryExplains) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Concepts, Theory \
