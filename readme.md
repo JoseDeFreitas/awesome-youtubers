@@ -643,12 +643,6 @@ Content about: Math, Computer science, Engineering \
 Featured playlists: `Mathematics playlists`, `Computer science playlists`, `Engineering playlists`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJRhlpTqxhYPoLurEEOkEUpGYVxf89FoskWS0P=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ)
-
-[**Bob Trenwith**](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Math, Computing \
-Featured playlists: `a lot of Mathematics playlists`, `Computing playlists (Computer science)`, `other sciences and interesting playlists`.
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJws9PHgNERgzfu5yP-Y5yfWXCIdouXa7uWv-_UfvA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/cs50)
 
 [**Harvard's CS50**](https://www.youtube.com/c/cs50)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
