@@ -965,13 +965,6 @@ Content about: Google Spreadsheets \
 Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwhgEIoD76OH0GpP96oCCC9ezV3sEJwXTXfwnWI=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/amamd91)
-
-[**ICT Tutorial Channel**](https://www.youtube.com/c/amamd91) \
-Content about: Windows, Networking, C++\
-Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET Tutorial`, `Computing in general videos`. \
-<br/>
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzKIt0dhdvc7FP-6HRlB-WClDG9geZOhC_eDaIYqw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/OnlineTrainingforEveryone)
 
 [**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
