@@ -594,6 +594,13 @@ Content about: HTML, CSS, JavaScript, Firebase, FastAPI, TypeScript \
 Featured playlists: `Getting started with Web development`, `Version control`, `Frontend database management`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnifQad7zR3DCS016MMooLiTYWgludmhhy1o9rABmj8=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/bayanbennett)
+
+[**Bayan Bennett**](https://www.youtube.com/bayanbennett) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: JavaScript, TypeScript, HTML, CSS \
+Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Computer sciences
