@@ -3,9 +3,9 @@
 		<img width="428" src="../../media/logo.svg" alt="Awesome YouTubers logo">
 	</div>
   	<h1>
-    		List of awesome YouTubers in the Spanish language
+    		Lista de YouTubers geniales en español
   	</h1>
-	<p>Please refer to the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/readme.md">main readme.md file</a> as well as the <a href="https://github.com/JoseDeFreitas/awesome-youtubers">other files in the repository</a> to know more about this list and repository.</p>
+	<p>Por favor, lee el archivo <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/readme.md">main readme.md file</a> y <a href="https://github.com/JoseDeFreitas/awesome-youtubers">los otros archivos del repositorio</a> para saber más sobre esta lista y este repositorio.</p>
 </div>
 
 ## Contenido
