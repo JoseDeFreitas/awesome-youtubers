@@ -54,6 +54,12 @@ Playlists destacadas: `Curso de Vue.js`, `Curso de CSS3 y Flexbox Completo`, `Bo
 Contenido sobre: Frontend, Backend \
 Playlists destacadas: `APRENDE JAVASCRIPT | BOOTCAMP FULL STACK JAVASCRIPT`, `REACT.JS`, `JAVASCRIPT AVANZADO`, `Programación PHP`, `VUE + FIREBASE`.
 
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AKedOLRGtOuCky5tznXZXDBT-hwt7vQdKDAJXgVU2rI1Uw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/soydalto)
+
+[**Soy Dalto**](https://www.youtube.com/c/soydalto) [<img height="16px" width="16px" alt="Insignia de YouTubers verificados" src="../../media/badge-verified.svg" title="Es un canal verificado en YouTube"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+Contenido sobre: HTML, CSS, JavaScript, Frontend \
+Playlists destacadas: `Curso de DISEÑO WEB desde CERO (Completo)`, `Cursos de Desarrollo Web desde CERO (Completos)`, `Aprende a PROGRAMAR (Desde Cero)`.
+
 [🔼 Saltar al inicio](#contenido)
 
 ## Ciencia de la computación
