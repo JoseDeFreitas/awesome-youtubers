@@ -15,7 +15,7 @@ Es recomendable que abras los links con el click de la ruedita del ratón o clic
 - [Programación en general](#programación-en-general)
 - [Desarrollo web](#desarrollo-web)
 - [Ciencia de la computación](#ciencia-de-la-computación)
-- [Consejos de vida y de trabajo]
+- [Consejos de vida y de trabajo](#consejos-de-vida-y-de-trabajo)
 
 ## Programación en general
 
