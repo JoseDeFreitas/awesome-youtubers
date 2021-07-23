@@ -5,7 +5,7 @@
   	<h1>
     		Lista de YouTubers geniales en español
   	</h1>
-	<p>Por favor, lee el archivo <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/readme.md">main readme.md file</a> y <a href="https://github.com/JoseDeFreitas/awesome-youtubers">los otros archivos del repositorio</a> para saber más sobre esta lista y este repositorio.</p>
+	<p>Por favor, lee el archivo <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/readme.md">readme.md file</a> y <a href="https://github.com/JoseDeFreitas/awesome-youtubers">los otros archivos del repositorio</a> para saber más sobre esta lista y este repositorio.</p>
 </div>
 
 ## Contenido
