@@ -15,6 +15,7 @@ Es recomendable que abras los links con el click de la ruedita del ratón o clic
 - [Programación en general](#programación-en-general)
 - [Desarrollo web](#desarrollo-web)
 - [Ciencia de la computación](#ciencia-de-la-computación)
+- [Aprendizaje automático](#aprendizaje-automático)
 - [Consejos de vida y de trabajo](#consejos-de-vida-y-de-trabajo)
 
 ## Programación en general
@@ -73,6 +74,17 @@ Playlists destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso d
 
 [🔼 Saltar al inicio](#contenido)
 
+## Aprendizaje automático
+
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AKedOLQylqFTtERgMcChh2CwtrpeSeTSTEAqf8Vb9D15xw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RingaTech)
+
+[**Ringa Tech**](https://www.youtube.com/c/RingaTech) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+Contenido sobre: Inteligencia artificial, Redes neuronales \
+Playlists destacadas: `Inteligencia Artificial`, `Inteligencia Artificial desde cero con Python y Tensorflow`, `Visión artificial`. \
+<br/>
+
+[🔼 Saltar al inicio](#contenido)
+
 ## Consejos de vida y de trabajo
 
 [<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
@@ -81,3 +93,5 @@ Playlists destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso d
 Contenido sobre: Recomendaciones, Reseñas \
 Playlists destacadas: `un montón de videos variados`. \
 <br/>
+
+[🔼 Saltar al inicio](#contenido)
