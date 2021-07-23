@@ -78,7 +78,7 @@ Playlists destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso d
 
 [<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AKedOLQylqFTtERgMcChh2CwtrpeSeTSTEAqf8Vb9D15xw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RingaTech)
 
-[**Ringa Tech**](https://www.youtube.com/c/RingaTech) [<img height="16px" width="16px" alt="Insignia de YouTubers que suben videos semanales" src="../../media/badge-weekly.svg" title="Sube videos semanales"/>](badges.md#weekly-video-upload) \
+[**Ringa Tech**](https://www.youtube.com/c/RingaTech) \
 Contenido sobre: Inteligencia artificial, Redes neuronales \
 Playlists destacadas: `Inteligencia Artificial`, `Inteligencia Artificial desde cero con Python y Tensorflow`, `Visión artificial`.
 
