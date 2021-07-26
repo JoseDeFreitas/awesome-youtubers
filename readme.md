@@ -352,6 +352,12 @@ Content about: C++, Theoretical, Game development \
 Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Code-It-Yourself!`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLR6P3sBPRErVRQGI0Zt5c8DddO4nTXm5r9HWK0b=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/SingletonSean)
+
+[**SingletonSean**](https://www.youtube.com/c/SingletonSean) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: C#, WPF, .NET \
+Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
+
 [🔼 Back to the top](#contents)
 
 ## Web development
