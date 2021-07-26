@@ -33,7 +33,7 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
-- [Computer sciences](#computer-sciences)
+- [Computer science](#computer-science)
 - [Machine learning](#machine-learning)
 - [Game development](#game-development)
 - [Security](#security)
@@ -609,7 +609,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 
 [🔼 Back to the top](#contents)
 
-## Computer sciences
+## Computer science
 
 The core concepts of the computer sciences can be found here. Some channels teach you about math operations, including a lot of playlists with different math topics. The same goes for math and physics closely related to computers and hardware. Perfect if you want to learn about the deepest terms.
 
