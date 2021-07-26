@@ -22,7 +22,7 @@
 
 <details>
 	<summary>Extra information</summary>
-	<sub>Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the YouTubers doesn't mean the quality: all of the YouTubers below are awesome. Every YouTuber is in a specific section/subsection, though it may involve other topics that are not the ones according to the section (but the section the YouTuber is in is its main content). Note that this <strong>is not</strong> a promotional list of any kind. Check also the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/discussions">Discussions</a> section to read and discuss topics about this list and repository.
+	<sub>Take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the YouTubers doesn't mean the quality: all of the YouTubers below are awesome. The section the YouTuber is in is its main content. Note that this <strong>is not</strong> a promotional list of any kind. Check also the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/discussions">Discussions</a> tab.
 	</sub>
 </details>
 
