@@ -696,6 +696,12 @@ Content about: Concepts, Theory \
 Featured playlists: `Raspberry Pi`, `Microcontrollers`, `Programming`, `Linux`, `more!`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLT8mK_8SZ5QXllVly_c54MDkST6exGSKu0ttyir=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/joshstarmer)
+
+[**StatQuest with Josh Starmer**](https://www.youtube.com/c/joshstarmer) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Data visualization, Machine learning, Data manipulation, Neural networks \
+Featured playlists: `Linear Regression and Linear Models`, `Machine Learning`, `High Throughput Sequencing`, `Statistics Fundamentals`, `and more!`.
+
 [🔼 Back to the top](#contents)
 
 ## Machine learning
