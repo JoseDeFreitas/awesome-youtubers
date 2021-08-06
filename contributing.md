@@ -40,7 +40,7 @@ Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Publi
 
 - In the example, you see the two badges were added (verified YouTube and weekly upload badges). If the channel doesn't meet one of these requirements, remove the badge. More information on the [badges file](badges.md).
 - If the "Featured playlists" section is shorter than 124 characters, add a `\` symbol and a `<br/>` tag on the line below. Otherwise, don't do it.
-- Pay attention to all the other characters: dots, commas, asterisks, etc. Some of them are used by the [awesome YouTubers linter](linter/).
+- Pay attention to all the other characters: dots, commas, asterisks, etc.
 - Before making the pull request, make sure the layout looks good.
 
 ## Create the pull request content following this format
