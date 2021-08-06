@@ -607,6 +607,13 @@ Content about: JavaScript, TypeScript, HTML, CSS \
 Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ1oqKIj6ngUGE7NmB2cHzjqpLMu1RBdh_hlc9I-Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AniaKub%C3%B3w/featured)
+
+[**Code with Ania Kubów**](https://www.youtube.com/c/AniaKub%C3%B3w/featured) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+Content about: JavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL, Serverless Functions \
+Featured playlists: `JavaScript Game Walkthroughs`, `Clones`, `Blockchain`, `JavaScript inbuilt methods`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Computer science
