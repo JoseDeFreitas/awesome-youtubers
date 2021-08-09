@@ -908,7 +908,7 @@ Featured playlists: `Cyber Security - Penetration Testing Course (Offensive Secu
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx0I11HLzaCk0XKTy0lF5w7Na4AO_0pxVjc8zkIHg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LiveOverflowCTF)
 
-[**LiveOverflow**](https://www.youtube.com/c/LiveOverflowCTF) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+[**LiveOverflow**](https://www.youtube.com/c/LiveOverflow) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Ethical hacking \
 Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`. \
 <br/>
