@@ -358,6 +358,13 @@ Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Cod
 Content about: C#, WPF, .NET \
 Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/IK1hbh8eXMeH_Qpn7DFy-nVDe_27MxVb6a8Y5zWrXBdosUkZCYvvk5CvmjkpWU9M-zONaoa2-A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BinaryBunny)
+
+[**BinaryBunny**](https://www.youtube.com/c/BinaryBunny) \
+Content about: C#, WPF, .NET \
+Featured playlists: `How To Program in C#`, `videos creating C#-based apps`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
