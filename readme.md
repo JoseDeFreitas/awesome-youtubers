@@ -365,6 +365,13 @@ Content about: C#, WPF, .NET \
 Featured playlists: `How To Program in C#`, `videos creating C#-based apps`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/DRwuo_Fl7FYrKvMeCllo1qpyVlmJlD9zTYmouNlAT2a_yat0c38ANQvcA-76Er2F_y1K_UqVmfs=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CodingwithEfehan)
+
+[**Coding with Efehan**](https://www.youtube.com/c/CodingwithEfehan) \
+Content about: C#, .NET, Discord \
+Featured playlists: `Discord.NET Bot Development`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
