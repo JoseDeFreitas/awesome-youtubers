@@ -36,7 +36,7 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 - [Computer science](#computer-science)
 - [Machine learning](#machine-learning)
 - [Game development](#game-development)
-- [Security](#security)
+- [Cybersecurity](#cybersecurity)
 - [Internet/networking](#internetnetworking)
 - [Software in general](#software-in-general)
 - [Operating systems](#operating-systems)
@@ -904,7 +904,7 @@ Featured playlists: `Pygame Fundamentals`, `Creating Pong in Pygame`, `Learning 
 
 [🔼 Back to the top](#contents)
 
-## Security
+## Cybersecurity
 
 Security is something we all should care about. Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
 
