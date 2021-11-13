@@ -1172,6 +1172,13 @@ Content about: web, graphic design \
 Featured playlists: `Design careers`, `Workflow`, `Design chat`, `Freelancing as a designer`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTk233iPUrYYjd_Vs9j602bTjV7rLe0IAyvrJRe=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/YesImaDesigner)
+
+[**Yes I'm a Designer**](https://www.youtube.com/c/YesImaDesigner) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Design principles, Design tools tutorials \
+Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutorials`, `Photoshop CC`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Audio and video
