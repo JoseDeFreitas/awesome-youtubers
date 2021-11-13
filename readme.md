@@ -731,6 +731,13 @@ Featured playlists: `Raspberry Pi`, `Microcontrollers`, `Programming`, `Linux`, 
 Content about: Data visualization, Machine learning, Data manipulation, Neural networks \
 Featured playlists: `Linear Regression and Linear Models`, `Machine Learning`, `High Throughput Sequencing`, `Statistics Fundamentals`, `and more!`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLRab_Xl9yKoeSsWCGbwBAql4IRHyTWKar9DS9CT=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
+
+[**Professor Leonard**](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Mathematics \
+Featured playlists: `Algebra`, `Statastics`, `Calculus`. \
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTL1z4EG7eISzu6dMKqOkSqp8YUQHXRnk-J7-XF=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCV7cZwHMX_0vk8DSYrS7GCg)
 
 [**Learn coding**](https://www.youtube.com/channel/UCV7cZwHMX_0vk8DSYrS7GCg) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
