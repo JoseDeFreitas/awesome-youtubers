@@ -628,6 +628,13 @@ Content about: JavaScript, React, React-Native, Next.js, Node.js, Express, Graph
 Featured playlists: `JavaScript Game Walkthroughs`, `Clones`, `Blockchain`, `JavaScript inbuilt methods`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTJ0chZDvUfej-9AQi2HoKOzl6v-la1EIiZRQP2=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
+
+[**LearnWebCode**](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) \
+Content about: CSS, JavaScript, WordPress, Web Development \
+Featured playlists: `Wordpress theme development`, `Learn CSS`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Computer science
