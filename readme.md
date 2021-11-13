@@ -1088,6 +1088,13 @@ Content about: Linux, Emacs, CLI, Privacy in general.\
 Featured playlists: `Privacy & Security`, `The church of Emacs`, `The command line`, `The Arch way`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSFadDrzEpOmbopzQAK6EE7uzQXp8yNaKoGEAgKIA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA)
+
+[**Learn LinuxTV**](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Linux Tutorials, Distribution reviews, Linux Guides \
+Featured playlists: `Hardware reviews`, `Linux essentials`, `Linux commands for beginners`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Digital design
