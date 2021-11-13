@@ -31,6 +31,7 @@
 To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
 It's recommendable to open the links with the click of the mouse wheel or by right-clicking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
 
+- [Contents](#contents)
 - [Programming in general](#programming-in-general)
 - [Web development](#web-development)
 - [Computer science](#computer-science)
@@ -157,7 +158,7 @@ Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to 
 [**freeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: General programming, Computer science, Web Dev, DevOps, etc. \
 Featured playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials`. \
-<br/> 
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
 
@@ -252,7 +253,7 @@ Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwIiXF7RJb-MvjLdBMdvpxRNrnXdKgWNmrUzsuamw=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HusseinNasser-software-engineering)
 
 [**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts  \
+Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts \
 Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more video tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJznc40hgjUtfJdS_KNadxC_6isyQON0Hw54tGJ92w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
@@ -729,6 +730,13 @@ Featured playlists: `Raspberry Pi`, `Microcontrollers`, `Programming`, `Linux`, 
 [**StatQuest with Josh Starmer**](https://www.youtube.com/c/joshstarmer) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Data visualization, Machine learning, Data manipulation, Neural networks \
 Featured playlists: `Linear Regression and Linear Models`, `Machine Learning`, `High Throughput Sequencing`, `Statistics Fundamentals`, `and more!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTL1z4EG7eISzu6dMKqOkSqp8YUQHXRnk-J7-XF=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCV7cZwHMX_0vk8DSYrS7GCg)
+
+[**Learn coding**](https://www.youtube.com/channel/UCV7cZwHMX_0vk8DSYrS7GCg) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Java OOP, Oracle database, Datastructure (IN Hindi Lang) \
+Featured playlists: `Java OOP`, `Oracle database`, `C Programs`. \
+<br/>
 
 [🔼 Back to the top](#contents)
 
@@ -1230,7 +1238,7 @@ Featured playlists: `Getting started with your Raspberry Pi`. \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy17nmM3at2dVGVn8DmWURJf1eULCoPqC-lS517AQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/explainingcomputers)
 
 [**ExplainingComputers**](https://www.youtube.com/user/explainingcomputers) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Raspberry Pi, Electronics, Operation System  \
+Content about: Raspberry Pi, Electronics, Operation System \
 Featured playlists: `Artificial Intelligence`, `Pi Zero Projects`, `Migrating to Linux`, `many more`. \
 <br/>
 
