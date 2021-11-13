@@ -1165,6 +1165,13 @@ Featured playlists: `Inkscape Beginner Tutorials`, `GIMP Tutorials`, `Inkscape T
 Content about: Adobe Illustrator \
 Featured playlists: `The Logo Design Process`, `Adobe Illustrator Tips & Tricks`, `Character Designs`, `Illustrator Speedarts`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSW8zG2RFieP7BLOdCwMe3LNFNrb4Yia3IViynleg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
+
+[**Charli Marie TV**](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: web, graphic design \
+Featured playlists: `Design careers`, `Workflow`, `Design chat`, `Freelancing as a designer`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Audio and video
