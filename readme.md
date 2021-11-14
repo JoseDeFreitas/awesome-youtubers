@@ -157,7 +157,7 @@ Featured playlists: `Flutter Tutorials`, `Dart & Dart for Beginners`, `Intro to 
 [**freeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: General programming, Computer science, Web Dev, DevOps, etc. \
 Featured playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials`. \
-<br/> 
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
 
@@ -252,7 +252,7 @@ Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwIiXF7RJb-MvjLdBMdvpxRNrnXdKgWNmrUzsuamw=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HusseinNasser-software-engineering)
 
 [**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts  \
+Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts \
 Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more video tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJznc40hgjUtfJdS_KNadxC_6isyQON0Hw54tGJ92w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
@@ -628,6 +628,13 @@ Content about: JavaScript, React, React-Native, Next.js, Node.js, Express, Graph
 Featured playlists: `JavaScript Game Walkthroughs`, `Clones`, `Blockchain`, `JavaScript inbuilt methods`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTJ0chZDvUfej-9AQi2HoKOzl6v-la1EIiZRQP2=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
+
+[**LearnWebCode**](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) \
+Content about: CSS, JavaScript, WordPress, Web Development \
+Featured playlists: `Wordpress theme development`, `Learn CSS`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Computer science
@@ -722,6 +729,27 @@ Featured playlists: `Raspberry Pi`, `Microcontrollers`, `Programming`, `Linux`, 
 [**StatQuest with Josh Starmer**](https://www.youtube.com/c/joshstarmer) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Data visualization, Machine learning, Data manipulation, Neural networks \
 Featured playlists: `Linear Regression and Linear Models`, `Machine Learning`, `High Throughput Sequencing`, `Statistics Fundamentals`, `and more!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ4zr8L-6qw4muU5wvjEgGilOIGiHHigQrScWtz=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ)
+
+[**Eddie Woo**](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Mathematics \
+Featured playlists: `Binomial theory`, `Calculus`, `Algebra`, `Complex numbers`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLRab_Xl9yKoeSsWCGbwBAql4IRHyTWKar9DS9CT=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
+
+[**Professor Leonard**](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Mathematics \
+Featured playlists: `Algebra`, `Statastics`, `Calculus`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTL1z4EG7eISzu6dMKqOkSqp8YUQHXRnk-J7-XF=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCV7cZwHMX_0vk8DSYrS7GCg)
+
+[**Learn coding**](https://www.youtube.com/channel/UCV7cZwHMX_0vk8DSYrS7GCg) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Java OOP, Oracle database, Datastructure (IN Hindi Lang) \
+Featured playlists: `Java OOP`, `Oracle database`, `C Programs`. \
+<br/>
 
 [🔼 Back to the top](#contents)
 
@@ -902,6 +930,13 @@ Featured playlists: `Super Mario Bros in JavaScript`, `Creating a Tetris Online 
 Content about: Python \
 Featured playlists: `Pygame Fundamentals`, `Creating Pong in Pygame`, `Learning pygame by making Flappy Bird`, `Google dinosaur runner in Godot`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTGj8uIleXQsTjYxUTZELm9D4xNFrdoLrZChKCF=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCS2smVWjNGuRzD6HVWmlWwQ)
+
+[**The DevKing**](https://www.youtube.com/channel/UCS2smVWjNGuRzD6HVWmlWwQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: game development, Robolox scripting \
+Featured playlists: `Robolox scripting`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Cybersecurity
@@ -1059,6 +1094,13 @@ Content about: Linux, Emacs, CLI, Privacy in general.\
 Featured playlists: `Privacy & Security`, `The church of Emacs`, `The command line`, `The Arch way`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSFadDrzEpOmbopzQAK6EE7uzQXp8yNaKoGEAgKIA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA)
+
+[**Learn LinuxTV**](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Linux Tutorials, Distribution reviews, Linux Guides \
+Featured playlists: `Hardware reviews`, `Linux essentials`, `Linux commands for beginners`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Digital design
@@ -1121,6 +1163,20 @@ Featured playlists: `Inkscape Beginner Tutorials`, `GIMP Tutorials`, `Inkscape T
 [**Mohamed Achraf**](https://www.youtube.com/c/MohamedAchraf) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 Content about: Adobe Illustrator \
 Featured playlists: `The Logo Design Process`, `Adobe Illustrator Tips & Tricks`, `Character Designs`, `Illustrator Speedarts`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSW8zG2RFieP7BLOdCwMe3LNFNrb4Yia3IViynleg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
+
+[**Charli Marie TV**](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: web, graphic design \
+Featured playlists: `Design careers`, `Workflow`, `Design chat`, `Freelancing as a designer`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTk233iPUrYYjd_Vs9j602bTjV7rLe0IAyvrJRe=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/YesImaDesigner)
+
+[**Yes I'm a Designer**](https://www.youtube.com/c/YesImaDesigner) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Design principles, Design tools tutorials \
+Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutorials`, `Photoshop CC`. \
+<br/>
 
 [🔼 Back to the top](#contents)
 
@@ -1223,7 +1279,7 @@ Featured playlists: `Getting started with your Raspberry Pi`. \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy17nmM3at2dVGVn8DmWURJf1eULCoPqC-lS517AQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/explainingcomputers)
 
 [**ExplainingComputers**](https://www.youtube.com/user/explainingcomputers) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Raspberry Pi, Electronics, Operation System  \
+Content about: Raspberry Pi, Electronics, Operation System \
 Featured playlists: `Artificial Intelligence`, `Pi Zero Projects`, `Migrating to Linux`, `many more`. \
 <br/>
 
