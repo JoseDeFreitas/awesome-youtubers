@@ -1410,11 +1410,9 @@ Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
 
 <details>
 	<summary>Credits</summary>
-	
-The list style is heavily inspired by [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities), created by [mhxion](https://github.com/mhxion). This repository was my inspiration as I consider [this list](https://github.com/JoseDeFreitas/awesome-youtubers) also looks good with the same table-style in this file, as well as the useful [media/README](/media/README.md).
-	
-The awesome-youtubers logo and the corresponding media/README icons were made by [José De Freitas](https://github.com/JoseDeFreitas/).
-
-The media/README were created without following any design structure, though the [awesome-youtubers logo](/media/logo.svg) is inspired by the [awesome logo](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg) and the [awesome-nodejs logo](https://github.com/sindresorhus/awesome-nodejs/blob/master/media/logo.svg). The two play icons were created following the play button of the [YouTube logo](https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q). It's just a representation, I'm not using the YouTube logo itself.
-
+	<sub>The list style is heavily inspired by <a href="https://github.com/mhxion/awesome-discord-communities">awesome-discord-communities</a>, created by <a href="https://github.com/mhxion">mhxion</a>. This repository was my inspiration as I consider <a href="https://github.com/JoseDeFreitas/awesome-youtubers">this list</a> also looks good with the same table-style in this file, as well as the useful <a href="/media/README.md">media/README</a>.
+	<br/>
+	The awesome-youtubers logo and the corresponding media/README icons were made by <a href="https://github.com/JoseDeFreitas/">José De Freitas</a>.
+	<br/>
+	The media/README were created without following any design structure, though the <a href="/media/logo.svg">awesome-youtubers logo</a> is inspired by the <a href="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg">awesome logo</a> and the <a href="https://github.com/sindresorhus/awesome-nodejs/blob/master/media/logo.svg">awesome-nodejs logo</a>. The two play icons were created following the play button of the <a href="https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q">YouTube logo</a>. It's just a representation, I'm not using the YouTube logo itself.</sub>
 </details>
