@@ -304,8 +304,7 @@ Featured playlists: `ASP.NET Core REST API Tutorial`, `ASP.NET Core General Tuto
 
 [<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="media/badge-es.svg" title="This YouTuber speaks Spanish"/>](media/README.md#spanish-speaking-youtubers) [**John Ortiz Ordoñez**](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Python, Java, Ejercicios de programación \
-Featured playlists: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de Numpy`, `Pandas - Ejercicios`, `muchas más playlists`. \
-<br/>
+Featured playlists: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de Numpy`, `Pandas - Ejercicios`, `muchas más playlists`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhC7wVDRB7huyZLhXcRIPUF3MjHKdC-7ctvSbEK=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PythonIn1Minute)
 
@@ -877,15 +876,13 @@ Featured playlists: `Two Minute Papers`, `AlphaGo`, `Fluid, Cloth and Hair Simul
 
 [<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="media/badge-es.svg" title="This YouTuber speaks Spanish"/>](media/README.md#spanish-speaking-youtubers) [**Ringa Tech**](https://www.youtube.com/c/RingaTech) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekle"/>](badges.md#weekly-video-upload) \
 Content about: Inteligencia artificial, Redes neuronales \
-Featured playlists: `Inteligencia Artificial`, `Inteligencia Artificial desde cero con Python y Tensorflow`, `Visión artificial`. \
-<br/>
+Featured playlists: `Inteligencia Artificial`, `Inteligencia Artificial desde cero con Python y Tensorflow`, `Visión artificial`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQl78_pFQwA4Q145UKMQg4SOrKv0F46Gh9zq4mXng=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MachineLearnia)
 
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="media/badge-fr.svg" title="This YouTuber speaks French"/>](media/README.md#french-speaking-youtubers) [**Machine Learnia**](https://www.youtube.com/c/MachineLearnia) \
 Content about: Machine Learning, Scikit Learn, Python \
-Featured playlists: `FORMATION DEEP LEARNING`, `SKLEARN tutoriel français Machine Learning`, `PYTHON SPÉCIAL MACHINE LEARNING`. \
-<br/>
+Featured playlists: `FORMATION DEEP LEARNING`, `SKLEARN tutoriel français Machine Learning`, `PYTHON SPÉCIAL MACHINE LEARNING`.
 
 [🔼 Back to the top](#contents)
 
