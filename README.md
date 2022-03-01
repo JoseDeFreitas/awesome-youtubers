@@ -218,8 +218,7 @@ Featured playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="media/badge-en.svg" title="This YouTuber speaks English"/>](media/README.md#english-speaking-youtubers) [**DataDaft**](https://www.youtube.com/c/DataDaft) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](media/README.md#weekly-video-upload) \
 Content about: Data science, Python, R, Practical & theoretical \
-Featured playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`. \
-<br/>
+Featured playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwgZqkGaQtvrnuPj7jVsKzM61YR_Do0zPHZchlUFQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
@@ -232,8 +231,7 @@ Featured playlists: `OOP in js`, `Unit testing`, `TDD`, `Functional programming 
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="media/badge-en.svg" title="This YouTuber speaks English"/>](media/README.md#english-speaking-youtubers) [**Mike Dane**](https://www.youtube.com/c/GiraffeAcademy/) \
 Content about: MongoDB, SQL, C#, C++ \
-Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C# - Programming Language`, `C++ - Programming Language`. \
-<br/>
+Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C# - Programming Language`, `C++ - Programming Language`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymF9D2kCpzhV3feeWOuCw_xf2FzmYUCabaBrhj=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXpGqiSd3BD0FQ9OP3ziFsw)
 
@@ -591,8 +589,7 @@ Featured playlists: `JavaScript`, `Web development`, `JAMstack`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="media/badge-en.svg" title="This YouTuber speaks English"/>](media/README.md#english-speaking-youtubers) [**DevTips**](https://www.youtube.com/c/DevTipsForDesigners/) \
 Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
-Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`. \
-<br/>
+Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
@@ -946,8 +943,7 @@ Featured playlists: `Mix and Jam Recreations`, `Game Jams`, `RE Mix and Jam`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="media/badge-en.svg" title="This YouTuber speaks English"/>](media/README.md#english-speaking-youtubers) [**Sebastian Lague**](https://www.youtube.com/c/SebastianLague) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](media/README.md#verified-youtube-channel) \
 Content about: Unity, C#, Game design \
-Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedural Planet Generation`, `Coding Adventures`. \
-<br/>
+Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedural Planet Generation`, `Coding Adventures`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx2zjXrjENr6VU0xQnqHVrqitqoKsFIBGtEwOen8g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DaFluffyPotato)
 
@@ -1075,8 +1071,7 @@ Internet connection and networking is a wide topic, and it's common to get stuck
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="media/badge-en.svg" title="This YouTuber speaks English"/>](media/README.md#english-speaking-youtubers) [**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](media/README.md#weekly-video-upload) \
 Content about: Internet, Networking, Command line, Hardware \
-Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
-<br/>
+Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyLZ561K6CUOujxHpRbMgK_lwD6WWELO6YwM2Bw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
 
@@ -1115,8 +1110,7 @@ Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts -
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="media/badge-en.svg" title="This YouTuber speaks English"/>](media/README.md#english-speaking-youtubers) [**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](media/README.md#weekly-video-upload) \
 Content about: Excel, Office suite \
-Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`. \
-<br/>
+Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)
 
@@ -1397,8 +1391,7 @@ Featured playlists: `AWWWARDS`, `Front End`, `Freelancing`. \
 
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="media/badge-fr.svg" title="This YouTuber speaks French"/>](media/README.md#french-speaking-youtubers) [**Qu'est-ce que Tu GEEKes ?**](https://www.youtube.com/QuestcequetuGEEKes) \
 Content about: Vulgarisation de l'informatique au grand public curieux avec des réalisations sourcées, libres de droits et sans publicité. \
-Featured playlists: `Man`, `Rumeurs`, `A chaud`, `Questions GEEKes`. \
-<br/>
+Featured playlists: `Man`, `Rumeurs`, `A chaud`, `Questions GEEKes`.
 
 [🔼 Back to the top](#contents)
 
