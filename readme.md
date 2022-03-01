@@ -828,13 +828,6 @@ Featured playlists: `Events and Talks`, `Research Releases`, `Robotics`. \
 Content about: Machine Learning and AI Research, Scientific Papers \
 Featured playlists: `Two Minute Papers`, `AlphaGo`, `Fluid, Cloth and Hair Simulations`, `AI and Deep Learning`, `Light Transport, Ray Tracing and Global Illumination`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQl78_pFQwA4Q145UKMQg4SOrKv0F46Gh9zq4mXng=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MachineLearnia)
-
-[**Machine Learnia**](https://www.youtube.com/c/MachineLearnia) \
-Content about: Machine Learning , Scikit Learn , Python \
-Featured playlists: `FORMATION DEEP LEARNING`, `SKLEARN tutoriel français Machine Learning`, `PYTHON SPÉCIAL MACHINE LEARNING`. \
-<br/>
-
 [🔼 Back to the top](#contents)
 
 ## Game development
