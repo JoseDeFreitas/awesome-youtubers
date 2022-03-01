@@ -50,3 +50,14 @@ Playlists: `Man`, `Rumeurs`, `A chaud`, `Questions GEEKes`.
 <br/><br/>
 
 [🔼 Retour en haut de la page](#Contenu)
+
+## Machine learning
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQl78_pFQwA4Q145UKMQg4SOrKv0F46Gh9zq4mXng=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MachineLearnia)
+
+[**Machine Learnia**](https://www.youtube.com/c/MachineLearnia) \
+Contenu relatif à : Machine Learning , Scikit Learn , Python \
+Playlists: `FORMATION DEEP LEARNING`, `SKLEARN tutoriel français Machine Learning`, `PYTHON SPÉCIAL MACHINE LEARNING`. \
+<br/>
+
+[🔼 Retour en haut de la page](#Contenu)
