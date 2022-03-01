@@ -14,3 +14,12 @@ This badge is attached to the YouTubers that have a verified symbol on their cha
 
 #### Weekly video upload
 This badge is attached to the YouTubers who upload at least 1 video per week.
+
+#### English speaking YouTubers
+This badge is attached to YouTubers that make their content in English.
+
+#### French speaking YouTubers
+This badge is attached to YouTubers that make their content in French.
+
+#### Spanish speaking YouTubers
+This badge is attached to YouTubers that make their content in Spanish.
