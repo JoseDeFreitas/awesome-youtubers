@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-> ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+> Watch video tutorials from YouTubers that teach you about technology.
 
 <details>
 	<summary>Extra information</summary>
