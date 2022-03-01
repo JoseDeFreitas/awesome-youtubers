@@ -1087,7 +1087,7 @@ Featured playlists: `Install and overview`, `Linux How-to`. \
 Content about: Windows \
 Featured playlists: `Windows Server Beginners Tutorials`, `Managing Networking services in Windows Server`, `Managing Active Directory Infrastructure`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/IEbXScJu3VcBeTenoLtX4SWaUhxt9WG8lLs-9uYhqMVSRHCjFn3VA9KZOXZBekxlxhzN9ISG=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DistroTube/)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="hhttps://yt3.ggpht.com/3aTiR8-i48HnwXZKBacKe_niYg1zmIH2BFv_OqQotxqu3eurYH64sKF2YITmj41Y1p5iPYdaLQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DistroTube/)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="media/badge-en.svg" title="This YouTuber speaks English"/>](media/README.md#english-speaking-youtubers) [**DistroTube**](https://www.youtube.com/c/DistroTube/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="media/badge-verified.svg" title="Is a verified YouTube channel"/>](media/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="media/badge-weekly.svg" title="Uploads videos weekly"/>](media/README.md#weekly-video-upload) \
 Content about: Linux, Emacs, CLI, Privacy in general.\
