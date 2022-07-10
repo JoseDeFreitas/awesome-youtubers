@@ -31,20 +31,21 @@
 To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
 It's recommendable to open the links with the click of the mouse wheel or by right-clicking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
 
-- [Programming in general](#programming-in-general)
-- [Web development](#web-development)
-- [Computer science](#computer-science)
-- [Machine learning](#machine-learning)
-- [Game development](#game-development)
-- [Cybersecurity](#cybersecurity)
-- [Internet/networking](#internetnetworking)
-- [Software in general](#software-in-general)
-- [Operating systems](#operating-systems)
-- [Digital design](#digital-design)
-- [Audio and video](#audio-and-video)
-- [Hardware](#hardware)
-- [Life skills and job searching](#life-skills-and-job-searching)
-- [Electronics and communication](#electronics-and-communication)
+-   [Programming in general](#programming-in-general)
+-   [Web development](#web-development)
+-   [Computer science](#computer-science)
+-   [Machine learning](#machine-learning)
+-   [Game development](#game-development)
+-   [Mobile development](#mobile-development)
+-   [Cybersecurity](#cybersecurity)
+-   [Internet/networking](#internetnetworking)
+-   [Software in general](#software-in-general)
+-   [Operating systems](#operating-systems)
+-   [Digital design](#digital-design)
+-   [Audio and video](#audio-and-video)
+-   [Hardware](#hardware)
+-   [Life skills and job searching](#life-skills-and-job-searching)
+-   [Electronics and communication](#electronics-and-communication)
 
 ## Programming in general
 
@@ -994,6 +995,19 @@ Featured playlists: `Pygame Fundamentals`, `Creating Pong in Pygame`, `Learning 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**The DevKing**](https://www.youtube.com/channel/UCS2smVWjNGuRzD6HVWmlWwQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: game development, Robolox scripting \
 Featured playlists: `Robolox scripting`. \
+<br />
+
+[🔼 Back to the top](#contents)
+
+## Mobile development
+
+Nowadays, we can't imagine our lives without our smartphones and the people who enable the smartphone experience are mobile app developers. In this section, you can learn how to build mobile applications from scratch that face consumers. Learn how to follow industry best practices. Learn Kotlin or Swift for native development in Android/iOS or learn technologies such as React Native and Flutter for cross-platform mobile development.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/mhup7lzHh_c9b55z0edX65ReN9iJmTF2JU7vMGER9LTOora-NnXtvZdtn_vJmTvW6-y97z0Y=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PhilippLackner)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Philipp Lackner**](https://www.youtube.com/c/PhilippLackner) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload)
+Content about: Android, Kotlin, Jetpack Compose \
+Featured playlists: `ANDROID FUNDAMENTALS FOR BEGINNERS`, `KOTLIN NEWBIE TO PRO`, `Jetpack Compose`. \
 <br />
 
 [🔼 Back to the top](#contents)
