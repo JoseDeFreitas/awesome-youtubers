@@ -370,6 +370,14 @@ Content about: C#, .NET, Discord \
 Featured playlists: `Discord.NET Bot Development`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/wLdR-0xgfaVI8YlJWsCUqcL369ylYVHzxLhatQVMzZALSOAZRl0xE1DPycMJlhkp__Y6l7d0=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Alex Gutjahr | Spring Boot + Kotlin**](https://www.youtube.com/c/alexgutjahr)
+[<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Spring Boot, Kotlin \
+Featured playlists: `Spring Boot`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
