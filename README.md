@@ -44,8 +44,8 @@ It's recommendable to open the links with the click of the mouse wheel or by rig
 -   [Digital design](#digital-design)
 -   [Audio and video](#audio-and-video)
 -   [Hardware](#hardware)
--   [Life skills and job searching](#life-skills-and-job-searching)
--   [Interview and Competitive programming](#interview-and-competitive-programming)
+-   [Job searching and competitive programming](#job-searching-and-competitive-programming)
+-   [Life skills](#life-skills)
 -   [Electronics and communication](#electronics-and-communication)
 
 ## Programming in general
@@ -1356,58 +1356,7 @@ Featured playlists: `Artificial Intelligence`, `Pi Zero Projects`, `Migrating to
 
 [🔼 Back to the top](#contents)
 
-## Life skills and job searching
-
-Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or start one by yourself. Find also coding/design/tech companies interview methods.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwe6TjwIlLLS09rBm-AG81b6PslL87sIu8ULLAvpw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GcflearnfreeOrgplus)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Job searching, General skills, Life tips \
-Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**mayuko**](https://www.youtube.com/c/hellomayuko) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Job tips, Health \
-Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`.
-
-[<img align="left" height="94px" width="94px" alt="JChannel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsLfjQGNpQtVWS4hXGxM6F21cdArOL-sTIu9rOXw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/Tychos1)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Joshua Fluke**](https://www.youtube.com/user/Tychos1) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Interviews, Portfolio Reviews, Getting a Job \
-Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwnVxHV9cR_nofTeCXS3x2H2jRQjH3YEq8sYqpM=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JomaOppa)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Joma Tech**](https://www.youtube.com/c/JomaOppa) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
-Content about: Programming, Job Offers, Salaries, Interviewing \
-Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
-
-[<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="badges/badge-es.svg" title="This YouTuber speaks Spanish"/>](badges/README.md#spanish-speaking-youtubers) [**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Recomendaciones, Reseñas \
-Featured playlists: `un montón de videos variados`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3OKQ1KaMRIw4g29qkcpz2pC8JTop-9pyXhaY5Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenjaminCode/)
-
-[<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="badges/badge-fr.svg" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Benjamin Code**](https://www.youtube.com/c/BenjaminCode/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Chaine de vulgarisation du monde du web \
-Featured playlists: `AWWWARDS`, `Front End`, `Freelancing`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnj1xq-Llm7ooeN_VpilJSoEd_mGg7DJDILT_G8HVw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/QuestcequetuGEEKes)
-
-[<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="badges/badge-fr.svg" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Qu'est-ce que Tu GEEKes ?**](https://www.youtube.com/QuestcequetuGEEKes) \
-Content about: Vulgarisation de l'informatique au grand public curieux avec des réalisations sourcées, libres de droits et sans publicité. \
-Featured playlists: `Man`, `Rumeurs`, `A chaud`, `Questions GEEKes`.
-
-[🔼 Back to the top](#contents)
-
-## Interview and Competitive programming
+## Job searching and competitive programming
 
 Most of the companies interview process involves coding challenges. Competitive programming is like a sports held over the Internet where programmers will compete with each other. The below list contains some of the channels you can follow to brush up your competitive programming skills.
 
@@ -1479,6 +1428,57 @@ Featured playlists: `LeetCode Solution`, `HackerRank Solution`. \
 Content about: Code Chef, Codeforces \
 Featured playlists: `Codeforces Screencasts`. \
 <br />
+
+[🔼 Back to the top](#contents)
+
+## Life skills
+
+Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or start one by yourself. Find also coding/design/tech companies interview methods.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwe6TjwIlLLS09rBm-AG81b6PslL87sIu8ULLAvpw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GcflearnfreeOrgplus)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Job searching, General skills, Life tips \
+Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**mayuko**](https://www.youtube.com/c/hellomayuko) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Job tips, Health \
+Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`.
+
+[<img align="left" height="94px" width="94px" alt="JChannel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsLfjQGNpQtVWS4hXGxM6F21cdArOL-sTIu9rOXw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/Tychos1)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Joshua Fluke**](https://www.youtube.com/user/Tychos1) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Interviews, Portfolio Reviews, Getting a Job \
+Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwnVxHV9cR_nofTeCXS3x2H2jRQjH3YEq8sYqpM=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JomaOppa)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Joma Tech**](https://www.youtube.com/c/JomaOppa) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: Programming, Job Offers, Salaries, Interviewing \
+Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
+
+[<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="badges/badge-es.svg" title="This YouTuber speaks Spanish"/>](badges/README.md#spanish-speaking-youtubers) [**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Recomendaciones, Reseñas \
+Featured playlists: `un montón de videos variados`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3OKQ1KaMRIw4g29qkcpz2pC8JTop-9pyXhaY5Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenjaminCode/)
+
+[<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="badges/badge-fr.svg" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Benjamin Code**](https://www.youtube.com/c/BenjaminCode/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Chaine de vulgarisation du monde du web \
+Featured playlists: `AWWWARDS`, `Front End`, `Freelancing`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnj1xq-Llm7ooeN_VpilJSoEd_mGg7DJDILT_G8HVw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/QuestcequetuGEEKes)
+
+[<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="badges/badge-fr.svg" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Qu'est-ce que Tu GEEKes ?**](https://www.youtube.com/QuestcequetuGEEKes) \
+Content about: Vulgarisation de l'informatique au grand public curieux avec des réalisations sourcées, libres de droits et sans publicité. \
+Featured playlists: `Man`, `Rumeurs`, `A chaud`, `Questions GEEKes`.
 
 [🔼 Back to the top](#contents)
 
