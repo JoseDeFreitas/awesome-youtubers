@@ -154,12 +154,6 @@ Content about: General programming, Computer science, Web Dev, DevOps, etc. \
 Featured playlists: `Python Tutorials`, `Machine Learning`, `Java Tutorials`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CS Dojo**](https://www.youtube.com/c/CSDojo/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
-Content about: Python and General concepts \
-Featured playlists: `Data Structures and Algorithms`, `Python Tutorials for Absolute Beginners`, `Coding Interview Questions and Answers`.
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygbw5_NJRJv11GoqyEXvHiAoLVu3RPOeROEM9Z0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/sentdex)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**sentdex**](https://www.youtube.com/c/sentdex) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
