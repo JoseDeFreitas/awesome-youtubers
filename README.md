@@ -62,8 +62,7 @@ Featured playlists: `Python Machine Learning Tutorials`, `Python Programming Tut
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Mathematics, Programming languages \
-Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \
-<br />
+Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwVjl968ProbjWSmYNghqYxAG_EI0-3ZK6QNIHM=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DonJonesConTech)
 
@@ -75,8 +74,7 @@ Featured playlists: `Learn Windows PowerShell in a Month of Lunches`, `SAPIEN Po
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Corey Schafer**](https://www.youtube.com/c/Coreyms) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Python, Backend \
-Featured playlists: `Python Tutorials`, `Django Tutorials`, `Flask Tutorials`, `Matplotlib Tutorials`, `SQL Tutorials`. \
-<br />
+Featured playlists: `Python Tutorials`, `Django Tutorials`, `Flask Tutorials`, `Matplotlib Tutorials`, `SQL Tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyHn9zALlBP5HBxpaqVd9x00oZDRlLKSOJu4Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/briantwill)
 
@@ -106,8 +104,7 @@ Featured playlists: `The Nature of Code: Simulating Natural Systems with Process
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Geek's Lesson**](https://www.youtube.com/c/GeeksLesson) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Backend, Theoretical, Data \
-Featured playlists: `Data structures playlists`, `Backend programming languages videos`, `Mathematics videos`. \
-<br />
+Featured playlists: `Data structures playlists`, `Backend programming languages videos`, `Mathematics videos`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxo5sxMK5En0bXdwzW65cLoDmmGYdoWWDnwlmd0zrw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/intellipaaat)
 
@@ -131,8 +128,7 @@ Featured playlists: `Frontend development videos`, `Backend development videos`,
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Simplified Coding**](https://www.youtube.com/c/SimplifiedcodingNetOfficial) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Android, Backend \
-Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutorial`, `more videos and playlists`. \
-<br />
+Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutorial`, `more videos and playlists`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXTGNb9fHAe65rAIHAHkq0D227_WF4IsvdIXw-6Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/smartherd)
 
@@ -194,8 +190,7 @@ Featured playlists: `30 Days of Python ~ Python 3.8+`, `Coding With Python`, `Py
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Sebastiaan Mathôt**](https://www.youtube.com/c/SebastiaanMath%C3%B4t) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Python \
-Featured playlists: `Python lectures`, `Improving and optimizing Python`, `some other Python playlists!`. \
-<br />
+Featured playlists: `Python lectures`, `Improving and optimizing Python`, `some other Python playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw7fYBQnfGgKdrlaYJWMcTtlZLobe00ebnq07-a=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngelSix)
 
@@ -207,8 +202,7 @@ Featured playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DataDaft**](https://www.youtube.com/c/DataDaft) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Data science, Python, R, Practical & theoretical \
-Featured playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`. \
-<br />
+Featured playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwgZqkGaQtvrnuPj7jVsKzM61YR_Do0zPHZchlUFQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
@@ -350,8 +344,7 @@ Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Cod
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**SingletonSean**](https://www.youtube.com/c/SingletonSean) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: C#, WPF, .NET \
-Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`. \
-<br />
+Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/RGcZ5Ius9F9RV2nRpslSWc71ayzFGVWUiyAoPYWITx-mBoJwkPAHVqva6zgqGgSeJtgXmSukgd4=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCOoKt2u-bE1NuELXSFaEdUw)
 
@@ -417,8 +410,7 @@ Featured playlists: `Full Course: Level Up Your CSS Animation Skills`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Dani Krossing**](https://www.youtube.com/c/TheCharmefis) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Web development, Backend \
-Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutorials`, `jQuery Tutorials`. \
-<br />
+Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutorials`, `jQuery Tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_1d5dpZETr6oOBANDbkDtqp9h4n9RWCXeKrWM0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaScriptMastery)
 
@@ -450,8 +442,7 @@ Featured playlists: `Web Design Tutorial (UI & UX)`, `React.js Tutorial For Begi
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DesignCourse**](https://www.youtube.com/c/DesignCourse) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Web design, Design, UI/UX, Adobe XD \
-Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tutorials`, `LATEST DEV TUTS`, `LATEST DESIGN TUTS`. \
-<br />
+Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tutorials`, `LATEST DEV TUTS`, `LATEST DESIGN TUTS`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw6qBlNzbAweKz7UlC44hYLoEtdoXGmzN8IJno3mg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TraversyMedia)
 
@@ -476,8 +467,7 @@ Featured playlists: `CSS Tips and Tricks`, `some playlists about JavaScript libr
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Brian Design**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Frontend, React.js, Web design \
-Featured playlists: `React.js Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`. \
-<br />
+Featured playlists: `React.js Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngularFirebase)
 
@@ -490,8 +480,7 @@ Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Fro
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Academind**](https://www.youtube.com/c/Academind) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Frontend, JavaScript, Web design \
-Featured playlists: `React.js + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`. \
-<br />
+Featured playlists: `React.js + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyTPRJfE-AcekIPpfXRf3fxAMe6Nkobv-oHCgoV=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FlorinPop)
 
@@ -547,8 +536,7 @@ Featured playlists: `CSS Grid videos`, `Flexbox basics`, `Responsive CSS tutoria
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Harry Wolff**](https://www.youtube.com/c/hswolff) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: React.js, JavaScript \
-Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`. \
-<br />
+Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyd7g6PJDaD3j2Ouariuf_U42P-yZZPQw6-E-B08Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CodingGarden)
 
@@ -589,8 +577,7 @@ Featured playlists: `JavaScript`, `Web development`, `JAMstack`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DevTips**](https://www.youtube.com/c/DevTipsForDesigners/) \
 Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
-Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`. \
-<br />
+Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
@@ -608,15 +595,14 @@ Featured playlists: `Vuejs`, `SvelteJs`, `Laravel Livewire Full Course`, `Learn 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlhhukYsdgVeuIspbug5SNo_254oqP9ZyrY2E0=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Web Dev Simplified**](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Web development in general, JavaScript, React, CSS, Best practices and design patterns \
+Content about: Web development in general, JavaScript, React, CSS \
 Featured playlists: `Small projects`, `Who Wants To Be A Megabit (Trivia Game)`, `CSS Tutorials`, `Web App Security/Authentication`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzfIzn2ZRwWYX4ZbVUGR10ExZvzFXuJCdw0DWrthw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenAwad97/)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Ben Awad**](https://www.youtube.com/c/BenAwad97/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Web development, JavaScript, TypeScript, React, GraphQL \
-Featured playlists: `GraphQL tutorials`, `React Hooks`, `Practical React`, `Typescript, Next.js, And GraphQL Series`. \
-<br />
+Featured playlists: `GraphQL tutorials`, `React Hooks`, `Practical React`, `Typescript, Next.js, And GraphQL Series`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwOIS7HSycIcJxcQClW1MqdHoCEG17H_9AuKauK6g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FaztCode)
 
@@ -634,8 +620,7 @@ Featured playlists: `Curso de Vue.js`, `Curso de CSS3 y Flexbox Completo`, `Boot
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Ebenezer Don**](https://www.youtube.com/c/ebenezerdon/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: HTML, CSS, JavaScript, Firebase, FastAPI, TypeScript \
-Featured playlists: `Getting started with Web development`, `Version control`, `Frontend database management`. \
-<br />
+Featured playlists: `Getting started with Web development`, `Version control`, `Frontend database management`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniHeNvUbV6ejNRe4_J-7r_VLLfJxD4cwoAJDtgr4_c=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ManuelMuñozMir)
 
@@ -659,9 +644,8 @@ Featured playlists: `Curso de DISEÑO WEB desde CERO (Completo)`, `Cursos de Des
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ1oqKIj6ngUGE7NmB2cHzjqpLMu1RBdh_hlc9I-Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AniaKub%C3%B3w/featured)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Code with Ania Kubów**](https://www.youtube.com/c/AniaKub%C3%B3w/featured) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
-Content about: JavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL, Serverless Functions \
-Featured playlists: `JavaScript Game Walkthroughs`, `Clones`, `Blockchain`, `JavaScript inbuilt methods`. \
-<br />
+Content about: JavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL \
+Featured playlists: `JavaScript Game Walkthroughs`, `Clones`, `Blockchain`, `JavaScript inbuilt methods`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTJ0chZDvUfej-9AQi2HoKOzl6v-la1EIiZRQP2=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 
@@ -743,8 +727,7 @@ Featured playlists: `Curso ARM desde 0`, `Personalización de Linux`, `Curso de 
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Socratica**](https://www.youtube.com/c/Socratica) \
 Content about: Math, Computing, General science \
-Featured playlists: `Abstract Algebra`, `Learn Python playlist`, `videos about studying`, `many more science topics`. \
-<br />
+Featured playlists: `Abstract Algebra`, `Learn Python playlist`, `videos about studying`, `many more science topics`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngK_x_ibq6xRq-NExEjxP7EnPSYDhUbDHoacpgF=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 
@@ -757,8 +740,7 @@ Featured playlists: `Algorithms`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**mycodeschool**](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA) \
 Content about: C/C++ language, Data structures, Algorithm \
-Featured playlists: `Sorting Algorithms`, `Data structures`, `Pointers in C/C++`, `Introduction to Programming through 'C'`. \
-<br />
+Featured playlists: `Sorting Algorithms`, `Data structures`, `Pointers in C/C++`, `Introduction to Programming through 'C'`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnghnfeWSkURz0encxxAgmx5r-vl2jDviqvmYcC3=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GaryExplains)
 
@@ -804,22 +786,19 @@ Find YouTubers experienced in Deep Learning, Natural Language Processing, Neural
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Abhishek Thakur**](https://www.youtube.com/c/AbhishekThakurAbhi) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Practical videos, Talks \
-Featured playlists: `Applied Machine Learning Framework`, `Tips & Tricks of machine learning`, `more videos!`. \
-<br />
+Featured playlists: `Applied Machine Learning Framework`, `Tips & Tricks of machine learning`, `more videos!`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzcgfOw6DSoVxxHTvIKlZFG4MjZI9TbJGzAUNQC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AhladKumar)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Ahlad Kumar**](https://www.youtube.com/c/AhladKumar) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Deep learning, Theoretical \
-Featured playlists: `Deep Learning`, `Convolutional Neural Network`, `Neural Networks playlists`, `many more playlists!`. \
-<br />
+Featured playlists: `Deep Learning`, `Convolutional Neural Network`, `Neural Networks playlists`, `many more playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzv0OdI3kcpMnihQtHt9aJOSEzPNuXqxIV7mgPP3w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AladdinPersson)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Aladdin Persson**](https://www.youtube.com/c/AladdinPersson) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: PyTorch, TensorFlow \
-Featured playlists: `PyTorch Tutorials`, `TensorFlow 2.0 Beginner Tutorials`, `Machine Learning Algorithms`. \
-<br />
+Featured playlists: `PyTorch Tutorials`, `TensorFlow 2.0 Beginner Tutorials`, `Machine Learning Algorithms`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx7amajt6o275iRs_Pv-Rh_P73dM1b3C43ih0LtSsw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasMueller)
 
@@ -893,8 +872,7 @@ This is a wide topic. In this section, you can find YouTubers who teach about ga
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ScriptersWar**](https://www.youtube.com/c/ScriptersWar) \
 Content about: JavaScript, HTML5 \
-Featured playlists: `How to Make HTML5 Games: JavaScript Tutorial for Beginners JS Guide`, `a lot more videos`. \
-<br />
+Featured playlists: `How to Make HTML5 Games: JavaScript Tutorial for Beginners JS Guide`, `a lot more videos`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwlfHgIE-uCnJ3F3kWlJUJwXwGaYu-lDiTrt56GZQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Brackeys)
 
@@ -906,8 +884,7 @@ Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Mult
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Jonas Tyroller**](https://www.youtube.com/c/JonasTyroller) \
 Content about: GameMaker Studio, Tips and planning playlists \
-Featured playlists: `Will You Snail? - Full Development.`, `Game Dev Tips`, `How To Get Started With Game Development.`. \
-<br />
+Featured playlists: `Will You Snail? - Full Development.`, `Game Dev Tips`, `How To Get Started With Game Development.`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytTySK0c9M6APiuFRUiyGrBVToA1aAUse95O6ZjQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RealTutsGML)
 
@@ -925,8 +902,7 @@ Featured playlists: `Geometric design playlists`, `Video Game Character Animatio
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Chris Courses**](https://www.youtube.com/c/ChrisCourses) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: HTML5 Canvas, JavaScript \
-Featured playlists: `HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro`, `other JavaScript-related videos`. \
-<br />
+Featured playlists: `HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro`, `other JavaScript-related videos`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxr-B_J2JaFQFAWAGI62RfHmCFVvt6rQocEeopqEw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Zenva)
 
@@ -975,8 +951,7 @@ Featured playlists: `Godot Engine Tutorials`, `Resource Based Inventory Tutorial
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Meth Meth Method**](https://www.youtube.com/c/MethMethMethod) \
 Content about: JavaScript \
-Featured playlists: `Super Mario Bros in JavaScript`, `Creating a Tetris Online Multiplayer in Javascript`. \
-<br />
+Featured playlists: `Super Mario Bros in JavaScript`, `Creating a Tetris Online Multiplayer in Javascript`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhrvrwkYlzE7Ipcl_JHCJGWgObDB1Mm2wXx2F3_Ww=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg)
 
@@ -1028,8 +1003,7 @@ Featured playlists: `CCNA Exam: 200-125, 100-105 and 200-105`, `Cisco playlists`
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Andreas Kling**](https://www.youtube.com/c/AndreasKling) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Hacking \
-Featured playlists: `Browser hacking`, `DevTools hacking`, `OS hacking`, `SerenityOS`, `Emulator hacking`. \
-<br />
+Featured playlists: `Browser hacking`, `DevTools hacking`, `OS hacking`, `SerenityOS`, `Emulator hacking`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzNrZ0R2UonwEPRLM-mu3cqjLu2SUVG2VSev7jtGw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
 
@@ -1047,8 +1021,7 @@ Featured playlists: `Cyber Security - Penetration Testing Course (Offensive Secu
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**LiveOverflow**](https://www.youtube.com/c/LiveOverflow) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Ethical hacking \
-Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`. \
-<br />
+Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwX8qUlbr3ikiGsK_1TEe5i6ALRLhVXfDieN2ni=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 
@@ -1100,8 +1073,7 @@ Internet connection and networking is a wide topic, and it's common to get stuck
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Internet, Networking, Command line, Hardware \
-Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`. \
-<br />
+Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyLZ561K6CUOujxHpRbMgK_lwD6WWELO6YwM2Bw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
 
@@ -1120,8 +1092,7 @@ Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**PowerCert Animated Videos**](https://www.youtube.com/c/PowerCertAnimatedVideos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Networking hardware with other concepts with helpful the visuals. There is also a crash course on A+ and Net+. \
-Featured playlists: `Information Technology`, `CompTIA Certification`. \
-<br />
+Featured playlists: `Information Technology`, `CompTIA Certification`.
 
 [🔼 Back to the top](#contents)
 
@@ -1140,8 +1111,7 @@ Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts -
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Excel, Office suite \
-Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`. \
-<br />
+Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)
 
@@ -1250,8 +1220,7 @@ Featured playlists: `Inkscape Beginner Tutorials`, `GIMP Tutorials`, `Inkscape T
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Mohamed Achraf**](https://www.youtube.com/c/MohamedAchraf) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Adobe Illustrator \
-Featured playlists: `The Logo Design Process`, `Adobe Illustrator Tips & Tricks`, `Character Designs`, `Illustrator Speedarts`. \
-<br />
+Featured playlists: `The Logo Design Process`, `Adobe Illustrator Tips & Tricks`, `Character Designs`, `Illustrator Speedarts`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSW8zG2RFieP7BLOdCwMe3LNFNrb4Yia3IViynleg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
 
@@ -1303,8 +1272,7 @@ Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/p
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Blender, 3D modeling \
-Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series`. \
-<br />
+Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/badgesgabbitt)
 
@@ -1402,8 +1370,7 @@ Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Offic
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**mayuko**](https://www.youtube.com/c/hellomayuko) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Job tips, Health \
-Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`. \
-<br />
+Featured playlists: `How to Kickstart Your Software Engineering Career`, `📈career 📈`, `🖥t e c h 🖥`, `🌱health 🌱`.
 
 [<img align="left" height="94px" width="94px" alt="JChannel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsLfjQGNpQtVWS4hXGxM6F21cdArOL-sTIu9rOXw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/Tychos1)
 
@@ -1416,8 +1383,7 @@ Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Joma Tech**](https://www.youtube.com/c/JomaOppa) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Programming, Job Offers, Salaries, Interviewing \
-Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`. \
-<br />
+Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
 
@@ -1463,8 +1429,7 @@ Featured playlists: `System Design`, `Competitive Programming A-Z`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ByteByteGo**](https://www.youtube.com/c/ByteByteGo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Large scale system design \
-Featured playlists: `Algorithms You Should Know For System Design`, `System Design Fundamentals`, `System Design Interview`. \
-<br />
+Featured playlists: `Algorithms You Should Know For System Design`, `System Design Fundamentals`, `System Design Interview`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9dupLKLe6WOebxccdC3Im4aHMfCR9M4GjydKOZ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo)
 
