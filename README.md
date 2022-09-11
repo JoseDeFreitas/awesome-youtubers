@@ -1465,6 +1465,13 @@ Content about: System Design, Data Structures & Algorithms \
 Featured playlists: `System Design`, `Competitive Programming A-Z`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/efrVnDJbJOQ5XcXrrFhA9V2wTXh6gP_i0KycoYjqhN3nEh6VbCgqMQakAcFqEsguw7wxhHEjnA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ByteByteGo)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ByteByteGo**](https://www.youtube.com/c/ByteByteGo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Large scale system design \
+Featured playlists: `Algorithms You Should Know For System Design`, `System Design Fundamentals`, `System Design Interview`. \
+<br />
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9dupLKLe6WOebxccdC3Im4aHMfCR9M4GjydKOZ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CS Dojo**](https://www.youtube.com/c/CSDojo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
@@ -1512,6 +1519,7 @@ Featured playlists: `LeetCode Solution`, `HackerRank Solution`. \
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Priyansh Agarwal**](https://www.youtube.com/c/PriyanshAgarwal) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Code Chef, Codeforces \
 Featured playlists: `Codeforces Screencasts`. \
+<br />
 
 [🔼 Back to the top](#contents)
 
