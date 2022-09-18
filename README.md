@@ -29,7 +29,6 @@
 ## Contents
 
 To find a specific topic faster, you can press `Ctrl + F` and type the topic you're searching for.
-It's recommendable to open the links with the click of the mouse wheel or by right-clicking a link and selecting "Open link in new tab" so you can keep the list in a separate tab.
 
 -   [Programming in general](#programming-in-general)
 -   [Web development](#web-development)
