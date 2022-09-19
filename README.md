@@ -34,6 +34,7 @@ To find a specific topic faster, you can press `Ctrl + F` and type the topic you
 -   [Web development](#web-development)
 -   [Computer science](#computer-science)
 -   [Machine learning](#machine-learning)
+-   [DevOps](#devops)
 -   [Game development](#game-development)
 -   [Mobile development](#mobile-development)
 -   [Cybersecurity](#cybersecurity)
@@ -860,6 +861,68 @@ Featured playlists: `Inteligencia Artificial`, `Inteligencia Artificial desde ce
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="badges/badge-fr.svg" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Machine Learnia**](https://www.youtube.com/c/MachineLearnia) \
 Content about: Machine Learning, Scikit Learn, Python \
 Featured playlists: `FORMATION DEEP LEARNING`, `SKLEARN tutoriel français Machine Learning`, `PYTHON SPÉCIAL MACHINE LEARNING`.
+
+[🔼 Back to the top](#contents)
+
+## DevOps
+
+DevOps is combination of software **dev**elopment and IT **op**eration**s**. This section list down few YouTubers who makes learn DevOps topic easy. The topics may include Docker, Kubernetes, System Design, Kafka, Ansible, Cassandra, Zookeeper, Hadoop, Cloud (AWS, GCP, Azure) etc.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/kXyR8Aa32KXnZWVdkAFUYK5utM752kSJPHGtYiJ4ev6BmdFHi-dl1EFbI3TogmHBjszwc7m2=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWorldwithNana)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**TechWorld with Nana**](https://www.youtube.com/c/TechWorldwithNana) \
+Content about: GitOps, Continuous Integration, Continuous Delivery, IaC, Kubernetes, Docker \
+Featured playlists: `DevOps Concepts explained`, `Infrastructure as Code (IaC) Tutorials`, `DevOps Bootcamp`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/9sw41koFyRwnKpm4xf3fqrHVoqF4bs4dXz_5LbDNdJUugfJeJYVzeFS6ZZgOyYRfq9CadhFe6-U=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KodeKloud)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**KodeKloud**](https://www.youtube.com/c/KodeKloud) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: Kubernetes, Docker, Terraform \
+Featured playlists: `DevOps Pre-requisites`, `Docker for the Absolute Beginners`, `Kubernetes for the Absolute Beginners`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9k7jRGbKljdwha4M3MHbR0ja9bPDx_hey9RLZtbQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsJourney)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DevOps Journey**](https://www.youtube.com/c/DevOpsJourney) \
+Content about: DevOps, Docker, Kubernetes, Ansible \
+Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3jTQSLwLq5cQ_K2zhgAcz395Yv_kLFn4xhYwgwVxfkn55Tn5fw2R23wTy3-hBW0E2-54YAE5jg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
+Featured playlists: `Kubernetes`, `CI/CD`, `This vs. that`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9RMxhpGoX91C3oApVImrmahRpDeVzrijueTAbUaw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/wenkatn-justmeandopensource)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Just me and Opensource**](https://www.youtube.com/c/wenkatn-justmeandopensource) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Kubernetes, AWS, Google Cloud Platform, Docker, Linux containers, Jenkins, Databases (MySQL/MongoDB/Postgres), Elasticsearch Stack, Red Hat, Devops \
+Featured playlists: `Kubernetes Provisioning`, `Learn AWS`, `Google Cloud Platform for Beginners`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8snSVp86PRqR-k2MW4UBPLbd6n7AoIB-U5eegrRg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechPrimers)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Tech Primers**](https://www.youtube.com/c/TechPrimers) \
+Content about: DevOps Cloud, Architecture, Tips & tricks \
+Featured playlists: `System Design Primer`, `AWS primer`, `Google Cloud Primer`, `Sprint Cloud Primer` . \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8SnxBjJvLOizFDmU39h2I-o1vUjZ1qrWd28VmDEA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DefogTech)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Defog Tech**](https://www.youtube.com/c/DefogTech) \
+Content about: Java concurrency, Distributed systems, System design, Microservice etc. \
+Featured playlists: `Microservices`, `Distributed Systems` . \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-7nHRxTUEZFZEpfH4LKXxqiP9HObY3WL0SZhzW6g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CodeOpinion**](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Software Architecture & Design, Messaging, CQRS, Event Sourcing and HTTP APIs \
+Featured playlists: `Archietecture`, `Software Design` . \
+<br />
 
 [🔼 Back to the top](#contents)
 
