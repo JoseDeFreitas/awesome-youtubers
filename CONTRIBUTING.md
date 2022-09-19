@@ -60,5 +60,5 @@ Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Publi
 - **Name of the YouTuber**: GitHub
 - **What is the channel about? (eg. web development, design, ...)**: Software Development Platform for storing repositories.
 - **Which section is the channel in? (if you created a section, please specify why)**: Open Source.
-- **Why do you consider the YouTuber deserves a place in this list? *What does make it awesome?***: The youtuber uploads videos every day with general-tech tutorials. These tutorials include securing your organization, finding vulnerabilities, using GitHub actions and more. It also has pretty useful playlists where you can find talks from professionals that teach you diverse topics.
+- **Why do you consider the YouTuber deserves a place in this list? *What does make it awesome?***: The youtuber uploads videos every day with general-tech tutorials. These tutorials include securing your organization, finding vulnerabilities, using GitHub actions, and more. It also has pretty useful playlists where you can find talks from professionals that teach you diverse topics.
 </details>
