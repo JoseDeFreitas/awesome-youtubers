@@ -900,28 +900,28 @@ Featured playlists: `Kubernetes`, `CI/CD`, `This vs. that`. \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9RMxhpGoX91C3oApVImrmahRpDeVzrijueTAbUaw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/wenkatn-justmeandopensource)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Just me and Opensource**](https://www.youtube.com/c/wenkatn-justmeandopensource) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Docker, Kubernetes, Jenkins, AWS, Google Cloud \
+Content about: Kubernetes, AWS, Google Cloud Platform, Docker, Linux containers, Jenkins, Databases (MySQL/MongoDB/Postgres), Elasticsearch Stack, Red Hat, Devops \
 Featured playlists: `Kubernetes Provisioning`, `Learn AWS`, `Google Cloud Platform for Beginners`. \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8snSVp86PRqR-k2MW4UBPLbd6n7AoIB-U5eegrRg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechPrimers)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Tech Primers**](https://www.youtube.com/c/TechPrimers) \
-Content about: Microservices, WebSockets, AWS, Google Cloud, Jenkins, Docker, Terraform \
+Content about: DevOps Cloud, Architecture, Tips & tricks \
 Featured playlists: `System Design Primer`, `AWS primer`, `Google Cloud Primer`, `Sprint Cloud Primer` . \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8SnxBjJvLOizFDmU39h2I-o1vUjZ1qrWd28VmDEA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DefogTech)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Defog Tech**](https://www.youtube.com/c/DefogTech) \
-Content about: System Design \
+Content about: Java concurrency, Distributed systems, System design, Microservice etc. \
 Featured playlists: `Microservices`, `Distributed Systems` . \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-7nHRxTUEZFZEpfH4LKXxqiP9HObY3WL0SZhzW6g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CodeOpinion**](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: System Design and Architecture \
+Content about: Software Architecture & Design, Messaging, CQRS, Event Sourcing and HTTP APIs \
 Featured playlists: `Archietecture`, `Software Design` . \
 <br />
 
