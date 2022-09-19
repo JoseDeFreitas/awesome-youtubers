@@ -1,5 +1,5 @@
 # Badges
-Badges are little identificators to let you know more about a specific YouTuber. 0 or more badges can be attached to a YouTuber. These badges they only serve as extra information for you while navigating through this list. Note that these badges don't mean that the YouTuber itself is better than any other that doesn't have any badges; the badges are only extra information about a YouTuber's channel.
+Badges are little identificators to let you know more about a specific YouTuber. 0 or more badges can be attached to a YouTuber. These badges only serve as extra information for you while navigating through this list.
 
 <br/>
 
