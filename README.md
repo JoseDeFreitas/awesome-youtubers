@@ -918,7 +918,7 @@ Featured playlists: `Microservices`, `Distributed Systems`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CodeOpinion**](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Software Architecture & Design, Messaging, CQRS, Event Sourcing and HTTP APIs \
-Featured playlists: `Archietecture`, `Software Design`. \
+Featured playlists: `Architecture`, `Software Design`. \
 <br />
 
 [🔼 Back to the top](#contents)
