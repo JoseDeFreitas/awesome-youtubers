@@ -20,11 +20,7 @@
 
 > Watch video tutorials from YouTubers that teach you about technology.
 
-<details>
-	<summary>Extra information</summary>
-	<sub>Take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges/README.md">the README file at the "badges" directory</a> to know what the badges mean. The order of the YouTubers doesn't mean the quality: all of the YouTubers below are awesome. The section the YouTuber is in is its main content. Note that this <strong>is not</strong> a promotional list of any kind. Check also the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/discussions">Discussions</a> tab.
-	</sub>
-</details>
+<sub>Note that this <strong>is not</strong> a promotional list of any kind.</sub>
 
 ## Contents
 
