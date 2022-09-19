@@ -878,7 +878,7 @@ Featured playlists: `DevOps Concepts explained`, `Infrastructure as Code (IaC) T
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/9sw41koFyRwnKpm4xf3fqrHVoqF4bs4dXz_5LbDNdJUugfJeJYVzeFS6ZZgOyYRfq9CadhFe6-U=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KodeKloud)
 
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**KodeKloud**](https://www.youtube.com/c/KodeKloud) \
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**KodeKloud**](https://www.youtube.com/c/KodeKloud) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Kubernetes, Docker, Terraform \
 Featured playlists: `DevOps Pre-requisites`, `Docker for the Absolute Beginners`, `Kubernetes for the Absolute Beginners`. \
 <br />
@@ -892,14 +892,14 @@ Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Comple
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3jTQSLwLq5cQ_K2zhgAcz395Yv_kLFn4xhYwgwVxfkn55Tn5fw2R23wTy3-hBW0E2-54YAE5jg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) \
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
 Featured playlists: `Kubernetes`, `CI/CD`, `This vs. that`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9RMxhpGoX91C3oApVImrmahRpDeVzrijueTAbUaw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9RMxhpGoX91C3oApVImrmahRpDeVzrijueTAbUaw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/wenkatn-justmeandopensource)
 
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Just me and Opensource**](https://www.youtube.com/c/DevOpsToolkit) \
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Just me and Opensource**](https://www.youtube.com/c/wenkatn-justmeandopensource) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Docker, Kubernetes, Jenkins, AWS, Google Cloud \
 Featured playlists: `Kubernetes Provisioning`, `Learn AWS`, `Google Cloud Platform for Beginners`. \
 <br />
@@ -920,7 +920,7 @@ Featured playlists: `Microservices`, `Distributed Systems` . \
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-7nHRxTUEZFZEpfH4LKXxqiP9HObY3WL0SZhzW6g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CodeOpinion**](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) \
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CodeOpinion**](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: System Design and Architecture \
 Featured playlists: `Archietecture`, `Software Design` . \
 <br />
