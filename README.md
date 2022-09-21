@@ -826,6 +826,13 @@ Featured playlists: `Inteligencia Artificial`, `Inteligencia Artificial desde ce
 Content about: Machine Learning, Scikit Learn, Python \
 Featured playlists: `FORMATION DEEP LEARNING`, `SKLEARN tutoriel français Machine Learning`, `PYTHON SPÉCIAL MACHINE LEARNING`.
 
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_Ti0V4lyym1ZrPzWN4HbN8hyePVMr8QMZhv4u8vg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/marksaroufim)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Mark Saroufim**](https://www.youtube.com/user/marksaroufim) \
+Content about: Machine Learning Engineering, Practical videos, Books review \
+Featured playlists: `Machine Learning Systems`, `Graph Neural Networks`, `more videos!`.
+
 [🔼 Back to the top](#contents)
 
 ## DevOps
