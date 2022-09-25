@@ -188,11 +188,11 @@ Content about: Java \
 Featured playlists: `Java Basics 1`, `Java Basics 2`, `Java Intermediate 1`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyfn-4I6icCb2eNH-v1lYq3c5A8ljfaQvK07BPa=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RedisUniversity)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-9AfNLSWxc3skUP_hMyWZszoZf5HiUx2z7PHzQ_g=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Redisinc)
 
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Redis University**](https://www.youtube.com/c/RedisUniversity) \
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Redis**](https://www.youtube.com/c/Redisinc) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Redis \
-Featured playlists: `Redis Explained: Learn Redis`. \
+Featured playlists: `Redis Explained`, `Redis Chaching`, `Redis Data Types`, `and much more`. \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyefDOEjJdHcYOW6okP2WO1pZjf35F3vVJw1VQL=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CraterMaik)
