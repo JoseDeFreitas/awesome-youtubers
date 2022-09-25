@@ -119,12 +119,6 @@ Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beg
 Content about: All programming, Talks \
 Featured playlists: `Frontend development videos`, `Backend development videos`, `Theoretical videos`, `a lot more tech topics playlists!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_F6rE_flskMStro3T2TQ_s-NAl9j2k6nIahoP=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/SimplifiedcodingNetOfficial)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Simplified Coding**](https://www.youtube.com/c/SimplifiedcodingNetOfficial) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Android, Backend \
-Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutorial`, `more videos and playlists`.
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXTGNb9fHAe65rAIHAHkq0D227_WF4IsvdIXw-6Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/smartherd)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Smartherd**](https://www.youtube.com/c/smartherd) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
@@ -952,6 +946,12 @@ Nowadays, we can't imagine our lives without our smartphones and the people who 
 Content about: Android, Kotlin, Jetpack Compose \
 Featured playlists: `ANDROID FUNDAMENTALS FOR BEGINNERS`, `KOTLIN NEWBIE TO PRO`, `Jetpack Compose`. \
 <br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_F6rE_flskMStro3T2TQ_s-NAl9j2k6nIahoP=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/SimplifiedcodingNetOfficial)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Simplified Coding**](https://www.youtube.com/c/SimplifiedcodingNetOfficial) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Android, Backend \
+Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutorial`, `more videos and playlists`.
 
 [🔼 Back to the top](#contents)
 
