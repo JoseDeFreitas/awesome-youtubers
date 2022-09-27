@@ -1030,6 +1030,13 @@ Content about: Privacy guides, bitcoin \
 Featured playlists: `Privacy guides`, `Bitcoin series`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/lwHqZYuTM3v0oBB_RevOFbD_cHL7AWUfYID_iv8trv6_4u4r7Go_t4qFJplYiJNQVC-14Tb8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Techlore)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Techlore**](https://www.youtube.com/c/Techlore) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Privacy and security tutorials and reviews \
+Featured playlists: `Go Incognito: A Guide to Security, Privacy, & Anonymity`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Internet/networking
