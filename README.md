@@ -44,7 +44,6 @@ To find a specific topic faster, you can press `Ctrl + F` and type the topic you
 -   [Hardware](#hardware)
 -   [Competitive programming](#competitive-programming)
 -   [Life skills](#life-skills)
--   [Electronics and communication](#electronics-and-communication)
 
 ## Programming in general
 
