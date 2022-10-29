@@ -1334,6 +1334,14 @@ Content about: Raspberry Pi, Electronics, Operation System \
 Featured playlists: `Artificial Intelligence`, `Pi Zero Projects`, `Migrating to Linux`, `many more`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_MySAuuGYGYlGD62nLVgaZHGYFAMSTJh7D3YPIMQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ETAPRIME)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ETA PRIME**](https://www.youtube.com/c/ETAPRIME) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Raspberry Pi, Electronics, Operation System, Single Board Computers, Gaming \
+Featured playlists: `Single Board Computer Reviews`, `Gaming on SBCs`, `many more`. \
+<br />
+
+
 [🔼 Back to the top](#contents)
 
 ## Competitive programming
