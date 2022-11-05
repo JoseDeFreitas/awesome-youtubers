@@ -15,8 +15,6 @@
 	</div>
 </div>
 
-<br />
-
 > Watch video tutorials from YouTubers that teach you about technology.
 
 ## Contents
@@ -1489,6 +1487,7 @@ Featured playlists: `Man`, `Rumeurs`, `A chaud`, `Questions GEEKes`.
 <details>
 	<summary>Credits</summary>
 	<sub>Note that this <strong>is not</strong> a promotional list of any kind.</sub>
+	<br />
 	<sub>The list style is heavily inspired by <a href="https://github.com/mhxion/awesome-discord-communities">awesome-discord-communities</a>, created by <a href="https://github.com/mhxion">mhxion</a>. This repository was my inspiration as I consider <a href="https://github.com/JoseDeFreitas/awesome-youtubers">this list</a> also looks good with the same table-style in this file, as well as the useful <a href="/badges/README.md">badges/README</a>.
 	<br />
 	The awesome-youtubers logo and the corresponding badges/README icons were made by <a href="https://github.com/JoseDeFreitas/">José De Freitas</a>.
