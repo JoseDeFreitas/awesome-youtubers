@@ -16,7 +16,6 @@
 </div>
 
 <br />
-<br />
 
 > Watch video tutorials from YouTubers that teach you about technology.
 
