@@ -506,7 +506,7 @@ Featured playlists: `Wordpress theme development`, `Learn CSS`. \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-fB-c8gczS81r-VBWgzndcSZgd1zGA2QcYfACHMg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TraversyMedia)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Traversy Media**](https://www.youtube.com/c/TraversyMedia) \
-Content about: Javascript, CSS, HTML, Vue.js, React.js, Tailwind CSS, MongoDB, Express.js \
+Content about: Javascript, CSS, HTML, Vue.js, React.js, Tailwind CSS, MongoDB, Express.js, Web development \
 Featured playlists: `Vue.js crash course`, `React.js crash course`, `Semantic UI in 60 minutes`, `Full Stack Vue.js, Express and MongoDB`, `Async JS crash course`.
 
 ### Backend
