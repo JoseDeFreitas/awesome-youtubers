@@ -35,3 +35,10 @@ This badge is attached to YouTubers that make their content in French.
 
 #### Spanish speaking YouTubers
 This badge is attached to YouTubers that make their content in Spanish.
+
+<br/>
+
+<img align="left" width="90px" height="90px" alt="Badge for Portuguese-speaking YouTubers" src="badge-pt.svg" title="This YouTuber speaks Portuguese"/>
+
+#### Portuguese speaking YouTubers
+This badge is attached to YouTubers that make their content in Portuguese.
