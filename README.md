@@ -68,7 +68,7 @@ Featured playlists: `Code Wars Code Katas`. \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Mathematics, Programming languages \
-Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`.  
+Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \ 
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwVjl968ProbjWSmYNghqYxAG_EI0-3ZK6QNIHM=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DonJonesConTech)
 
