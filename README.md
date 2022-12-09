@@ -292,12 +292,6 @@ Featured playlists: `Software Design in Python`, `Code Roasts`. \
 Content about: Frontend, Backend \
 Featured playlists: `Node.js playlist`, `videos de API/REST API`, `frameworks de JavaScript`, `Node.js & Mongodb CRUD 2.0`, `otros videos relacionados`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CursoemVideo)
-
-[<img height="16px" width="16px" alt="Badge for Portuguese-speaking YouTubers" src="badges/badge-pt.svg" title="This YouTuber speaks Portuguese"/>](badges/README.md#portuguese-speaking-youtubers) [**Curso em Vídeo**](https://www.youtube.com/@CursoemVideo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel" />](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Programming Free Courses \
-Featured playlists: `Curso de HTML5 Completo e GRÁTIS`, `Curso de Lógica de Programação`, `Curso de PHP para Iniciantes`, `Curso de Photoshop CC`, `Curso de Banco de Dados MySQL`, `Curso de Python 3 - Mundo 1: Fundamentos`
-
 [🔼 Back to the top](#contents)
 
 ## Web development
