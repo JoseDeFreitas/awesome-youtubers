@@ -14,31 +14,3 @@ This badge is attached to the YouTubers that have a verified symbol on their cha
 
 #### Weekly video upload
 This badge is attached to the YouTubers who upload at least 1 video per week.
-
-<br/>
-
-<img align="left" width="90px" height="90px" alt="Badge for English-speaking YouTubers" src="badge-en.svg" title="This YouTuber speaks English"/>
-
-#### English speaking YouTubers
-This badge is attached to YouTubers that make their content in English.
-
-<br/>
-
-<img align="left" width="90px" height="90px" alt="Badge for French-speaking YouTubers" src="badge-fr.svg" title="This YouTuber speaks French"/>
-
-#### French speaking YouTubers
-This badge is attached to YouTubers that make their content in French.
-
-<br/>
-
-<img align="left" width="90px" height="90px" alt="Badge for Spanish-speaking YouTubers" src="badge-es.svg" title="This YouTuber speaks Spanish"/>
-
-#### Spanish speaking YouTubers
-This badge is attached to YouTubers that make their content in Spanish.
-
-<br/>
-
-<img align="left" width="90px" height="90px" alt="Badge for Portuguese-speaking YouTubers" src="badge-pt.svg" title="This YouTuber speaks Portuguese"/>
-
-#### Portuguese speaking YouTubers
-This badge is attached to YouTubers that make their content in Portuguese.
