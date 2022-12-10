@@ -782,7 +782,7 @@ Content about: DevOps, Docker, Kubernetes, Ansible \
 Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3jTQSLwLq5cQ_K2zhgAcz395Yv_kLFn4xhYwgwVxfkn55Tn5fw2R23wTy3-hBW0E2-54YAE5jg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/q6zfipPaPAkFtlbgI6SRTt6VujqdbykLfzn36-0WLOPZfRhbJZO_Rd2Rv0kpCyIocZifThhXHA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
@@ -1397,14 +1397,14 @@ Content about: Leetcode, Coding Interview \
 Featured playlists: `LeetCode East`, `LeetCode Medium`, `LeetCode Hard`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/l6tytj3otBUbkVMXgsVo_FOrh4u0CVN9JV7yEOFFq2kKFsWOYs2LfKy7ib-aLd2lgZb6cZvZeQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KevinNaughtonJr)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/wNpZYq11WTlt3r4XFhyUwscFTB7Rsun9SjYNbroLf8l3wwD_XMB6Ce_JPGsJStmdkaf7FT3u=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KevinNaughtonJr)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Kevin Naughton Jr.**](https://www.youtube.com/c/KevinNaughtonJr) \
 Content about: Leetcode, Coding Interview \
 Featured playlists: `Technical Interview Questions`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/0B67SieAFdmemnoCm-AlJ80ZDGgIUA2dBo1KwwzFfXONnXT0oFPNKD11fT72LMXiqeWdKDSAVw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NickWhite)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/MWCIzDNJJrk7mU5kV2V9EnyaKXVPn5en7uyX589c2Bu1iizhHY4h1ih02JZJ1cv8KCM8uY8g4OQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NickWhite)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Nick White**](https://www.youtube.com/c/NickWhite) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Leetcode, HackerRank, Coding Interview \
