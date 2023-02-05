@@ -113,11 +113,6 @@ Featured playlists: `DevOps Tutorial for Beginners`, `Artificial Intelligence Tu
 Content about: Backend, APIs \
 Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beginners`, `C++ Programming Tutorial for Beginners`, `other videos about different programming languages`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytmpnop1rJ8bYYGvdWXbs4er2kRUUmBT0udDAcIA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingTech)
-
-[**Coding Tech**](https://www.youtube.com/c/CodingTech) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: All programming, Talks \
-Featured playlists: `Frontend development videos`, `Backend development videos`, `Theoretical videos`, `a lot more tech topics playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXTGNb9fHAe65rAIHAHkq0D227_WF4IsvdIXw-6Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/smartherd)
 
@@ -285,6 +280,13 @@ Featured playlists: `Software Design in Python`, `Code Roasts`. \
 ## Conferences
 
 This section is about all the amazing tech conferences and the talks that they put online.
+
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytmpnop1rJ8bYYGvdWXbs4er2kRUUmBT0udDAcIA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingTech)
+
+[**Coding Tech**](https://www.youtube.com/c/CodingTech) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: All programming, Talks \
+Featured playlists: `Frontend development videos`, `Backend development videos`, `Theoretical videos`, `a lot more tech topics playlists!`.
 
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVQptvOS9IbdF_r5ePIwbXAUNYoHlg8L7YY9WevRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
