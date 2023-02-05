@@ -1472,6 +1472,14 @@ Your professional side can be reinforced while watching these tutorials. It's im
 Content about: Job searching, General skills, Life tips \
 Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
 
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3dhST2suIfX5hbfWZixmdxRBUDyGx01B-_IE3wqBp2tBjgBpBWbF-m5rltC_RbWEq4_2pqlV=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
+
+[**Engineering with Utsav**](https://www.youtube.com/@EngineeringwithUtsav) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: Career, Productivity, Software engineering, Life tips \
+Featured playlists: `Finance`, `Start ups`, `Book reviews & recommendations`, `Productivity`, `Technical interview preparation`, `Career & success`, `Software engineering`.
+
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
 
 [**mayuko**](https://www.youtube.com/c/hellomayuko) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
