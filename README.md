@@ -1359,6 +1359,13 @@ Featured playlists: `Single Board Computer Reviews`, `Gaming on SBCs`, `many mor
 <br />
 
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXg0un1rLvqfNvehwVVtDq_1pxwsx3BOCc9PA-1KQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ServeTheHomeVideo)
+
+[**ServeTheHome**](https://www.youtube.com/@ServeTheHomeVideo) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Server Hardware, Networking and other hardware for the professional \
+Featured playlists: `About Servers`, `Fanless`, `Mini PC`, `Workstations`, `Current Events`, `Storage`, `Server Processors`, `Networking`, `Cool server hardware`.
+
+
 [🔼 Back to the top](#contents)
 
 ## Competitive programming
