@@ -1285,6 +1285,14 @@ Content about: Blender, 3D modeling \
 Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
 <br />
 
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJUS0B38G8QpJm-h4PDd3wtrYFuSup0a3ZqD_a8uLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CGGeek)
+
+[**CG Geek**](https://www.youtube.com/@CGGeek) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: Animation, Blender, 3D modeling, Visual Effects \
+Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
+
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjrGM34PR7NdULgvDghJw8TqcbhPEVB35CxlbbhFw=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
 
 [**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
