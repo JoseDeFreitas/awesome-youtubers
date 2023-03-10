@@ -488,6 +488,13 @@ Featured playlists: `AWS Amplify`. \
 Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts \
 Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more video tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWZhcYZ5Mr0HuK-Zyd2v1cJ27OvlwSDlZ0aNLOE=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ThePrimeagen)
+
+[**ThePrimeagen**](https://www.youtube.com/@ThePrimeagen) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
+Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Computer science
