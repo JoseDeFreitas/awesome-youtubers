@@ -733,7 +733,7 @@ Content about: DevOps, Docker, Kubernetes, Ansible \
 Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/q6zfipPaPAkFtlbgI6SRTt6VujqdbykLfzn36-0WLOPZfRhbJZO_Rd2Rv0kpCyIocZifThhXHA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/kRxC322HFMMQ8KQzb5zB2C4JDbMarHkXizae8znxrdPBxRdmrMsz24ft0PfSHoOcEkEa5lRM2Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
 [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
