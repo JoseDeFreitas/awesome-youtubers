@@ -492,8 +492,7 @@ Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message
 
 [**ThePrimeagen**](https://www.youtube.com/@ThePrimeagen) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
-Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`. \
-<br/>
+Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`.
 
 [🔼 Back to the top](#contents)
 
