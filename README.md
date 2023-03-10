@@ -1081,15 +1081,13 @@ Featured playlists: `Devoxx UK`, `Devoxx Belgium`, `Devoxx Poland`, `Devoxx Fran
 
 [**Domain-Driven Design Europe**](https://www.youtube.com/@ddd_eu) \
 Content about: Conference for senior software developers and architects interested in software design. \
-Featured playlists: `DDD Foundations`, `Eventsourcing`. \
-<br/>
+Featured playlists: `DDD Foundations`, `Eventsourcing`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GOTO-)
 
 [**GOTO Conferences**](https://www.youtube.com/@GOTO-) \
 Content about: Brightest minds sharing their knowledge to create a better future \
-Featured playlists: `Sustainable Software`, `Software Architecture`, `Recommendations`, `Greatest Hits`, and many more. \
-<br/>
+Featured playlists: `Sustainable Software`, `Software Architecture`, `Recommendations`, `Greatest Hits`, and many more.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWLFdZolJp2YsKH3wO742DVMpo-OkH-_agdkRVLRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@infoq)
 
@@ -1101,8 +1099,7 @@ Featured playlists: `InfoQ Trend Reports`, `Culture & Methods`, `DevOps`, `Emerg
 
 [**NDC Conferences**](https://www.youtube.com/@NDC) \
 Content about: .NET & Agile development, evolved to encompass all technologies relevant to Software Developers. \
-Featured playlists: `NDC Sydney`, `NDC Oslo`, `NDC London`, `NDC Minnesota`, `NDC Melbourne`, `NDC Copenhagen`, `DevOps`, `Security`. \
-<br/>
+Featured playlists: `NDC Sydney`, `NDC Oslo`, `NDC London`, `NDC Minnesota`, `NDC Melbourne`, `NDC Copenhagen`, `DevOps`, `Security`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVbkZF43DOQpyCMY4jIhNXCJmN33xnMUyemTPqo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NLJUG1)
 
