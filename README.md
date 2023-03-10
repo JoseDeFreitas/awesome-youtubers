@@ -28,8 +28,8 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 
 -   [Programming in general](#programming-in-general)
 -   [Web development](#web-development)
-	- [Frontend](#)
-	- [Backend](#)
+	- [Frontend](#frontend)
+	- [Backend](#backend)
 -   [Computer science](#computer-science)
 -   [Machine learning](#machine-learning)
 -   [DevOps](#devops)
