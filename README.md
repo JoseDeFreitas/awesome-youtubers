@@ -1110,7 +1110,7 @@ Featured playlists: `NDC Sydney`, `NDC Oslo`, `NDC London`, `NDC Minnesota`, `ND
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVbkZF43DOQpyCMY4jIhNXCJmN33xnMUyemTPqo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NLJUG1)
 
 [**NLJUG**](https://www.youtube.com/@NLJUG1) \
-Content about: All things related to Java from the Dutch Java User Group. (most content in english) \
+Content about: All things related to Java from the Dutch Java User Group \
 Featured playlists: `J-Fall`, `J-Spring`. \
 <br/>
 
