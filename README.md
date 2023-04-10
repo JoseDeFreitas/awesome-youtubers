@@ -1357,12 +1357,18 @@ Content about: Raspberry Pi, Electronics, Operation System, Single Board Compute
 Featured playlists: `Single Board Computer Reviews`, `Gaming on SBCs`, `many more`. \
 <br />
 
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXg0un1rLvqfNvehwVVtDq_1pxwsx3BOCc9PA-1KQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ServeTheHomeVideo)
 
 [**ServeTheHome**](https://www.youtube.com/@ServeTheHomeVideo) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Server Hardware, Networking and other hardware for the professional \
 Featured playlists: `About Servers`, `Fanless`, `Mini PC`, `Workstations`, `Current Events`, `Storage`, `Server Processors`, `Networking`, `Cool server hardware`.
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/4toKBJKPsAfwxy2xfr_EQJ7CuHpLvZa4eux6T2TAf8EU25uH_G9gbUA9djqaCrTjkIESnPjzww=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BranchEducation)
+
+[**Branch Education**](https://www.youtube.com/@BranchEducation) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: All technological devices internal working \
+Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`.
 
 
 [🔼 Back to the top](#contents)
