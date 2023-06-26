@@ -33,7 +33,7 @@ Featured playlists: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`, `PLAYLIST 4`. \
 
 [**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Badge for YouTuber that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Open Source, Security, App development \
-Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Artic Code Vault`.
+Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Arctic Code Vault`.
 </details>
 
 **Only edit the words that are in ALL UPPER CASE. Leave all the other things as they are. Considerations below.**
