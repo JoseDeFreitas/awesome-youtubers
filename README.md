@@ -267,14 +267,14 @@ Content about: Spring Boot, Kotlin \
 Featured playlists: `Spring Boot`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/kMuSQv3_WwPmGSk7XJvf5PvIK7ARMUKaB6AUB8I0y7vtjCqE5dDU8YNe1PaDrqriqVeR6BRW=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArjanCodes)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/kMuSQv3_WwPmGSk7XJvf5PvIK7ARMUKaB6AUB8I0y7vtjCqE5dDU8YNe1PaDrqriqVeR6BRW=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ArjanCodes)
 
 [**ArjanCodes**](https://www.youtube.com/c/ArjanCodes) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Python, Software Design \
 Featured playlists: `Software Design in Python`, `Code Roasts`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/n5SlI5Ps1SWnuI58faTPSb2HvFKO9nZJ34ztRxRa8V-gl5KyP97oI1A5YnlkRGD_BTUThREfJw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeAesthetic)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/n5SlI5Ps1SWnuI58faTPSb2HvFKO9nZJ34ztRxRa8V-gl5KyP97oI1A5YnlkRGD_BTUThREfJw=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@CodeAesthetic)
 
 [**CodeAesthetic**](https://www.youtube.com/@CodeAesthetic) \
 Content about: Programing best practices \
@@ -503,7 +503,7 @@ Content about: Backend Development, Concepts, Optimization techniques, Tools, La
 Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@dreamsofcode)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@dreamsofcode)
 
 [**Dreams of Code**](https://www.youtube.com/@dreamsofcode) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Productivity tools \
@@ -789,7 +789,7 @@ Content about: Software Architecture & Design, Messaging, CQRS, Event Sourcing a
 Featured playlists: `Architecture`, `Software Design`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/gw8D7HShOaffiUyIpOFg_rOLqVH4xsi-2X34U7bRc5gu0Zl83iKDwcntGH6bxvS9lJWsJLPQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@AntonPutra)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/gw8D7HShOaffiUyIpOFg_rOLqVH4xsi-2X34U7bRc5gu0Zl83iKDwcntGH6bxvS9lJWsJLPQ=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@AntonPutra)
 
 [**Anton Putra**](https://www.youtube.com/@AntonPutra) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: High-Quality DevOps Tutorials \
