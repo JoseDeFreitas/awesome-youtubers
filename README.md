@@ -267,11 +267,11 @@ Content about: Spring Boot, Kotlin \
 Featured playlists: `Spring Boot`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/PF_5a9pF_CurRWcBpGxAvYv-uMc6bsK_LYpmgHDMDnG5tTzHbYU7Jz55pU_QXm1f0nVLTmlzZw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArjanCodes)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/kMuSQv3_WwPmGSk7XJvf5PvIK7ARMUKaB6AUB8I0y7vtjCqE5dDU8YNe1PaDrqriqVeR6BRW=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArjanCodes)
 
 [**ArjanCodes**](https://www.youtube.com/c/ArjanCodes) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Python, Software Design \
-Featured playlists: `Software Design in Python`, `Code Roasts`. \
+Featured playlists: `Software Design in Python`, `Code Roasts`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/n5SlI5Ps1SWnuI58faTPSb2HvFKO9nZJ34ztRxRa8V-gl5KyP97oI1A5YnlkRGD_BTUThREfJw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeAesthetic)
 
@@ -782,7 +782,7 @@ Featured playlists: `Microservices`, `Distributed Systems`. \
 
 [**CodeOpinion**](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Software Architecture & Design, Messaging, CQRS, Event Sourcing and HTTP APIs \
-Featured playlists: `Architecture`, `Software Design`. \
+Featured playlists: `Architecture`, `Software Design`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/gw8D7HShOaffiUyIpOFg_rOLqVH4xsi-2X34U7bRc5gu0Zl83iKDwcntGH6bxvS9lJWsJLPQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@AntonPutra)
 
