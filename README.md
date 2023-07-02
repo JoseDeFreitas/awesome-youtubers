@@ -276,9 +276,9 @@ Featured playlists: `Software Design in Python`, `Code Roasts`. \
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/n5SlI5Ps1SWnuI58faTPSb2HvFKO9nZJ34ztRxRa8V-gl5KyP97oI1A5YnlkRGD_BTUThREfJw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeAesthetic)
 
-[**CodeAesthetic**](https://www.youtube.com/@CodeAesthetic)
-Content about: Programing best practices
-Featured playlists: N/A
+[**CodeAesthetic**](https://www.youtube.com/@CodeAesthetic) \
+Content about: Programing best practices \
+Featured playlists: N/A \
 <br/>
 
 [🔼 Back to the top](#contents)
@@ -507,7 +507,7 @@ Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Edit
 
 [**Dreams of Code**](https://www.youtube.com/@dreamsofcode) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Productivity tools \
-Featured playlists: `Neovim`, `Rust`, `Node.js`.
+Featured playlists: `Neovim`, `Rust`, `Node.js`. \
 <br />
 
 [🔼 Back to the top](#contents)
