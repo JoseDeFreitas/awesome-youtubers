@@ -272,6 +272,7 @@ Featured playlists: `Spring Boot`. \
 [**ArjanCodes**](https://www.youtube.com/c/ArjanCodes) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Python, Software Design \
 Featured playlists: `Software Design in Python`, `Code Roasts`.
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/n5SlI5Ps1SWnuI58faTPSb2HvFKO9nZJ34ztRxRa8V-gl5KyP97oI1A5YnlkRGD_BTUThREfJw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeAesthetic)
 
@@ -493,18 +494,21 @@ Featured playlists: `AWS Amplify`. \
 [**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts \
 Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more video tutorials`.
+<br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWZhcYZ5Mr0HuK-Zyd2v1cJ27OvlwSDlZ0aNLOE=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ThePrimeagen)
 
 [**ThePrimeagen**](https://www.youtube.com/@ThePrimeagen) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
 Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`.
+<br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@dreamsofcode)
 
 [**Dreams of Code**](https://www.youtube.com/@dreamsofcode) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Productivity tools \
 Featured playlists: `Neovim`, `Rust`, `Node.js`.
+<br />
 
 [🔼 Back to the top](#contents)
 
@@ -783,6 +787,7 @@ Featured playlists: `Microservices`, `Distributed Systems`. \
 [**CodeOpinion**](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Software Architecture & Design, Messaging, CQRS, Event Sourcing and HTTP APIs \
 Featured playlists: `Architecture`, `Software Design`.
+<br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/gw8D7HShOaffiUyIpOFg_rOLqVH4xsi-2X34U7bRc5gu0Zl83iKDwcntGH6bxvS9lJWsJLPQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@AntonPutra)
 
