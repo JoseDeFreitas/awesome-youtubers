@@ -277,7 +277,7 @@ Featured playlists: `Software Design in Python`, `Code Roasts`. \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/n5SlI5Ps1SWnuI58faTPSb2HvFKO9nZJ34ztRxRa8V-gl5KyP97oI1A5YnlkRGD_BTUThREfJw=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@CodeAesthetic)
 
 [**CodeAesthetic**](https://www.youtube.com/@CodeAesthetic) \
-Content about: Programing best practices \
+Content about: Programming best practices \
 Featured playlists: N/A \
 <br/>
 
