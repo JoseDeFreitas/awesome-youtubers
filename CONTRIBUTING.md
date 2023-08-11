@@ -20,7 +20,7 @@ Only add YouTubers that are **awesome**! *"After all, it's a curation, not a col
 ```html
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL"/>](LINK_TO_THE_CHANNEL_MAIN_PAGE)
 
-[**NAME_OF_THE_CHANNEL**](LINK_TO_THE_CHANNEL_MAIN_PAGE) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+[**NAME_OF_THE_CHANNEL**](LINK_TO_THE_CHANNEL_MAIN_PAGE) \
 Content about: EXAMPLE, EXAMPLE, EXAMPLE \
 Featured playlists: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`, `PLAYLIST 4`. \
 <br/>
@@ -31,14 +31,13 @@ Featured playlists: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`, `PLAYLIST 4`. \
 
 [<img align="left" height="94px" width="94px" alt="GitHub channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVBGU-QyENevFp8etYX1iEak8Y7KEjUPsucWAvAA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/github)
 
-[**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Badge for YouTuber that upload videos weekly" src="badges/badge-weekly.svg" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+[**GitHub**](https://www.youtube.com/user/github) \
 Content about: Open Source, Security, App development \
 Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Arctic Code Vault`.
 </details>
 
 **Only edit the words that are in ALL UPPER CASE. Leave all the other things as they are. Considerations below.**
 
-- In the example, you see the two badges were added (verified YouTube and weekly upload badges). If the channel doesn't meet one of these requirements, remove the badge. More information on the [badges file](badges/README.md).
 - If the "Featured playlists" section is shorter than 124 characters, add a `\` symbol and a `<br/>` tag on the line below. Otherwise, don't do it.
 - Pay attention to all the other characters: dots, commas, asterisks, etc.
 - Before making the pull request, make sure the layout looks good.
