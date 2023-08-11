@@ -748,7 +748,7 @@ Content about: DevOps, Docker, Kubernetes, Ansible \
 Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/kRxC322HFMMQ8KQzb5zB2C4JDbMarHkXizae8znxrdPBxRdmrMsz24ft0PfSHoOcEkEa5lRM2Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/XTf4AOgQJNMGP9066MyO6DBYy_YCOmVA9vAlY0C-_TXgFEyriHYXYZje4EpdWCgzP6AGcHlkIQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
 [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) \
 Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
@@ -1325,7 +1325,7 @@ Content about: All hardware \
 Featured playlists: `Hardware News`, `PC Case Reviews`, `Pre-Built Gaming PC Reviews`, `many more`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/EAJTcRmRdv3plIT4zRJlyWRnf4cS_zVt6YVtSZ39hQ4ryApK0ZPLEi0YFKdW-eCy6X0CATq9=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Jayztwocents)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/JWC97n97fCcVa6uMCAC_XlKjo91rssPzawguIrehF9P3O3eWL70JXhLeuSa1uwShcEgTh7YjxQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Jayztwocents)
 
 [**JayzTwoCents**](https://www.youtube.com/c/Jayztwocents) \
 Content about: All hardware \
@@ -1434,7 +1434,7 @@ Content about: Leetcode, Coding Interview \
 Featured playlists: `LeetCode East`, `LeetCode Medium`, `LeetCode Hard`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/wNpZYq11WTlt3r4XFhyUwscFTB7Rsun9SjYNbroLf8l3wwD_XMB6Ce_JPGsJStmdkaf7FT3u=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KevinNaughtonJr)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/nJZ_GcVB5zWL5Z526_vwiEeT7vdKqWjzLxKQdeHaXnoWbzOAIJzI7a5i0mVvLHjkt3TJK3oifg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KevinNaughtonJr)
 
 [**Kevin Naughton Jr.**](https://www.youtube.com/c/KevinNaughtonJr) \
 Content about: Leetcode, Coding Interview \
@@ -1448,7 +1448,7 @@ Content about: Leetcode, HackerRank, Coding Interview \
 Featured playlists: `LeetCode Solution`, `HackerRank Solution`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/piIn5ZHTD7ytOym1FFSGBrZdfnUD1OHwP4AbjDpyQWAWj4YRgur6vUJn2Qa3EVc2pHcQVlQrVQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PriyanshAgarwal)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/fSej0H2ok--_bj9NiNPw53QSJwWnsUBVJ0UhvR5h-OGaHICJg6Y7j0wUwWyTFDbHUODUJfci=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PriyanshAgarwal)
 
 [**Priyansh Agarwal**](https://www.youtube.com/c/PriyanshAgarwal) \
 Content about: Code Chef, Codeforces \
