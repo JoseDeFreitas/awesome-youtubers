@@ -1513,6 +1513,13 @@ Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
 Content about: Programming, Job Offers, Salaries, Interviewing \
 Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/AYrAjbqBS43Ocd0FMbrM0f27kwqKCjh46Pi8tPVIGdN8IIy4oInLDVVfNNyU4Wmtjw2mbkq3=s176-c-k-c0x00ffffff-no-rj"/>](https://youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
+
+[**Eddie Jaoude**](https://youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) \
+Content about: Open Source, Freelancing \
+Featured playlists: `Freelancing tips`, `LinkFree Videos`, `Git must know commands`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 <details>
