@@ -505,7 +505,6 @@ Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message
 [**ThePrimeagen**](https://www.youtube.com/@ThePrimeagen) \
 Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
 Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`. \
-<br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@dreamsofcode)
 
