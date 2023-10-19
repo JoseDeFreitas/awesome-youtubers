@@ -112,7 +112,6 @@ Featured playlists: `DevOps Tutorial for Beginners`, `Artificial Intelligence Tu
 Content about: Backend, APIs \
 Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beginners`, `C++ Programming Tutorial for Beginners`, `other videos about different programming languages`.
 
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXTGNb9fHAe65rAIHAHkq0D227_WF4IsvdIXw-6Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/smartherd)
 
 [**Smartherd**](https://www.youtube.com/c/smartherd) \
