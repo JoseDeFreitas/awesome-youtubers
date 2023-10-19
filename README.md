@@ -478,6 +478,12 @@ Featured playlists: `Wordpress theme development`, `Learn CSS`. \
 Content about: Javascript, CSS, HTML, Vue.js, React.js, Tailwind CSS, MongoDB, Express.js, Web development \
 Featured playlists: `Vue.js crash course`, `React.js crash course`, `Semantic UI in 60 minutes`, `Full Stack Vue.js, Express and MongoDB`, `Async JS crash course`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/APkrFKayeWNVehgthRdZYIzWAQMjF9c3jndNKh07l_Kx=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Frankslaboratory)
+
+[**Franks laboratory**](https://www.youtube.com/@Frankslaboratory) \
+Content about: CSS, HTML, JavaScript \
+Featured playlists: `JavaScript Game Development Masterclass 2023`, `Particle Effects Masterclass`, `CSS3 Experiments`, `Game Development with Vanilla JavaScript`.
+
 ### Backend
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwaVSApA3XTqXzAzHlt-4Rji44iwWdY49_d1RqxdDw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/swyxTV)
