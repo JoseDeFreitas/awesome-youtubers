@@ -264,7 +264,7 @@ Content about: Spring Boot, Kotlin \
 Featured playlists: `Spring Boot`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/kMuSQv3_WwPmGSk7XJvf5PvIK7ARMUKaB6AUB8I0y7vtjCqE5dDU8YNe1PaDrqriqVeR6BRW=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ArjanCodes)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/AZvfbMG12CAiznGPiO_45ZvLNxJuNECfzSq9mScGEH6k8C7wDF69aWRGCVI7pSh-2dMJEOUzy70=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArjanCodes)
 
 [**ArjanCodes**](https://www.youtube.com/c/ArjanCodes) \
 Content about: Python, Software Design \
