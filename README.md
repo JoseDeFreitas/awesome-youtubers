@@ -21,30 +21,30 @@
 
 This repository only lists awesome YouTubers that speak English. Awesome contributors have created their own list of awesome tech YouTubers in other languages. **Below you can see all the repositories related.** If you believe you have awesome YouTubers in a certain language and you have at least more than a few of them, you can create your own list and let me know [opening a new issue](https://github.com/JoseDeFreitas/awesome-youtubers/issues/new).
 
--   [Brazilian Portuguese](https://github.com/rcarubbi/awesome-brazilian-youtubers)
--   [Spanish](https://github.com/rcarubbi/awesome-spanish-youtubers)
+- [Brazilian Portuguese](https://github.com/rcarubbi/awesome-brazilian-youtubers)
+- [Spanish](https://github.com/rcarubbi/awesome-spanish-youtubers)
 
 ## Contents
 
--   [Programming in general](#programming-in-general)
--   [Web development](#web-development)
-	- [Frontend](#frontend)
-	- [Backend](#backend)
--   [Computer science](#computer-science)
--   [Machine learning](#machine-learning)
--   [DevOps](#devops)
--   [Game development](#game-development)
--   [Mobile development](#mobile-development)
--   [Cybersecurity](#cybersecurity)
--   [Internet/networking](#internetnetworking)
--   [Software in general](#software-in-general)
--   [Conferences](#conferences)
--   [Operating systems](#operating-systems)
--   [Digital design](#digital-design)
--   [Audio and video](#audio-and-video)
--   [Hardware](#hardware)
--   [Competitive programming](#competitive-programming)
--   [Life skills](#life-skills)
+- [Programming in general](#programming-in-general)
+- [Web development](#web-development)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+- [Computer science](#computer-science)
+- [Machine learning](#machine-learning)
+- [DevOps](#devops)
+- [Game development](#game-development)
+- [Mobile development](#mobile-development)
+- [Cybersecurity](#cybersecurity)
+- [Internet/networking](#internetnetworking)
+- [Software in general](#software-in-general)
+- [Conferences](#conferences)
+- [Operating systems](#operating-systems)
+- [Digital design](#digital-design)
+- [Audio and video](#audio-and-video)
+- [Hardware](#hardware)
+- [Competitive programming](#competitive-programming)
+- [Life skills](#life-skills)
 
 ## Programming in general
 
@@ -98,7 +98,6 @@ Featured playlists: `Learn C Programming Language | Tutorial for Beginners`, `Le
 [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain) \
 Content about: Algorithms, Various programming languages \
 Featured playlists: `The Nature of Code: Simulating Natural Systems with Processing`, `Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction`.
-
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxo5sxMK5En0bXdwzW65cLoDmmGYdoWWDnwlmd0zrw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/intellipaaat)
 
@@ -276,6 +275,13 @@ Featured playlists: `Software Design in Python`, `Code Roasts`. \
 [**CodeAesthetic**](https://www.youtube.com/@CodeAesthetic) \
 Content about: Programming best practices \
 Featured playlists: N/A \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Telusko)
+
+[**Telusko**](https://www.youtube.com/@Telusko) \
+Content about: Java, Spring Boot, Python, Data Structures \
+Featured playlists: `Java Tutorial For beginners`, `Data Structures and Algorithm`, `Microservice Tutorial using Java`, `Python for Beginners (Full Course) | Programming Tutorial`. \
 <br/>
 
 [🔼 Back to the top](#contents)
@@ -1288,13 +1294,11 @@ Content about: Blender, 3D modeling \
 Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
 <br />
 
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJUS0B38G8QpJm-h4PDd3wtrYFuSup0a3ZqD_a8uLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CGGeek)
 
 [**CG Geek**](https://www.youtube.com/@CGGeek) \
 Content about: Animation, Blender, 3D modeling, Visual Effects \
 Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
-
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjrGM34PR7NdULgvDghJw8TqcbhPEVB35CxlbbhFw=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
 
@@ -1382,7 +1386,6 @@ Featured playlists: `About Servers`, `Fanless`, `Mini PC`, `Workstations`, `Curr
 Content about: All technological devices internal working \
 Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`.
 
-
 [🔼 Back to the top](#contents)
 
 ## Competitive programming
@@ -1420,7 +1423,7 @@ Featured playlists: `Data Structures and Algorithms`, `Coding Interview Question
 
 [**Back To Back SWE**](https://www.youtube.com/c/BackToBackSWE) \
 Content about: Leetcode, Software Engineering Interview \
-Featured playlists: `Tree, Binary Trees & Binary Search Tree`, `Sorting, Searching & Heaps`, `Dynamic Programming, Recursion & Backtracking`, `Graphs, Greedy Algorithms & Other`. 
+Featured playlists: `Tree, Binary Trees & Binary Search Tree`, `Sorting, Searching & Heaps`, `Dynamic Programming, Recursion & Backtracking`, `Graphs, Greedy Algorithms & Other`.
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8aa8BR8qGCyjKSHpnt5qCFReOEZ_xTtK3hqknPgA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Errichto)
@@ -1489,13 +1492,11 @@ Your professional side can be reinforced while watching these tutorials. It's im
 Content about: Job searching, General skills, Life tips \
 Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
 
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3dhST2suIfX5hbfWZixmdxRBUDyGx01B-_IE3wqBp2tBjgBpBWbF-m5rltC_RbWEq4_2pqlV=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
 
 [**Engineering with Utsav**](https://www.youtube.com/@EngineeringwithUtsav) \
 Content about: Career, Productivity, Software engineering, Life tips \
 Featured playlists: `Finance`, `Start ups`, `Book reviews & recommendations`, `Productivity`, `Technical interview preparation`, `Career & success`, `Software engineering`.
-
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
 
