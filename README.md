@@ -278,6 +278,11 @@ Content about: Programming best practices \
 Featured playlists: N/A \
 <br/>
 
+[**Telusko**](https://www.youtube.com/@Telusko) \
+Content about: Java, Spring Boot, Python, Data Structures \
+Featured playlists: `Java Tutorial For beginners`, `Data Structures and Algorithm`, `Microservice Tutorial using Java`, `Python for Beginners (Full Course) | Programming Tutorial`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
