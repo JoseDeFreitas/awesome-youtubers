@@ -278,6 +278,13 @@ Content about: Programming best practices \
 Featured playlists: N/A \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeAesthetic)
+
+[**Telusko**](https://www.youtube.com/@Telusko) \
+Content about: Java, Spring Boot, Python, Data Structures \
+Featured playlists: `Java Tutorial For beginners`, `Data Structures and Algorithm`, `Microservice Tutorial using Java`, `Python for Beginners (Full Course) | Programming Tutorial`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
