@@ -1496,13 +1496,11 @@ Your professional side can be reinforced while watching these tutorials. It's im
 Content about: Job searching, General skills, Life tips \
 Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
 
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3dhST2suIfX5hbfWZixmdxRBUDyGx01B-_IE3wqBp2tBjgBpBWbF-m5rltC_RbWEq4_2pqlV=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/KnGSMY5NyuxXYzML8yrz1Q7XqAtrLg0Ken3K8OaK0b_KP9516SEzDE5xqbZeMi8jd5_7S886Y3M=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
 
 [**Engineering with Utsav**](https://www.youtube.com/@EngineeringwithUtsav) \
 Content about: Career, Productivity, Software engineering, Life tips \
 Featured playlists: `Finance`, `Start ups`, `Book reviews & recommendations`, `Productivity`, `Technical interview preparation`, `Career & success`, `Software engineering`.
-
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
 
@@ -1523,7 +1521,7 @@ Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
 Content about: Programming, Job Offers, Salaries, Interviewing \
 Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/AYrAjbqBS43Ocd0FMbrM0f27kwqKCjh46Pi8tPVIGdN8IIy4oInLDVVfNNyU4Wmtjw2mbkq3=s176-c-k-c0x00ffffff-no-rj"/>](https://youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/O3KOrxrlnZnDEzTs2X6QKIMu6qkqBtNekrkhewYT87qC4mO_1_1BpZ7VsyOlM5KW9TiYFRLuPwo=s176-c-k-c0x00ffffff-no-rj"/>](https://youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
 
 [**Eddie Jaoude**](https://youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) \
 Content about: Open Source, Freelancing \
