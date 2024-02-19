@@ -290,6 +290,12 @@ Featured playlists: `Java Tutorial For beginners`, `Data Structures and Algorith
 [**Anthony GG**](https://www.youtube.com/@anthonygg_) \
 Content about: Golang \
 Featured playlists: `Distributed CAS Storage In Golang`, `Crypto exchange from scratch in Golang`, `Actor engine in Golang (Hollywood)`. \
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/cZljVId4IP-aLqPRcHrhh0XrZERakcfUkYZQs0nh8e71evPy3IZEuvcl9YZLaAENAevkq9On=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TsodingDaily)
+
+[**Tsoding Daily**](https://www.youtube.com/@TsodingDaily) \
+Content about: C, Rust, OCaml, Python, Algorithms, Data Structure \
+Featured playlists: `Machine Learning in C`, `Search Engine in Rust`, `Music Visualizer in C`, `Raylib.js`. \
 <br/>
 
 [🔼 Back to the top](#contents)
