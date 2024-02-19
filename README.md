@@ -257,7 +257,7 @@ Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Cod
 Content about: C#, WPF, .NET \
 Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/wLdR-0xgfaVI8YlJWsCUqcL369ylYVHzxLhatQVMzZALSOAZRl0xE1DPycMJlhkp__Y6l7d0=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vldU5mbCUPzAU-Jy111fc32pl6JpxYwntkExAEFU-sSeoFx8eK2XQkfw_PPtP5vIx3Ng0SrUiCw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
 
 [**Alex Gutjahr | Spring Boot + Kotlin**](https://www.youtube.com/c/alexgutjahr) \
 Content about: Spring Boot, Kotlin \
@@ -283,7 +283,6 @@ Featured playlists: N/A \
 [**Telusko**](https://www.youtube.com/@Telusko) \
 Content about: Java, Spring Boot, Python, Data Structures \
 Featured playlists: `Java Tutorial For beginners`, `Data Structures and Algorithm`, `Microservice Tutorial using Java`, `Python for Beginners (Full Course) | Programming Tutorial`. \
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ADjysY-26b3e9qAyq70nv-96mS5s04PKW2G8BPHAYaGWncpLHNYH_7sG0JuZPBu0NuMlon3p=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@anthonygg_)
 
