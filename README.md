@@ -1508,13 +1508,13 @@ Your professional side can be reinforced while watching these tutorials. It's im
 Content about: Job searching, General skills, Life tips \
 Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/KnGSMY5NyuxXYzML8yrz1Q7XqAtrLg0Ken3K8OaK0b_KP9516SEzDE5xqbZeMi8jd5_7S886Y3M=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ZYHolG3S67tsYjArc69qMwS3unwsdQw2UMYQWpJX1OlObD6XEj-r_vebPGu6VfB8pRPjdnAn=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
 
 [**Engineering with Utsav**](https://www.youtube.com/@EngineeringwithUtsav) \
 Content about: Career, Productivity, Software engineering, Life tips \
 Featured playlists: `Finance`, `Start ups`, `Book reviews & recommendations`, `Productivity`, `Technical interview preparation`, `Career & success`, `Software engineering`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/mjNkmL_jtTy0nEdVnjPw_xN4Bknadpv6_PkmO_B79yTr1xvyB5IVYYsklcR1PK3ez_d1AOKMPQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/hellomayuko)
 
 [**mayuko**](https://www.youtube.com/c/hellomayuko) \
 Content about: Job tips, Health \
