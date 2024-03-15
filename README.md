@@ -502,6 +502,12 @@ Featured playlists: `Vue.js crash course`, `React.js crash course`, `Semantic UI
 Content about: CSS, HTML, JavaScript \
 Featured playlists: `JavaScript Game Development Masterclass 2023`, `Particle Effects Masterclass`, `CSS3 Experiments`, `Game Development with Vanilla JavaScript`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/v2XEQ_UHgHjH04ZwIT6kKhrmrcRU5ojVMX1HL5HdgpabX2p95_rDewIHGc3ZkjRFbxTcgYs3bg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TheAlexLichter)
+
+[**TheAlexLichter**](https://www.youtube.com/@TheAlexLichter) \
+Content about: Nuxt, Vue, TypeScript \
+Featured playlists: `Nuxt Performance In Depth`, `Vue 3`, `Nuxt 3`. \
+
 ### Backend
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwaVSApA3XTqXzAzHlt-4Rji44iwWdY49_d1RqxdDw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/swyxTV)
