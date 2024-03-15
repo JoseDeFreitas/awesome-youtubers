@@ -507,6 +507,7 @@ Featured playlists: `JavaScript Game Development Masterclass 2023`, `Particle Ef
 [**TheAlexLichter**](https://www.youtube.com/@TheAlexLichter) \
 Content about: Nuxt, Vue, TypeScript \
 Featured playlists: `Nuxt Performance In Depth`, `Vue 3`, `Nuxt 3`. \
+<br/>
 
 ### Backend
 
