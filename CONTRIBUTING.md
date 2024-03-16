@@ -7,7 +7,7 @@ Only add YouTubers that are **awesome**! *"After all, it's a curation, not a col
 <details>
   <summary>Guide for new GitHub users</summary>
   <ol>
-    <li>Go to the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/readme.md">README.md</a> file in this repository.</li>
+    <li>Go to the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/main/README.md">README.md</a> file in this repository.</li>
     <li>Click on the "edit" button (the one with a pencil icon).</li>
     <li>Add the new YouTuber (following the format below and at the bottom of the proper section) and click "Commit".</li>
     <li>Click on the green button "Create pull request", fill out the template and click on the green "Create pull request" button again.</li>
