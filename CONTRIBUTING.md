@@ -15,7 +15,7 @@ Only add YouTubers that are **awesome**! *"After all, it's a curation, not a col
   </ol>
 </details>
 
-## Add the YouTuber following this format
+## Markdown format for the YouTuber
 
 ```html
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="LINK_TO_THE_AVATAR_OF_THE_YOUTUBE_CHANNEL"/>](LINK_TO_THE_CHANNEL_MAIN_PAGE)
@@ -42,7 +42,7 @@ Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Publi
 - Pay attention to all the other characters: dots, commas, asterisks, etc.
 - Before making the pull request, make sure the layout looks good.
 
-## Create the pull request content following this format
+## Format for the pull request message
 
 *Appears automatically when you create the pull request.*
 
