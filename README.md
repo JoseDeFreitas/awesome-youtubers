@@ -1367,7 +1367,7 @@ Featured playlists: `PC Building`, `GPU`, `Custom Builds`. \
 Content about: Arduino \
 Featured playlists: `Arduino Tutorials for Beginners`, `Raspberry Pi Tutorials for Beginners`, `a lot more Arduino tutorials/projects videos!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz9XEhgD0AaVFVvsxDHzQBAZ84xTwIokpOzarR3fg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
 
 [**GreatScott!**](https://www.youtube.com/user/greatscottlab) \
 Content about: Raspberry Pi, 3D Printing, Electronics \
@@ -1381,7 +1381,7 @@ Content about: Raspberry Pi \
 Featured playlists: `Getting started with your Raspberry Pi`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy17nmM3at2dVGVn8DmWURJf1eULCoPqC-lS517AQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/explainingcomputers)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/explainingcomputers)
 
 [**ExplainingComputers**](https://www.youtube.com/user/explainingcomputers) \
 Content about: Raspberry Pi, Electronics, Operation System \
@@ -1422,7 +1422,7 @@ Content about: Data Structures and Algorithms, Dynamic Programming, Leetcode \
 Featured playlists: `Dynamic Programming`, `Graph Algorithms`, `Binary Tree`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-4yBAeUqkQJoGr-uFZWKanliUJj6UjshqqAcBGMt0=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GauravSensei)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/rsKAERVEXNTq6lbdIHUlm3aVAw4R2D1fPkDz-7sPccu9qwic5EYfSe6VI7tNB5-_r0Ip5_P0=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GauravSensei)
 
 [**Gaurav Sen**](https://www.youtube.com/c/GauravSensei) \
 Content about: System Design, Data Structures & Algorithms \
@@ -1484,7 +1484,7 @@ Content about: Code Chef, Codeforces \
 Featured playlists: `Codeforces Screencasts`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxY8Nw3Fq5b3ekWwaTlnHqejPAn1tWfusN4kVobug=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/WilliamFiset-videos)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/1uVY5t7YBg_N-hrqBA5teFdz87Y3EU-J13Zrl10qsc_u0JfFML6cKNmYV2mzovJF9lXxrSNHwQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/WilliamFiset-videos)
 
 [**WilliamFiset**](https://www.youtube.com/c/WilliamFiset-videos) \
 Content about: Algoritms, Data structures \
