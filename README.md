@@ -1400,14 +1400,13 @@ Featured playlists: `Single Board Computer Reviews`, `Gaming on SBCs`, `many mor
 [**ServeTheHome**](https://www.youtube.com/@ServeTheHomeVideo) \
 Content about: Server Hardware, Networking and other hardware for the professional \
 Featured playlists: `About Servers`, `Fanless`, `Mini PC`, `Workstations`, `Current Events`, `Storage`, `Server Processors`, `Networking`, `Cool server hardware`.
-<br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/4toKBJKPsAfwxy2xfr_EQJ7CuHpLvZa4eux6T2TAf8EU25uH_G9gbUA9djqaCrTjkIESnPjzww=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BranchEducation)
 
 [**Branch Education**](https://www.youtube.com/@BranchEducation) \
 Content about: All technological devices internal working \
-Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`.
-
+Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`. \
+<br />
 
 [🔼 Back to the top](#contents)
 
