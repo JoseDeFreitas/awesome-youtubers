@@ -1287,22 +1287,22 @@ Featured playlists: `SPEEDPAINT ANIMATION`, `Motion Design`, `After Effects Tuto
 Content about: Animation, Design \
 Featured playlists: `After Effects Tutorials`, `Text Animation - After Effects Tutorials`, `Logo Intro - After Effects Tutorials`, `Motion Graphics - After Effects Tutorials`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyf22_Pytt7LNXFjm-oL0BAbT3Qu8j7Cphk0L2A=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DenyKingYoutube)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/LJN2pAzpawmDUHdviNP75i7rjbBAz8IkvyXu1YUND-_bvjAHFxyS0RDklDE4PBG5PaKq5TZcSA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DenyKingYoutube)
 
 [**Deny King**](https://www.youtube.com/c/DenyKingYoutube) \
 Content about: Video, Photos \
 Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/photo editing videos`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzR_Ep_rWDUxvhDQaEUiN--4TpO3l1tDynnGDGx=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/AndrewPPrice)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ewXcoWsc-CNvalYafQyR6X-f2BOg5t99m9oLH9m2Kf96dx7KbLQGKzBEPt-NYtIR0DVa0hM2yA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/AndrewPPrice)
 
 [**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) \
 Content about: Blender, 3D modeling \
 Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/badgesgabbitt)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@grabbitt)
 
-[**Grant Abbitt**](https://www.youtube.com/user/badgesgabbitt) \
+[**Grant Abbitt**](https://www.youtube.com/@grabbitt) \
 Content about: 3D modeling, Reptology, Blender \
 Featured playlists: `Learn sculpting in blender 2.8`, `Blender 2.8 for beginners full course`. \
 <br />
@@ -1322,7 +1322,7 @@ Content about: Animation, Blender, 3D modeling, Visual Effects \
 Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
 
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjrGM34PR7NdULgvDghJw8TqcbhPEVB35CxlbbhFw=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GDFo9QnOEGgdZgZDigkzViI5dvGfD60c-wLSpVrpDfcooQDwLm1axE0UoZPmqTKYVOCXXCwL=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
 
 [**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) \
 Content about: Video, Photos \
