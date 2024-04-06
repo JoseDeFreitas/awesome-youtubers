@@ -48,7 +48,7 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 
 ## Programming in general
 
-There're a lot of programming languages out there. In this section, you can find any programming language, including Python, C, Java. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical tutorials or theoretical tutorials.
+There're a lot of programming languages out there. In this section, you can find any programming language, including Python, C, Java. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical or theoretical tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwEFEH0os2PjNYXfjC2tlO-VU5sSsB3rX6DOeFh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Techsithtube)
 
