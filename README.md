@@ -48,7 +48,7 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 
 ## Programming in general
 
-There're a lot of programming languages out there. In this section, you can find any programming language, including Python, C, Java. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical or theoretical tutorials.
+In this section you can find any programming language. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical or theoretical tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwEFEH0os2PjNYXfjC2tlO-VU5sSsB3rX6DOeFh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Techsithtube)
 
@@ -98,7 +98,6 @@ Featured playlists: `Learn C Programming Language | Tutorial for Beginners`, `Le
 [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain) \
 Content about: Algorithms, Various programming languages \
 Featured playlists: `The Nature of Code: Simulating Natural Systems with Processing`, `Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction`.
-
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxo5sxMK5En0bXdwzW65cLoDmmGYdoWWDnwlmd0zrw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/intellipaaat)
 
@@ -301,7 +300,7 @@ Featured playlists: `Machine Learning in C`, `Search Engine in Rust`, `Music Vis
 
 ## Web development
 
-Web development includes frontend development: the very basics (HTML, CSS and JavaScript) as well as the most modern frameworks (React.js, Vue.js, Angular). It also includes backend development topics, like Node.js, GraphQL, SQL and more basic things, like DNS, URLs, Deployment. You can also find freelancing as a web developer and other related stuff.
+Web development includes frontend backend development topics. You can also find freelancing as a web developer and other related stuff.
 
 ### Frontend
 
@@ -542,7 +541,7 @@ Featured playlists: `Neovim`, `Rust`, `Node.js`. \
 
 ## Computer science
 
-The core concepts of the computer sciences can be found here. Some channels teach you about math operations, including a lot of playlists with different math topics. The same goes for math and physics closely related to computers and hardware. Perfect if you want to learn about the deepest terms.
+Core concepts of Computer Science: math, physics, networking, hardware, algorithms, data, etc.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQelvtRQ9bX4eu2G8kuazXvSUf6OoqdHkjCfcNQA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/zachstar)
 
@@ -669,7 +668,7 @@ Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`
 
 ## Machine learning
 
-Find YouTubers experienced in Deep Learning, Natural Language Processing, Neural Network and many more topics related to this wide category. A good thing about Machine Learning is that it can be applied using different programming languages, and the core concepts meet the same structure for the different programming languages.
+Find YouTubers experienced in Deep Learning, Natural Language Processing, Neural Network and many more topics related to this wide category.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxzAin1zCLuS2UINl_fDJrzu_VsTVkEPgTv6MyRog=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AbhishekThakurAbhi)
 
@@ -756,7 +755,7 @@ Featured playlists: `Python Programming for Finance`, `Machine Learning with Pyt
 
 ## DevOps
 
-DevOps is combination of software **dev**elopment and IT **op**eration**s**. This section list down few YouTubers who makes learn DevOps topic easy. The topics may include Docker, Kubernetes, System Design, Kafka, Ansible, Cassandra, Zookeeper, Hadoop, Cloud (AWS, GCP, Azure) etc.
+DevOps is combination of software **dev**elopment and IT **op**eration**s**. The topics may include Docker, Kubernetes, System Design, Kafka, Ansible, Cassandra, Zookeeper, Hadoop, Cloud (AWS, GCP, Azure) etc.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/kXyR8Aa32KXnZWVdkAFUYK5utM752kSJPHGtYiJ4ev6BmdFHi-dl1EFbI3TogmHBjszwc7m2=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWorldwithNana)
 
@@ -822,7 +821,7 @@ Featured playlists: `Terraform Tutorial for Beginners`, `Prometheus (Thanos) Tut
 
 ## Game development
 
-This is a wide topic. In this section, you can find YouTubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modelling and much more.
+In this section, you can find YouTubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modelling and much more.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx6TRb2UtlFRUrc1y8izsVdh5KgI1kYYBdZTwigIQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheCharmefis)
 
@@ -933,7 +932,7 @@ Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java
 
 ## Mobile development
 
-Nowadays, we can't imagine our lives without our smartphones and the people who enable the smartphone experience are mobile app developers. In this section, you can learn how to build mobile applications from scratch that face consumers. Learn how to follow industry best practices. Learn Kotlin or Swift for native development in Android/iOS or learn technologies such as React Native and Flutter for cross-platform mobile development.
+In this section, you can learn how to build mobile applications from scratch that face consumers. Learn how to follow industry best practices. Learn Kotlin or Swift for native development in Android/iOS or learn technologies such as React Native and Flutter for cross-platform mobile development.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/mhup7lzHh_c9b55z0edX65ReN9iJmTF2JU7vMGER9LTOora-NnXtvZdtn_vJmTvW6-y97z0Y=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PhilippLackner)
 
@@ -952,7 +951,7 @@ Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutori
 
 ## Cybersecurity
 
-Security is something we all should care about. Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
+Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxXEBqSlbr0Gm-VRnA6Q7alt4cZA_kfu1fkWdgr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DavidBombal)
 
@@ -1036,7 +1035,7 @@ Featured playlists: `Go Incognito: A Guide to Security, Privacy, & Anonymity`. \
 
 ## Internet/networking
 
-Internet connection and networking is a wide topic, and it's common to get stuck while learning about this. Get awesome playlists and videos about both software and hardware to know how does the internet connection and networking works. How to properly set a modem/router and what are the IPs, DNS and more.
+Get awesome playlists and videos about both software and hardware to know how does the internet connection and networking works (beginner and advanced tutorials).
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
 
@@ -1074,7 +1073,7 @@ Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
 
 ## Software in general
 
-YouTubers listed in this category may not be programming tutorials or cool design cards, but some other useful software and applications are used every day for everyone. Master that suite you use a lot or learn more about specific services a company provides you with.
+YouTubers that focus their content in specific third-party softwares. These are not programming tutorials but tutorials on how to use and master certain applications.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 
@@ -1106,7 +1105,7 @@ Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science v
 
 ## Conferences
 
-This section is about all the amazing tech conferences and the talks that they put online.
+Conferences that cover a topic, generally done using a different recording format.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytmpnop1rJ8bYYGvdWXbs4er2kRUUmBT0udDAcIA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingTech)
 
@@ -1156,7 +1155,7 @@ Featured playlists: `J-Fall`, `J-Spring`. \
 
 ## Operating systems
 
-Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure. Understand how do these systems work in-deep to allow you to control them using the best methods.
+Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyzXrRfkiVxobJ_1-ot6Nwbb-8hzmOInqGjQJReXQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RibaLinux)
 
@@ -1189,7 +1188,7 @@ Featured playlists: `Hardware reviews`, `Linux essentials`, `Linux commands for 
 
 ## Digital design
 
-Web design tutorials are listed in the [web development section](#web-development). But, of course, the digital design is incredibly big, including nice pictures and draw representations about a famous person or attractive promotional videos. Get the knowledge about how to do these things and be a professional with design programs.
+Design websites, illustrations, drawings and more using programs such as the ones provided by the Adobe suite or open-source programs. Different types of styles and methods.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
 
@@ -1266,7 +1265,7 @@ Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutori
 
 ## Audio and video
 
-Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more. Using the most popular and the best software to create stunning video animations, well-produced songs and stuff related to these topics.
+Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzaWbDjViF6gjYUtZnSaPf7EAqhxo-UX_5vuXaRDQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Obedia)
 
@@ -1333,7 +1332,7 @@ Featured playlists: `Shading with nodes`.`Making looping animations with Blender
 
 ## Hardware
 
-CPU's, motherboards, monitors, keyboards, mouses, PC's/Laptops and all about hardware. Modems and routers can be also found here, as well as the newest phones and other technological gadgets. Get recommendations and price/quality comparisons about these products.
+CPU's, motherboards, monitors, keyboards, mouses, PC's/Laptops and all about hardware. Modems and routers can also be found here, as well as the newest phones and other technological gadgets. Get recommendations and price/quality comparisons about these products.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwcYEZYVuVI4MejVHLNgPMLSWYzXmhTyVjgcweM=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TeachingTech)
 
@@ -1412,7 +1411,7 @@ Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`. \
 
 ## Competitive programming
 
-Most of the companies interview process involves coding challenges. Competitive programming is like a sports held over the Internet where programmers will compete with each other. The below list contains some of the channels you can follow to brush up your competitive programming skills.
+This category contains some of the channels you can follow to get advice in order to gain experience and increase your competitive programming skills.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-vxWUfyxiYaed6g7no_ja24Sk4bOQvqy3vOA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/tusharroy2525)
 
