@@ -91,7 +91,7 @@ Featured playlists: `Python Tutorials`, `Django Tutorials`, `Flask Tutorials`, `
 
 [**LearningLad**](https://www.youtube.com/c/LearningLad) \
 Content about: C, C#, C++ \
-Featured playlists: `Learn C Programming Language | Tutorial for Beginners`, `Learn C++ Programming | Video Tutorial for Beginners`, `C++ Object Oriented Programming`, `and many more playlists`.
+Featured playlists: `Learn C Programming Language | Tutorial for Beginners`, `Learn C++ Programming | Video Tutorial for Beginners`, `C++ Object Oriented Programming`, `and many more`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsuBQEVwEvfj3ti2gZQCVWpFc4e38IfMsPgYGCxw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheCodingTrain)
 
