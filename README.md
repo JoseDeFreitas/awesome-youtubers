@@ -38,7 +38,6 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 -   [Cybersecurity](#cybersecurity)
 -   [Internet/networking](#internetnetworking)
 -   [Software in general](#software-in-general)
--   [Conferences](#conferences)
 -   [Operating systems](#operating-systems)
 -   [Digital design](#digital-design)
 -   [Audio and video](#audio-and-video)
@@ -294,6 +293,44 @@ Featured playlists: `Distributed CAS Storage In Golang`, `Crypto exchange from s
 [**Tsoding Daily**](https://www.youtube.com/@TsodingDaily) \
 Content about: C, Rust, OCaml, Python, Algorithms, Data Structure \
 Featured playlists: `Machine Learning in C`, `Search Engine in Rust`, `Music Visualizer in C`, `Raylib.js`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GagmBrZqrrRisN2JPyda5qpVXnJK3vWt4x_OrCiNwPXwDgJkNzoy7f_SDkiza5_NmoBLNk0G=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
+
+[**Devoxx**](https://www.youtube.com/@DevoxxForever) \
+Content about: Devoxx is a series of tech events organised by local community groups \
+Featured playlists: `Devoxx UK`, `Devoxx Belgium`, `Devoxx Poland`, `Devoxx France`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/15f6kwUPI9bd1AspUFSazof5fiai0taMW4oSxl9ehOU6too0pW8lEZTgQfFOh_4m3ZO-q77TQQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ddd_eu)
+
+[**Domain-Driven Design Europe**](https://www.youtube.com/@ddd_eu) \
+Content about: Conference for senior software developers and architects interested in software design. \
+Featured playlists: `DDD Foundations`, `Eventsourcing`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GOTO-)
+
+[**GOTO Conferences**](https://www.youtube.com/@GOTO-) \
+Content about: Brightest minds sharing their knowledge to create a better future \
+Featured playlists: `Sustainable Software`, `Software Architecture`, `Recommendations`, `Greatest Hits`, and many more.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWLFdZolJp2YsKH3wO742DVMpo-OkH-_agdkRVLRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@infoq)
+
+[**InfoQ**](https://www.youtube.com/@infoq) \
+Content about: Innovator and early adopter stage techniques and technologies with the wider industry \
+Featured playlists: `InfoQ Trend Reports`, `Culture & Methods`, `DevOps`, `Emerging languages and development trends`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXuXpA0Lil-SD7rDAS7sQev-rYD8r5CzAnub1g2VQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NDC)
+
+[**NDC Conferences**](https://www.youtube.com/@NDC) \
+Content about: .NET & Agile development, evolved to encompass all technologies relevant to Software Developers. \
+Featured playlists: `NDC Sydney`, `NDC Oslo`, `NDC London`, `NDC Minnesota`, `NDC Melbourne`, `NDC Copenhagen`, `DevOps`, `Security`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVbkZF43DOQpyCMY4jIhNXCJmN33xnMUyemTPqo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NLJUG1)
+
+[**NLJUG**](https://www.youtube.com/@NLJUG1) \
+Content about: All things related to Java from the Dutch Java User Group \
+Featured playlists: `J-Fall`, `J-Spring`. \
 <br/>
 
 [🔼 Back to the top](#contents)
@@ -1100,56 +1137,6 @@ Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutoria
 Content about: Theoretical videos \
 Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science videos`. \
 <br />
-
-[🔼 Back to the top](#contents)
-
-## Conferences
-
-Conferences that cover a topic, generally done using a different recording format.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytmpnop1rJ8bYYGvdWXbs4er2kRUUmBT0udDAcIA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingTech)
-
-[**Coding Tech**](https://www.youtube.com/c/CodingTech) \
-Content about: All programming, Talks \
-Featured playlists: `Frontend development videos`, `Backend development videos`, `Theoretical videos`, `a lot more tech topics playlists!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVQptvOS9IbdF_r5ePIwbXAUNYoHlg8L7YY9WevRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
-
-[**Devoxx**](https://www.youtube.com/@DevoxxForever) \
-Content about: Devoxx is a series of tech events organised by local community groups \
-Featured playlists: `Devoxx UK`, `Devoxx Belgium`, `Devoxx Poland`, `Devoxx France`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXTvgnQRNcUwB6Pp6X6mcxILphi2BNfWTdeEZxs7Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ddd_eu)
-
-[**Domain-Driven Design Europe**](https://www.youtube.com/@ddd_eu) \
-Content about: Conference for senior software developers and architects interested in software design. \
-Featured playlists: `DDD Foundations`, `Eventsourcing`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GOTO-)
-
-[**GOTO Conferences**](https://www.youtube.com/@GOTO-) \
-Content about: Brightest minds sharing their knowledge to create a better future \
-Featured playlists: `Sustainable Software`, `Software Architecture`, `Recommendations`, `Greatest Hits`, and many more.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWLFdZolJp2YsKH3wO742DVMpo-OkH-_agdkRVLRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@infoq)
-
-[**InfoQ**](https://www.youtube.com/@infoq) \
-Content about: Innovator and early adopter stage techniques and technologies with the wider industry \
-Featured playlists: `InfoQ Trend Reports`, `Culture & Methods`, `DevOps`, `Emerging languages and development trends`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXuXpA0Lil-SD7rDAS7sQev-rYD8r5CzAnub1g2VQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NDC)
-
-[**NDC Conferences**](https://www.youtube.com/@NDC) \
-Content about: .NET & Agile development, evolved to encompass all technologies relevant to Software Developers. \
-Featured playlists: `NDC Sydney`, `NDC Oslo`, `NDC London`, `NDC Minnesota`, `NDC Melbourne`, `NDC Copenhagen`, `DevOps`, `Security`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVbkZF43DOQpyCMY4jIhNXCJmN33xnMUyemTPqo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NLJUG1)
-
-[**NLJUG**](https://www.youtube.com/@NLJUG1) \
-Content about: All things related to Java from the Dutch Java User Group \
-Featured playlists: `J-Fall`, `J-Spring`. \
-<br/>
 
 [🔼 Back to the top](#contents)
 
