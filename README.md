@@ -701,6 +701,18 @@ Featured playlists: `OpenGL`, `the Clojure language`, `Python playlists`, `Pigeo
 Content about: Assembly language, Hardware, Computer sciences \
 Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`, `Digital electronics tutorials`, `a lot of videos related`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/I5kRQcjSCh1reytT7YDGIUMpx7Po69c0A1s3dr3u694YLlFtRG-I-CahJfQ9Fc5nGYFuCi7XgfE=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MrPSolver)
+
+[**Mr. P Solver**](https://www.youtube.com/@MrPSolver) \
+Content about: Python, Math, Numpy \
+Featured playlists: `Mastering Python Libraries`, `Essential Python Functions`, `GPU Accelerated Python`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_k5B_0NfkBrp0EpH4aZYfS7LZ8QWUqpcudMNNms8iIZ7w=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@eigenchris)
+
+[**eigenchris**](https://www.youtube.com/@eigenchris) \
+Content about: Fundamental math, Calculus, Tensors \
+Featured playlists: `Tensors for Beginners`, `Tensor Calculus`, `Spinors for Beginners`, `Error Correcting Codes (ECCs)`.
+
 [🔼 Back to the top](#contents)
 
 ## Machine Learning
