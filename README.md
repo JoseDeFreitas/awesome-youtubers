@@ -27,23 +27,23 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 ## Contents
 
 -   [Programming in general](#programming-in-general)
--   [Web development](#web-development)
+-   [Web Development](#web-development)
 	- [Frontend](#frontend)
 	- [Backend](#backend)
--   [Computer science](#computer-science)
--   [Machine learning](#machine-learning)
+-   [Computer Science](#computer-science)
+-   [Machine Learning](#machine-learning)
 -   [DevOps](#devops)
--   [Game development](#game-development)
--   [Mobile development](#mobile-development)
+-   [Game Development](#game-development)
+-   [Mobile Development](#mobile-development)
 -   [Cybersecurity](#cybersecurity)
 -   [Internet/networking](#internetnetworking)
 -   [Software in general](#software-in-general)
--   [Operating systems](#operating-systems)
--   [Digital design](#digital-design)
--   [Audio and video](#audio-and-video)
+-   [Operating Systems](#operating-systems)
+-   [Digital Design](#digital-design)
+-   [Audio and Video](#audio-and-video)
 -   [Hardware](#hardware)
--   [Competitive programming](#competitive-programming)
--   [Life skills](#life-skills)
+-   [Competitive Programming](#competitive-programming)
+-   [Life Skills](#life-skills)
 
 ## Programming in general
 
@@ -335,7 +335,7 @@ Featured playlists: `J-Fall`, `J-Spring`. \
 
 [🔼 Back to the top](#contents)
 
-## Web development
+## Web Development
 
 Web development includes frontend backend development topics. You can also find freelancing as a web developer and other related stuff.
 
@@ -576,7 +576,7 @@ Featured playlists: `Neovim`, `Rust`, `Node.js`. \
 
 [🔼 Back to the top](#contents)
 
-## Computer science
+## Computer Science
 
 Core concepts of Computer Science: math, physics, networking, hardware, algorithms, data, etc.
 
@@ -703,7 +703,7 @@ Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`
 
 [🔼 Back to the top](#contents)
 
-## Machine learning
+## Machine Learning
 
 Find YouTubers experienced in Deep Learning, Natural Language Processing, Neural Network and many more topics related to this wide category.
 
@@ -856,7 +856,7 @@ Featured playlists: `Terraform Tutorial for Beginners`, `Prometheus (Thanos) Tut
 
 [🔼 Back to the top](#contents)
 
-## Game development
+## Game Development
 
 In this section, you can find YouTubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modelling and much more.
 
@@ -967,7 +967,7 @@ Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java
 
 [🔼 Back to the top](#contents)
 
-## Mobile development
+## Mobile Development
 
 In this section, you can learn how to build mobile applications from scratch that face consumers. Learn how to follow industry best practices. Learn Kotlin or Swift for native development in Android/iOS or learn technologies such as React Native and Flutter for cross-platform mobile development.
 
@@ -1140,7 +1140,7 @@ Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science v
 
 [🔼 Back to the top](#contents)
 
-## Operating systems
+## Operating Systems
 
 Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure.
 
@@ -1173,7 +1173,7 @@ Featured playlists: `Hardware reviews`, `Linux essentials`, `Linux commands for 
 
 [🔼 Back to the top](#contents)
 
-## Digital design
+## Digital Design
 
 Design websites, illustrations, drawings and more using programs such as the ones provided by the Adobe suite or open-source programs. Different types of styles and methods.
 
@@ -1250,7 +1250,7 @@ Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutori
 
 [🔼 Back to the top](#contents)
 
-## Audio and video
+## Audio and Video
 
 Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more.
 
@@ -1396,7 +1396,7 @@ Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`. \
 
 [🔼 Back to the top](#contents)
 
-## Competitive programming
+## Competitive Programming
 
 This category contains some of the channels you can follow to get advice in order to gain experience and increase your competitive programming skills.
 
@@ -1490,7 +1490,7 @@ Featured playlists: `Introduction to Data Structures`, `Sorting Algorithm Lectur
 
 [🔼 Back to the top](#contents)
 
-## Life skills
+## Life Skills
 
 Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or start one by yourself. Find also coding/design/tech companies interview methods.
 
