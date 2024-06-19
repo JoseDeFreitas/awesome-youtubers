@@ -713,6 +713,12 @@ Featured playlists: `Mastering Python Libraries`, `Essential Python Functions`, 
 Content about: Fundamental math, Calculus, Tensors \
 Featured playlists: `Tensors for Beginners`, `Tensor Calculus`, `Spinors for Beginners`, `Error Correcting Codes (ECCs)`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mv_eZn9gNeN0anpCrz7TROBm14JRZnId06ZzAMekMkzg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@codingmath)
+
+[**Coding Math**](https://www.youtube.com/@codingmath) \
+Content about: Fundamental math, Physics \
+Featured playlists: `Fractals`, `Collision Detection`, `3D`, `Physics`, `Application - Ballistics`, `Trigonometry`.
+
 [🔼 Back to the top](#contents)
 
 ## Machine Learning
@@ -975,6 +981,39 @@ Featured playlists: `Robolox scripting`. \
 [**The Cherno**](https://www.youtube.com/user/TheChernoProject) \
 Content about: C++, Game development \
 Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/fRuGUY-F28mPwio41AQwnvnikF2Yy3oFOWoBxK9Xlpri2QhGgCUmy3XoAkJgEGeBdNLaen6SkGo=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@acegikmo)
+
+[**Freya Holmér**](https://www.youtube.com/@acegikmo) \
+Content about: Math & Game Development \
+Featured playlists: `Math For Game Devs (2020)`, `Visual Explanations`, `Math For Game Devs (2022)`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_lUHZo6xn80BzbeDfyGhYdVCEQwPNtsHDGJ4irZmEwfsQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeParade)
+
+[**CodeParade**](https://www.youtube.com/@CodeParade) \
+Content about: Game Development with real projects \
+Featured playlists: `4D Golf`, `Hyperbolica`, `Fractals & Math`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mXDNthuPdZjYoWO8sGF-WUR-CmR-vqkTk1LdVTEEHu1w=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TheArtofCodeIsCool)
+
+[**CodeParade**](https://www.youtube.com/@TheArtofCodeIsCool) \
+Content about: Game Graphics, Shaders, Rays \
+Featured playlists: `Shader Coding`, `Fractals`, `Ray Marching`, `Unity Tutorials`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/r2h5eKhcZqWe84ySDJ5DNPnduRJYvjJwXiFba9y-7zawoH6FQKrrVLGphqpoKpNPsJYgxV5S2A=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Gdconf)
+
+[**GDC**](https://www.youtube.com/@Gdconf) \
+Content about: Conferences about inner functionality of top videogames \
+Featured playlists: `Narrative Talks`, `Design Talks`, `Programming Talks`, `Art and Graphic Design Talks`, `Game Music Talks`, `Animation Talks`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mSwCYDJjUAaowHq3pVAk_T0v9ECCP02kzPIkCic96WiJE=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@jblow888)
+
+[**Jonathan Blow**](https://www.youtube.com/@jblow888) \
+Content about: Meta Game Development \
+Featured playlists: `Game Engine Programminmg`, `A Programming Language for Games`. \
 <br />
 
 [🔼 Back to the top](#contents)
@@ -1405,6 +1444,12 @@ Featured playlists: `About Servers`, `Fanless`, `Mini PC`, `Workstations`, `Curr
 Content about: All technological devices internal working \
 Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`. \
 <br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kXdcS1h9wsDkagn4XjbFv2ciijyxDcSUYsGfvrcd6USw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@iforce2d)
+
+[**iforce2d**](https://www.youtube.com/@iforce2d) \
+Content about: Radio-controlled devices, Arduino \
+Featured playlists: `Arduino RC Things`, `RUBE editor tutorials`, `Arduino mini radiosonde`, `Arduino GSM Things`, `Noobs guide to quadcopters`.
 
 [🔼 Back to the top](#contents)
 
