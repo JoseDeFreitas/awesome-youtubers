@@ -1451,6 +1451,13 @@ Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`. \
 Content about: Radio-controlled devices, Arduino \
 Featured playlists: `Arduino RC Things`, `RUBE editor tutorials`, `Arduino mini radiosonde`, `Arduino GSM Things`, `Noobs guide to quadcopters`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_n9q5QDQLpol-a7QJStLiJWRPx-IwsPWMik7HPu-7TmmcY=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@renerebe)
+
+[**Bits inside by René Rebe**](https://www.youtube.com/@renerebe) \
+Content about: Various devices, Linux, Open source \
+Featured playlists: `DIY / Repair`, `Retro / Vintage`, `Linux`, `FPGA`. \
+<br />
+
 [🔼 Back to the top](#contents)
 
 ## Competitive Programming
