@@ -1125,6 +1125,18 @@ Content about: Privacy and security tutorials and reviews \
 Featured playlists: `Go Incognito: A Guide to Security, Privacy, & Anonymity`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/SXcaVQ_-PaxsDQwPmu2AUVC_sVTNLbheQSczTNHf_dc9vNjBcfd12gtz9AAsVciKsqanPR4Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@OpenSecurityTraining)
+
+[**OpenSecurityTraining2**](https://www.youtube.com/@OpenSecurityTraining) \
+Content about: Malware identification, Exploits, Reverse engineering \
+Featured playlists: `Dynamic Malware Analysis`, `Reverse Engineering Malware`, `Intro Reverse Engineering`, `Intro Trusted Computing`, `Introduction to ARM`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_nkaYYzjxSUcSaGGquR6Yui6uc2_OpZbDIt1vzRjBtk8FI=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GuidedHacking)
+
+[**Guided Hacking**](https://www.youtube.com/@GuidedHacking) \
+Content about: Ethical hacking, Penetration testing \
+Featured playlists: `Game Hacking 100 - Game Hacking Course`, `C++ Pattern Scanning Tutorial`, `Linux Hacking Tutorials`.
+
 [🔼 Back to the top](#contents)
 
 ## Internet/networking
@@ -1463,6 +1475,12 @@ Featured playlists: `Arduino RC Things`, `RUBE editor tutorials`, `Arduino mini 
 Content about: Various devices, Linux, Open source \
 Featured playlists: `DIY / Repair`, `Retro / Vintage`, `Linux`, `FPGA`. \
 <br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_k0zgeBetnKOR9pAF0lfn87XESBiJBIQUMSDJ11sLcScnw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@stacksmashing)
+
+[**stacksmashing**](https://www.youtube.com/@stacksmashing) \
+Content about: Reverse engineering, Video game hacking \
+Featured playlists: `Game & Watch Hacking`, `Game Boy Hacking`, `Embedded & IoT hacking`, `Reversing WannaCry`.
 
 [🔼 Back to the top](#contents)
 
