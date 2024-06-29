@@ -255,9 +255,9 @@ Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Cod
 Content about: C#, WPF, .NET \
 Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vldU5mbCUPzAU-Jy111fc32pl6JpxYwntkExAEFU-sSeoFx8eK2XQkfw_PPtP5vIx3Ng0SrUiCw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sAvt3zvb53KUMYdYm14VwwOdE2EMb2PG-QretwHxQFMnnnutkdKHzVk6PIU-6FXf3DZZ1I75QQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
 
-[**Alex Gutjahr | Spring Boot + Kotlin**](https://www.youtube.com/c/alexgutjahr) \
+[**Alex Gutjahr | Tech Tutorials**](https://www.youtube.com/c/alexgutjahr) \
 Content about: Spring Boot, Kotlin \
 Featured playlists: `Spring Boot`. \
 <br/>
@@ -295,7 +295,7 @@ Content about: C, Rust, OCaml, Python, Algorithms, Data Structure \
 Featured playlists: `Machine Learning in C`, `Search Engine in Rust`, `Music Visualizer in C`, `Raylib.js`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GagmBrZqrrRisN2JPyda5qpVXnJK3vWt4x_OrCiNwPXwDgJkNzoy7f_SDkiza5_NmoBLNk0G=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/zLf1KTfDN7Y47v0eKL3bHUBCsx_stBfskO3ahJDl-bGAZ6H4XB0lWuV9r__arbTA36g5u_q6lAY=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
 
 [**Devoxx**](https://www.youtube.com/@DevoxxForever) \
 Content about: Devoxx is a series of tech events organised by local community groups \
@@ -618,7 +618,7 @@ Featured playlists: `Computer Science and Security`, `Engineering`, `Energy Tech
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwKt_euPqSdYAa1aMzL7fhO-JibtfEaEXX8OuPt=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/FCIHOCW)
 
-[**FCIH OCW**](https://www.youtube.com/user/FCIHOCW) \
+[**Arabsera (FCIHOCW formerly)**](https://www.youtube.com/user/FCIHOCW) \
 Content about: Math, Data science \
 Featured playlists: `Data Science, Data Visualization playlists`, `Mathematics and Statistics playlists`, `more videos related`.
 
@@ -837,7 +837,7 @@ Content about: DevOps, Docker, Kubernetes, Ansible \
 Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/0YP74Y3JRONGGT-ceUZicHmukEFthR0VvUM0rFFEjUIIr2-EUp8ZZoixMh6l7bbcA0oh4Wpamg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/0YP74Y3JRONGGT-ceUZicHmukEFthR0VvUM0rFFEjUIIr2-EUp8ZZoixMh6l7bbcA0oh4Wpamg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
 [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) \
 Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
