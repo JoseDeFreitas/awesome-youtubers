@@ -333,6 +333,12 @@ Content about: All things related to Java from the Dutch Java User Group \
 Featured playlists: `J-Fall`, `J-Spring`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_nDjT85OSINuDHs0xor5gHG3mp99Zrp8nruM4cucrieKU8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@WhatsACreel)
+
+[**Creel**](https://www.youtube.com/@WhatsACreel) \
+Content about: Linux, Assembly, Encryption \
+Featured playlists: `Linux x64 Assembly`, `AES Encryption`, `x64 Assembly Multithreading`, `CUDA Tutorials`, `C++ Tutorials`.
+
 [🔼 Back to the top](#contents)
 
 ## Web Development
