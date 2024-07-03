@@ -166,9 +166,9 @@ Featured playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.
 Content about: Data science, Python, R, Practical & theoretical \
 Featured playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwZDjZBLse-ByxN1EAxA5ll42m2QN_8UEL_J0wbdA"/>](https://www.youtube.com/c/GiraffeAcademy/)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/AqqsRvRW2gJdF1zSQdTpo1_SF-hl_XLvgAFfS4wnABzf8ZjOXCTJSu8aG2tjwBxWGjMuUUIxuFY=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GiraffeAcademy/)
 
-[**Mike Dane**](https://www.youtube.com/c/GiraffeAcademy/) \
+[**Giraffe Academy**](https://www.youtube.com/c/GiraffeAcademy/) \
 Content about: MongoDB, SQL, C#, C++ \
 Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C# - Programming Language`, `C++ - Programming Language`.
 
