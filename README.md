@@ -1482,6 +1482,24 @@ Featured playlists: `DIY / Repair`, `Retro / Vintage`, `Linux`, `FPGA`. \
 Content about: Reverse engineering, Video game hacking \
 Featured playlists: `Game & Watch Hacking`, `Game Boy Hacking`, `Embedded & IoT hacking`, `Reversing WannaCry`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_l17lYcTcRSydZeQK-RuiSfEeH5eX9m4irSNQj6109v5MQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EEVblog)
+
+[**EEVblog**](https://www.youtube.com/@EEVblog) \
+Content about: Electronics, Computer peripherals, Devices \
+Featured playlists: `Electronics Tutorial - DC Fundamentals`, `Electronics Tutorials - AC Theory Series`, `Open Source Hardware`, `and many more!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_k-qMilaXXOCC7AjANxEeEcjhfowiKg25A-Dpa-QmPSzP4=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@w2aew)
+
+[**w2aew**](https://www.youtube.com/@w2aew) \
+Content about: Electronics, Circuits \
+Featured playlists: `Basics on Capacitors and Inductors`, `Op Amp Tutorials`, `Circuit Tutorials`, `Bipolar Transistor Videos`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kofRvJP-uxkHBcRV-scwif16qFhHrEx3L15uBFA2FJm88=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Afrotechmods)
+
+[**Afrotechmods**](https://www.youtube.com/@Afrotechmods) \
+Content about: Electronics \
+Featured playlists: `Electronics for Beginners`, `All about bateries`, `Passive filters`, `Oscilloscope tutorials`, `Tutorials about inductors`.
+
 [🔼 Back to the top](#contents)
 
 ## Competitive Programming
