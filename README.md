@@ -1175,6 +1175,13 @@ Content about: Electronics and Communication \
 Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_lhZ2iLWGak2w8ipVVQ92VnYOc0TBE-OYv9FP0yogg33A=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@cemaxecuter7783)
+
+[**cemaxecuter**](https://www.youtube.com/@cemaxecuter7783) \
+Content about: SDR, Linux \
+Featured playlists: `War Dragon`, `Raspberry Pi`, `WiFi IDS, monitoring, and incident response`, `and much more.`. \
+<br />
+
 [🔼 Back to the top](#contents)
 
 ## Software in general
@@ -1369,13 +1376,11 @@ Content about: Blender, 3D modeling \
 Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
 <br />
 
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJUS0B38G8QpJm-h4PDd3wtrYFuSup0a3ZqD_a8uLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CGGeek)
 
 [**CG Geek**](https://www.youtube.com/@CGGeek) \
 Content about: Animation, Blender, 3D modeling, Visual Effects \
 Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
-
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GDFo9QnOEGgdZgZDigkzViI5dvGfD60c-wLSpVrpDfcooQDwLm1axE0UoZPmqTKYVOCXXCwL=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
 
@@ -1499,6 +1504,18 @@ Featured playlists: `Basics on Capacitors and Inductors`, `Op Amp Tutorials`, `C
 [**Afrotechmods**](https://www.youtube.com/@Afrotechmods) \
 Content about: Electronics \
 Featured playlists: `Electronics for Beginners`, `All about bateries`, `Passive filters`, `Oscilloscope tutorials`, `Tutorials about inductors`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kkPKtzIooXCcTnlEFwrFyQ4OQgrJmZ6O3fFpCnphz-MJw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@RFDesignbasics)
+
+[**RF Design Basics**](https://www.youtube.com/@RFDesignbasics) \
+Content about: Electronics, Systems, Theoretical classes \
+Featured playlists: `Control Systems`, `Electromagnetic Field Theory`, `Digital System Design/Digital logic design`, `Circuit Theory/Network Theory`, `Transmission Lines and Waveguides`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/wBg1vI5LbXh1UcL54BfVfeghA1qqB2CRMvOWT8HuOgmuhEIZvXy11xGozFqtIdz_1cbX38Wgkw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rossmanngroup)
+
+[**Louis Rossmann**](https://www.youtube.com/@rossmanngroup) \
+Content about: Devices, Repair tutorials \
+Featured playlists: `Not recognizing internal SSD/hard drive`, `SSD Data Recovery`, `Macbook USB port not working`, `usb drive data recovery`, `and much more!`.
 
 [🔼 Back to the top](#contents)
 
