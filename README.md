@@ -333,6 +333,13 @@ Content about: All things related to Java from the Dutch Java User Group \
 Featured playlists: `J-Fall`, `J-Spring`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/1MRzhZCghlVOowCD2pVXMvG1yoCyzAI5qx1QQjkb5sb5Bat3fxANdh08BzzTOdgAAXdl3IFbZg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@dhanushnehru)
+
+[**Dhanush Nehru**](https://www.youtube.com/@dhanushnehru) \
+Content about: All things related to Programming, Hacking, Linux and much more \
+Featured playlists: `Tech & Coding` \
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_nDjT85OSINuDHs0xor5gHG3mp99Zrp8nruM4cucrieKU8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@WhatsACreel)
 
 [**Creel**](https://www.youtube.com/@WhatsACreel) \
