@@ -27,23 +27,23 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 ## Contents
 
 -   [Programming in general](#programming-in-general)
--   [Web development](#web-development)
+-   [Web Development](#web-development)
 	- [Frontend](#frontend)
 	- [Backend](#backend)
--   [Computer science](#computer-science)
--   [Machine learning](#machine-learning)
+-   [Computer Science](#computer-science)
+-   [Machine Learning](#machine-learning)
 -   [DevOps](#devops)
--   [Game development](#game-development)
--   [Mobile development](#mobile-development)
+-   [Game Development](#game-development)
+-   [Mobile Development](#mobile-development)
 -   [Cybersecurity](#cybersecurity)
 -   [Internet/networking](#internetnetworking)
 -   [Software in general](#software-in-general)
--   [Operating systems](#operating-systems)
--   [Digital design](#digital-design)
--   [Audio and video](#audio-and-video)
+-   [Operating Systems](#operating-systems)
 -   [Hardware](#hardware)
--   [Competitive programming](#competitive-programming)
--   [Life skills](#life-skills)
+-   [Competitive Programming](#competitive-programming)
+-   [Digital Design](#digital-design)
+-   [Audio and Video](#audio-and-video)
+-   [Life Skills](#life-skills)
 
 ## Programming in general
 
@@ -166,9 +166,9 @@ Featured playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.
 Content about: Data science, Python, R, Practical & theoretical \
 Featured playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwZDjZBLse-ByxN1EAxA5ll42m2QN_8UEL_J0wbdA"/>](https://www.youtube.com/c/GiraffeAcademy/)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/AqqsRvRW2gJdF1zSQdTpo1_SF-hl_XLvgAFfS4wnABzf8ZjOXCTJSu8aG2tjwBxWGjMuUUIxuFY=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GiraffeAcademy/)
 
-[**Mike Dane**](https://www.youtube.com/c/GiraffeAcademy/) \
+[**Giraffe Academy**](https://www.youtube.com/c/GiraffeAcademy/) \
 Content about: MongoDB, SQL, C#, C++ \
 Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C# - Programming Language`, `C++ - Programming Language`.
 
@@ -255,9 +255,9 @@ Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Cod
 Content about: C#, WPF, .NET \
 Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vldU5mbCUPzAU-Jy111fc32pl6JpxYwntkExAEFU-sSeoFx8eK2XQkfw_PPtP5vIx3Ng0SrUiCw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sAvt3zvb53KUMYdYm14VwwOdE2EMb2PG-QretwHxQFMnnnutkdKHzVk6PIU-6FXf3DZZ1I75QQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
 
-[**Alex Gutjahr | Spring Boot + Kotlin**](https://www.youtube.com/c/alexgutjahr) \
+[**Alex Gutjahr | Tech Tutorials**](https://www.youtube.com/c/alexgutjahr) \
 Content about: Spring Boot, Kotlin \
 Featured playlists: `Spring Boot`. \
 <br/>
@@ -295,7 +295,7 @@ Content about: C, Rust, OCaml, Python, Algorithms, Data Structure \
 Featured playlists: `Machine Learning in C`, `Search Engine in Rust`, `Music Visualizer in C`, `Raylib.js`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GagmBrZqrrRisN2JPyda5qpVXnJK3vWt4x_OrCiNwPXwDgJkNzoy7f_SDkiza5_NmoBLNk0G=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/zLf1KTfDN7Y47v0eKL3bHUBCsx_stBfskO3ahJDl-bGAZ6H4XB0lWuV9r__arbTA36g5u_q6lAY=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
 
 [**Devoxx**](https://www.youtube.com/@DevoxxForever) \
 Content about: Devoxx is a series of tech events organised by local community groups \
@@ -340,9 +340,15 @@ Content about: All things related to Programming, Hacking, Linux and much more \
 Featured playlists: `Tech & Coding` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_nDjT85OSINuDHs0xor5gHG3mp99Zrp8nruM4cucrieKU8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@WhatsACreel)
+
+[**Creel**](https://www.youtube.com/@WhatsACreel) \
+Content about: Linux, Assembly, Encryption \
+Featured playlists: `Linux x64 Assembly`, `AES Encryption`, `x64 Assembly Multithreading`, `CUDA Tutorials`, `C++ Tutorials`.
+
 [🔼 Back to the top](#contents)
 
-## Web development
+## Web Development
 
 Web development includes frontend backend development topics. You can also find freelancing as a web developer and other related stuff.
 
@@ -583,7 +589,7 @@ Featured playlists: `Neovim`, `Rust`, `Node.js`. \
 
 [🔼 Back to the top](#contents)
 
-## Computer science
+## Computer Science
 
 Core concepts of Computer Science: math, physics, networking, hardware, algorithms, data, etc.
 
@@ -619,7 +625,7 @@ Featured playlists: `Computer Science and Security`, `Engineering`, `Energy Tech
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwKt_euPqSdYAa1aMzL7fhO-JibtfEaEXX8OuPt=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/FCIHOCW)
 
-[**FCIH OCW**](https://www.youtube.com/user/FCIHOCW) \
+[**Arabsera (FCIHOCW formerly)**](https://www.youtube.com/user/FCIHOCW) \
 Content about: Math, Data science \
 Featured playlists: `Data Science, Data Visualization playlists`, `Mathematics and Statistics playlists`, `more videos related`.
 
@@ -708,9 +714,27 @@ Featured playlists: `OpenGL`, `the Clojure language`, `Python playlists`, `Pigeo
 Content about: Assembly language, Hardware, Computer sciences \
 Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`, `Digital electronics tutorials`, `a lot of videos related`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/I5kRQcjSCh1reytT7YDGIUMpx7Po69c0A1s3dr3u694YLlFtRG-I-CahJfQ9Fc5nGYFuCi7XgfE=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MrPSolver)
+
+[**Mr. P Solver**](https://www.youtube.com/@MrPSolver) \
+Content about: Python, Math, Numpy \
+Featured playlists: `Mastering Python Libraries`, `Essential Python Functions`, `GPU Accelerated Python`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_k5B_0NfkBrp0EpH4aZYfS7LZ8QWUqpcudMNNms8iIZ7w=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@eigenchris)
+
+[**eigenchris**](https://www.youtube.com/@eigenchris) \
+Content about: Fundamental math, Calculus, Tensors \
+Featured playlists: `Tensors for Beginners`, `Tensor Calculus`, `Spinors for Beginners`, `Error Correcting Codes (ECCs)`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mv_eZn9gNeN0anpCrz7TROBm14JRZnId06ZzAMekMkzg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@codingmath)
+
+[**Coding Math**](https://www.youtube.com/@codingmath) \
+Content about: Fundamental math, Physics \
+Featured playlists: `Fractals`, `Collision Detection`, `3D`, `Physics`, `Application - Ballistics`, `Trigonometry`.
+
 [🔼 Back to the top](#contents)
 
-## Machine learning
+## Machine Learning
 
 Find YouTubers experienced in Deep Learning, Natural Language Processing, Neural Network and many more topics related to this wide category.
 
@@ -820,7 +844,7 @@ Content about: DevOps, Docker, Kubernetes, Ansible \
 Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/RDJI7bEetPzf3v1pe4p3wLEoAa4FneDvv6mfIyEmRWayCxjkUmFNdtKQHN2EIqTMzub9SXf4=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/0YP74Y3JRONGGT-ceUZicHmukEFthR0VvUM0rFFEjUIIr2-EUp8ZZoixMh6l7bbcA0oh4Wpamg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
 [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) \
 Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
@@ -863,7 +887,7 @@ Featured playlists: `Terraform Tutorial for Beginners`, `Prometheus (Thanos) Tut
 
 [🔼 Back to the top](#contents)
 
-## Game development
+## Game Development
 
 In this section, you can find YouTubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modelling and much more.
 
@@ -972,9 +996,42 @@ Content about: C++, Game development \
 Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/fRuGUY-F28mPwio41AQwnvnikF2Yy3oFOWoBxK9Xlpri2QhGgCUmy3XoAkJgEGeBdNLaen6SkGo=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@acegikmo)
+
+[**Freya Holmér**](https://www.youtube.com/@acegikmo) \
+Content about: Math & Game Development \
+Featured playlists: `Math For Game Devs (2020)`, `Visual Explanations`, `Math For Game Devs (2022)`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_lUHZo6xn80BzbeDfyGhYdVCEQwPNtsHDGJ4irZmEwfsQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeParade)
+
+[**CodeParade**](https://www.youtube.com/@CodeParade) \
+Content about: Game Development with real projects \
+Featured playlists: `4D Golf`, `Hyperbolica`, `Fractals & Math`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mXDNthuPdZjYoWO8sGF-WUR-CmR-vqkTk1LdVTEEHu1w=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TheArtofCodeIsCool)
+
+[**CodeParade**](https://www.youtube.com/@TheArtofCodeIsCool) \
+Content about: Game Graphics, Shaders, Rays \
+Featured playlists: `Shader Coding`, `Fractals`, `Ray Marching`, `Unity Tutorials`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/r2h5eKhcZqWe84ySDJ5DNPnduRJYvjJwXiFba9y-7zawoH6FQKrrVLGphqpoKpNPsJYgxV5S2A=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Gdconf)
+
+[**GDC**](https://www.youtube.com/@Gdconf) \
+Content about: Conferences about inner functionality of top videogames \
+Featured playlists: `Narrative Talks`, `Design Talks`, `Programming Talks`, `Art and Graphic Design Talks`, `Game Music Talks`, `Animation Talks`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mSwCYDJjUAaowHq3pVAk_T0v9ECCP02kzPIkCic96WiJE=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@jblow888)
+
+[**Jonathan Blow**](https://www.youtube.com/@jblow888) \
+Content about: Meta Game Development \
+Featured playlists: `Game Engine Programminmg`, `A Programming Language for Games`. \
+<br />
+
 [🔼 Back to the top](#contents)
 
-## Mobile development
+## Mobile Development
 
 In this section, you can learn how to build mobile applications from scratch that face consumers. Learn how to follow industry best practices. Learn Kotlin or Swift for native development in Android/iOS or learn technologies such as React Native and Flutter for cross-platform mobile development.
 
@@ -1075,6 +1132,18 @@ Content about: Privacy and security tutorials and reviews \
 Featured playlists: `Go Incognito: A Guide to Security, Privacy, & Anonymity`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/SXcaVQ_-PaxsDQwPmu2AUVC_sVTNLbheQSczTNHf_dc9vNjBcfd12gtz9AAsVciKsqanPR4Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@OpenSecurityTraining)
+
+[**OpenSecurityTraining2**](https://www.youtube.com/@OpenSecurityTraining) \
+Content about: Malware identification, Exploits, Reverse engineering \
+Featured playlists: `Dynamic Malware Analysis`, `Reverse Engineering Malware`, `Intro Reverse Engineering`, `Intro Trusted Computing`, `Introduction to ARM`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_nkaYYzjxSUcSaGGquR6Yui6uc2_OpZbDIt1vzRjBtk8FI=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GuidedHacking)
+
+[**Guided Hacking**](https://www.youtube.com/@GuidedHacking) \
+Content about: Ethical hacking, Penetration testing \
+Featured playlists: `Game Hacking 100 - Game Hacking Course`, `C++ Pattern Scanning Tutorial`, `Linux Hacking Tutorials`.
+
 [🔼 Back to the top](#contents)
 
 ## Internet/networking
@@ -1113,6 +1182,13 @@ Content about: Electronics and Communication \
 Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_lhZ2iLWGak2w8ipVVQ92VnYOc0TBE-OYv9FP0yogg33A=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@cemaxecuter7783)
+
+[**cemaxecuter**](https://www.youtube.com/@cemaxecuter7783) \
+Content about: SDR, Linux \
+Featured playlists: `War Dragon`, `Raspberry Pi`, `WiFi IDS, monitoring, and incident response`, `and much more.`. \
+<br />
+
 [🔼 Back to the top](#contents)
 
 ## Software in general
@@ -1147,7 +1223,7 @@ Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science v
 
 [🔼 Back to the top](#contents)
 
-## Operating systems
+## Operating Systems
 
 Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure.
 
@@ -1176,150 +1252,6 @@ Featured playlists: `Privacy & Security`, `The church of Emacs`, `The command li
 [**Learn Linux TV**](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) \
 Content about: Linux Tutorials, Distribution reviews, Linux Guides \
 Featured playlists: `Hardware reviews`, `Linux essentials`, `Linux commands for beginners`. \
-<br />
-
-[🔼 Back to the top](#contents)
-
-## Digital design
-
-Design websites, illustrations, drawings and more using programs such as the ones provided by the Adobe suite or open-source programs. Different types of styles and methods.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
-
-[**How to Graphic Design**](https://www.youtube.com/c/HowtoGraphicDesign) \
-Content about: Adobe Illustrator, Illustrations \
-Featured playlists: `Adobe Illustrator CC Flat Illustration Tutorials`, `Logo Creation Tutorials Playlist`, `Adobe Illustrator CC for Beginners`, `more Adobe Illustrator playlists`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz0yGLAogfKCoU7YgR_8bUj0q4c2WlDkcCozlT49w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/armaganvideos)
-
-[**ArmaganVideos**](https://www.youtube.com/c/armaganvideos) \
-Content about: Adobe Illustrator, Illustrations, Flat design \
-Featured playlists: `Tutorials - Illustrator`, `Tutorials - After Effects`, `Tutorials - Flat Design`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlxT8H3XaR4aTb9gpiNUAGid4XnpKk8Sk1N7BG=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TTTutorials)
-
-[**T&T Tutorials**](https://www.youtube.com/c/TTTutorials) \
-Content about: Adobe Illustrator, Adobe Photoshop, Hand-drawing \
-Featured playlists: `Adobe Illustrator Tutorials`, `Character Illustration Illustrator Tutorials`, `Adobe Illustrator Tools Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygq4Pq_23OEZs2MZbLitD4i8YHBVe7NsNvcnsFag=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Pixelandbracket)
-
-[**Pixel & Bracket**](https://www.youtube.com/c/Pixelandbracket) \
-Content about: Adobe Illustrator, Adobe Photoshop \
-Featured playlists: `Illustrator Tutorials`, `Photoshop Tutorials`, `other design videos`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxZgbkZh-4rbYswKEsnjK9loXD0ycFuFc_EEX5CLA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ZakeyDesignow)
-
-[**Zakey Design**](https://www.youtube.com/c/ZakeyDesignow) \
-Content about: Gimp, Inkscape, Adobe Illustrator \
-Featured playlists: `Gimp Photo Manipulation`, `Inkscape playlist`, `Adobe Illustrator videos`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ls56op2UiRpg-Q-QVQaCEoNRVlf4AqmbHH9h3fnMXUsodnWLw4Pi91Pypyb7BCy4g_FV-A_t=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArtwithFlo)
-
-[**Art with Flo**](https://www.youtube.com/c/ArtwithFlo) \
-Content about: Procreate, Ipad/tablet drawing \
-Featured playlists: `PROCREATE TUTORIALS`, `DIGITAL ART TUTORIALS`, `Digital Drawing on iPad Pro | Easy Drawing Tutorials`, `more playlists!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyDKjIXjD19amsFlS8OLCTiMwplipojomEjZeUTrQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/tutsplus)
-
-[**Envato Tuts+**](https://www.youtube.com/c/tutsplus) \
-Content about: All design, Illustrations, Web design \
-Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and video manipulation playlists`, `Figma videos`, `Learn Photo Effects`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vnQYDSGtKFu7LenJX864ylaHIDJZlQm33FU7KQnRfKW4slSo77nV0JwkmEXYhUFwtUxMwq5W=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/logosbynick)
-
-[**Logos By Nick**](https://www.youtube.com/c/logosbynick) \
-Content about: Inkscape, Gimp \
-Featured playlists: `Inkscape Beginner Tutorials`, `GIMP Tutorials`, `Inkscape Typeface Tutorials`, `Inkscape Logo Design Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNoBbN8dcRvQmBgN4oTSZVTnb-KDu41GJWStY-=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MohamedAchraf)
-
-[**Mohamed Achraf**](https://www.youtube.com/c/MohamedAchraf) \
-Content about: Adobe Illustrator \
-Featured playlists: `The Logo Design Process`, `Adobe Illustrator Tips & Tricks`, `Character Designs`, `Illustrator Speedarts`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sYiP1NizwJGYbr_zZ1mOOXJeFk3ffhiclJgj4XmQox1WGWt62Wwh_jCMlcDhylKYmREEDfjqiw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
-
-[**CharliMarieTV**](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) \
-Content about: web, graphic design \
-Featured playlists: `Design careers`, `Workflow`, `Design chat`, `Freelancing as a designer`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTk233iPUrYYjd_Vs9j602bTjV7rLe0IAyvrJRe=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/YesImaDesigner)
-
-[**Yes I'm a Designer**](https://www.youtube.com/c/YesImaDesigner) \
-Content about: Design principles, Design tools tutorials \
-Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutorials`, `Photoshop CC`. \
-<br />
-
-[🔼 Back to the top](#contents)
-
-## Audio and video
-
-Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzaWbDjViF6gjYUtZnSaPf7EAqhxo-UX_5vuXaRDQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Obedia)
-
-[**OBEDIA**](https://www.youtube.com/c/Obedia) \
-Content about: Audio, Hardware \
-Featured playlists: `PreSonus Studio One Tutorials`, `Cubase Tutorials`, `Ableton Tutorials by OBEDIA`, `Cakewalk Sonar Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJycV557ukLUO4022GP-8xFrGWBUjoj0PnUhQwuHRw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/BlackMixture)
-
-[**Black Mixture**](https://www.youtube.com/c/BlackMixture) \
-Content about: After Effects, Animation \
-Featured playlists: `SPEEDPAINT ANIMATION`, `Motion Design`, `After Effects Tutorials`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw1EJaU6c5-oLxVdCO91mNBSM0CaflC7YaVlbH67g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/avnishparker)
-
-[**Avnish Parker**](https://www.youtube.com/user/avnishparker) \
-Content about: Animation, Design \
-Featured playlists: `After Effects Tutorials`, `Text Animation - After Effects Tutorials`, `Logo Intro - After Effects Tutorials`, `Motion Graphics - After Effects Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/LJN2pAzpawmDUHdviNP75i7rjbBAz8IkvyXu1YUND-_bvjAHFxyS0RDklDE4PBG5PaKq5TZcSA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DenyKingYoutube)
-
-[**Deny King**](https://www.youtube.com/c/DenyKingYoutube) \
-Content about: Video, Photos \
-Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/photo editing videos`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ewXcoWsc-CNvalYafQyR6X-f2BOg5t99m9oLH9m2Kf96dx7KbLQGKzBEPt-NYtIR0DVa0hM2yA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/AndrewPPrice)
-
-[**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) \
-Content about: Blender, 3D modeling \
-Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@grabbitt)
-
-[**Grant Abbitt**](https://www.youtube.com/@grabbitt) \
-Content about: 3D modeling, Reptology, Blender \
-Featured playlists: `Learn sculpting in blender 2.8`, `Blender 2.8 for beginners full course`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlxDpTb7dFWyQpXiPqWxGQ0WWWyA5GNwf72ru1=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CGFastTrack)
-
-[**CG Fast Track**](https://www.youtube.com/c/CGFastTrack) \
-Content about: Blender, 3D modeling \
-Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
-<br />
-
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJUS0B38G8QpJm-h4PDd3wtrYFuSup0a3ZqD_a8uLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CGGeek)
-
-[**CG Geek**](https://www.youtube.com/@CGGeek) \
-Content about: Animation, Blender, 3D modeling, Visual Effects \
-Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
-
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GDFo9QnOEGgdZgZDigkzViI5dvGfD60c-wLSpVrpDfcooQDwLm1axE0UoZPmqTKYVOCXXCwL=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
-
-[**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) \
-Content about: Video, Photos \
-Featured playlists: `Shading with nodes`.`Making looping animations with Blender in Eevee engine` \
 <br />
 
 [🔼 Back to the top](#contents)
@@ -1401,9 +1333,58 @@ Content about: All technological devices internal working \
 Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kXdcS1h9wsDkagn4XjbFv2ciijyxDcSUYsGfvrcd6USw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@iforce2d)
+
+[**iforce2d**](https://www.youtube.com/@iforce2d) \
+Content about: Radio-controlled devices, Arduino \
+Featured playlists: `Arduino RC Things`, `RUBE editor tutorials`, `Arduino mini radiosonde`, `Arduino GSM Things`, `Noobs guide to quadcopters`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_n9q5QDQLpol-a7QJStLiJWRPx-IwsPWMik7HPu-7TmmcY=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@renerebe)
+
+[**Bits inside by René Rebe**](https://www.youtube.com/@renerebe) \
+Content about: Various devices, Linux, Open source \
+Featured playlists: `DIY / Repair`, `Retro / Vintage`, `Linux`, `FPGA`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_k0zgeBetnKOR9pAF0lfn87XESBiJBIQUMSDJ11sLcScnw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@stacksmashing)
+
+[**stacksmashing**](https://www.youtube.com/@stacksmashing) \
+Content about: Reverse engineering, Video game hacking \
+Featured playlists: `Game & Watch Hacking`, `Game Boy Hacking`, `Embedded & IoT hacking`, `Reversing WannaCry`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_l17lYcTcRSydZeQK-RuiSfEeH5eX9m4irSNQj6109v5MQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EEVblog)
+
+[**EEVblog**](https://www.youtube.com/@EEVblog) \
+Content about: Electronics, Computer peripherals, Devices \
+Featured playlists: `Electronics Tutorial - DC Fundamentals`, `Electronics Tutorials - AC Theory Series`, `Open Source Hardware`, `and many more!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_k-qMilaXXOCC7AjANxEeEcjhfowiKg25A-Dpa-QmPSzP4=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@w2aew)
+
+[**w2aew**](https://www.youtube.com/@w2aew) \
+Content about: Electronics, Circuits \
+Featured playlists: `Basics on Capacitors and Inductors`, `Op Amp Tutorials`, `Circuit Tutorials`, `Bipolar Transistor Videos`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kofRvJP-uxkHBcRV-scwif16qFhHrEx3L15uBFA2FJm88=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Afrotechmods)
+
+[**Afrotechmods**](https://www.youtube.com/@Afrotechmods) \
+Content about: Electronics \
+Featured playlists: `Electronics for Beginners`, `All about bateries`, `Passive filters`, `Oscilloscope tutorials`, `Tutorials about inductors`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kkPKtzIooXCcTnlEFwrFyQ4OQgrJmZ6O3fFpCnphz-MJw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@RFDesignbasics)
+
+[**RF Design Basics**](https://www.youtube.com/@RFDesignbasics) \
+Content about: Electronics, Systems, Theoretical classes \
+Featured playlists: `Control Systems`, `Electromagnetic Field Theory`, `Digital System Design/Digital logic design`, `Circuit Theory/Network Theory`, `Transmission Lines and Waveguides`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/wBg1vI5LbXh1UcL54BfVfeghA1qqB2CRMvOWT8HuOgmuhEIZvXy11xGozFqtIdz_1cbX38Wgkw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rossmanngroup)
+
+[**Louis Rossmann**](https://www.youtube.com/@rossmanngroup) \
+Content about: Devices, Repair tutorials \
+Featured playlists: `Not recognizing internal SSD/hard drive`, `SSD Data Recovery`, `Macbook USB port not working`, `usb drive data recovery`, `and much more!`.
+
 [🔼 Back to the top](#contents)
 
-## Competitive programming
+## Competitive Programming
 
 This category contains some of the channels you can follow to get advice in order to gain experience and increase your competitive programming skills.
 
@@ -1497,7 +1478,156 @@ Featured playlists: `Introduction to Data Structures`, `Sorting Algorithm Lectur
 
 [🔼 Back to the top](#contents)
 
-## Life skills
+## Digital Design
+
+Design websites, illustrations, drawings and more using programs such as the ones provided by the Adobe suite or open-source programs. Different types of styles and methods.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
+
+[**How to Graphic Design**](https://www.youtube.com/c/HowtoGraphicDesign) \
+Content about: Adobe Illustrator, Illustrations \
+Featured playlists: `Adobe Illustrator CC Flat Illustration Tutorials`, `Logo Creation Tutorials Playlist`, `Adobe Illustrator CC for Beginners`, `more Adobe Illustrator playlists`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz0yGLAogfKCoU7YgR_8bUj0q4c2WlDkcCozlT49w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/armaganvideos)
+
+[**ArmaganVideos**](https://www.youtube.com/c/armaganvideos) \
+Content about: Adobe Illustrator, Illustrations, Flat design \
+Featured playlists: `Tutorials - Illustrator`, `Tutorials - After Effects`, `Tutorials - Flat Design`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlxT8H3XaR4aTb9gpiNUAGid4XnpKk8Sk1N7BG=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TTTutorials)
+
+[**T&T Tutorials**](https://www.youtube.com/c/TTTutorials) \
+Content about: Adobe Illustrator, Adobe Photoshop, Hand-drawing \
+Featured playlists: `Adobe Illustrator Tutorials`, `Character Illustration Illustrator Tutorials`, `Adobe Illustrator Tools Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygq4Pq_23OEZs2MZbLitD4i8YHBVe7NsNvcnsFag=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Pixelandbracket)
+
+[**Pixel & Bracket**](https://www.youtube.com/c/Pixelandbracket) \
+Content about: Adobe Illustrator, Adobe Photoshop \
+Featured playlists: `Illustrator Tutorials`, `Photoshop Tutorials`, `other design videos`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxZgbkZh-4rbYswKEsnjK9loXD0ycFuFc_EEX5CLA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ZakeyDesignow)
+
+[**Zakey Design**](https://www.youtube.com/c/ZakeyDesignow) \
+Content about: Gimp, Inkscape, Adobe Illustrator \
+Featured playlists: `Gimp Photo Manipulation`, `Inkscape playlist`, `Adobe Illustrator videos`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ls56op2UiRpg-Q-QVQaCEoNRVlf4AqmbHH9h3fnMXUsodnWLw4Pi91Pypyb7BCy4g_FV-A_t=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArtwithFlo)
+
+[**Art with Flo**](https://www.youtube.com/c/ArtwithFlo) \
+Content about: Procreate, Ipad/tablet drawing \
+Featured playlists: `PROCREATE TUTORIALS`, `DIGITAL ART TUTORIALS`, `Digital Drawing on iPad Pro | Easy Drawing Tutorials`, `more playlists!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyDKjIXjD19amsFlS8OLCTiMwplipojomEjZeUTrQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/tutsplus)
+
+[**Envato Tuts+**](https://www.youtube.com/c/tutsplus) \
+Content about: All design, Illustrations, Web design \
+Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and video manipulation playlists`, `Figma videos`, `Learn Photo Effects`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vnQYDSGtKFu7LenJX864ylaHIDJZlQm33FU7KQnRfKW4slSo77nV0JwkmEXYhUFwtUxMwq5W=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/logosbynick)
+
+[**Logos By Nick**](https://www.youtube.com/c/logosbynick) \
+Content about: Inkscape, Gimp \
+Featured playlists: `Inkscape Beginner Tutorials`, `GIMP Tutorials`, `Inkscape Typeface Tutorials`, `Inkscape Logo Design Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNoBbN8dcRvQmBgN4oTSZVTnb-KDu41GJWStY-=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MohamedAchraf)
+
+[**Mohamed Achraf**](https://www.youtube.com/c/MohamedAchraf) \
+Content about: Adobe Illustrator \
+Featured playlists: `The Logo Design Process`, `Adobe Illustrator Tips & Tricks`, `Character Designs`, `Illustrator Speedarts`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sYiP1NizwJGYbr_zZ1mOOXJeFk3ffhiclJgj4XmQox1WGWt62Wwh_jCMlcDhylKYmREEDfjqiw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
+
+[**CharliMarieTV**](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) \
+Content about: web, graphic design \
+Featured playlists: `Design careers`, `Workflow`, `Design chat`, `Freelancing as a designer`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTk233iPUrYYjd_Vs9j602bTjV7rLe0IAyvrJRe=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/YesImaDesigner)
+
+[**Yes I'm a Designer**](https://www.youtube.com/c/YesImaDesigner) \
+Content about: Design principles, Design tools tutorials \
+Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutorials`, `Photoshop CC`. \
+<br />
+
+[🔼 Back to the top](#contents)
+
+## Audio and Video
+
+Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzaWbDjViF6gjYUtZnSaPf7EAqhxo-UX_5vuXaRDQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Obedia)
+
+[**OBEDIA**](https://www.youtube.com/c/Obedia) \
+Content about: Audio, Hardware \
+Featured playlists: `PreSonus Studio One Tutorials`, `Cubase Tutorials`, `Ableton Tutorials by OBEDIA`, `Cakewalk Sonar Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJycV557ukLUO4022GP-8xFrGWBUjoj0PnUhQwuHRw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/BlackMixture)
+
+[**Black Mixture**](https://www.youtube.com/c/BlackMixture) \
+Content about: After Effects, Animation \
+Featured playlists: `SPEEDPAINT ANIMATION`, `Motion Design`, `After Effects Tutorials`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw1EJaU6c5-oLxVdCO91mNBSM0CaflC7YaVlbH67g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/avnishparker)
+
+[**Avnish Parker**](https://www.youtube.com/user/avnishparker) \
+Content about: Animation, Design \
+Featured playlists: `After Effects Tutorials`, `Text Animation - After Effects Tutorials`, `Logo Intro - After Effects Tutorials`, `Motion Graphics - After Effects Tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/LJN2pAzpawmDUHdviNP75i7rjbBAz8IkvyXu1YUND-_bvjAHFxyS0RDklDE4PBG5PaKq5TZcSA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DenyKingYoutube)
+
+[**Deny King**](https://www.youtube.com/c/DenyKingYoutube) \
+Content about: Video, Photos \
+Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/photo editing videos`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ewXcoWsc-CNvalYafQyR6X-f2BOg5t99m9oLH9m2Kf96dx7KbLQGKzBEPt-NYtIR0DVa0hM2yA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/AndrewPPrice)
+
+[**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) \
+Content about: Blender, 3D modeling \
+Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@grabbitt)
+
+[**Grant Abbitt**](https://www.youtube.com/@grabbitt) \
+Content about: 3D modeling, Reptology, Blender \
+Featured playlists: `Learn sculpting in blender 2.8`, `Blender 2.8 for beginners full course`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlxDpTb7dFWyQpXiPqWxGQ0WWWyA5GNwf72ru1=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CGFastTrack)
+
+[**CG Fast Track**](https://www.youtube.com/c/CGFastTrack) \
+Content about: Blender, 3D modeling \
+Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJUS0B38G8QpJm-h4PDd3wtrYFuSup0a3ZqD_a8uLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CGGeek)
+
+[**CG Geek**](https://www.youtube.com/@CGGeek) \
+Content about: Animation, Blender, 3D modeling, Visual Effects \
+Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GDFo9QnOEGgdZgZDigkzViI5dvGfD60c-wLSpVrpDfcooQDwLm1axE0UoZPmqTKYVOCXXCwL=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
+
+[**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) \
+Content about: Video, Photos \
+Featured playlists: `Shading with nodes`.`Making looping animations with Blender in Eevee engine` \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/xbMb6PA5YkD_j1fo-i1xm0CrSfucSEKrgM59fy8hz8fRdv8Nht40k0BXh4W3dKWiiBatFrMMfW4=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@marcevanstein)
+
+[**Marc Evanstein / music․py**](https://www.youtube.com/@marcevanstein) \
+Content about: Music theory, Music libraries \
+Featured playlists: `SCAMP Tutorial`, `SCAMP`, `Video Essays` \
+<br />
+
+[🔼 Back to the top](#contents)
+
+## Life Skills
 
 Your professional side can be reinforced while watching these tutorials. It's important to know how to manage you money and keep track of it, as well as tips to get the job you want or start one by yourself. Find also coding/design/tech companies interview methods.
 
