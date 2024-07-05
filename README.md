@@ -1389,6 +1389,13 @@ Content about: Video, Photos \
 Featured playlists: `Shading with nodes`.`Making looping animations with Blender in Eevee engine` \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/xbMb6PA5YkD_j1fo-i1xm0CrSfucSEKrgM59fy8hz8fRdv8Nht40k0BXh4W3dKWiiBatFrMMfW4=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@marcevanstein)
+
+[**Marc Evanstein / music․py**](https://www.youtube.com/@marcevanstein) \
+Content about: Music theory, Music libraries \
+Featured playlists: `SCAMP Tutorial`, `SCAMP`, `Video Essays` \
+<br />
+
 [🔼 Back to the top](#contents)
 
 ## Hardware
