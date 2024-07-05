@@ -1382,7 +1382,7 @@ Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
 Content about: Animation, Blender, 3D modeling, Visual Effects \
 Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GDFo9QnOEGgdZgZDigkzViI5dvGfD60c-wLSpVrpDfcooQDwLm1axE0UoZPmqTKYVOCXXCwL=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GDFo9QnOEGgdZgZDigkzViI5dvGfD60c-wLSpVrpDfcooQDwLm1axE0UoZPmqTKYVOCXXCwL=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
 
 [**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) \
 Content about: Video, Photos \
