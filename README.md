@@ -1000,7 +1000,8 @@ Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java
 
 [**Freya Holmér**](https://www.youtube.com/@acegikmo) \
 Content about: Math & Game Development \
-Featured playlists: `Math For Game Devs (2020)`, `Visual Explanations`, `Math For Game Devs (2022)`.
+Featured playlists: `Math For Game Devs (2020)`, `Visual Explanations`, `Math For Game Devs (2022)`. \
+<br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_lUHZo6xn80BzbeDfyGhYdVCEQwPNtsHDGJ4irZmEwfsQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeParade)
 
