@@ -38,7 +38,7 @@ Featured playlists: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Publi
 
 **Only edit the words that are in ALL UPPER CASE. Leave all the other things as they are. Considerations below.**
 
-- If the "Featured playlists" section is shorter than 124 characters, add a `\` symbol and a `<br/>` tag on the line below. Otherwise, don't do it.
+- If the "Featured playlists" section is shorter than 124 characters, add a `\` symbol and a `<br/>` tag on the line below. Otherwise, don't do it. This is an important field as people can find more easily the related videos of the channel.
 - Pay attention to all the other characters: dots, commas, asterisks, etc.
 - Before making the pull request, make sure the layout looks good.
 
