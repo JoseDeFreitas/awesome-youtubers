@@ -335,7 +335,7 @@ Featured playlists: `J-Fall`, `J-Spring`. \
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/1MRzhZCghlVOowCD2pVXMvG1yoCyzAI5qx1QQjkb5sb5Bat3fxANdh08BzzTOdgAAXdl3IFbZg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@dhanushnehru)
 
-[**Dhanush Nehru**](https://www.youtube.com/@dhanushnehru) \
+[**The Curious Guy**](https://www.youtube.com/@dhanushnehru) \
 Content about: All things related to Programming, Hacking, Linux and much more \
 Featured playlists: `Tech & Coding` \
 <br/>
