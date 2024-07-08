@@ -1153,7 +1153,7 @@ Get awesome playlists and videos about both software and hardware to know how do
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
 
-[**Net VN**](https://www.youtube.com/c/NetVNbuitronghieu) \
+[**Net VN**](https://www.youtube.com/c/NETVN82) \
 Content about: Internet, Networking, Command line, Hardware \
 Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`.
 
