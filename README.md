@@ -255,7 +255,7 @@ Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Cod
 Content about: C#, WPF, .NET \
 Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sAvt3zvb53KUMYdYm14VwwOdE2EMb2PG-QretwHxQFMnnnutkdKHzVk6PIU-6FXf3DZZ1I75QQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/CRCmiWMXJlzr7GHtAQoXymb3rjKFGNSQfqz6Xf0sJ6SC2DiRgIscNJ7bkqeVfbK4kbb_aynb=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
 
 [**Alex Gutjahr | Tech Tutorials**](https://www.youtube.com/c/alexgutjahr) \
 Content about: Spring Boot, Kotlin \
@@ -793,7 +793,7 @@ Featured playlists: `NLP for Developers`, `Developing Contextual AI assistants w
 Content about: NLP, Machine learning, Deep learning, Theoretical \
 Featured playlists: `Natural Language Processing`, `General Machine Learning`, `Deep Learning Architectures`, `Computer Vision`, `Applications of Machine Learning`, `more!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz6fHHMIRnCsE_4aRMTScsggskYwEFkuOWryZPi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/UqT_vCkJIn1P2fH1pchr6lbe3xeEekY61h4bUpJkVuityqKOEtUYcNy3pLiJ5OKdj4uKA81FWE8=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
 
 [**OpenAI**](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A) \
 Content about: NLP, Machine learning, AI \
@@ -1377,7 +1377,7 @@ Featured playlists: `Electronics for Beginners`, `All about bateries`, `Passive 
 Content about: Electronics, Systems, Theoretical classes \
 Featured playlists: `Control Systems`, `Electromagnetic Field Theory`, `Digital System Design/Digital logic design`, `Circuit Theory/Network Theory`, `Transmission Lines and Waveguides`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/wBg1vI5LbXh1UcL54BfVfeghA1qqB2CRMvOWT8HuOgmuhEIZvXy11xGozFqtIdz_1cbX38Wgkw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rossmanngroup)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vZ7VA73svzSGV75jdhRH6XOOokQc0c5pK3xAWsYKuaHU-i6zmrjO2JEuZs6vN-3MmEMM563p7vw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rossmanngroup)
 
 [**Louis Rossmann**](https://www.youtube.com/@rossmanngroup) \
 Content about: Devices, Repair tutorials \
@@ -1528,7 +1528,7 @@ Featured playlists: `PROCREATE TUTORIALS`, `DIGITAL ART TUTORIALS`, `Digital Dra
 Content about: All design, Illustrations, Web design \
 Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and video manipulation playlists`, `Figma videos`, `Learn Photo Effects`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vnQYDSGtKFu7LenJX864ylaHIDJZlQm33FU7KQnRfKW4slSo77nV0JwkmEXYhUFwtUxMwq5W=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/logosbynick)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/U-tExJBlj76TiptkigPzhFUANYGSguL2glMdd3z_cvcG8aw6sB7gNpxl12UD-a_wl3u1L4jmdg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/logosbynick)
 
 [**Logos By Nick**](https://www.youtube.com/c/logosbynick) \
 Content about: Inkscape, Gimp \
