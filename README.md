@@ -333,7 +333,7 @@ Content about: All things related to Java from the Dutch Java User Group \
 Featured playlists: `J-Fall`, `J-Spring`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/1MRzhZCghlVOowCD2pVXMvG1yoCyzAI5qx1QQjkb5sb5Bat3fxANdh08BzzTOdgAAXdl3IFbZg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@dhanushnehru)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/1YPGrioQ5WToSYFRq47XhqxEjJ8bJqXcczqiDuJ9J_RyPLG0zZHOxcfebT7Np9Zw29W0_2FP=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@dhanushnehru)
 
 [**The Curious Guy**](https://www.youtube.com/@dhanushnehru) \
 Content about: All things related to Programming, Hacking, Linux and much more \
@@ -551,7 +551,7 @@ Featured playlists: `Vue.js crash course`, `React.js crash course`, `Semantic UI
 Content about: CSS, HTML, JavaScript \
 Featured playlists: `JavaScript Game Development Masterclass 2023`, `Particle Effects Masterclass`, `CSS3 Experiments`, `Game Development with Vanilla JavaScript`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/v2XEQ_UHgHjH04ZwIT6kKhrmrcRU5ojVMX1HL5HdgpabX2p95_rDewIHGc3ZkjRFbxTcgYs3bg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TheAlexLichter)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sQgLt7frgoIxlyHUhaT3pgYPMRLpsSM1XW6deV7rfblfdmh8ZlfAo4LnVQRtSHtU0k2J6KJs=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TheAlexLichter)
 
 [**TheAlexLichter**](https://www.youtube.com/@TheAlexLichter) \
 Content about: Nuxt, Vue, TypeScript \
@@ -580,7 +580,7 @@ Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message
 Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
 Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@dreamsofcode)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/8QID_fIK7Yx3XCead0shxVj9Bz0DruEn6dy8RUY98JPHyi0CjPzSYEq_3tID8cXmk9A_DK53=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@dreamsofcode)
 
 [**Dreams of Code**](https://www.youtube.com/@dreamsofcode) \
 Content about: Productivity tools \
@@ -844,7 +844,7 @@ Content about: DevOps, Docker, Kubernetes, Ansible \
 Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/0YP74Y3JRONGGT-ceUZicHmukEFthR0VvUM0rFFEjUIIr2-EUp8ZZoixMh6l7bbcA0oh4Wpamg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/jacVCU83XOS1K9ccASMnuesaaMyY33kWJm1_3TZ7ZsUsG1zJFq-j7pa1cg125_Z9yIlMjNzL=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
 [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) \
 Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
@@ -1017,7 +1017,7 @@ Content about: Game Graphics, Shaders, Rays \
 Featured playlists: `Shader Coding`, `Fractals`, `Ray Marching`, `Unity Tutorials`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/r2h5eKhcZqWe84ySDJ5DNPnduRJYvjJwXiFba9y-7zawoH6FQKrrVLGphqpoKpNPsJYgxV5S2A=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Gdconf)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/WorLpefw5Z5z8olLP763eKUqF90fZuVvhNitJRwJQJ0BeNiJapvsrTahX6rwWHmgjrs1IYNVnWc=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Gdconf)
 
 [**GDC**](https://www.youtube.com/@Gdconf) \
 Content about: Conferences about inner functionality of top videogames \
@@ -1403,7 +1403,7 @@ Content about: Data Structures and Algorithms, Dynamic Programming, Leetcode \
 Featured playlists: `Dynamic Programming`, `Graph Algorithms`, `Binary Tree`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/rsKAERVEXNTq6lbdIHUlm3aVAw4R2D1fPkDz-7sPccu9qwic5EYfSe6VI7tNB5-_r0Ip5_P0=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GauravSensei)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/RQYGoG6D38H4nOsugUyRdhE8Xj7kpQ9QPF3Y_jsU8v5AmBd64vtLQPaQzgubRdDBteOqOhgk=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GauravSensei)
 
 [**Gaurav Sen**](https://www.youtube.com/c/GauravSensei) \
 Content about: System Design, Data Structures & Algorithms \
