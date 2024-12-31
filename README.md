@@ -1030,6 +1030,13 @@ Content about: Meta Game Development \
 Featured playlists: `Game Engine Programminmg`, `A Programming Language for Games`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mFzhaZxBZ1bMQQPAyr2RrStM021SI2dby30-kwRQwn6C0=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@InfernalDevice)
+
+[**Infernal Device**](https://www.youtube.com/@InfernalDevice) \
+Content about: Minecraft commands, Minecraft datapacks \
+Featured playlists: `[Adventure Map Building]`, `[Minecraft 1.21 Datapack]`. \
+<br />
+
 [🔼 Back to the top](#contents)
 
 ## Mobile Development
