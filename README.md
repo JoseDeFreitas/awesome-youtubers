@@ -49,6 +49,13 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 
 In this section you can find any programming language. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical or theoretical tutorials.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/Y6jut5A-dhWRlv7W81kGxVFPtZGjZN97IhBP75uLnx2AVV7ZEJUUUxBKHlFw9GcwILxkz1E_cLc=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@t3dotgg)
+
+[**Theo - t3․gg**](https://www.youtube.com/@t3dotgg) \
+Content about: JavaScript Frameworks, Coding Tools and Technologies  \
+Featured playlists: N/A \
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwEFEH0os2PjNYXfjC2tlO-VU5sSsB3rX6DOeFh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Techsithtube)
 
 [**techsith**](https://www.youtube.com/c/Techsithtube) \
