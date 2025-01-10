@@ -346,6 +346,13 @@ Featured playlists: `Tech & Coding` \
 Content about: Linux, Assembly, Encryption \
 Featured playlists: `Linux x64 Assembly`, `AES Encryption`, `x64 Assembly Multithreading`, `CUDA Tutorials`, `C++ Tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/Y6jut5A-dhWRlv7W81kGxVFPtZGjZN97IhBP75uLnx2AVV7ZEJUUUxBKHlFw9GcwILxkz1E_cLc=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@t3dotgg)
+
+[**Theo - t3․gg**](https://www.youtube.com/@t3dotgg) \
+Content about: JavaScript Frameworks, Coding Tools and Technologies  \
+Featured playlists: N/A \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web Development
