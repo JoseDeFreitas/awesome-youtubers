@@ -1689,8 +1689,6 @@ Featured playlists: `Freelancing tips`, `LinkFree Videos`, `Git must know comman
 <details>
 	<summary>Credits</summary>
 	<sub>Note that <strong>this is not</strong> a promotional list of any kind.</sub>
-	<br />
 	<sub>The list style is heavily inspired by <a href="https://github.com/mhxion/awesome-discord-communities">awesome-discord-communities</a>, created by <a href="https://github.com/mhxion">mhxion</a>.
-	<br />
 	The <a href="/logo.svg">awesome-youtubers logo</a> is inspired by the <a href="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg">awesome logo</a> and the <a href="https://github.com/sindresorhus/awesome-nodejs/blob/main/media/logo.svg">awesome-nodejs logo</a>. The two play icons were created following the play button of the <a href="https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q">YouTube logo</a>. It's just a representation, I'm not using the YouTube logo itself.</sub>
 </details>
