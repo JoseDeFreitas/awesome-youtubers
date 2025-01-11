@@ -276,7 +276,7 @@ Content about: Programming best practices \
 Featured playlists: N/A \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeAesthetic)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Telusko)
 
 [**Telusko**](https://www.youtube.com/@Telusko) \
 Content about: Java, Spring Boot, Python, Data Structures \
@@ -838,7 +838,7 @@ DevOps is combination of software **dev**elopment and IT **op**eration**s**. The
 Content about: GitOps, Continuous Integration, Continuous Delivery, IaC, Kubernetes, Docker \
 Featured playlists: `DevOps Concepts explained`, `Infrastructure as Code (IaC) Tutorials`, `DevOps Bootcamp`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/9WbSAVETaM2sRQQT1fDcA6OyeXbuC9zMMucWNxbVgPvM_pLIeB9UA86OA2z8euPOcdTMZS5I=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KodeKloud)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/_pHLjGmYVp9Qv6r57IhDnEsej2tgpxSyBzD8kUUvDetLLPLGSkDlh77JLxtchccZhBwG8iqq=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KodeKloud)
 
 [**KodeKloud**](https://www.youtube.com/c/KodeKloud) \
 Content about: Kubernetes, Docker, Terraform \
@@ -1147,7 +1147,7 @@ Content about: Privacy and security tutorials and reviews \
 Featured playlists: `Go Incognito: A Guide to Security, Privacy, & Anonymity`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/SXcaVQ_-PaxsDQwPmu2AUVC_sVTNLbheQSczTNHf_dc9vNjBcfd12gtz9AAsVciKsqanPR4Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@OpenSecurityTraining)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/_LNJf4dXJKY2pfsOEel1cu3SOs0ubJ9_pOpJYaZ3sgQB-pFXoADaqOW-sFDBcc_vmFLtxANL=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@OpenSecurityTraining)
 
 [**OpenSecurityTraining2**](https://www.youtube.com/@OpenSecurityTraining) \
 Content about: Malware identification, Exploits, Reverse engineering \
@@ -1391,7 +1391,7 @@ Featured playlists: `Electronics for Beginners`, `All about bateries`, `Passive 
 Content about: Electronics, Systems, Theoretical classes \
 Featured playlists: `Control Systems`, `Electromagnetic Field Theory`, `Digital System Design/Digital logic design`, `Circuit Theory/Network Theory`, `Transmission Lines and Waveguides`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vZ7VA73svzSGV75jdhRH6XOOokQc0c5pK3xAWsYKuaHU-i6zmrjO2JEuZs6vN-3MmEMM563p7vw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rossmanngroup)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/unMMiDpcM4QqW_bdnLMDqiWUgw_h3F0ff4deNFn5d05z5JcC_-ngIFHLtHb1iP5HYVepUKq7=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rossmanngroup)
 
 [**Louis Rossmann**](https://www.youtube.com/@rossmanngroup) \
 Content about: Devices, Repair tutorials \
@@ -1530,7 +1530,7 @@ Content about: Gimp, Inkscape, Adobe Illustrator \
 Featured playlists: `Gimp Photo Manipulation`, `Inkscape playlist`, `Adobe Illustrator videos`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ls56op2UiRpg-Q-QVQaCEoNRVlf4AqmbHH9h3fnMXUsodnWLw4Pi91Pypyb7BCy4g_FV-A_t=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArtwithFlo)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/zz_-ZV8B5YaoYg0IDoC0h_kNR0WaAHFJB62hpz-ZIxjRb2IbxM0f0UXbKUDrbmyB44JaySgkAA=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArtwithFlo)
 
 [**Art with Flo**](https://www.youtube.com/c/ArtwithFlo) \
 Content about: Procreate, Ipad/tablet drawing \
@@ -1652,7 +1652,7 @@ Your professional side can be reinforced while watching these tutorials. It's im
 Content about: Job searching, General skills, Life tips \
 Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ZYHolG3S67tsYjArc69qMwS3unwsdQw2UMYQWpJX1OlObD6XEj-r_vebPGu6VfB8pRPjdnAn=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/Tdu9TASFCf9VnGD7NV15gVpQkxV9uT8dSjhl-79Oudbw_L3zlKyLEoCrqGuBh6aAhuaTnWleRg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
 
 [**Engineering with Utsav**](https://www.youtube.com/@EngineeringwithUtsav) \
 Content about: Career, Productivity, Software engineering, Life tips \
