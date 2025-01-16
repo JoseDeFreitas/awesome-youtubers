@@ -1417,7 +1417,7 @@ Content about: System Design, Data Structures & Algorithms \
 Featured playlists: `System Design`, `Competitive Programming A-Z`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/efrVnDJbJOQ5XcXrrFhA9V2wTXh6gP_i0KycoYjqhN3nEh6VbCgqMQakAcFqEsguw7wxhHEjnA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ByteByteGo)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ByteByteGo)
 
 [**ByteByteGo**](https://www.youtube.com/c/ByteByteGo) \
 Content about: Large scale system design \
@@ -1444,7 +1444,7 @@ Content about: Leetcode, Codeforces \
 Featured playlists: `Codeforces Problems`, `Leetcode Coding Interview Problems`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/FqiGBOsNpeWbNw20ULboW0jy88JdpqFO9a-YRJ0C2oc4lZ8uoHYJ38PWSkrjdC_zQgNW9pGU=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NeetCode)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/9upX2EgqFhcGT3eeW-gPNHuAs5qMh66ULqXsCRHIHN7GkhPS_U3v78zXHbH7-fdrTWyQp90I=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NeetCode)
 
 [**NeetCode**](https://www.youtube.com/c/NeetCode) \
 Content about: Leetcode, Coding Interview \
