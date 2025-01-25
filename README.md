@@ -255,7 +255,7 @@ Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Cod
 Content about: C#, WPF, .NET \
 Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/CRCmiWMXJlzr7GHtAQoXymb3rjKFGNSQfqz6Xf0sJ6SC2DiRgIscNJ7bkqeVfbK4kbb_aynb=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/5Zj7dLWFYKnGWqCTYtO3NbmJuJKijfeUnGVI967ZQq1DR2vSy6RPApgtxamzy91u5Kjl69gP2qE=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/alexgutjahr)
 
 [**Alex Gutjahr | Tech Tutorials**](https://www.youtube.com/c/alexgutjahr) \
 Content about: Spring Boot, Kotlin \
@@ -288,14 +288,14 @@ Featured playlists: `Java Tutorial For beginners`, `Data Structures and Algorith
 Content about: Golang \
 Featured playlists: `Distributed CAS Storage In Golang`, `Crypto exchange from scratch in Golang`, `Actor engine in Golang (Hollywood)`. \
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/cZljVId4IP-aLqPRcHrhh0XrZERakcfUkYZQs0nh8e71evPy3IZEuvcl9YZLaAENAevkq9On=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TsodingDaily)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sVrBLZ9iy76XIN5eSdlLqLVQsy60VaQ_YD_Vvu1tTyRIw5Yk9OZK2ZoKhiZh4svRMzm6OZ_M=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TsodingDaily)
 
 [**Tsoding Daily**](https://www.youtube.com/@TsodingDaily) \
 Content about: C, Rust, OCaml, Python, Algorithms, Data Structure \
 Featured playlists: `Machine Learning in C`, `Search Engine in Rust`, `Music Visualizer in C`, `Raylib.js`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/zLf1KTfDN7Y47v0eKL3bHUBCsx_stBfskO3ahJDl-bGAZ6H4XB0lWuV9r__arbTA36g5u_q6lAY=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/6PX1a15kVh5GP-VenJha4diDKlSMu1JdIwsyWx97u56Uy8Y913rig7-q6SALxGvRDoZdhscFHA=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
 
 [**Devoxx**](https://www.youtube.com/@DevoxxForever) \
 Content about: Devoxx is a series of tech events organised by local community groups \
@@ -832,7 +832,7 @@ Featured playlists: `Python Programming for Finance`, `Machine Learning with Pyt
 
 DevOps is combination of software **dev**elopment and IT **op**eration**s**. The topics may include Docker, Kubernetes, System Design, Kafka, Ansible, Cassandra, Zookeeper, Hadoop, Cloud (AWS, GCP, Azure) etc.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/kXyR8Aa32KXnZWVdkAFUYK5utM752kSJPHGtYiJ4ev6BmdFHi-dl1EFbI3TogmHBjszwc7m2=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWorldwithNana)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ZAuMKdMcyV3mhX857oCGWzQAQ4AqZhiDIO76MTC_DqckrujSNg5Mh2AQh6ngWYv7bzfu7TBoj24=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWorldwithNana)
 
 [**TechWorld with Nana**](https://www.youtube.com/c/TechWorldwithNana) \
 Content about: GitOps, Continuous Integration, Continuous Delivery, IaC, Kubernetes, Docker \
@@ -885,7 +885,7 @@ Content about: Software Architecture & Design, Messaging, CQRS, Event Sourcing a
 Featured playlists: `Architecture`, `Software Design`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/gw8D7HShOaffiUyIpOFg_rOLqVH4xsi-2X34U7bRc5gu0Zl83iKDwcntGH6bxvS9lJWsJLPQ=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@AntonPutra)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/Uke6wNNttpMYbAaK9oCPGTtQuY8dWW3T_6DAiwXpA7LGSvEeunmNSBF0urBoXMaz1uWIPbN4=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@AntonPutra)
 
 [**Anton Putra**](https://www.youtube.com/@AntonPutra) \
 Content about: High-Quality DevOps Tutorials \
@@ -1307,7 +1307,7 @@ Featured playlists: `PC Building`, `GPU`, `Custom Builds`. \
 Content about: Arduino \
 Featured playlists: `Arduino Tutorials for Beginners`, `Raspberry Pi Tutorials for Beginners`, `a lot more Arduino tutorials/projects videos!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/XLvDKb0nskFt02mKB8b9BxJak2O9xgutVgY2ijxkwNKPeGjYKIPF7vcI7okv_J1nwJFSvUGbYQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
 
 [**GreatScott!**](https://www.youtube.com/user/greatscottlab) \
 Content about: Raspberry Pi, 3D Printing, Electronics \
@@ -1341,7 +1341,7 @@ Featured playlists: `Single Board Computer Reviews`, `Gaming on SBCs`, `many mor
 Content about: Server Hardware, Networking and other hardware for the professional \
 Featured playlists: `About Servers`, `Fanless`, `Mini PC`, `Workstations`, `Current Events`, `Storage`, `Server Processors`, `Networking`, `Cool server hardware`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/4toKBJKPsAfwxy2xfr_EQJ7CuHpLvZa4eux6T2TAf8EU25uH_G9gbUA9djqaCrTjkIESnPjzww=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BranchEducation)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/3NA84SrZjBn4mqokZwGCNLeqAldLRdGZihlfXcTg_thd20VxdXvE69aswDmEOydcEitGC2DEQlY=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BranchEducation)
 
 [**Branch Education**](https://www.youtube.com/@BranchEducation) \
 Content about: All technological devices internal working \
@@ -1633,7 +1633,7 @@ Content about: Video, Photos \
 Featured playlists: `Shading with nodes`.`Making looping animations with Blender in Eevee engine` \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/xbMb6PA5YkD_j1fo-i1xm0CrSfucSEKrgM59fy8hz8fRdv8Nht40k0BXh4W3dKWiiBatFrMMfW4=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@marcevanstein)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/BuasRsii8lSvqTuwH9qlolhSbVvJ5Zo-uqMTEN3pcZoxXYVwf_BaRCMDVHQoAgmTbwjKLbBJqA=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@marcevanstein)
 
 [**Marc Evanstein / music․py**](https://www.youtube.com/@marcevanstein) \
 Content about: Music theory, Music libraries \
