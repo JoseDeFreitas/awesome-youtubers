@@ -166,7 +166,7 @@ Featured playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.
 Content about: Data science, Python, R, Practical & theoretical \
 Featured playlists: `Python for Data Analysis`, `Introduction to R`, `Python Programming Practice`, `Pandas`, `more playlists!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/AqqsRvRW2gJdF1zSQdTpo1_SF-hl_XLvgAFfS4wnABzf8ZjOXCTJSu8aG2tjwBxWGjMuUUIxuFY=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GiraffeAcademy/)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/3WVwonnunDnMQUByINLJFWvegN5LO_l6bAaNp74XiyTgsTYwu_aWw5KWcopp5KBA9y66Afxb=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GiraffeAcademy/)
 
 [**Giraffe Academy**](https://www.youtube.com/c/GiraffeAcademy/) \
 Content about: MongoDB, SQL, C#, C++ \
@@ -1451,7 +1451,7 @@ Content about: Leetcode, Coding Interview \
 Featured playlists: `LeetCode East`, `LeetCode Medium`, `LeetCode Hard`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/nJZ_GcVB5zWL5Z526_vwiEeT7vdKqWjzLxKQdeHaXnoWbzOAIJzI7a5i0mVvLHjkt3TJK3oifg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KevinNaughtonJr)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/3ac2RIgWLptzz4P8-P2uKrZ-AdtbecGPbjWuNpPwvB_rih1TxI_2PxIVXFhWCmCpFpSWcOIfcMs=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KevinNaughtonJr)
 
 [**Kevin Naughton Jr.**](https://www.youtube.com/c/KevinNaughtonJr) \
 Content about: Leetcode, Coding Interview \
