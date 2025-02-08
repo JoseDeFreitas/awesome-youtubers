@@ -1140,7 +1140,7 @@ Content about: Privacy guides, bitcoin \
 Featured playlists: `Privacy guides`, `Bitcoin series`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/lwHqZYuTM3v0oBB_RevOFbD_cHL7AWUfYID_iv8trv6_4u4r7Go_t4qFJplYiJNQVC-14Tb8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Techlore)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/SQa_VJ5vkQsZcWrg8-XamPyDGKfqPYcv2xflPTbxhYu_NWO1_Hpef35VsGEEm-PierkS25mjkNs=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Techlore)
 
 [**Techlore**](https://www.youtube.com/c/Techlore) \
 Content about: Privacy and security tutorials and reviews \
