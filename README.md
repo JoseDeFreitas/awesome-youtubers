@@ -1003,7 +1003,7 @@ Content about: C++, Game development \
 Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/fRuGUY-F28mPwio41AQwnvnikF2Yy3oFOWoBxK9Xlpri2QhGgCUmy3XoAkJgEGeBdNLaen6SkGo=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@acegikmo)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/AHB_DOnLYaB2c1dGXjtAUaM9h8ReaGWlJ3Wg_dI8gCXzBT8h0hP_3H-ZSkSHTFsDF7KA108MnV0=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@acegikmo)
 
 [**Freya Holmér**](https://www.youtube.com/@acegikmo) \
 Content about: Math & Game Development \
@@ -1050,7 +1050,7 @@ Featured playlists: `[Adventure Map Building]`, `[Minecraft 1.21 Datapack]`. \
 
 In this section, you can learn how to build mobile applications from scratch that face consumers. Learn how to follow industry best practices. Learn Kotlin or Swift for native development in Android/iOS or learn technologies such as React Native and Flutter for cross-platform mobile development.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/mhup7lzHh_c9b55z0edX65ReN9iJmTF2JU7vMGER9LTOora-NnXtvZdtn_vJmTvW6-y97z0Y=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PhilippLackner)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/X451Wa5BOIVB5Bn_nFM1eAMSQVAryjtUpgDdwW9FgbVmQziARk3g4ig6oz0owjcnnzrsb2xf4kI=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PhilippLackner)
 
 [**Philipp Lackner**](https://www.youtube.com/c/PhilippLackner) \
 Content about: Android, Kotlin, Jetpack Compose \
