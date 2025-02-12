@@ -1458,7 +1458,7 @@ Content about: Leetcode, Coding Interview \
 Featured playlists: `Technical Interview Questions`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/MWCIzDNJJrk7mU5kV2V9EnyaKXVPn5en7uyX589c2Bu1iizhHY4h1ih02JZJ1cv8KCM8uY8g4OQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NickWhite)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/C7Y9kuDo7cyZ2en-sI4d6W_berH2SX9QDO5mGDHgsVD1byW_KndjbSbMyEt8VPIb2mJW1dDRTw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NickWhite)
 
 [**Nick White**](https://www.youtube.com/c/NickWhite) \
 Content about: Leetcode, HackerRank, Coding Interview \
