@@ -1294,7 +1294,7 @@ Content about: All hardware \
 Featured playlists: `Hardware News`, `PC Case Reviews`, `Pre-Built Gaming PC Reviews`, `many more`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/JWC97n97fCcVa6uMCAC_XlKjo91rssPzawguIrehF9P3O3eWL70JXhLeuSa1uwShcEgTh7YjxQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Jayztwocents)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Jayztwocents)
 
 [**JayzTwoCents**](https://www.youtube.com/c/Jayztwocents) \
 Content about: All hardware \
