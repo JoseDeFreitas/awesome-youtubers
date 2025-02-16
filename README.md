@@ -1472,7 +1472,7 @@ Content about: Code Chef, Codeforces \
 Featured playlists: `Codeforces Screencasts`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/1uVY5t7YBg_N-hrqBA5teFdz87Y3EU-J13Zrl10qsc_u0JfFML6cKNmYV2mzovJF9lXxrSNHwQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/WilliamFiset-videos)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/il-ku5OSiYfNwmek32rA1yClxJHWaUP7RtsuyL1CXrp9MDghdh2Mk-NqVGWz85FjuAn6CVKTEes=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/WilliamFiset-videos)
 
 [**WilliamFiset**](https://www.youtube.com/c/WilliamFiset-videos) \
 Content about: Algoritms, Data structures \
