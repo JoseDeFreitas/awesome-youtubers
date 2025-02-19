@@ -269,7 +269,7 @@ Content about: Python, Software Design \
 Featured playlists: `Software Design in Python`, `Code Roasts`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/n5SlI5Ps1SWnuI58faTPSb2HvFKO9nZJ34ztRxRa8V-gl5KyP97oI1A5YnlkRGD_BTUThREfJw=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@CodeAesthetic)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/fKq1-wK3gkERFz9MH5bEvF73k9NUORswE2wxQ6YkCWzY7yMyYvRleubgUt_a8B8tpIyh_KGX=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeAesthetic)
 
 [**CodeAesthetic**](https://www.youtube.com/@CodeAesthetic) \
 Content about: Programming best practices \
