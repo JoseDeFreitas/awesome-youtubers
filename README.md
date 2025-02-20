@@ -800,7 +800,7 @@ Featured playlists: `NLP for Developers`, `Developing Contextual AI assistants w
 Content about: NLP, Machine learning, Deep learning, Theoretical \
 Featured playlists: `Natural Language Processing`, `General Machine Learning`, `Deep Learning Architectures`, `Computer Vision`, `Applications of Machine Learning`, `more!`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/UqT_vCkJIn1P2fH1pchr6lbe3xeEekY61h4bUpJkVuityqKOEtUYcNy3pLiJ5OKdj4uKA81FWE8=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/MopgmVAFV9BqlzOJ-UINtmutvEPcNe5IbKMmP_4vZZo3vnJXcZGtybUBsXaEVxkmxKyGqX9R=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
 
 [**OpenAI**](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A) \
 Content about: NLP, Machine learning, AI \
