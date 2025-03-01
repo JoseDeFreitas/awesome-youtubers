@@ -282,7 +282,7 @@ Featured playlists: N/A \
 Content about: Java, Spring Boot, Python, Data Structures \
 Featured playlists: `Java Tutorial For beginners`, `Data Structures and Algorithm`, `Microservice Tutorial using Java`, `Python for Beginners (Full Course) | Programming Tutorial`. \
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ADjysY-26b3e9qAyq70nv-96mS5s04PKW2G8BPHAYaGWncpLHNYH_7sG0JuZPBu0NuMlon3p=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@anthonygg_)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/StTLNWl8jXh6y9jxu4UfFP-CYDdWveiHpMip2t5kgO9ayL5Blc91jpOUk6fC92CMqa3ml4Db1w=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@anthonygg_)
 
 [**Anthony GG**](https://www.youtube.com/@anthonygg_) \
 Content about: Golang \
@@ -302,13 +302,13 @@ Content about: Devoxx is a series of tech events organised by local community gr
 Featured playlists: `Devoxx UK`, `Devoxx Belgium`, `Devoxx Poland`, `Devoxx France`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/15f6kwUPI9bd1AspUFSazof5fiai0taMW4oSxl9ehOU6too0pW8lEZTgQfFOh_4m3ZO-q77TQQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ddd_eu)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/lXz745lDafPXXRpJNxmIlb_DdvSh8votXP-LtlHWDgvrDUs1ix8io_OL8BrseKaAQZzZy4Astw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ddd_eu)
 
 [**Domain-Driven Design Europe**](https://www.youtube.com/@ddd_eu) \
 Content about: Conference for senior software developers and architects interested in software design. \
 Featured playlists: `DDD Foundations`, `Eventsourcing`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GOTO-)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/DGZrs_HUrQ_FhFZluFSetLFtf2oD8o02HMfcjF6Z2IsMcxZJuZywBx0MEwsb7m8Pk4gK-yLWnw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GOTO-)
 
 [**GOTO Conferences**](https://www.youtube.com/@GOTO-) \
 Content about: Brightest minds sharing their knowledge to create a better future \
@@ -721,7 +721,7 @@ Featured playlists: `OpenGL`, `the Clojure language`, `Python playlists`, `Pigeo
 Content about: Assembly language, Hardware, Computer sciences \
 Featured playlists: `Building an 8-bit breadboard computer!`, `Network tutorial`, `Digital electronics tutorials`, `a lot of videos related`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/I5kRQcjSCh1reytT7YDGIUMpx7Po69c0A1s3dr3u694YLlFtRG-I-CahJfQ9Fc5nGYFuCi7XgfE=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MrPSolver)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/FVYUizDAzY_u7ZRKe_TZSqFmJhfmnCmdS8UOE57X3JZYz6p_1Wrf61rbPtUMPSz9jdfScGJlCaw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MrPSolver)
 
 [**Mr. P Solver**](https://www.youtube.com/@MrPSolver) \
 Content about: Python, Math, Numpy \
@@ -1255,7 +1255,7 @@ Featured playlists: `Install and overview`, `Linux How-to`. \
 Content about: Windows \
 Featured playlists: `Windows Server Beginners Tutorials`, `Managing Networking services in Windows Server`, `Managing Active Directory Infrastructure`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3aTiR8-i48HnwXZKBacKe_niYg1zmIH2BFv_OqQotxqu3eurYH64sKF2YITmj41Y1p5iPYdaLQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DistroTube/)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/QK7u57KBf5X0tTfsggUCWT1SF3hk5K1qp8vJbAvKspCbbJOQeOL7aNZ93YW1ii_Ia6EkW6sdJw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DistroTube/)
 
 [**DistroTube**](https://www.youtube.com/c/DistroTube/) \
 Content about: Linux, Emacs, CLI, Privacy in general.\
@@ -1321,7 +1321,7 @@ Content about: Raspberry Pi \
 Featured playlists: `Getting started with your Raspberry Pi`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/explainingcomputers)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/yhQrTIa3XJ_Awl6RcnIgnKF1Ifmx-mudVcIkhqnz70e94eqOwVFqbTBX99uvWKjy_oebv846Tk4=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/explainingcomputers)
 
 [**ExplainingComputers**](https://www.youtube.com/user/explainingcomputers) \
 Content about: Raspberry Pi, Electronics, Operation System \
@@ -1465,7 +1465,7 @@ Content about: Leetcode, HackerRank, Coding Interview \
 Featured playlists: `LeetCode Solution`, `HackerRank Solution`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/fSej0H2ok--_bj9NiNPw53QSJwWnsUBVJ0UhvR5h-OGaHICJg6Y7j0wUwWyTFDbHUODUJfci=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PriyanshAgarwal)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/zeuFBHzPzqFSKDhx641okiidtFsXNfwwhnn7BjKcWERaBqEsB9xyS8U1T_oJTA5YPX6OC6ILBg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PriyanshAgarwal)
 
 [**Priyansh Agarwal**](https://www.youtube.com/c/PriyanshAgarwal) \
 Content about: Code Chef, Codeforces \
@@ -1542,7 +1542,7 @@ Featured playlists: `PROCREATE TUTORIALS`, `DIGITAL ART TUTORIALS`, `Digital Dra
 Content about: All design, Illustrations, Web design \
 Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and video manipulation playlists`, `Figma videos`, `Learn Photo Effects`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/U-tExJBlj76TiptkigPzhFUANYGSguL2glMdd3z_cvcG8aw6sB7gNpxl12UD-a_wl3u1L4jmdg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/logosbynick)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/XzpasvdFi9RWvNSmLo0Cnin1ZrqtYQhFSB6sW8lCpqRgMt97ZPFHqjEIdVTwdU_Mnst8EHHDRN0=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/logosbynick)
 
 [**Logos By Nick**](https://www.youtube.com/c/logosbynick) \
 Content about: Inkscape, Gimp \
@@ -1554,7 +1554,7 @@ Featured playlists: `Inkscape Beginner Tutorials`, `GIMP Tutorials`, `Inkscape T
 Content about: Adobe Illustrator \
 Featured playlists: `The Logo Design Process`, `Adobe Illustrator Tips & Tricks`, `Character Designs`, `Illustrator Speedarts`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sYiP1NizwJGYbr_zZ1mOOXJeFk3ffhiclJgj4XmQox1WGWt62Wwh_jCMlcDhylKYmREEDfjqiw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/81uvut1NSf77K86u4yQczbAlWvVun5XAHpwPheF3cpZPCCCaHyNe4TmtDuVG_GbbyYow99evGw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
 
 [**CharliMarieTV**](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) \
 Content about: web, graphic design \
@@ -1593,14 +1593,14 @@ Featured playlists: `SPEEDPAINT ANIMATION`, `Motion Design`, `After Effects Tuto
 Content about: Animation, Design \
 Featured playlists: `After Effects Tutorials`, `Text Animation - After Effects Tutorials`, `Logo Intro - After Effects Tutorials`, `Motion Graphics - After Effects Tutorials`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/LJN2pAzpawmDUHdviNP75i7rjbBAz8IkvyXu1YUND-_bvjAHFxyS0RDklDE4PBG5PaKq5TZcSA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DenyKingYoutube)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/FjrS-9fmHvhq5l4AE_VAZyS6SF2PthnY57SYwOGW0pJoxVwKyrVXuApB8Ag70TZiUStuurtOVA=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DenyKingYoutube)
 
 [**Deny King**](https://www.youtube.com/c/DenyKingYoutube) \
 Content about: Video, Photos \
 Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/photo editing videos`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ewXcoWsc-CNvalYafQyR6X-f2BOg5t99m9oLH9m2Kf96dx7KbLQGKzBEPt-NYtIR0DVa0hM2yA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/AndrewPPrice)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/nrV5iGyKXogAz448dTak1Fohx7MBr5l3mKlpUdhiTwzpyDYa3MKoAwsmClfdH75rPEX8TLgL=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/AndrewPPrice)
 
 [**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) \
 Content about: Blender, 3D modeling \
@@ -1658,7 +1658,7 @@ Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Offic
 Content about: Career, Productivity, Software engineering, Life tips \
 Featured playlists: `Finance`, `Start ups`, `Book reviews & recommendations`, `Productivity`, `Technical interview preparation`, `Career & success`, `Software engineering`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/mjNkmL_jtTy0nEdVnjPw_xN4Bknadpv6_PkmO_B79yTr1xvyB5IVYYsklcR1PK3ez_d1AOKMPQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/hellomayuko)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/gVqlo_VAO2aypAjCR6yk1ylFa3OW8BQ24yHiZNwz-W_6TPh2AZlGdwcAqlIabnnnRAT3y8KX=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/hellomayuko)
 
 [**mayuko**](https://www.youtube.com/c/hellomayuko) \
 Content about: Job tips, Health \
@@ -1677,7 +1677,7 @@ Featured playlists: `Entrepreneurship`, `How to apply to jobs`. \
 Content about: Programming, Job Offers, Salaries, Interviewing \
 Featured playlists: `Path to Software Engineering`, `Tech Shows`, `Startup Series`, `Interviews`, `Data Science Analytics`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/O3KOrxrlnZnDEzTs2X6QKIMu6qkqBtNekrkhewYT87qC4mO_1_1BpZ7VsyOlM5KW9TiYFRLuPwo=s176-c-k-c0x00ffffff-no-rj"/>](https://youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/r2fH4HA6JbGYRzWJINZ8w4J4zUrocmGQy3PIwKFtLlNbdL9GCKCVTeyqzoqV_zHOAEThCf2S0Q=s160-c-k-c0x00ffffff-no-rj"/>](https://youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
 
 [**Eddie Jaoude**](https://youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) \
 Content about: Open Source, Freelancing \
