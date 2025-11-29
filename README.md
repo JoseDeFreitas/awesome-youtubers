@@ -745,7 +745,6 @@ Featured playlists: `Fractals`, `Collision Detection`, `3D`, `Physics`, `Applica
 Content about: Computer science, Low Level Programming. \
 Featured playlists : `Operating Systems Theory`, `Computer architecture from scratch`.
 
-
 [🔼 Back to the top](#contents)
 
 ## Machine Learning
