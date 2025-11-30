@@ -739,6 +739,12 @@ Featured playlists: `Tensors for Beginners`, `Tensor Calculus`, `Spinors for Beg
 Content about: Fundamental math, Physics \
 Featured playlists: `Fractals`, `Collision Detection`, `3D`, `Physics`, `Application - Ballistics`, `Trigonometry`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/jfFx60eD6-93bOmWb20Ia6ehdTyiObRpSIzyK1S981LD78uGh8-jbENVajIYOPQCTDMiFfWjzg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CoreDumpped)
+
+[**Core Dumped**](https://www.youtube.com/@CoreDumpped) \
+Content about: Computer science, Low Level Programming. \
+Featured playlists : `Operating Systems Theory`, `Computer architecture from scratch`.
+
 [🔼 Back to the top](#contents)
 
 ## Machine Learning
