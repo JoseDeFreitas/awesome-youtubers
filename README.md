@@ -425,8 +425,6 @@ Featured playlists: `CSS Tips and Tricks`, `some playlists about JavaScript libr
 Content about: Frontend, React.js, Web design \
 Featured playlists: `React.js Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngularFirebase)
-
 [**Fireship**](https://www.youtube.com/c/Fireship) \
 Content about: JavaScript, Flutter, Firebase \
 Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Frontend Mini Projects`. \
@@ -1030,12 +1028,6 @@ Content about: Game Graphics, Shaders, Rays \
 Featured playlists: `Shader Coding`, `Fractals`, `Ray Marching`, `Unity Tutorials`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/NTUIaPtPtvg2MfVmPhR32gmMW8UwO7cCzoSYJTxDTISb8fHdBxcxgPbbnBEgrlkfjlBoUY4zyQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Gdconf)
-
-[**GDC**](https://www.youtube.com/@Gdconf) \
-Content about: Conferences about inner functionality of top videogames \
-Featured playlists: `Narrative Talks`, `Design Talks`, `Programming Talks`, `Art and Graphic Design Talks`, `Game Music Talks`, `Animation Talks`.
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mSwCYDJjUAaowHq3pVAk_T0v9ECCP02kzPIkCic96WiJE=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@jblow888)
 
 [**Jonathan Blow**](https://www.youtube.com/@jblow888) \
@@ -1170,12 +1162,6 @@ Featured playlists: `Game Hacking 100 - Game Hacking Course`, `C++ Pattern Scann
 ## Internet/networking
 
 Get awesome playlists and videos about both software and hardware to know how does the internet connection and networking works (beginner and advanced tutorials).
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
-
-[**Net VN**](https://www.youtube.com/c/NETVN82) \
-Content about: Internet, Networking, Command line, Hardware \
-Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyLZ561K6CUOujxHpRbMgK_lwD6WWELO6YwM2Bw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
 
