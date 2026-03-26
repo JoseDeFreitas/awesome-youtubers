@@ -68,6 +68,13 @@ Content about: JavaScript, JavaScript frameworks \
 Featured playlists: `Code Wars Code Katas`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/dSkEwiYrGlZPE6t9irfN8RlpDlaU_n7u3oEnHxJIY_knycUXPzEVlFKbYtwzkcysNDVZPn5zmHg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@takeUforward)
+
+[**take U forward**](https://www.youtube.com/@takeUforward) \
+Content about: Data Structures, Algorithms, Dynamic Programming \
+Featured playlists: `Striver's A2Z DSA Course`, `Dynamic Programming`, `Placement Series`. \
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzCCG7r_PWNZBE9SOTRKKGMiBGcTG8XAA33BT2Axw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/derekbanas)
 
 [**Derek Banas**](https://www.youtube.com/c/derekbanas) \
