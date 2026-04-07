@@ -839,6 +839,10 @@ Featured playlists: `Machine Learning Systems`, `Graph Neural Networks`, `more v
 Content about: Python for AI and Finance \
 Featured playlists: `Python Programming for Finance`, `Machine Learning with Python`, `Neural Networks from Scratch in Python`.
 
+### AI Tools & Platforms
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
+
 [🔼 Back to the top](#contents)
 
 ## DevOps
