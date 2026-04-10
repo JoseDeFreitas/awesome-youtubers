@@ -1583,6 +1583,7 @@ Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutori
 
 [🔼 Back to the top](#contents)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=JoseDeFreitas_awesome-youtubers) - Follow developers on GitHub and get a feed of what they star and build.
 ## Audio and Video
 
 Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more.
