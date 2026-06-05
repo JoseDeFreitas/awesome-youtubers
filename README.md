@@ -1093,7 +1093,8 @@ Featured playlists: `CCNA Exam: 200-125, 100-105 and 200-105`, `Cisco playlists`
 
 [**Andreas Kling**](https://www.youtube.com/c/AndreasKling) \
 Content about: Hacking \
-Featured playlists: `Browser hacking`, `DevTools hacking`, `OS hacking`, `SerenityOS`, `Emulator hacking`.
+Featured playlists: `Browser hacking`, `DevTools hacking`, `OS hacking`, `SerenityOS`, `Emulator hacking`. \
+<br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzNrZ0R2UonwEPRLM-mu3cqjLu2SUVG2VSev7jtGw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
 
@@ -1111,7 +1112,8 @@ Featured playlists: `Cyber Security - Penetration Testing Course (Offensive Secu
 
 [**LiveOverflow**](https://www.youtube.com/c/LiveOverflow) \
 Content about: Ethical hacking \
-Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`.
+Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`. \
+<br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwX8qUlbr3ikiGsK_1TEe5i6ALRLhVXfDieN2ni=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 
