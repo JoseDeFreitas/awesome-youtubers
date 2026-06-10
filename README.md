@@ -49,7 +49,7 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 
 In this section you can find any programming language. Also, many YouTubers teach about frameworks of these languages. Not only programming languages but more general programming stuff. You can find either practical or theoretical tutorials.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AAUvwnhPdJm7hH7BFAj4Q7jJq7q7q7q7q7q7q7q7q7q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ProgrammerZamanNow)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mSLpMMekT1DamOEF_5zP55BLgFYj3N1rynPei3pU6PZ6o=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ProgrammerZamanNow)
 
 [**Programmer Zaman Now**](https://www.youtube.com/c/ProgrammerZamanNow) \
 Content about: Java, Spring Boot, Laravel, PHP, JavaScript, TypeScript \
