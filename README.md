@@ -21,6 +21,7 @@
 
 This repository only lists awesome YouTubers that speak English. Awesome contributors have created their own list of awesome tech YouTubers in other languages. **Below you can see all the repositories related.** If you believe you have awesome YouTubers in a certain language and you have at least more than a few of them, you can create your own list and let me know [opening a new issue](https://github.com/JoseDeFreitas/awesome-youtubers/issues/new).
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 -   [Brazilian Portuguese](https://github.com/rcarubbi/awesome-brazilian-youtubers)
 -   [Spanish](https://github.com/rcarubbi/awesome-spanish-youtubers)
 
