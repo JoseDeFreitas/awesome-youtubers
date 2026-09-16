@@ -760,6 +760,13 @@ Featured playlists: `Fractals`, `Collision Detection`, `3D`, `Physics`, `Applica
 Content about: Computer science, Low Level Programming. \
 Featured playlists : `Operating Systems Theory`, `Computer architecture from scratch`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_lMSEGp-Viz3y0GlD4LJkGhZ4dYorTVViQ0LH9fanajERc=s900-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@profbbrown)
+
+[**Barry Brown**](http://www.youtube.com/@profbbrown) \
+Content about: Computer science, Algorithms, C programming \
+Featured playlists: `C programming`, `Discrete structures`, `How DNS works`, `SQL transactions`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Machine Learning
